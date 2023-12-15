@@ -72,7 +72,7 @@ ${rssItems}
 // <atom:link href="" rel="self" type="application/rss+xml"/>
 
 function main() {
-  const book = 'joshua'
+  const book = 'Judges'
   const feed = JSON.parse(fs.readFileSync(`docs/${book}.json`, 'utf8')) as TeachingFeed;
   const rss = generateRss(feed);
   fs.writeFileSync(`docs/${book}.xml`, rss);

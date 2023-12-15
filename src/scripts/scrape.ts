@@ -148,16 +148,18 @@ function sleep(ms: number) {
 }
 
 async function main() {
-   const startUrl = 'https://www.joncourson.com/teachings/joshua'
+
+   const book = 'Judges'
+   const bookSlug = book.toLowerCase().replace(/ /g, '-')
+
+   const startUrl = `https://www.joncourson.com/teachings/${bookSlug}`
    const startContent = await downloadPage(startUrl)
    // const books = getBookList(startContent)
 
    const teachings: Teaching[] = (await extractTeachings(startContent))
-   //.slice(5, 10)
-
 
    for (const teaching of teachings) {
-      console.log(teaching.teachingNumber, teaching.date)
+      console.log(teaching.teachingNumber, teaching.date, teaching.title, teaching.passage)
 
       const audioPage = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
       const audioPageContent = await downloadPage(audioPage)
@@ -174,8 +176,6 @@ async function main() {
 
       await sleep(500)
    }
-
-   const book = 'Joshua'
 
    const feed: TeachingFeed = {
       title: book,
