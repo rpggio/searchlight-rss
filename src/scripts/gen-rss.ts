@@ -73,9 +73,10 @@ ${rssItems}
 
 function main() {
   const book = 'Judges'
-  const feed = JSON.parse(fs.readFileSync(`docs/${book}.json`, 'utf8')) as TeachingFeed;
+  const bookSlug = book.toLowerCase().replace(/ /g, '-');
+  const feed = JSON.parse(fs.readFileSync(`docs/${bookSlug}.json`, 'utf8')) as TeachingFeed;
   const rss = generateRss(feed);
-  fs.writeFileSync(`docs/${book}.xml`, rss);
+  fs.writeFileSync(`docs/${bookSlug}.xml`, rss);
 }
 
 main()
