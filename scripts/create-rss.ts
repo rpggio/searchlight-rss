@@ -52,7 +52,7 @@ function generatePodcastRSS2(teachings: Teaching[]): string {
      //<description>${teaching.title}</description> 
  //<itunes:duration>${teaching.itunesDuration}</itunes:duration>
 
-   const rssXML = `
+   const rssXML = `<?xml version="1.0" encoding="UTF-8"?>
  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
  <channel>
    <title>SearchLight with Jon Courson</title>
