@@ -5,7 +5,12 @@ import { TeachingFeed } from '../types';
 function generateRss(feed: TeachingFeed): string {
   let rssItems = '';
 
-  feed.teachings.forEach(teaching => {
+  const lastTeaching = feed.teachings[feed.teachings.length - 1]
+  
+  const teachingsOrdered = feed.teachings
+  teachingsOrdered.reverse()
+
+  teachingsOrdered.forEach(teaching => {
 
     if (!teaching.media?.source) {
       return
@@ -34,7 +39,6 @@ function generateRss(feed: TeachingFeed): string {
   const teachingSlug = feed.title.toLowerCase().replace(/ /g, '-');
   const teachingLink = `https://www.joncourson.com/teachings/${teachingSlug}`
   const feedTitle = `${feed.title} with Jon Courson`
-  const lastTeaching = feed.teachings[feed.teachings.length - 1]
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -47,6 +51,7 @@ function generateRss(feed: TeachingFeed): string {
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>${feedTitle}</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
@@ -68,8 +73,6 @@ ${rssItems}
   </channel>
   </rss>`;
 }
-
-// <atom:link href="" rel="self" type="application/rss+xml"/>
 
 function main() {
   const book = 'Judges'
