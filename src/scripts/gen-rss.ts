@@ -38,7 +38,7 @@ function generateRss(feed: TeachingFeed): string {
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
     <title>${feedTitle}</title>
     <link>${teachingLink}</link>
