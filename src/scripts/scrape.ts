@@ -148,14 +148,17 @@ function sleep(ms: number) {
 }
 
 async function main() {
-   const startUrl = 'https://www.joncourson.com/teachings/genesis'
+   const startUrl = 'https://www.joncourson.com/teachings/joshua'
    const startContent = await downloadPage(startUrl)
-   const books = getBookList(startContent)
+   // const books = getBookList(startContent)
 
-   const teachings: Teaching[] = (await extractTeachings(startContent)).slice(5, 10)
+   const teachings: Teaching[] = (await extractTeachings(startContent))
+   //.slice(5, 10)
 
 
    for (const teaching of teachings) {
+      console.log(teaching.teachingNumber, teaching.date)
+
       const audioPage = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
       const audioPageContent = await downloadPage(audioPage)
       const mediaId = extractMediaId(audioPageContent)
@@ -172,7 +175,7 @@ async function main() {
       await sleep(500)
    }
 
-   const book = 'Genesis'
+   const book = 'Joshua'
 
    const feed: TeachingFeed = {
       title: book,
@@ -180,7 +183,7 @@ async function main() {
    }
 
    const json = JSON.stringify(feed, null, 3)
-   fs.writeFileSync(`data/${book.toLowerCase().replace(' ', '')}.json`, json)
+   fs.writeFileSync(`docs/${book.toLowerCase().replace(' ', '')}.json`, json)
 }
 
 
