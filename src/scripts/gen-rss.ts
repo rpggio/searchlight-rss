@@ -31,28 +31,31 @@ function generateRss(feed: TeachingFeed): string {
       </item>`;
   });
 
+  const teachingSlug = feed.title.toLowerCase().replace(/ /g, '-');
+  const teachingLink = `https://www.joncourson.com/teachings/${teachingSlug}`
+  const feedTitle = `${feed.title} with Jon Courson`
   const lastTeaching = feed.teachings[feed.teachings.length - 1]
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
   return `<?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
-    <title>${feed.title}</title>
-    <link>https://www.joncourson.com</link>
+    <title>${feedTitle}</title>
+    <link>${teachingLink}</link>
     <description>Thru-The-Bible teachings by Jon Courson</description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <image>
-      <title>SearchLight with Jon Courson</title>
+      <title>${feedTitle}</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
-      <link>http://www.joncourson.com</link>
+      <link>${teachingLink}</link>
     </image>
     <itunes:author>Jon Courson</itunes:author>
     <itunes:type>serial</itunes:type>
     <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
-    <itunes:category text="Religion & Spirituality">
+    <itunes:category text="Religion &amp;Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:owner>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
-    <title>Genesis</title>
-    <link>https://www.joncourson.com</link>
+    <title>Genesis with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/genesis</link>
     <description>Thru-The-Bible teachings by Jon Courson</description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:18:45 GMT</lastBuildDate>
     <image>
-      <title>SearchLight with Jon Courson</title>
+      <title>Genesis with Jon Courson</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
-      <link>http://www.joncourson.com</link>
+      <link>https://www.joncourson.com/teachings/genesis</link>
     </image>
     <itunes:author>Jon Courson</itunes:author>
     <itunes:type>serial</itunes:type>
     <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
-    <itunes:category text="Religion & Spirituality">
+    <itunes:category text="Religion &amp;Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:owner>
