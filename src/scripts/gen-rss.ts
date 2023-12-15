@@ -4,13 +4,8 @@ import { TeachingFeed } from '../types';
 
 function generateRss(feed: TeachingFeed): string {
   let rssItems = '';
-
-  const lastTeaching = feed.teachings[feed.teachings.length - 1]
   
-  const teachingsOrdered = feed.teachings
-  teachingsOrdered.reverse()
-
-  teachingsOrdered.forEach(teaching => {
+  feed.teachings.forEach(teaching => {
 
     if (!teaching.media?.source) {
       return
@@ -39,6 +34,7 @@ function generateRss(feed: TeachingFeed): string {
   const teachingSlug = feed.title.toLowerCase().replace(/ /g, '-');
   const teachingLink = `https://www.joncourson.com/teachings/${teachingSlug}`
   const feedTitle = `${feed.title} with Jon Courson`
+  const lastTeaching = feed.teachings[feed.teachings.length - 1]
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
   return `<?xml version="1.0" encoding="UTF-8"?>
