@@ -1,55 +1,70 @@
-
- <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
- <channel>
-   <title>SearchLight with Jon Courson</title>
-   <link>https://www.joncourson.com</link>
-   <description>Thru-The-Bible teachings by Jon Courson</description>
-   <language>en-us</language>
-
-     <item>
-       <title>How To Read Your Bible - Genesis 5</title>
-       <link>https://content.jwplatform.com/manifests/mJ0z4d0f.m3u8</link>
-       <pubDate>Sun, 28 Sep 1997 07:00:00 GMT</pubDate>
-       <enclosure url="https://content.jwplatform.com/manifests/mJ0z4d0f.m3u8" type="https://content.jwplatform.com/manifests/mJ0z4d0f.m3u8"/>
-       <guid isPermaLink="false">searchlight-S3001</guid>
-       <itunes:author>Jon Courson</itunes:author>
-       <itunes:explicit>no</itunes:explicit>
-     </item>
-     <item>
-       <title>Genesis 1</title>
-       <link>https://content.jwplatform.com/manifests/fBiGAVVu.m3u8</link>
-       <pubDate>Wed, 01 Oct 1997 07:00:00 GMT</pubDate>
-       <enclosure url="https://content.jwplatform.com/manifests/fBiGAVVu.m3u8" type="https://content.jwplatform.com/manifests/fBiGAVVu.m3u8"/>
-       <guid isPermaLink="false">searchlight-W3001</guid>
-       <itunes:author>Jon Courson</itunes:author>
-       <itunes:explicit>no</itunes:explicit>
-     </item>
-     <item>
-       <title>A Match Made In Heaven - Genesis 2:18-25</title>
-       <link>https://content.jwplatform.com/manifests/lDZVt1hC.m3u8</link>
-       <pubDate>Sun, 05 Oct 1997 07:00:00 GMT</pubDate>
-       <enclosure url="https://content.jwplatform.com/manifests/lDZVt1hC.m3u8" type="https://content.jwplatform.com/manifests/lDZVt1hC.m3u8"/>
-       <guid isPermaLink="false">searchlight-S3002</guid>
-       <itunes:author>Jon Courson</itunes:author>
-       <itunes:explicit>no</itunes:explicit>
-     </item>
-     <item>
-       <title>Genesis 2</title>
-       <link>https://content.jwplatform.com/manifests/xGLQexkb.m3u8</link>
-       <pubDate>Wed, 08 Oct 1997 07:00:00 GMT</pubDate>
-       <enclosure url="https://content.jwplatform.com/manifests/xGLQexkb.m3u8" type="https://content.jwplatform.com/manifests/xGLQexkb.m3u8"/>
-       <guid isPermaLink="false">searchlight-W3002</guid>
-       <itunes:author>Jon Courson</itunes:author>
-       <itunes:explicit>no</itunes:explicit>
-     </item>
-     <item>
-       <title>He Didn't Say That! - Genesis 3:3</title>
-       <link>https://content.jwplatform.com/manifests/pDWPHjdk.m3u8</link>
-       <pubDate>Sun, 12 Oct 1997 07:00:00 GMT</pubDate>
-       <enclosure url="https://content.jwplatform.com/manifests/pDWPHjdk.m3u8" type="https://content.jwplatform.com/manifests/pDWPHjdk.m3u8"/>
-       <guid isPermaLink="false">searchlight-S3003</guid>
-       <itunes:author>Jon Courson</itunes:author>
-       <itunes:explicit>no</itunes:explicit>
-     </item>
- </channel>
- </rss>
+<?xml version="1.0" encoding="UTF-8"?>
+   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+     <title>SearchLight with Jon Courson</title>
+     <link>https://www.joncourson.com</link>
+     <description>Thru-The-Bible teachings by Jon Courson</description>
+     <language>en-us</language>
+  
+    <item>
+      <title>Go FIGure! - Genesis 3:6-10, 24</title>
+      <link>https://cdn.jwplayer.com/previews/cXaG2GhD</link>
+      <description>Go FIGure! - Genesis 3:6-10, 24</description> 
+      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a</guid>
+      <pubDate>Sun, 19 Oct 1997 07:00:00 GMT</pubDate>
+      <description>Genesis 3:6-10, 24 - Sunday Sermon</description>
+      <enclosure url="https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a" type="audio/mp4"/>
+      <itunes:author>Jon Courson</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2751</itunes:duration>
+    </item>
+    <item>
+      <title>Genesis 3</title>
+      <link>https://cdn.jwplayer.com/previews/bNRroefX</link>
+      <description>Genesis 3</description> 
+      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a</guid>
+      <pubDate>Wed, 22 Oct 1997 07:00:00 GMT</pubDate>
+      <description>Genesis 3 - Verse by Verse Bible Study</description>
+      <enclosure url="https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a" type="audio/mp4"/>
+      <itunes:author>Jon Courson</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4860</itunes:duration>
+    </item>
+    <item>
+      <title>I Am - Not! - Genesis 5:24</title>
+      <link>https://cdn.jwplayer.com/previews/EA8Ojhze</link>
+      <description>I Am - Not! - Genesis 5:24</description> 
+      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a</guid>
+      <pubDate>Sun, 26 Oct 1997 07:00:00 GMT</pubDate>
+      <description>Genesis 5:24 - Sunday Sermon</description>
+      <enclosure url="https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a" type="audio/mp4"/>
+      <itunes:author>Jon Courson</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2596</itunes:duration>
+    </item>
+    <item>
+      <title>Genesis 4</title>
+      <link>https://cdn.jwplayer.com/previews/r7QJCtKq</link>
+      <description>Genesis 4</description> 
+      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a</guid>
+      <pubDate>Wed, 29 Oct 1997 08:00:00 GMT</pubDate>
+      <description>Genesis 4 - Verse by Verse Bible Study</description>
+      <enclosure url="https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a" type="audio/mp4"/>
+      <itunes:author>Jon Courson</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>5018</itunes:duration>
+    </item>
+    <item>
+      <title>Eyes of Grace - Genesis 6:8</title>
+      <link>https://cdn.jwplayer.com/previews/PYU6MObm</link>
+      <description>Eyes of Grace - Genesis 6:8</description> 
+      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a</guid>
+      <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
+      <description>Genesis 6:8 - Sunday Sermon</description>
+      <enclosure url="https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a" type="audio/mp4"/>
+      <itunes:author>Jon Courson</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3105</itunes:duration>
+    </item>
+   </channel>
+   </rss>

@@ -2,7 +2,9 @@ import axios from 'axios'
 import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
 import Papa from 'papaparse'
-import { Teaching } from './types'
+import { Teaching, TeachingFeed, TeachingMedia } from '../types'
+import ky from 'ky'
+import { MediaItemPlaylistSource, getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
 
 interface TeachingParseRow {
    date: string
@@ -104,10 +106,10 @@ function parseDescription(description: string): DescriptionComponents {
    }
 }
 
-function extractMediaFileURL(text: string): string | null {
-   const regex = /https:\/\/content\.jwplatform\.com\/.*?\.m3u8/
+function extractMediaId(text: string): string | null {
+   const regex = /https:\/\/content\.jwplatform\.com\/manifests\/(.*?)\.m3u8/
    const match = text.match(regex)
-   return match ? match[0] : null
+   return match ? match[1] : null
 }
 
 async function getBookList(html: string) {
@@ -127,6 +129,22 @@ async function getBookList(html: string) {
    return bibleBooks
 }
 
+async function getTeachingMedia(mediaId: string) {
+   const media = await getMediaItem(mediaId)
+   const playItem = media?.playlist[0]
+
+   if (!playItem) return null
+
+
+   return {
+      // teachingId: playItem.title,
+      link: playItem.link,
+      duration: playItem.duration,
+      pubdate: playItem.pubdate,
+      source: playItem.sources.find(source => source.label.includes('Audio'))
+   } satisfies TeachingMedia
+}
+
 function sleep(ms: number) {
    return new Promise(resolve => setTimeout(resolve, ms))
 }
@@ -136,20 +154,35 @@ async function main() {
    const startContent = await downloadPage(startUrl)
    const books = getBookList(startContent)
 
-   const teachings: Teaching[] = (await extractTeachings(startContent)).slice(0, 5)
+   const teachings: Teaching[] = (await extractTeachings(startContent)).slice(5, 10)
+
+
    for (const teaching of teachings) {
       const audioPage = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
       const audioPageContent = await downloadPage(audioPage)
-      const mediaFileURL = extractMediaFileURL(audioPageContent)
-      teaching.mediaURL = mediaFileURL || undefined
+      const mediaId = extractMediaId(audioPageContent)
+      if (!mediaId) {
+         console.warn('No media id found for', teaching)
+         continue
+      }
+
+      const details = await getTeachingMedia(mediaId)
+      if (details) {
+      teaching.media = details
+      }
 
       await sleep(500)
    }
 
-   const csv = Papa.unparse(teachings)
-   fs.writeFileSync('data/genesis.csv', csv)
-   // console.log(csv)
+   const book = 'Genesis'
 
+   const feed: TeachingFeed = {
+      title: book,
+      teachings
+   }
+
+   const json = JSON.stringify(feed, null, 3)
+   fs.writeFileSync(`data/${book.toLowerCase().replace(' ', '')}.json`, json)
 }
 
 
