@@ -1,10 +1,8 @@
 import axios from 'axios'
 import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
-import Papa from 'papaparse'
 import { Teaching, TeachingFeed, TeachingMedia } from '../types'
-import ky from 'ky'
-import { MediaItemPlaylistSource, getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
+import { getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
 
 interface TeachingParseRow {
    date: string

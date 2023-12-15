@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
     <title>Genesis</title>
     <link>https://www.joncourson.com</link>
@@ -7,7 +7,7 @@
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2023 18:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:12:44 GMT</lastBuildDate>
     <image>
       <title>SearchLight with Jon Courson</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
@@ -25,13 +25,12 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
-    <atom:link href="" rel="self" type="application/rss+xml"/>
 
       <item>
         <title>Go FIGure! - Genesis 3:6-10, 24</title>
         <link>https://cdn.jwplayer.com/previews/cXaG2GhD</link>
         <description>Go FIGure! - Genesis 3:6-10, 24</description> 
-        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a</guid>
+        <guid isPermaLink="false">joncourson-searchlight-S3004</guid>
         <pubDate>Sun, 19 Oct 1997 07:00:00 GMT</pubDate>
         <description>Genesis 3:6-10, 24 - Sunday Sermon</description>
         <enclosure url="https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a" length="39000749" type="audio/mp4"/>
@@ -43,7 +42,7 @@
         <title>Genesis 3</title>
         <link>https://cdn.jwplayer.com/previews/bNRroefX</link>
         <description>Genesis 3</description> 
-        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a</guid>
+        <guid isPermaLink="false">joncourson-searchlight-W3003</guid>
         <pubDate>Wed, 22 Oct 1997 07:00:00 GMT</pubDate>
         <description>Genesis 3 - Verse by Verse Bible Study</description>
         <enclosure url="https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a" length="68887962" type="audio/mp4"/>
@@ -55,7 +54,7 @@
         <title>I Am - Not! - Genesis 5:24</title>
         <link>https://cdn.jwplayer.com/previews/EA8Ojhze</link>
         <description>I Am - Not! - Genesis 5:24</description> 
-        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a</guid>
+        <guid isPermaLink="false">joncourson-searchlight-S3005</guid>
         <pubDate>Sun, 26 Oct 1997 07:00:00 GMT</pubDate>
         <description>Genesis 5:24 - Sunday Sermon</description>
         <enclosure url="https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a" length="36793623" type="audio/mp4"/>
@@ -67,7 +66,7 @@
         <title>Genesis 4</title>
         <link>https://cdn.jwplayer.com/previews/r7QJCtKq</link>
         <description>Genesis 4</description> 
-        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a</guid>
+        <guid isPermaLink="false">joncourson-searchlight-W3004</guid>
         <pubDate>Wed, 29 Oct 1997 08:00:00 GMT</pubDate>
         <description>Genesis 4 - Verse by Verse Bible Study</description>
         <enclosure url="https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a" length="71121879" type="audio/mp4"/>
@@ -79,7 +78,7 @@
         <title>Eyes of Grace - Genesis 6:8</title>
         <link>https://cdn.jwplayer.com/previews/PYU6MObm</link>
         <description>Eyes of Grace - Genesis 6:8</description> 
-        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a</guid>
+        <guid isPermaLink="false">joncourson-searchlight-S3006</guid>
         <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
         <description>Genesis 6:8 - Sunday Sermon</description>
         <enclosure url="https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a" length="44015005" type="audio/mp4"/>

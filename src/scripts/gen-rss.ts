@@ -21,7 +21,7 @@ function generateRss(feed: TeachingFeed): string {
         <title>${teaching.title || 'Untitled Teaching'}</title>
         <link>${teaching.media.link}</link>
         <description>${teaching.title}</description> 
-        <guid isPermaLink="false">${teaching.media.source.file}</guid>
+        <guid isPermaLink="false">joncourson-searchlight-${teaching.teachingNumber}</guid>
         <pubDate>${new Date(teaching.date).toUTCString()}</pubDate>
         <description>${teaching.passage || 'Bible Passage'} - ${teaching.event || 'Event'}</description>
         <enclosure url="${teaching.media.source.file}" length="${teaching.media.source.filesize}" type="${teaching.media.source.type}"/>
@@ -35,7 +35,7 @@ function generateRss(feed: TeachingFeed): string {
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-   <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
    <channel>
     <title>${feed.title}</title>
     <link>https://www.joncourson.com</link>
@@ -61,17 +61,12 @@ function generateRss(feed: TeachingFeed): string {
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
-    <atom:link href="" rel="self" type="application/rss+xml"/>
 ${rssItems}
   </channel>
   </rss>`;
 }
 
-// function loadTeachingsFromCSV(csvPath: string): Teaching[] {
-//   const csv = fs.readFileSync(csvPath, 'utf8')
-//   const parsed = Papa.parse(csv, { header: true }).data
-//   return parsed as Teaching[]
-// }
+// <atom:link href="" rel="self" type="application/rss+xml"/>
 
 function main() {
   const book = 'genesis'
