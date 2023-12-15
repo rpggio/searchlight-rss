@@ -1,6 +1,7 @@
 
-import { Teaching } from './types';
-import * as fs from 'fs';
+import * as fs from 'fs'
+import Papa from 'papaparse'
+import { Teaching } from './types'
 
 function generatePodcastRSS(teachings: Teaching[]): string {
    const rssStart = `<?xml version="1.0" encoding="UTF-8"?>
@@ -14,6 +15,11 @@ function generatePodcastRSS(teachings: Teaching[]): string {
    let rssItems = '';
 
    teachings.forEach(teaching => {
+      if (!teaching.date || !teaching.mediaURL)  {
+         console.warn('Skipping', teaching)
+         return
+      }
+
       rssItems += `
        <item>
          <title>${teaching.title || 'Untitled Teaching'}</title>
@@ -33,25 +39,15 @@ function generatePodcastRSS(teachings: Teaching[]): string {
 }
 
 function loadTeachingsFromCSV(csvPath: string): Teaching[] {
-   const teachingRows: string[] = fs.readFileSync('data/genesis.csv', 'utf8').split('\n')
-   return teachingRows.slice(1).map(line => {
-      const [date, title, passage, event, teachingNumber, mediaURL] = line.split(',');
-      return {
-         date,
-         title,
-         passage,
-         event,
-         teachingNumber,
-         mediaURL
-      };
-   });
+   const csv = fs.readFileSync(csvPath, 'utf8')
+   const parsed = Papa.parse(csv, { header: true }).data
+   return parsed as Teaching[]
 }
 
 function main() {
    const teachings = loadTeachingsFromCSV('data/genesis.csv');
    const rss = generatePodcastRSS(teachings);
    fs.writeFileSync('data/genesis.xml', rss);
-   // console.log(rss)
 }
 
 main()
