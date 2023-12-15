@@ -27,7 +27,7 @@ function generatePodcastRSS(teachings: Teaching[]): string {
          <guid>${teaching.mediaURL}</guid>
          <pubDate>${new Date(teaching.date).toUTCString()}</pubDate>
          <description>${teaching.passage || 'Bible Passage'} - ${teaching.event || 'Event'}</description>
-         <enclosure url="${teaching.mediaURL}" type="audio/mpeg"/>
+         <enclosure url="${teaching.mediaURL}" type="application/vnd.apple.mpegurl"/>
        </item>`;
    });
 
