@@ -1,70 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
    <channel>
-     <title>SearchLight with Jon Courson</title>
-     <link>https://www.joncourson.com</link>
-     <description>Thru-The-Bible teachings by Jon Courson</description>
-     <language>en-us</language>
-  
-    <item>
-      <title>Go FIGure! - Genesis 3:6-10, 24</title>
-      <link>https://cdn.jwplayer.com/previews/cXaG2GhD</link>
-      <description>Go FIGure! - Genesis 3:6-10, 24</description> 
-      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a</guid>
-      <pubDate>Sun, 19 Oct 1997 07:00:00 GMT</pubDate>
-      <description>Genesis 3:6-10, 24 - Sunday Sermon</description>
-      <enclosure url="https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a" type="audio/mp4"/>
-      <itunes:author>Jon Courson</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2751</itunes:duration>
-    </item>
-    <item>
-      <title>Genesis 3</title>
-      <link>https://cdn.jwplayer.com/previews/bNRroefX</link>
-      <description>Genesis 3</description> 
-      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a</guid>
-      <pubDate>Wed, 22 Oct 1997 07:00:00 GMT</pubDate>
-      <description>Genesis 3 - Verse by Verse Bible Study</description>
-      <enclosure url="https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a" type="audio/mp4"/>
-      <itunes:author>Jon Courson</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>4860</itunes:duration>
-    </item>
-    <item>
-      <title>I Am - Not! - Genesis 5:24</title>
-      <link>https://cdn.jwplayer.com/previews/EA8Ojhze</link>
-      <description>I Am - Not! - Genesis 5:24</description> 
-      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a</guid>
-      <pubDate>Sun, 26 Oct 1997 07:00:00 GMT</pubDate>
-      <description>Genesis 5:24 - Sunday Sermon</description>
-      <enclosure url="https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a" type="audio/mp4"/>
-      <itunes:author>Jon Courson</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2596</itunes:duration>
-    </item>
-    <item>
-      <title>Genesis 4</title>
-      <link>https://cdn.jwplayer.com/previews/r7QJCtKq</link>
-      <description>Genesis 4</description> 
-      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a</guid>
-      <pubDate>Wed, 29 Oct 1997 08:00:00 GMT</pubDate>
-      <description>Genesis 4 - Verse by Verse Bible Study</description>
-      <enclosure url="https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a" type="audio/mp4"/>
-      <itunes:author>Jon Courson</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>5018</itunes:duration>
-    </item>
-    <item>
-      <title>Eyes of Grace - Genesis 6:8</title>
-      <link>https://cdn.jwplayer.com/previews/PYU6MObm</link>
-      <description>Eyes of Grace - Genesis 6:8</description> 
-      <guid isPermaLink="false">https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a</guid>
-      <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
-      <description>Genesis 6:8 - Sunday Sermon</description>
-      <enclosure url="https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a" type="audio/mp4"/>
-      <itunes:author>Jon Courson</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>3105</itunes:duration>
-    </item>
-   </channel>
-   </rss>
+    <title>Genesis</title>
+    <link>https://www.joncourson.com</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Dec 2023 18:04:33 GMT</lastBuildDate>
+    <image>
+      <title>SearchLight with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>http://www.joncourson.com</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion & Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+
+      <item>
+        <title>Go FIGure! - Genesis 3:6-10, 24</title>
+        <link>https://cdn.jwplayer.com/previews/cXaG2GhD</link>
+        <description>Go FIGure! - Genesis 3:6-10, 24</description> 
+        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a</guid>
+        <pubDate>Sun, 19 Oct 1997 07:00:00 GMT</pubDate>
+        <description>Genesis 3:6-10, 24 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a" length="39000749" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2751</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 3</title>
+        <link>https://cdn.jwplayer.com/previews/bNRroefX</link>
+        <description>Genesis 3</description> 
+        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a</guid>
+        <pubDate>Wed, 22 Oct 1997 07:00:00 GMT</pubDate>
+        <description>Genesis 3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a" length="68887962" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4860</itunes:duration>
+      </item>
+      <item>
+        <title>I Am - Not! - Genesis 5:24</title>
+        <link>https://cdn.jwplayer.com/previews/EA8Ojhze</link>
+        <description>I Am - Not! - Genesis 5:24</description> 
+        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a</guid>
+        <pubDate>Sun, 26 Oct 1997 07:00:00 GMT</pubDate>
+        <description>Genesis 5:24 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a" length="36793623" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2596</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 4</title>
+        <link>https://cdn.jwplayer.com/previews/r7QJCtKq</link>
+        <description>Genesis 4</description> 
+        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a</guid>
+        <pubDate>Wed, 29 Oct 1997 08:00:00 GMT</pubDate>
+        <description>Genesis 4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a" length="71121879" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5018</itunes:duration>
+      </item>
+      <item>
+        <title>Eyes of Grace - Genesis 6:8</title>
+        <link>https://cdn.jwplayer.com/previews/PYU6MObm</link>
+        <description>Eyes of Grace - Genesis 6:8</description> 
+        <guid isPermaLink="false">https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a</guid>
+        <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
+        <description>Genesis 6:8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a" length="44015005" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3105</itunes:duration>
+      </item>
+  </channel>
+  </rss>
