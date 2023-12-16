@@ -1,9 +1,9 @@
-import axios from 'axios'
 import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
 import { Teaching, TeachingFeed, TeachingMedia } from '../types'
 import { getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
 import { fileNameSlug } from '../lib/bible'
+import ky from 'ky'
 
 interface TeachingParseRow {
    date: string
@@ -32,7 +32,7 @@ interface BibleBook {
 
 async function downloadPage(url: string) {
    await sleep(500)
-   return (await axios.get(url)).data
+   return (await ky.get(url)).text()
 }
 
 function extractTeachings(html: string) {
@@ -42,7 +42,7 @@ function extractTeachings(html: string) {
 
    for (const table of tables) {
       const header = table.querySelector('th')
-      if (header && header.textContent?.includes('Thru-The-Bible Studies')) {
+      if (header && header.textContent?.includes('Thru-The-Bible Studies') && !header.textContent?.includes('7000')) {
          targetTable = table as HTMLTableElement
          break
       }
@@ -154,8 +154,8 @@ async function main() {
    const startContent = await downloadPage(startUrl)
    const books = getBookList(startContent)
 
-   for (const book of books.slice(2)) {
-      console.log(book.name)
+   for (const book of books) {
+      console.log('--- ', book.name, ' ---')
 
       const bookSlug = fileNameSlug(book.name)
       const bookPageContent = await downloadPage(book.url)

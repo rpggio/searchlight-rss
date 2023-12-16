@@ -2,59 +2,40 @@
    "title": "Ezra",
    "teachings": [
       {
-         "date": "02-05-14",
+         "date": "04-09-86",
          "title": "Ezra 1-3",
          "passage": "Ezra 1-3",
          "event": "Verse by Verse Bible Study",
-         "teachingNumber": "W7109",
+         "teachingNumber": "W338",
          "media": {
-            "link": "https://cdn.jwplayer.com/previews/Z2ZBckQm",
-            "duration": 3712,
-            "pubdate": 1481160834,
+            "link": "https://cdn.jwplayer.com/previews/z1FI9o6O",
+            "duration": 3650,
+            "pubdate": 1481156388,
             "source": {
-               "file": "https://cdn.jwplayer.com/videos/Z2ZBckQm-LDq1jMq6.m4a",
+               "file": "https://cdn.jwplayer.com/videos/z1FI9o6O-LDq1jMq6.m4a",
                "type": "audio/mp4",
                "label": "AAC Audio",
                "bitrate": 113376,
-               "filesize": 52622269
+               "filesize": 51738457
             }
          }
       },
       {
-         "date": "02-12-14",
-         "title": "Ezra 4-6",
-         "passage": "Ezra 4-6",
+         "date": "04-16-86",
+         "title": "Ezra 4-10",
+         "passage": "Ezra 4-10",
          "event": "Verse by Verse Bible Study",
-         "teachingNumber": "W7110",
+         "teachingNumber": "W339",
          "media": {
-            "link": "https://cdn.jwplayer.com/previews/ckj0tMEf",
-            "duration": 4258,
-            "pubdate": 1481160834,
+            "link": "https://cdn.jwplayer.com/previews/cZXY2ePM",
+            "duration": 4596,
+            "pubdate": 1481156388,
             "source": {
-               "file": "https://cdn.jwplayer.com/videos/ckj0tMEf-LDq1jMq6.m4a",
+               "file": "https://cdn.jwplayer.com/videos/cZXY2ePM-LDq1jMq6.m4a",
                "type": "audio/mp4",
                "label": "AAC Audio",
                "bitrate": 113376,
-               "filesize": 60355883
-            }
-         }
-      },
-      {
-         "date": "02-19-14",
-         "title": "Ezra 7-10",
-         "passage": "Ezra 7-10",
-         "event": "Verse by Verse Bible Study",
-         "teachingNumber": "W7111",
-         "media": {
-            "link": "https://cdn.jwplayer.com/previews/JZPkTGe5",
-            "duration": 4732,
-            "pubdate": 1481160834,
-            "source": {
-               "file": "https://cdn.jwplayer.com/videos/JZPkTGe5-LDq1jMq6.m4a",
-               "type": "audio/mp4",
-               "label": "AAC Audio",
-               "bitrate": 113376,
-               "filesize": 67071895
+               "filesize": 65142674
             }
          }
       }
