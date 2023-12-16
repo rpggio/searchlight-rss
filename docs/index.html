@@ -1,4 +1,8 @@
 <html><head>
+
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css" />
+      <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js"></script>
+
       <style>
       .footer {
          position: fixed;
@@ -7,56 +11,24 @@
       }
       td {
          padding: 0.5em;
+         font-size: 22px;
       }
       a {
          color: #1800cd
       }
       body {
          line-height: 1.5;
+         font-size: 18px;
+         background: #fffbf3;
       }
-
-      .button {
-         display: block;
-         cursor: pointer;
-         outline: none;
-           &.outline {
-               position: relative;
-               z-index: 3;
-               background: transparent;
-               color: #1172c4;
-               font-size: 14px;
-               border-color: #1172c4;
-               border-style: solid;
-               border-width: 2px;
-               border-radius: 4px;
-               padding: 10px 40px;
-               text-transform: uppercase;
-               transition: all 0.2s linear;
-               a {
-                   text-decoration: none;
-               }
-           }
-           &.outline:hover {
-               color: white;
-               background: #1172c4;
-               border-color: white;
-               transition: all 0.2s linear;
-           }
-           &.outline:active {
-               border-radius: 22px;
-           }
-           &.white-blue {
-               font-weight: 700;
-               color: #00aeef;
-               border-color: white;
-               background: white;
-           }
-           &.white-blue:hover {
-               color: white;
-               background: #00aeef;
-               border-color: white;
-           }
-       }
+      .hstack { 
+         display: flex;
+         align-items: center;
+      }
+      sl-copy-button {
+         font-size: 1.5em;
+         padding: 0 0 0 6px;
+      }
 
       </style>
    </head>
@@ -75,333 +47,993 @@
        <table>
 <tr>
       <td>Genesis</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/genesis.xml">Podcast link</a></td>
-      <td><a class="button" href="genesis.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/genesis.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/genesis.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/genesis.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/genesis.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Exodus</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/exodus.xml">Podcast link</a></td>
-      <td><a class="button" href="exodus.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/exodus.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/exodus.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/exodus.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/exodus.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Leviticus</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/leviticus.xml">Podcast link</a></td>
-      <td><a class="button" href="leviticus.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/leviticus.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/leviticus.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/leviticus.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/leviticus.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Numbers</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/numbers.xml">Podcast link</a></td>
-      <td><a class="button" href="numbers.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/numbers.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/numbers.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/numbers.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/numbers.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Deuteronomy</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/deuteronomy.xml">Podcast link</a></td>
-      <td><a class="button" href="deuteronomy.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/deuteronomy.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/deuteronomy.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/deuteronomy.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/deuteronomy.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Joshua</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/joshua.xml">Podcast link</a></td>
-      <td><a class="button" href="joshua.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/joshua.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/joshua.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/joshua.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/joshua.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Judges</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/judges.xml">Podcast link</a></td>
-      <td><a class="button" href="judges.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/judges.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/judges.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/judges.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/judges.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Ruth</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ruth.xml">Podcast link</a></td>
-      <td><a class="button" href="ruth.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/ruth.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/ruth.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/ruth.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/ruth.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Samuel</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-samuel.xml">Podcast link</a></td>
-      <td><a class="button" href="1-samuel.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-samuel.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-samuel.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-samuel.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-samuel.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Samuel</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-samuel.xml">Podcast link</a></td>
-      <td><a class="button" href="2-samuel.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-samuel.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-samuel.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-samuel.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-samuel.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Kings</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-kings.xml">Podcast link</a></td>
-      <td><a class="button" href="1-kings.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-kings.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-kings.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-kings.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-kings.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Kings</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-kings.xml">Podcast link</a></td>
-      <td><a class="button" href="2-kings.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-kings.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-kings.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-kings.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-kings.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Chronicles</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-chronicles.xml">Podcast link</a></td>
-      <td><a class="button" href="1-chronicles.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-chronicles.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-chronicles.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-chronicles.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-chronicles.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Chronicles</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-chronicles.xml">Podcast link</a></td>
-      <td><a class="button" href="2-chronicles.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-chronicles.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-chronicles.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-chronicles.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-chronicles.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Ezra</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezra.xml">Podcast link</a></td>
-      <td><a class="button" href="ezra.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezra.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/ezra.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/ezra.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/ezra.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Nehemiah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/nehemiah.xml">Podcast link</a></td>
-      <td><a class="button" href="nehemiah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/nehemiah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/nehemiah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/nehemiah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/nehemiah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Esther</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/esther.xml">Podcast link</a></td>
-      <td><a class="button" href="esther.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/esther.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/esther.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/esther.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/esther.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Job</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/job.xml">Podcast link</a></td>
-      <td><a class="button" href="job.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/job.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/job.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/job.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/job.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Psalms</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/psalms.xml">Podcast link</a></td>
-      <td><a class="button" href="psalms.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/psalms.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/psalms.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/psalms.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/psalms.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Proverbs</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/proverbs.xml">Podcast link</a></td>
-      <td><a class="button" href="proverbs.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/proverbs.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/proverbs.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/proverbs.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/proverbs.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Ecclesiastes</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ecclesiastes.xml">Podcast link</a></td>
-      <td><a class="button" href="ecclesiastes.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/ecclesiastes.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/ecclesiastes.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/ecclesiastes.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/ecclesiastes.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Song of Solomon</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/song-of-solomon.xml">Podcast link</a></td>
-      <td><a class="button" href="song-of-solomon.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/song-of-solomon.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/song-of-solomon.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/song-of-solomon.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/song-of-solomon.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Isaiah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/isaiah.xml">Podcast link</a></td>
-      <td><a class="button" href="isaiah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/isaiah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/isaiah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/isaiah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/isaiah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Jeremiah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jeremiah.xml">Podcast link</a></td>
-      <td><a class="button" href="jeremiah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/jeremiah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/jeremiah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/jeremiah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/jeremiah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Lamentations</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/lamentations.xml">Podcast link</a></td>
-      <td><a class="button" href="lamentations.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/lamentations.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/lamentations.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/lamentations.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/lamentations.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Ezekiel</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezekiel.xml">Podcast link</a></td>
-      <td><a class="button" href="ezekiel.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezekiel.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/ezekiel.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/ezekiel.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/ezekiel.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Daniel</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/daniel.xml">Podcast link</a></td>
-      <td><a class="button" href="daniel.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/daniel.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/daniel.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/daniel.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/daniel.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Hosea</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/hosea.xml">Podcast link</a></td>
-      <td><a class="button" href="hosea.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/hosea.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/hosea.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/hosea.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/hosea.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Joel</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/joel.xml">Podcast link</a></td>
-      <td><a class="button" href="joel.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/joel.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/joel.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/joel.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/joel.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Amos</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/amos.xml">Podcast link</a></td>
-      <td><a class="button" href="amos.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/amos.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/amos.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/amos.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/amos.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Obadiah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/obadiah.xml">Podcast link</a></td>
-      <td><a class="button" href="obadiah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/obadiah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/obadiah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/obadiah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/obadiah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Jonah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jonah.xml">Podcast link</a></td>
-      <td><a class="button" href="jonah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/jonah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/jonah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/jonah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/jonah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Micah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/micah.xml">Podcast link</a></td>
-      <td><a class="button" href="micah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/micah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/micah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/micah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/micah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Nahum</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/nahum.xml">Podcast link</a></td>
-      <td><a class="button" href="nahum.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/nahum.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/nahum.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/nahum.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/nahum.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Habakkuk</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/habakkuk.xml">Podcast link</a></td>
-      <td><a class="button" href="habakkuk.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/habakkuk.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/habakkuk.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/habakkuk.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/habakkuk.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Zephaniah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/zephaniah.xml">Podcast link</a></td>
-      <td><a class="button" href="zephaniah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/zephaniah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/zephaniah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/zephaniah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/zephaniah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Haggai</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/haggai.xml">Podcast link</a></td>
-      <td><a class="button" href="haggai.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/haggai.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/haggai.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/haggai.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/haggai.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Zechariah</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/zechariah.xml">Podcast link</a></td>
-      <td><a class="button" href="zechariah.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/zechariah.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/zechariah.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/zechariah.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/zechariah.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Malachi</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/malachi.xml">Podcast link</a></td>
-      <td><a class="button" href="malachi.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/malachi.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/malachi.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/malachi.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/malachi.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Matthew</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/matthew.xml">Podcast link</a></td>
-      <td><a class="button" href="matthew.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/matthew.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/matthew.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/matthew.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/matthew.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Mark</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/mark.xml">Podcast link</a></td>
-      <td><a class="button" href="mark.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/mark.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/mark.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/mark.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/mark.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Luke</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/luke.xml">Podcast link</a></td>
-      <td><a class="button" href="luke.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/luke.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/luke.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/luke.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/luke.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>John</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/john.xml">Podcast link</a></td>
-      <td><a class="button" href="john.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/john.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/john.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/john.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/john.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Acts</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/acts.xml">Podcast link</a></td>
-      <td><a class="button" href="acts.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/acts.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/acts.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/acts.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/acts.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Romans</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/romans.xml">Podcast link</a></td>
-      <td><a class="button" href="romans.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/romans.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/romans.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/romans.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/romans.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Corinthians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-corinthians.xml">Podcast link</a></td>
-      <td><a class="button" href="1-corinthians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-corinthians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-corinthians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-corinthians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-corinthians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Corinthians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-corinthians.xml">Podcast link</a></td>
-      <td><a class="button" href="2-corinthians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-corinthians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-corinthians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-corinthians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-corinthians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Galatians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/galatians.xml">Podcast link</a></td>
-      <td><a class="button" href="galatians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/galatians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/galatians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/galatians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/galatians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Ephesians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ephesians.xml">Podcast link</a></td>
-      <td><a class="button" href="ephesians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/ephesians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/ephesians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/ephesians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/ephesians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Philippians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/philippians.xml">Podcast link</a></td>
-      <td><a class="button" href="philippians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/philippians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/philippians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/philippians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/philippians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Colossians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/colossians.xml">Podcast link</a></td>
-      <td><a class="button" href="colossians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/colossians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/colossians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/colossians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/colossians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Thessalonians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-thessalonians.xml">Podcast link</a></td>
-      <td><a class="button" href="1-thessalonians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-thessalonians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-thessalonians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-thessalonians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-thessalonians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Thessalonians</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-thessalonians.xml">Podcast link</a></td>
-      <td><a class="button" href="2-thessalonians.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-thessalonians.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-thessalonians.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-thessalonians.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-thessalonians.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Timothy</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-timothy.xml">Podcast link</a></td>
-      <td><a class="button" href="1-timothy.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-timothy.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-timothy.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-timothy.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-timothy.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Timothy</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-timothy.xml">Podcast link</a></td>
-      <td><a class="button" href="2-timothy.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-timothy.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-timothy.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-timothy.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-timothy.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Titus</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/titus.xml">Podcast link</a></td>
-      <td><a class="button" href="titus.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/titus.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/titus.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/titus.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/titus.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Philemon</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/philemon.xml">Podcast link</a></td>
-      <td><a class="button" href="philemon.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/philemon.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/philemon.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/philemon.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/philemon.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Hebrews</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/hebrews.xml">Podcast link</a></td>
-      <td><a class="button" href="hebrews.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/hebrews.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/hebrews.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/hebrews.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/hebrews.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>James</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/james.xml">Podcast link</a></td>
-      <td><a class="button" href="james.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/james.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/james.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/james.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/james.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 Peter</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-peter.xml">Podcast link</a></td>
-      <td><a class="button" href="1-peter.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-peter.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-peter.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-peter.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-peter.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 Peter</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-peter.xml">Podcast link</a></td>
-      <td><a class="button" href="2-peter.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-peter.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-peter.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-peter.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-peter.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>1 John</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-john.xml">Podcast link</a></td>
-      <td><a class="button" href="1-john.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-john.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/1-john.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/1-john.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/1-john.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>2 John</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-john.xml">Podcast link</a></td>
-      <td><a class="button" href="2-john.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-john.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/2-john.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/2-john.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/2-john.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>3 John</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/3-john.xml">Podcast link</a></td>
-      <td><a class="button" href="3-john.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/3-john.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/3-john.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/3-john.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/3-john.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Jude</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jude.xml">Podcast link</a></td>
-      <td><a class="button" href="jude.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/jude.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/jude.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/jude.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/jude.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
 <tr>
       <td>Revelation</td><td>    
-      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/revelation.xml">Podcast link</a></td>
-      <td><a class="button" href="revelation.xml">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="pcast://rpggio.github.io/searchlight-rss/revelation.xml">Podcast link</a>
+         <sl-copy-button value="pcast://rpggio.github.io/searchlight-rss/revelation.xml"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="https://rpggio.github.io/searchlight-rss/revelation.xml">RSS link</a>
+         <sl-copy-button value="https://rpggio.github.io/searchlight-rss/revelation.xml"></sl-copy-button>
+         </div>
+      </td>
       </tr>
        </table>
       </div>

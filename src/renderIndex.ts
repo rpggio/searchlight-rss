@@ -5,17 +5,35 @@ export function renderIndex() {
    const bookLinks = bibleBooks.map(book => {
       const slug = fileNameSlug(book)
       const feedFile = `${slug}.xml`
+
       const basePath = 'rpggio.github.io/searchlight-rss'
+      const pcastLink = `pcast://${basePath}/${feedFile}`
+      const rssLink = `https://${basePath}/${feedFile}`
+
       return `       
       <tr>
       <td>${book}</td><td>    
-      <td><a class="button" href="${`pcast://${basePath}/${feedFile}`}">Podcast link</a></td>
-      <td><a class="button" href="${feedFile}">URL link</a></td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="${pcastLink}">Podcast link</a>
+         <sl-copy-button value="${pcastLink}"></sl-copy-button>
+         </div>
+      </td>
+      <td>
+         <div class="hstack">
+         <a class="button" href="${rssLink}">RSS link</a>
+         <sl-copy-button value="${rssLink}"></sl-copy-button>
+         </div>
+      </td>
       </tr>
       `.trim()
    })
 
    return `<html><head>
+
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css" />
+      <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js"></script>
+
       <style>
       .footer {
          position: fixed;
@@ -24,56 +42,24 @@ export function renderIndex() {
       }
       td {
          padding: 0.5em;
+         font-size: 22px;
       }
       a {
          color: #1800cd
       }
       body {
          line-height: 1.5;
+         font-size: 18px;
+         background: #fffbf3;
       }
-
-      .button {
-         display: block;
-         cursor: pointer;
-         outline: none;
-           &.outline {
-               position: relative;
-               z-index: 3;
-               background: transparent;
-               color: #1172c4;
-               font-size: 14px;
-               border-color: #1172c4;
-               border-style: solid;
-               border-width: 2px;
-               border-radius: 4px;
-               padding: 10px 40px;
-               text-transform: uppercase;
-               transition: all 0.2s linear;
-               a {
-                   text-decoration: none;
-               }
-           }
-           &.outline:hover {
-               color: white;
-               background: #1172c4;
-               border-color: white;
-               transition: all 0.2s linear;
-           }
-           &.outline:active {
-               border-radius: 22px;
-           }
-           &.white-blue {
-               font-weight: 700;
-               color: #00aeef;
-               border-color: white;
-               background: white;
-           }
-           &.white-blue:hover {
-               color: white;
-               background: #00aeef;
-               border-color: white;
-           }
-       }
+      .hstack { 
+         display: flex;
+         align-items: center;
+      }
+      sl-copy-button {
+         font-size: 1.5em;
+         padding: 0 0 0 6px;
+      }
 
       </style>
    </head>
