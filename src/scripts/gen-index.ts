@@ -6,7 +6,7 @@ function main() {
    const bookLinks = bibleBooks.map(book => {
       const slug = fileNameSlug(book)
       const feedFile = `${slug}.xml`
-      const feedUrl = `feed://rpggio.github.io/searchlight-rss/${feedFile}`
+      const feedUrl = `podcast://rpggio.github.io/searchlight-rss/${feedFile}`
       return `       <a href="${feedUrl}"><div class="book"><span>${book}</span></div></a>`
    })
 
