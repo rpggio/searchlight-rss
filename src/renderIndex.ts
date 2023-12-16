@@ -42,6 +42,8 @@ export function renderIndex() {
       }
       td {
          padding: 0.5em;
+      }
+      td * {
          font-size: 22px;
       }
       a {
