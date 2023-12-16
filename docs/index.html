@@ -1,32 +1,22 @@
 <html><head>
       <style>
-      .books {
-         display: flex;
-         flex-wrap: wrap;
-         gap: 1em;
+      .footer {
+         position: fixed;
+         bottom: 0;
+         right: 0;
+      }
+      td {
+         padding: 0.5em;
       }
       a {
-         text-decoration: none;
+         color: #1800cd
       }
-      .book {
-         display: flex;
-         height: 6em;
-         width: 6em;
-         text-decoration: none;
-         background-color: #eee;
-         color: #333;
-         padding: 0.5em;
-         text-align: center;
-         font-size: 2.5em;
-      }
-      .book * {
-         display: block;
-         text-decoration: none;
-         color: #333;
-         margin: auto;
+      body {
+         line-height: 1.5;
       }
 
-      button {
+      .button {
+         display: block;
          cursor: pointer;
          outline: none;
            &.outline {
@@ -73,338 +63,349 @@
    <body>
       <h1>Searchlight Thru-the-Bible Podcast Feeds</h1>
       <p>Studies from Mar 1985 to Mar 2003.</p>
-      <p>Note: If clicking a link doesn't open your podcast app, copy the link and 'subscribe to URL' in your podcast app.</p>
+      <h2>Instructions</h2>
+      <p>
+      Try clicking 'Podcast link' to see if it opens your podcast player. 
+      <br>
+      Otherwise, right-click to copy the link and add the URL to your podcast player.
+      <br>
+      <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">How to manually add RSS feed to your podcast player.</a>
+      </p>
       <div class="books">
+       <table>
 <tr>
       <td>Genesis</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/genesis.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="genesis.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/genesis.xml">Podcast link</a></td>
+      <td><a class="button" href="genesis.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Exodus</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/exodus.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="exodus.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/exodus.xml">Podcast link</a></td>
+      <td><a class="button" href="exodus.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Leviticus</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/leviticus.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="leviticus.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/leviticus.xml">Podcast link</a></td>
+      <td><a class="button" href="leviticus.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Numbers</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/numbers.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="numbers.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/numbers.xml">Podcast link</a></td>
+      <td><a class="button" href="numbers.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Deuteronomy</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/deuteronomy.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="deuteronomy.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/deuteronomy.xml">Podcast link</a></td>
+      <td><a class="button" href="deuteronomy.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Joshua</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/joshua.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="joshua.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/joshua.xml">Podcast link</a></td>
+      <td><a class="button" href="joshua.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Judges</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/judges.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="judges.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/judges.xml">Podcast link</a></td>
+      <td><a class="button" href="judges.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Ruth</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/ruth.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="ruth.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ruth.xml">Podcast link</a></td>
+      <td><a class="button" href="ruth.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Samuel</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-samuel.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-samuel.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-samuel.xml">Podcast link</a></td>
+      <td><a class="button" href="1-samuel.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Samuel</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-samuel.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-samuel.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-samuel.xml">Podcast link</a></td>
+      <td><a class="button" href="2-samuel.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Kings</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-kings.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-kings.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-kings.xml">Podcast link</a></td>
+      <td><a class="button" href="1-kings.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Kings</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-kings.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-kings.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-kings.xml">Podcast link</a></td>
+      <td><a class="button" href="2-kings.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Chronicles</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-chronicles.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-chronicles.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-chronicles.xml">Podcast link</a></td>
+      <td><a class="button" href="1-chronicles.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Chronicles</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-chronicles.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-chronicles.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-chronicles.xml">Podcast link</a></td>
+      <td><a class="button" href="2-chronicles.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Ezra</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/ezra.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="ezra.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezra.xml">Podcast link</a></td>
+      <td><a class="button" href="ezra.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Nehemiah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/nehemiah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="nehemiah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/nehemiah.xml">Podcast link</a></td>
+      <td><a class="button" href="nehemiah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Esther</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/esther.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="esther.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/esther.xml">Podcast link</a></td>
+      <td><a class="button" href="esther.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Job</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/job.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="job.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/job.xml">Podcast link</a></td>
+      <td><a class="button" href="job.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Psalms</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/psalms.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="psalms.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/psalms.xml">Podcast link</a></td>
+      <td><a class="button" href="psalms.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Proverbs</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/proverbs.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="proverbs.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/proverbs.xml">Podcast link</a></td>
+      <td><a class="button" href="proverbs.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Ecclesiastes</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/ecclesiastes.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="ecclesiastes.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ecclesiastes.xml">Podcast link</a></td>
+      <td><a class="button" href="ecclesiastes.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Song of Solomon</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/song-of-solomon.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="song-of-solomon.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/song-of-solomon.xml">Podcast link</a></td>
+      <td><a class="button" href="song-of-solomon.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Isaiah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/isaiah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="isaiah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/isaiah.xml">Podcast link</a></td>
+      <td><a class="button" href="isaiah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Jeremiah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/jeremiah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="jeremiah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jeremiah.xml">Podcast link</a></td>
+      <td><a class="button" href="jeremiah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Lamentations</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/lamentations.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="lamentations.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/lamentations.xml">Podcast link</a></td>
+      <td><a class="button" href="lamentations.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Ezekiel</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/ezekiel.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="ezekiel.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ezekiel.xml">Podcast link</a></td>
+      <td><a class="button" href="ezekiel.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Daniel</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/daniel.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="daniel.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/daniel.xml">Podcast link</a></td>
+      <td><a class="button" href="daniel.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Hosea</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/hosea.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="hosea.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/hosea.xml">Podcast link</a></td>
+      <td><a class="button" href="hosea.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Joel</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/joel.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="joel.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/joel.xml">Podcast link</a></td>
+      <td><a class="button" href="joel.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Amos</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/amos.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="amos.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/amos.xml">Podcast link</a></td>
+      <td><a class="button" href="amos.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Obadiah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/obadiah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="obadiah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/obadiah.xml">Podcast link</a></td>
+      <td><a class="button" href="obadiah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Jonah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/jonah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="jonah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jonah.xml">Podcast link</a></td>
+      <td><a class="button" href="jonah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Micah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/micah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="micah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/micah.xml">Podcast link</a></td>
+      <td><a class="button" href="micah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Nahum</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/nahum.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="nahum.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/nahum.xml">Podcast link</a></td>
+      <td><a class="button" href="nahum.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Habakkuk</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/habakkuk.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="habakkuk.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/habakkuk.xml">Podcast link</a></td>
+      <td><a class="button" href="habakkuk.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Zephaniah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/zephaniah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="zephaniah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/zephaniah.xml">Podcast link</a></td>
+      <td><a class="button" href="zephaniah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Haggai</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/haggai.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="haggai.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/haggai.xml">Podcast link</a></td>
+      <td><a class="button" href="haggai.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Zechariah</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/zechariah.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="zechariah.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/zechariah.xml">Podcast link</a></td>
+      <td><a class="button" href="zechariah.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Malachi</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/malachi.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="malachi.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/malachi.xml">Podcast link</a></td>
+      <td><a class="button" href="malachi.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Matthew</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/matthew.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="matthew.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/matthew.xml">Podcast link</a></td>
+      <td><a class="button" href="matthew.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Mark</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/mark.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="mark.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/mark.xml">Podcast link</a></td>
+      <td><a class="button" href="mark.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Luke</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/luke.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="luke.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/luke.xml">Podcast link</a></td>
+      <td><a class="button" href="luke.xml">URL link</a></td>
       </tr>
 <tr>
       <td>John</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/john.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="john.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/john.xml">Podcast link</a></td>
+      <td><a class="button" href="john.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Acts</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/acts.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="acts.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/acts.xml">Podcast link</a></td>
+      <td><a class="button" href="acts.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Romans</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/romans.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="romans.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/romans.xml">Podcast link</a></td>
+      <td><a class="button" href="romans.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Corinthians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-corinthians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-corinthians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-corinthians.xml">Podcast link</a></td>
+      <td><a class="button" href="1-corinthians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Corinthians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-corinthians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-corinthians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-corinthians.xml">Podcast link</a></td>
+      <td><a class="button" href="2-corinthians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Galatians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/galatians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="galatians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/galatians.xml">Podcast link</a></td>
+      <td><a class="button" href="galatians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Ephesians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/ephesians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="ephesians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/ephesians.xml">Podcast link</a></td>
+      <td><a class="button" href="ephesians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Philippians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/philippians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="philippians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/philippians.xml">Podcast link</a></td>
+      <td><a class="button" href="philippians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Colossians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/colossians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="colossians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/colossians.xml">Podcast link</a></td>
+      <td><a class="button" href="colossians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Thessalonians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-thessalonians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-thessalonians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-thessalonians.xml">Podcast link</a></td>
+      <td><a class="button" href="1-thessalonians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Thessalonians</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-thessalonians.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-thessalonians.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-thessalonians.xml">Podcast link</a></td>
+      <td><a class="button" href="2-thessalonians.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Timothy</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-timothy.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-timothy.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-timothy.xml">Podcast link</a></td>
+      <td><a class="button" href="1-timothy.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Timothy</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-timothy.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-timothy.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-timothy.xml">Podcast link</a></td>
+      <td><a class="button" href="2-timothy.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Titus</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/titus.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="titus.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/titus.xml">Podcast link</a></td>
+      <td><a class="button" href="titus.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Philemon</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/philemon.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="philemon.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/philemon.xml">Podcast link</a></td>
+      <td><a class="button" href="philemon.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Hebrews</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/hebrews.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="hebrews.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/hebrews.xml">Podcast link</a></td>
+      <td><a class="button" href="hebrews.xml">URL link</a></td>
       </tr>
 <tr>
       <td>James</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/james.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="james.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/james.xml">Podcast link</a></td>
+      <td><a class="button" href="james.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 Peter</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-peter.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-peter.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-peter.xml">Podcast link</a></td>
+      <td><a class="button" href="1-peter.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 Peter</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-peter.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-peter.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-peter.xml">Podcast link</a></td>
+      <td><a class="button" href="2-peter.xml">URL link</a></td>
       </tr>
 <tr>
       <td>1 John</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/1-john.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="1-john.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/1-john.xml">Podcast link</a></td>
+      <td><a class="button" href="1-john.xml">URL link</a></td>
       </tr>
 <tr>
       <td>2 John</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/2-john.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="2-john.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/2-john.xml">Podcast link</a></td>
+      <td><a class="button" href="2-john.xml">URL link</a></td>
       </tr>
 <tr>
       <td>3 John</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/3-john.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="3-john.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/3-john.xml">Podcast link</a></td>
+      <td><a class="button" href="3-john.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Jude</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/jude.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="jude.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/jude.xml">Podcast link</a></td>
+      <td><a class="button" href="jude.xml">URL link</a></td>
       </tr>
 <tr>
       <td>Revelation</td><td>    
-      <td><a href="pcast://rpggio.github.io/searchlight-rss/revelation.xml"><button>Subscribe: pcast</button></a></td>
-      <td><a href="revelation.xml"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="pcast://rpggio.github.io/searchlight-rss/revelation.xml">Podcast link</a></td>
+      <td><a class="button" href="revelation.xml">URL link</a></td>
       </tr>
+       </table>
       </div>
+
+      <div class="footer">All content copyright Searchlight 2023</div>
    </body>
    </html>

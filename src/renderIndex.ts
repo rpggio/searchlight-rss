@@ -9,41 +9,31 @@ export function renderIndex() {
       return `       
       <tr>
       <td>${book}</td><td>    
-      <td><a href="${`pcast://${basePath}/${feedFile}`}"><button>Subscribe: pcast</button></a></td>
-      <td><a href="${feedFile}"><button>Subscribe: http</button></a></td>
+      <td><a class="button" href="${`pcast://${basePath}/${feedFile}`}">Podcast link</a></td>
+      <td><a class="button" href="${feedFile}">URL link</a></td>
       </tr>
       `.trim()
    })
 
    return `<html><head>
       <style>
-      .books {
-         display: flex;
-         flex-wrap: wrap;
-         gap: 1em;
+      .footer {
+         position: fixed;
+         bottom: 0;
+         right: 0;
+      }
+      td {
+         padding: 0.5em;
       }
       a {
-         text-decoration: none;
+         color: #1800cd
       }
-      .book {
-         display: flex;
-         height: 6em;
-         width: 6em;
-         text-decoration: none;
-         background-color: #eee;
-         color: #333;
-         padding: 0.5em;
-         text-align: center;
-         font-size: 2.5em;
-      }
-      .book * {
-         display: block;
-         text-decoration: none;
-         color: #333;
-         margin: auto;
+      body {
+         line-height: 1.5;
       }
 
-      button {
+      .button {
+         display: block;
          cursor: pointer;
          outline: none;
            &.outline {
@@ -90,10 +80,21 @@ export function renderIndex() {
    <body>
       <h1>Searchlight Thru-the-Bible Podcast Feeds</h1>
       <p>Studies from Mar 1985 to Mar 2003.</p>
-      <p>Note: If clicking a link doesn't open your podcast app, copy the link and 'subscribe to URL' in your podcast app.</p>
+      <h2>Instructions</h2>
+      <p>
+      Try clicking 'Podcast link' to see if it opens your podcast player. 
+      <br>
+      Otherwise, right-click to copy the link and add the URL to your podcast player.
+      <br>
+      <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">How to manually add RSS feed to your podcast player.</a>
+      </p>
       <div class="books">
+       <table>
 ${bookLinks.join('\n')}
+       </table>
       </div>
+
+      <div class="footer">All content copyright Searchlight 2023</div>
    </body>
    </html>`
 }
