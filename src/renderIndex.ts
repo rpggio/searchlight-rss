@@ -36,11 +36,6 @@ export function renderIndex() {
       <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js"></script>
 
       <style>
-      .footer {
-         position: fixed;
-         bottom: 0;
-         right: 0;
-      }
       .feed-link {
          margin-left: 1em;
       }
