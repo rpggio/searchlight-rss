@@ -2,6 +2,7 @@
    "title": "Colossians",
    "teachings": [
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "10-16-19",
          "title": "Colossians 1",
          "passage": "Colossians 1",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "10-20-19",
          "title": "Colossians 2",
          "passage": "Colossians 2",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "10-27-19",
          "title": "Colossians 3-4",
          "passage": "Colossians 3-4",
@@ -55,6 +58,346 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 52975846
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-19-95",
+         "title": "Colossians 1:1-19",
+         "passage": "Colossians 1:1-19",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W694",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Ssa8I5TK",
+            "duration": 3793,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Ssa8I5TK-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 53760408
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-23-95",
+         "title": "The Mystery Of Life - Colossians 1:25-27",
+         "passage": "Colossians 1:25-27",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S635",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ErdMiZTJ",
+            "duration": 2412,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ErdMiZTJ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 34185279
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-26-95",
+         "title": "Colossians 1:20-29",
+         "passage": "Colossians 1:20-29",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W695",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/KKemRAWz",
+            "duration": 3391,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/KKemRAWz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48069431
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-03-95",
+         "title": "Colossians 2",
+         "passage": "Colossians 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W696",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/haNbs7nc",
+            "duration": 3520,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/haNbs7nc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 49899190
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-07-95",
+         "title": "Being A Put On - Colossians 3:9-14",
+         "passage": "Colossians 3:9-14",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S636",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/YQrJSOgp",
+            "duration": 2309,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/YQrJSOgp-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 32738293
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-10-95",
+         "title": "Colossians 3",
+         "passage": "Colossians 3",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W697",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Har1z8iQ",
+            "duration": 4765,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Har1z8iQ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67536817
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-17-95",
+         "title": "Colossians 4",
+         "passage": "Colossians 4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W698",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/106tjaWj",
+            "duration": 4184,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/106tjaWj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59303969
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "10-19-04",
+         "title": "What It's All About - Colossians 1:1-16",
+         "passage": "Colossians 1:1-16",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4086",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/1PX8H1wM",
+            "duration": 2967,
+            "pubdate": 1481164846,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/1PX8H1wM-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 42062291
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "10-26-04",
+         "title": "Keeping It All Together - Colossians 1:17-19",
+         "passage": "Colossians 1:17-19",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4087",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/w4Jtv1zK",
+            "duration": 2303,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/w4Jtv1zK-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 32643653
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "11-02-04",
+         "title": "Reconciled! - Colossians 1:20-23",
+         "passage": "Colossians 1:20-23",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4088",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ZR57YcLP",
+            "duration": 2838,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ZR57YcLP-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40228318
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "11-16-04",
+         "title": "Christ In You - Colossians 1:24-29",
+         "passage": "Colossians 1:24-29",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4089",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Qt70jKaN",
+            "duration": 2734,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Qt70jKaN-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 38759279
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "11-23-04",
+         "title": "Just Jesus - Colossians 2",
+         "passage": "Colossians 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4090",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Qwk8HSEK",
+            "duration": 3424,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Qwk8HSEK-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48529376
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "11-30-04",
+         "title": "Putting On Jesus - Colossians 3",
+         "passage": "Colossians 3",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4091",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/hardYlnt",
+            "duration": 4378,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/hardYlnt-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 62050501
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "12-07-04",
+         "title": "Mastering Life - Colossians 4:1-6",
+         "passage": "Colossians 4:1-6",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4092",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/nNVBGWW9",
+            "duration": 3481,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/nNVBGWW9-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 49347800
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies Calvary Chapel Costa Mesa",
+         "date": "12-14-04",
+         "title": "Paul: Soul Winner And Friend Maker - Colossians 4:7-18",
+         "passage": "Colossians 4:7-18",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "VTC4093",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/sCnKvgN6",
+            "duration": 4211,
+            "pubdate": 1481164847,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/sCnKvgN6-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59681460
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "11-04-01",
+         "title": "What Am I Going To Do?",
+         "passage": "What Am I Going To Do?",
+         "event": "Colossians 1:27",
+         "teachingNumber": "T374",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/FbtoAOUt",
+            "duration": 2172,
+            "pubdate": 1481162174,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/FbtoAOUt-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 30783970
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "12-24-93",
+         "title": "Christmas Eve 1993",
+         "passage": "Christmas Eve 1993",
+         "event": "Colossians 2:6",
+         "teachingNumber": "T238",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/dK7WKOZj",
+            "duration": 1072,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/dK7WKOZj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113384,
+               "filesize": 15201157
             }
          }
       }

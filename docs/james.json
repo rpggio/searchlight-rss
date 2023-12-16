@@ -2,6 +2,7 @@
    "title": "James",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "02-21-96",
          "title": "James 1-2",
          "passage": "James 1-2",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "02-25-96",
          "title": "How To Know What To Do - James 1:5-8",
          "passage": "James 1:5-8",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "03-27-96",
          "title": "James 3",
          "passage": "James 3",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "03-31-96",
          "title": "True Confession - James 5:16",
          "passage": "James 5:16",
@@ -78,6 +82,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-03-96",
          "title": "James 4",
          "passage": "James 4",
@@ -97,6 +102,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-10-96",
          "title": "James 5:1-15",
          "passage": "James 5:1-15",
@@ -116,6 +122,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-14-96",
          "title": "Effective Prayer - James 5:16",
          "passage": "James 5:16",
@@ -135,6 +142,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-17-96",
          "title": "James 5:19-20",
          "passage": "James 5:19-20",
@@ -150,6 +158,46 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 64112415
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "02-18-09",
+         "title": "The \"Lost\" Tribes",
+         "passage": "The \"Lost\" Tribes",
+         "event": "James 1:1",
+         "teachingNumber": "T441",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3XgafUYz",
+            "duration": 3339,
+            "pubdate": 1481162177,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3XgafUYz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 47335445
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "07-04-93",
+         "title": "God Shed His Grace . . . - Independence Day 1993",
+         "passage": "Independence Day 1993",
+         "event": "James 1:16-17",
+         "teachingNumber": "T230",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Xryy6Bix",
+            "duration": 2577,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Xryy6Bix-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 36530474
             }
          }
       }

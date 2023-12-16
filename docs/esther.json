@@ -2,6 +2,67 @@
    "title": "Esther",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "05-21-14",
+         "title": "Esther 1-2",
+         "passage": "Esther 1-2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7121",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/hKh3qVx4",
+            "duration": 3701,
+            "pubdate": 1481160835,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/hKh3qVx4-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 52462907
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "05-28-14",
+         "title": "Esther 3-4",
+         "passage": "Esther 3-4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7122",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/iWlDvKCN",
+            "duration": 3415,
+            "pubdate": 1481160835,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/iWlDvKCN-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48404576
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "06-04-14",
+         "title": "Esther 5-10",
+         "passage": "Esther 5-10",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7123",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/kd1mWrxf",
+            "duration": 4079,
+            "pubdate": 1481160835,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/kd1mWrxf-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57810213
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
          "date": "05-21-86",
          "title": "Esther 1-10",
          "passage": "Esther 1-10",

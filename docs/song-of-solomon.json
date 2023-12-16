@@ -2,6 +2,47 @@
    "title": "Song of Solomon",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "03-02-16",
+         "title": "Song Of Solomon 1-4",
+         "passage": "Song Of Solomon 1-4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7206",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/6ZR0aTuj",
+            "duration": 4149,
+            "pubdate": 1481160838,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/6ZR0aTuj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58803422
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "03-09-16",
+         "title": "Song Of Solomon 5-8",
+         "passage": "Song Of Solomon 5-8",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7207",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/vJfydhT1",
+            "duration": 3668,
+            "pubdate": 1481160838,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/vJfydhT1-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51985766
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
          "date": "07-12-87",
          "title": "My Life - His Garden - Song of Solomon 4:12 - 5:1",
          "passage": "Song of Solomon 4:12 - 5:1",
@@ -21,6 +62,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "07-15-87",
          "title": "Song of Solomon 1-2",
          "passage": "Song of Solomon 1-2",
@@ -40,6 +82,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "07-19-87",
          "title": "The Glory Of The Church - Song of Solomon 6:10",
          "passage": "Song of Solomon 6:10",
@@ -59,6 +102,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "07-22-87",
          "title": "Song of Solomon 2-5",
          "passage": "Song of Solomon 2-5",
@@ -78,6 +122,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "07-26-87",
          "title": "A Loving Look At Our Lovely Lord - Song of Solomon 5:9-16",
          "passage": "Song of Solomon 5:9-16",
@@ -97,6 +142,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "07-29-87",
          "title": "Song of Solomon 5-8",
          "passage": "Song of Solomon 5-8",
@@ -112,6 +158,26 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 58295109
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "07-13-84",
+         "title": "Let The Wind Blow, Lord!",
+         "passage": "Let The Wind Blow, Lord!",
+         "event": "Song of Solomon 4:12-16",
+         "teachingNumber": "T105",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/KcBptTZO",
+            "duration": 1029,
+            "pubdate": 1481162165,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/KcBptTZO-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113384,
+               "filesize": 14590075
             }
          }
       }

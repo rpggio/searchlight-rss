@@ -2,6 +2,7 @@
    "title": "1 Timothy",
    "teachings": [
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "11-24-19",
          "title": "Peaceful Politics - 1 Timothy 2:1-2",
          "passage": "1 Timothy 2:1-2",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "12-04-19",
          "title": "1 Timothy 1-3",
          "passage": "1 Timothy 1-3",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "12-08-19",
          "title": "The Sanctuary Of Sanity - 1 Timothy 6:6-11",
          "passage": "1 Timothy 6:6-11",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "12-11-19",
          "title": "1 Timothy 4-6",
          "passage": "1 Timothy 4-6",
@@ -74,6 +78,226 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 60886944
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-13-95",
+         "title": "The Chiefest Of Sinners - 1 Timothy 1:15",
+         "passage": "1 Timothy 1:15",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S643",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/aNBYuI9l",
+            "duration": 2541,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/aNBYuI9l-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 36024766
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-16-95",
+         "title": "1 Timothy 1",
+         "passage": "1 Timothy 1",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W707",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/gPAFrVmH",
+            "duration": 3439,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/gPAFrVmH-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48750681
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-20-95",
+         "title": "Mystery Of Godliness - 1 Timothy 3:1-7,16",
+         "passage": "1 Timothy 3:1-7,16",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S644",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/V4DaRszw",
+            "duration": 2388,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/V4DaRszw-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 33853491
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-23-95",
+         "title": "1 Timothy 2",
+         "passage": "1 Timothy 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W708",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/PayXSG7i",
+            "duration": 4470,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/PayXSG7i-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 63364462
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-27-95",
+         "title": "Be Thou An Example - 1 Timothy 4:12",
+         "passage": "1 Timothy 4:12",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S645",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/RvZQZpe2",
+            "duration": 3276,
+            "pubdate": 1482355982,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/RvZQZpe2-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46441019
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "08-30-95",
+         "title": "1 Timothy 3",
+         "passage": "1 Timothy 3",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W709",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/VHPUK6IB",
+            "duration": 3759,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/VHPUK6IB-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 53287953
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "09-06-95",
+         "title": "1 Timothy 4",
+         "passage": "1 Timothy 4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W710",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Cb5t7Pot",
+            "duration": 4042,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Cb5t7Pot-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57294062
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "09-13-95",
+         "title": "1 Timothy 5",
+         "passage": "1 Timothy 5",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W711",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/oqxxqRJn",
+            "duration": 4203,
+            "pubdate": 1481157455,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/oqxxqRJn-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59568053
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "09-17-95",
+         "title": "Science Fiction - 1 Timothy 6:20-21",
+         "passage": "1 Timothy 6:20-21",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S646",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/8QbAK3PO",
+            "duration": 3065,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/8QbAK3PO-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 43445834
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "09-27-95",
+         "title": "1 Timothy 6",
+         "passage": "1 Timothy 6",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W712",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/0hTC9Lgc",
+            "duration": 4015,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/0hTC9Lgc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 56905412
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "04-01-09",
+         "title": "Seductions In The Last Days",
+         "passage": "Seductions In The Last Days",
+         "event": "1 Timothy 4",
+         "teachingNumber": "T445",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pVvZqVpk",
+            "duration": 4231,
+            "pubdate": 1481162177,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pVvZqVpk-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59965412
             }
          }
       }

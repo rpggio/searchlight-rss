@@ -2,6 +2,7 @@
    "title": "Zephaniah",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "03-29-89",
          "title": "Zephaniah 1",
          "passage": "Zephaniah 1",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-02-89",
          "title": "The Language Of The Kingdom - Zephaniah 3:9",
          "passage": "Zephaniah 3:9",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-05-89",
          "title": "Zephaniah 2-3",
          "passage": "Zephaniah 2-3",
@@ -55,6 +58,26 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 58034706
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "01-14-09",
+         "title": "The Gaza Prophecy",
+         "passage": "The Gaza Prophecy",
+         "event": "Zephaniah 2:1-7",
+         "teachingNumber": "T437",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/BeuIlmaM",
+            "duration": 3452,
+            "pubdate": 1481162177,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/BeuIlmaM-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48934438
             }
          }
       }

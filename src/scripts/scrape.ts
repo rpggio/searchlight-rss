@@ -6,6 +6,7 @@ import { fileNameSlug } from '../lib/bible'
 import ky from 'ky'
 
 interface TeachingParseRow {
+   series: string
    date: string
    title?: string
    passage?: string
@@ -37,45 +38,39 @@ async function downloadPage(url: string) {
 
 function extractTeachings(html: string) {
    const document = new JSDOM(html).window.document
-   const tables = document.querySelectorAll('.table.table-striped')
-   let targetTable: HTMLTableElement | undefined
+   const tables = document.querySelectorAll('table.table-striped.hidden-xs')
 
-   for (const table of tables) {
-      const header = table.querySelector('th')
-      if (header && header.textContent?.includes('Thru-The-Bible Studies') && !header.textContent?.includes('7000')) {
-         targetTable = table as HTMLTableElement
-         break
-      }
-   }
-
-   if (!targetTable) return []
-
-   const rows = targetTable.querySelectorAll('tbody tr')
    const data: TeachingParseRow[] = []
 
-   rows.forEach(row => {
-      const cells = row.querySelectorAll('td')
-      if (cells.length >= 4) {
-         const date = cells[0].textContent?.trim()
-         const descriptionHTML = cells[1].innerHTML.trim()
-         const playLink = cells[3].querySelector('a')?.getAttribute('href')
-         const teachingNumber = playLink?.split('/').pop()
+   for (const table of tables) {
+      const header = table.querySelector('th.teachingssubheading')
+      const series = header?.textContent?.trim() || ''
+      const rows = table.querySelectorAll('tbody tr')
+      
+      rows.forEach(row => {
+         const cells = row.querySelectorAll('td')
+         if (cells.length >= 4) {
+            const date = cells[0].textContent?.trim()
+            const descriptionHTML = cells[1].innerHTML.trim()
+            const playLink = cells[3].querySelector('a')?.getAttribute('href')
+            const teachingNumber = playLink?.split('/').pop()
 
-         if (date && descriptionHTML && teachingNumber) {
-            const { title, passage, event } = parseDescription(descriptionHTML)
+            if (date && descriptionHTML && teachingNumber) {
+               const { title, passage, event } = parseDescription(descriptionHTML)
+               const finalTitle = title ? `${title} - ${passage}` : passage
 
-            const finalTitle = title ? `${title} - ${passage}` : passage
-
-            data.push({
-               date,
-               title: finalTitle,
-               passage,
-               event,
-               teachingNumber
-            })
+               data.push({
+                  series,
+                  date,
+                  title: finalTitle,
+                  passage,
+                  event,
+                  teachingNumber
+               })
+            }
          }
-      }
-   })
+      })
+   }
 
    return data
 }

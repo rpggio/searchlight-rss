@@ -22,6 +22,7 @@ export interface TeachingMedia {
 }
 
 export interface Teaching {
+  series: string;
   date: string;
   title?: string;
   passage?: string;

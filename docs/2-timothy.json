@@ -2,6 +2,7 @@
    "title": "2 Timothy",
    "teachings": [
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "12-18-19",
          "title": "2 Timothy",
          "passage": "2 Timothy",
@@ -17,6 +18,146 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 61204562
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-04-95",
+         "title": "2 Timothy 1",
+         "passage": "2 Timothy 1",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W713",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/bRrhsKqV",
+            "duration": 4279,
+            "pubdate": 1481157454,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/bRrhsKqV-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 60649354
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-08-95",
+         "title": "Rightly Dividing The Word - 2 Timothy 2:15",
+         "passage": "2 Timothy 2:15",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S647",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/4SKmDUO2",
+            "duration": 3022,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/4SKmDUO2-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 42838726
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-11-95",
+         "title": "2 Timothy 2",
+         "passage": "2 Timothy 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W714",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/nk80MbvR",
+            "duration": 4303,
+            "pubdate": 1481157455,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/nk80MbvR-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 60995583
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-18-95",
+         "title": "2 Timothy 3-4",
+         "passage": "2 Timothy 3-4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W715",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Z4ky6Wlz",
+            "duration": 4710,
+            "pubdate": 1481157455,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Z4ky6Wlz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 66761766
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "01-25-04",
+         "title": "Nevertheless",
+         "passage": "Nevertheless",
+         "event": "2 Timothy 2:15-19",
+         "teachingNumber": "T388",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/bygCV3MA",
+            "duration": 3628,
+            "pubdate": 1481162175,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/bygCV3MA-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51429460
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "10-25-01",
+         "title": "Eyes On The Prize",
+         "passage": "Eyes On The Prize",
+         "event": "2 Timothy 4:6-10",
+         "teachingNumber": "T373",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/8Hb2ENO3",
+            "duration": 3216,
+            "pubdate": 1481162174,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/8Hb2ENO3-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 45587175
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "05-09-93",
+         "title": "Faith Of Our Mothers - Mother's Day 1993",
+         "passage": "Mother's Day 1993",
+         "event": "2 Timothy 1:4-5",
+         "teachingNumber": "T227",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ii4M3p7J",
+            "duration": 3085,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ii4M3p7J-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 43728515
             }
          }
       }

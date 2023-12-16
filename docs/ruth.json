@@ -2,6 +2,7 @@
    "title": "Ruth",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-14-01",
          "title": "Nothing Just Happens - Ruth 2:1-5",
          "passage": "Ruth 2:1-5",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-17-01",
          "title": "Ruth 1-2",
          "passage": "Ruth 1-2",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-21-01",
          "title": "Handfuls Of Purpose - Ruth 2:8-17",
          "passage": "Ruth 2:8-17",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-31-01",
          "title": "Ruth 3-4",
          "passage": "Ruth 3-4",
@@ -78,6 +82,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-07-01",
          "title": "Ruth 1-4",
          "passage": "Ruth 1-4",
@@ -93,6 +98,66 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 67783348
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "09-16-12",
+         "title": "Touched! - Ruth 3:8-11",
+         "passage": "Ruth 3:8-11",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S7027",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/NAQCyzig",
+            "duration": 2670,
+            "pubdate": 1481154737,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/NAQCyzig-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 37850367
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "09-19-12",
+         "title": "Ruth",
+         "passage": "Ruth",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7051",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Ejviv0v1",
+            "duration": 3809,
+            "pubdate": 1481160832,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Ejviv0v1-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 53994012
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies - 7000 Series",
+         "date": "09-26-12",
+         "title": "Ruth: Prophetic Addendum - Ruth",
+         "passage": "Ruth",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S7028",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/yLy42gLQ",
+            "duration": 4624,
+            "pubdate": 1481154737,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/yLy42gLQ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 65535607
             }
          }
       }

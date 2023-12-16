@@ -2,6 +2,7 @@
    "title": "Haggai",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-09-89",
          "title": "Now Is The Time - Haggai 2:4",
          "passage": "Haggai 2:4",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-12-89",
          "title": "Haggai",
          "passage": "Haggai",
@@ -36,6 +38,66 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 54408909
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "11-02-08",
+         "title": "Dollars And Sense! - Part 3",
+         "passage": "Dollars And Sense! - Part 3",
+         "event": "Haggai 1:2-11",
+         "teachingNumber": "T431",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Fvf3RGW9",
+            "duration": 3163,
+            "pubdate": 1481162176,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Fvf3RGW9-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 44837091
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "10-26-08",
+         "title": "Dollars And Sense! - Part 2",
+         "passage": "Dollars And Sense! - Part 2",
+         "event": "Haggai 1:2-11",
+         "teachingNumber": "T430",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/2jWHwPq7",
+            "duration": 3243,
+            "pubdate": 1481162176,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/2jWHwPq7-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 45968165
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "10-19-08",
+         "title": "Dollars And Sense! - Part 1",
+         "passage": "Dollars And Sense! - Part 1",
+         "event": "Haggai 1:2-11",
+         "teachingNumber": "T429",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3Aor24GD",
+            "duration": 3666,
+            "pubdate": 1481162176,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3Aor24GD-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51967854
             }
          }
       }

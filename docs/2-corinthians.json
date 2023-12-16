@@ -2,6 +2,7 @@
    "title": "2 Corinthians",
    "teachings": [
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "05-08-19",
          "title": "2 Corinthians 1:1-14",
          "passage": "2 Corinthians 1:1-14",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "05-15-19",
          "title": "2 Corinthians 1-3",
          "passage": "2 Corinthians 1-3",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "05-22-19",
          "title": "2 Corinthians 4",
          "passage": "2 Corinthians 4",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "05-26-19",
          "title": "Envisioning Love - 2 Corinthians 5:14-17",
          "passage": "2 Corinthians 5:14-17",
@@ -78,6 +82,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "05-29-19",
          "title": "2 Corinthians 5",
          "passage": "2 Corinthians 5",
@@ -97,6 +102,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "06-05-19",
          "title": "2 Corinthians 6",
          "passage": "2 Corinthians 6",
@@ -116,6 +122,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "06-16-19",
          "title": "The Father Loves You . . . So Let Him!",
          "passage": "The Father Loves You . . . So Let Him!",
@@ -135,6 +142,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "06-19-19",
          "title": "2 Corinthians 7-8",
          "passage": "2 Corinthians 7-8",
@@ -154,6 +162,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "06-26-19",
          "title": "2 Corinthians 9-10",
          "passage": "2 Corinthians 9-10",
@@ -173,6 +182,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "06-30-19",
          "title": "Final Exams - 2 Corinthians 13:5",
          "passage": "2 Corinthians 13:5",
@@ -192,6 +202,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "07-03-19",
          "title": "2 Corinthians 11-13",
          "passage": "2 Corinthians 11-13",
@@ -211,6 +222,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "07-07-19",
          "title": "Thanks For No Thanks! - 2 Corinthians 12:14-15",
          "passage": "2 Corinthians 12:14-15",
@@ -226,6 +238,646 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 42461002
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "02-06-94",
+         "title": "Yea And Amen!!! - 2 Corinthians 1:20",
+         "passage": "2 Corinthians 1:20",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S603",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/SSfW8ce0",
+            "duration": 2546,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/SSfW8ce0-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 36088679
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "02-20-94",
+         "title": "Shake It Off - 2 Corinthians 1:3-4",
+         "passage": "2 Corinthians 1:3-4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S604",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3ag4xHTm",
+            "duration": 3067,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3ag4xHTm-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 43476304
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "02-27-94",
+         "title": "Cracked Pots - 2 Corinthians 4:7",
+         "passage": "2 Corinthians 4:7",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S605",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/dRfoeDm8",
+            "duration": 2657,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/dRfoeDm8-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 37663662
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-02-94",
+         "title": "2 Corinthians 1",
+         "passage": "2 Corinthians 1",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W654",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/0JthYMKF",
+            "duration": 3747,
+            "pubdate": 1481157452,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/0JthYMKF-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 53112111
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-06-94",
+         "title": "A Hearing Aid - 2 Corinthians 2:4",
+         "passage": "2 Corinthians 2:4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S606",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/J8MSXrTi",
+            "duration": 2431,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/J8MSXrTi-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 34456725
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-09-94",
+         "title": "2 Corinthians 2",
+         "passage": "2 Corinthians 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W655",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/iQHPl4Gy",
+            "duration": 3181,
+            "pubdate": 1481157452,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/iQHPl4Gy-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 45095287
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-13-94",
+         "title": "Open Their Eyes, Lord! - 2 Corinthians 4:3-4",
+         "passage": "2 Corinthians 4:3-4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S607",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/xgAaFiC9",
+            "duration": 2984,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/xgAaFiC9-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 42304047
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-16-94",
+         "title": "2 Corinthians 3-4",
+         "passage": "2 Corinthians 3-4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W656",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/si4NG7ak",
+            "duration": 4120,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/si4NG7ak-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58402661
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "03-30-94",
+         "title": "2 Corinthians 5:1-9",
+         "passage": "2 Corinthians 5:1-9",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W657",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/rsolxc6F",
+            "duration": 2843,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/rsolxc6F-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40296535
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-06-94",
+         "title": "2 Corinthians 5:10-21",
+         "passage": "2 Corinthians 5:10-21",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W658",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/c7MlT9Zd",
+            "duration": 3337,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/c7MlT9Zd-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 47301987
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-10-94",
+         "title": "Unequally Yoked - 2 Corinthians 6:14-18",
+         "passage": "2 Corinthians 6:14-18",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S608",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Np0aqf4G",
+            "duration": 2654,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Np0aqf4G-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 37627154
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-13-94",
+         "title": "2 Corinthians 6",
+         "passage": "2 Corinthians 6",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W659",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ybAor14a",
+            "duration": 3469,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ybAor14a-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 49169506
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-17-94",
+         "title": "Real Repentance - 2 Corinthians 7:8-10",
+         "passage": "2 Corinthians 7:8-10",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S609",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/beJ8ze7Q",
+            "duration": 2822,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/beJ8ze7Q-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 39999686
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "04-20-94",
+         "title": "2 Corinthians 7",
+         "passage": "2 Corinthians 7",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W660",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/zlyRxu4d",
+            "duration": 3383,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/zlyRxu4d-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 47955887
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-15-94",
+         "title": "Giving Gladly: Why Should I? - 2 Corinthians 9:7",
+         "passage": "2 Corinthians 9:7",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S610",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/1lR7dsf9",
+            "duration": 2961,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/1lR7dsf9-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 41968027
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-18-94",
+         "title": "2 Corinthians 8:1-15",
+         "passage": "2 Corinthians 8:1-15",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W661",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/aUToicP1",
+            "duration": 4340,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/aUToicP1-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 61514760
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-22-94",
+         "title": "The Real Battle - Part 1 - 2 Corinthians 10:3-5",
+         "passage": "2 Corinthians 10:3-5",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S611",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/56Uv8USB",
+            "duration": 2555,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/56Uv8USB-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 36224126
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-25-94",
+         "title": "2 Corinthians 8-9",
+         "passage": "2 Corinthians 8-9",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W662",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pmzZpUJc",
+            "duration": 4028,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pmzZpUJc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57100634
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "05-29-94",
+         "title": "The Real Battle - Part 2 - 2 Corinthians 10:3-5",
+         "passage": "2 Corinthians 10:3-5",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S612",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Huxeyvtz",
+            "duration": 2931,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Huxeyvtz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 41550251
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-05-94",
+         "title": "Prickly Problems - 2 Corinthians 12:7-10",
+         "passage": "2 Corinthians 12:7-10",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S613",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/fQnPqEP4",
+            "duration": 2963,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/fQnPqEP4-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 42003287
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-08-94",
+         "title": "2 Corinthians 10:1 - 11:14",
+         "passage": "2 Corinthians 10:1 - 11:14",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W663",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/IBT71zwL",
+            "duration": 4784,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/IBT71zwL-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67804018
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-15-94",
+         "title": "2 Corinthians 11:14-30",
+         "passage": "2 Corinthians 11:14-30",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W664",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/8xF6kKs2",
+            "duration": 3659,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/8xF6kKs2-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51862734
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-22-94",
+         "title": "2 Corinthians 11:30 - 12:10",
+         "passage": "2 Corinthians 11:30 - 12:10",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W665",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/yL6ZADv9",
+            "duration": 4175,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/yL6ZADv9-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59171750
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-26-94",
+         "title": "Be Perfect? - 2 Corinthians 13:11",
+         "passage": "2 Corinthians 13:11",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S614",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/KTwFWjAp",
+            "duration": 2844,
+            "pubdate": 1481154732,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/KTwFWjAp-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40309695
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "06-29-94",
+         "title": "2 Corinthians  12-13",
+         "passage": "2 Corinthians  12-13",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W666",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/rePhRuIl",
+            "duration": 3587,
+            "pubdate": 1481157453,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/rePhRuIl-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 50844972
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "12-24-10",
+         "title": "Christmas Eve 2010",
+         "passage": "Christmas Eve 2010",
+         "event": "2 Corinthians 8:9",
+         "teachingNumber": "T469",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/SCXbZVn3",
+            "duration": 824,
+            "pubdate": 1481162178,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/SCXbZVn3-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113384,
+               "filesize": 11684452
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "01-24-10",
+         "title": "Satan's Strategy: Divide The Family",
+         "passage": "Satan's Strategy: Divide The Family",
+         "event": "2 Corinthians 2:10-11",
+         "teachingNumber": "T460",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Mzn1txXo",
+            "duration": 2190,
+            "pubdate": 1481162177,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Mzn1txXo-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 31042220
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "03-09-04",
+         "title": "The Great Switcheroo - 2 Corinthians 5:17-21",
+         "passage": "2 Corinthians 5:17-21",
+         "event": "Sunday Sermon",
+         "teachingNumber": "TC4007",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/8loEX7Qj",
+            "duration": 2576,
+            "pubdate": 1481164841,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/8loEX7Qj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 36521247
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "05-12-02",
+         "title": "It's All Right - Mother's Day 2002",
+         "passage": "Mother's Day 2002",
+         "event": "2 Corinthians 4:5-10",
+         "teachingNumber": "T382",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3be5R1dS",
+            "duration": 2387,
+            "pubdate": 1481162175,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3be5R1dS-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 33835274
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "11-11-01",
+         "title": "The Great Switcheroo",
+         "passage": "The Great Switcheroo",
+         "event": "2 Corinthians 5:17-21",
+         "teachingNumber": "T375",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pgeBC05L",
+            "duration": 2066,
+            "pubdate": 1481162174,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pgeBC05L-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 29283693
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "03-30-97",
+         "title": "Delivered From Death! - Easter 1997",
+         "passage": "Easter 1997",
+         "event": "2 Corinthians 1:8-10",
+         "teachingNumber": "T298",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/l409kDdX",
+            "duration": 1945,
+            "pubdate": 1481162172,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/l409kDdX-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 27566244
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "10-10-93",
+         "title": "Pulling Down By Plowing Away",
+         "passage": "Pulling Down By Plowing Away",
+         "event": "2 Corinthians 10:4-5",
+         "teachingNumber": "T234",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/h3FpiobH",
+            "duration": 2998,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/h3FpiobH-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 42490172
             }
          }
       }

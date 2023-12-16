@@ -2,6 +2,7 @@
    "title": "Titus",
    "teachings": [
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "01-05-20",
          "title": "20/20 Vision",
          "passage": "20/20 Vision",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Latest Thru-The-Bible Studies - 9000 Series",
          "date": "01-08-20",
          "title": "Titus",
          "passage": "Titus",
@@ -36,6 +38,66 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 58823356
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-25-95",
+         "title": "Titus 1",
+         "passage": "Titus 1",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W716",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/EOCFTBKM",
+            "duration": 4308,
+            "pubdate": 1481157455,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/EOCFTBKM-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 61063727
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "10-29-95",
+         "title": "Looking For Our Lord - Titus 2:11-13",
+         "passage": "Titus 2:11-13",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S648",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Wzpp3ZzP",
+            "duration": 2888,
+            "pubdate": 1481154733,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Wzpp3ZzP-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40942540
+            }
+         }
+      },
+      {
+         "series": "Thru-The-Bible Studies",
+         "date": "11-01-95",
+         "title": "Titus 2-3",
+         "passage": "Titus 2-3",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W717",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/38JUkcwx",
+            "duration": 4053,
+            "pubdate": 1481157455,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/38JUkcwx-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57444887
             }
          }
       }

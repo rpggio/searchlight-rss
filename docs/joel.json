@@ -2,6 +2,7 @@
    "title": "Joel",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "01-01-89",
          "title": "Restoring The Year",
          "passage": "Restoring The Year",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "01-04-89",
          "title": "Joel 1-2",
          "passage": "Joel 1-2",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "01-11-89",
          "title": "Joel 2-3",
          "passage": "Joel 2-3",

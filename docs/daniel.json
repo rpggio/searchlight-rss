@@ -2,6 +2,7 @@
    "title": "Daniel",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-02-88",
          "title": "Handling The Heat - Daniel 3:10-26",
          "passage": "Daniel 3:10-26",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-05-88",
          "title": "Daniel 1",
          "passage": "Daniel 1",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-09-88",
          "title": "Learning To Listen - Daniel 2:16-19",
          "passage": "Daniel 2:16-19",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-12-88",
          "title": "Daniel 2",
          "passage": "Daniel 2",
@@ -78,6 +82,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-16-88",
          "title": "Seemingly Impossible Salvation - Daniel 4",
          "passage": "Daniel 4",
@@ -97,6 +102,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-19-88",
          "title": "Daniel 3",
          "passage": "Daniel 3",
@@ -116,6 +122,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-23-88",
          "title": "The Finger Of God - Daniel 5",
          "passage": "Daniel 5",
@@ -135,6 +142,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-26-88",
          "title": "Daniel 6",
          "passage": "Daniel 6",
@@ -154,6 +162,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "10-30-88",
          "title": "A Greater Than Alexander - Daniel 8:1-8",
          "passage": "Daniel 8:1-8",
@@ -173,6 +182,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-02-88",
          "title": "Daniel 7",
          "passage": "Daniel 7",
@@ -192,6 +202,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-09-88",
          "title": "Daniel 8",
          "passage": "Daniel 8",
@@ -211,6 +222,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-13-88",
          "title": "The Seventy Weeks Of Daniel - Daniel 9:20-27",
          "passage": "Daniel 9:20-27",
@@ -230,6 +242,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-16-88",
          "title": "Daniel 9",
          "passage": "Daniel 9",
@@ -249,6 +262,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-20-88",
          "title": "Strengthened In The Struggle - Daniel 10",
          "passage": "Daniel 10",
@@ -268,6 +282,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-27-88",
          "title": "Sharing And Shining - Daniel 12:3",
          "passage": "Daniel 12:3",
@@ -287,6 +302,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "11-30-88",
          "title": "Daniel 11",
          "passage": "Daniel 11",
@@ -306,6 +322,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "12-07-88",
          "title": "Daniel 12",
          "passage": "Daniel 12",
@@ -321,6 +338,86 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 58826776
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "01-03-99",
+         "title": "Prophecy Update 1998/1999 - Part 2 - Euroland",
+         "passage": "Euroland",
+         "event": "Daniel 2",
+         "teachingNumber": "T331",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/emKhSFyj",
+            "duration": 3124,
+            "pubdate": 1481162173,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/emKhSFyj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 44279979
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "02-12-95",
+         "title": "Prophecy Update 1994/1995 - Part 7",
+         "passage": "Prophecy Update 1994/1995 - Part 7",
+         "event": "Daniel 2:36-45",
+         "teachingNumber": "T265",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ilvAy2Nt",
+            "duration": 3117,
+            "pubdate": 1481162170,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ilvAy2Nt-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 44190201
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "12-31-93",
+         "title": "Prophecy Update 1993/1994",
+         "passage": "Prophecy Update 1993/1994",
+         "event": "Daniel 11",
+         "teachingNumber": "T239",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/LRSpg6py",
+            "duration": 2875,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/LRSpg6py-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40753574
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "05-10-92",
+         "title": "Listen To Your Mother - Mother's Day 1992",
+         "passage": "Mother's Day 1992",
+         "event": "Daniel 5:1-13",
+         "teachingNumber": "T211",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/7w6QKjuh",
+            "duration": 2235,
+            "pubdate": 1481162169,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/7w6QKjuh-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 31689435
             }
          }
       }

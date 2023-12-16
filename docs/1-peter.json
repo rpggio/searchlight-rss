@@ -2,6 +2,7 @@
    "title": "1 Peter",
    "teachings": [
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-21-96",
          "title": "The Explosive Power Of The Word - 1 Peter 1:23-25",
          "passage": "1 Peter 1:23-25",
@@ -21,6 +22,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-24-96",
          "title": "1 Peter 1:1-6",
          "passage": "1 Peter 1:1-6",
@@ -40,6 +42,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "04-28-96",
          "title": "Just Say Never! - 1 Peter 2:11",
          "passage": "1 Peter 2:11",
@@ -59,6 +62,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-01-96",
          "title": "1 Peter 1:6-22",
          "passage": "1 Peter 1:6-22",
@@ -78,6 +82,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-05-96",
          "title": "Power Of Sacrifice - 1 Peter 2:9",
          "passage": "1 Peter 2:9",
@@ -97,6 +102,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-08-96",
          "title": "1 Peter 1:22 - 2:25",
          "passage": "1 Peter 1:22 - 2:25",
@@ -116,6 +122,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-15-96",
          "title": "1 Peter 3:1-6",
          "passage": "1 Peter 3:1-6",
@@ -135,6 +142,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-22-96",
          "title": "1 Peter 3:7",
          "passage": "1 Peter 3:7",
@@ -154,6 +162,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-26-96",
          "title": "The Reason For Hope - 1 Peter 3:14-15",
          "passage": "1 Peter 3:14-15",
@@ -173,6 +182,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "05-29-96",
          "title": "1 Peter 3:8-16",
          "passage": "1 Peter 3:8-16",
@@ -192,6 +202,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-02-96",
          "title": "Suffering Into Glory - 1 Peter 4:12-14",
          "passage": "1 Peter 4:12-14",
@@ -211,6 +222,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-05-96",
          "title": "1 Peter 3:15-22",
          "passage": "1 Peter 3:15-22",
@@ -230,6 +242,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-09-96",
          "title": "Love Covers - 1 Peter 4:8",
          "passage": "1 Peter 4:8",
@@ -249,6 +262,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-12-96",
          "title": "1 Peter 4",
          "passage": "1 Peter 4",
@@ -268,6 +282,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-16-96",
          "title": "Running To The Roar - 1 Peter 5:8-9",
          "passage": "1 Peter 5:8-9",
@@ -287,6 +302,7 @@
          }
       },
       {
+         "series": "Thru-The-Bible Studies",
          "date": "06-19-96",
          "title": "1 Peter 5",
          "passage": "1 Peter 5",
@@ -302,6 +318,26 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 47555092
+            }
+         }
+      },
+      {
+         "series": "Miscellaneous Bible Studies",
+         "date": "07-27-97",
+         "title": "Playing Catch",
+         "passage": "Playing Catch",
+         "event": "1 Peter 5:6-7",
+         "teachingNumber": "T303",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/tnEB6PIz",
+            "duration": 2369,
+            "pubdate": 1481162172,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/tnEB6PIz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 33576252
             }
          }
       }
