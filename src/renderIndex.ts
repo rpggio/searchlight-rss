@@ -1,8 +1,7 @@
-import * as fs from 'fs';
-import { bibleBooks, fileNameSlug } from "../lib/bible"
+import { bibleBooks } from "./lib/bible";
+import { fileNameSlug } from "./teachingLookup";
 
-function main() {
-
+export function renderIndex() {
    const bookLinks = bibleBooks.map(book => {
       const slug = fileNameSlug(book)
       const feedFile = `${slug}.xml`
@@ -16,7 +15,7 @@ function main() {
       `.trim()
    })
 
-   const html = `<html><head>
+   return `<html><head>
       <style>
       .books {
          display: flex;
@@ -96,8 +95,4 @@ ${bookLinks.join('\n')}
       </div>
    </body>
    </html>`
-
-   fs.writeFileSync('docs/index.html', html)
 }
-
-main()

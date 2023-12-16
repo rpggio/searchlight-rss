@@ -1,9 +1,10 @@
 import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
-import { Teaching, TeachingFeed, TeachingMedia } from '../types'
-import { getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
-import { fileNameSlug } from '../lib/bible'
+import { Teaching, TeachingFeed, TeachingMedia } from './types'
+import { getMediaItem } from './lib/jwPlayerApi/getMediaItem'
+
 import ky from 'ky'
+import { fileNameSlug } from './teachingLookup'
 
 interface TeachingParseRow {
    series: string
@@ -36,7 +37,7 @@ async function downloadPage(url: string) {
    return (await ky.get(url)).text()
 }
 
-function extractTeachings(html: string) {
+function extractTeachingsForBook(html: string) {
    const document = new JSDOM(html).window.document
    const tables = document.querySelectorAll('table.table-striped.hidden-xs')
 
@@ -143,8 +144,7 @@ function sleep(ms: number) {
    return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-async function main() {
-
+export async function extractTeachings() {
    const startUrl = `https://www.joncourson.com/teachings/genesis`
    const startContent = await downloadPage(startUrl)
    const books = getBookList(startContent)
@@ -154,7 +154,7 @@ async function main() {
 
       const bookSlug = fileNameSlug(book.name)
       const bookPageContent = await downloadPage(book.url)
-      const teachings: Teaching[] = (await extractTeachings(bookPageContent))
+      const teachings: Teaching[] = (await extractTeachingsForBook(bookPageContent))
 
       for (const teaching of teachings) {
          console.log(teaching.teachingNumber, teaching.date, teaching.title || teaching.passage)
@@ -182,5 +182,3 @@ async function main() {
       fs.writeFileSync(`docs/${bookSlug}.json`, json)
    }
 }
-
-main()

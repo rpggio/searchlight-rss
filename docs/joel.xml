@@ -3,11 +3,15 @@
    <channel>
     <title>Joel with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/joel</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Wed, 11 Jan 1989 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/joel.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Joel with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>Restoring The Year</title>
-        <link>https://cdn.jwplayer.com/previews/kCvPFZ3G</link>
+        <link>https://www.joncourson.com/playteaching/S413/teachingaudio</link>
         <description>Restoring The Year</description> 
         <guid isPermaLink="false">joncourson-searchlight-S413</guid>
         <pubDate>Sun, 01 Jan 1989 08:00:00 GMT</pubDate>
-        <description>Restoring The Year - New Year's Day 1989</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Restoring The Year 
+event: New Year's Day 1989 
+teaching number: S413</description>
         <enclosure url="https://cdn.jwplayer.com/videos/kCvPFZ3G-LDq1jMq6.m4a" length="46991599" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>Joel 1-2</title>
-        <link>https://cdn.jwplayer.com/previews/5l2D8GtX</link>
+        <link>https://www.joncourson.com/playteaching/W449/teachingaudio</link>
         <description>Joel 1-2</description> 
         <guid isPermaLink="false">joncourson-searchlight-W449</guid>
         <pubDate>Wed, 04 Jan 1989 08:00:00 GMT</pubDate>
-        <description>Joel 1-2 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Joel 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W449</description>
         <enclosure url="https://cdn.jwplayer.com/videos/5l2D8GtX-LDq1jMq6.m4a" length="55110732" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -53,11 +63,14 @@
       </item>
       <item>
         <title>Joel 2-3</title>
-        <link>https://cdn.jwplayer.com/previews/Pldali1Z</link>
+        <link>https://www.joncourson.com/playteaching/W450/teachingaudio</link>
         <description>Joel 2-3</description> 
         <guid isPermaLink="false">joncourson-searchlight-W450</guid>
         <pubDate>Wed, 11 Jan 1989 08:00:00 GMT</pubDate>
-        <description>Joel 2-3 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Joel 2-3 
+event: Verse by Verse Bible Study 
+teaching number: W450</description>
         <enclosure url="https://cdn.jwplayer.com/videos/Pldali1Z-LDq1jMq6.m4a" length="50482623" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>

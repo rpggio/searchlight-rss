@@ -68,6 +68,12 @@ Jude
 Revelation
 `.split('\n').map(s => s.trim()).filter(s => s.length > 0)
 
-export function fileNameSlug(book: string) {
-   return book.toLowerCase().replace(/ /g, '-')
-}
+const bookGroupings = [
+   { from: 'genesis', to: 'deuteronomy' },
+   { from: 'joshua', to: 'esther' },
+   { from: 'job', to: 'songofsolomon' },
+   { from: 'psalms', to: 'proverbs' },
+   { from: 'isaiah', to: 'malachi' },
+   { from: 'matthew', to: 'acts' },
+   { from: 'romans', to: 'revelation' }
+]

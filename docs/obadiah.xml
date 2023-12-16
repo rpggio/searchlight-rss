@@ -3,11 +3,15 @@
    <channel>
     <title>Obadiah with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/obadiah</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Sun, 05 Feb 1989 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/obadiah.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Obadiah with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>The Poison Of Pride - Obadiah</title>
-        <link>https://cdn.jwplayer.com/previews/GzWzIE1Y</link>
+        <link>https://www.joncourson.com/playteaching/S417/teachingaudio</link>
         <description>The Poison Of Pride - Obadiah</description> 
         <guid isPermaLink="false">joncourson-searchlight-S417</guid>
         <pubDate>Sun, 05 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Obadiah - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Obadiah 
+event: Sunday Sermon 
+teaching number: S417</description>
         <enclosure url="https://cdn.jwplayer.com/videos/GzWzIE1Y-LDq1jMq6.m4a" length="49462624" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>

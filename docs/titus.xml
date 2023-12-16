@@ -3,11 +3,15 @@
    <channel>
     <title>Titus with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/titus</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Wed, 08 Jan 2020 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Nov 1995 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/titus.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Titus with Jon Courson</title>
@@ -28,28 +32,49 @@
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
 
       <item>
-        <title>20/20 Vision</title>
-        <link>https://cdn.jwplayer.com/previews/RegIb30d</link>
-        <description>20/20 Vision</description> 
-        <guid isPermaLink="false">joncourson-searchlight-S9050</guid>
-        <pubDate>Sun, 05 Jan 2020 08:00:00 GMT</pubDate>
-        <description>20/20 Vision - Prophecy Update: January 5, 2020</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/RegIb30d-LDq1jMq6.m4a" length="52658088" type="audio/mp4"/>
+        <title>Titus 1</title>
+        <link>https://www.joncourson.com/playteaching/W716/teachingaudio</link>
+        <description>Titus 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W716</guid>
+        <pubDate>Wed, 25 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Titus 1 
+event: Verse by Verse Bible Study 
+teaching number: W716</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EOCFTBKM-LDq1jMq6.m4a" length="61063727" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3715</itunes:duration>
+        <itunes:duration>4308</itunes:duration>
       </item>
       <item>
-        <title>Titus</title>
-        <link>https://cdn.jwplayer.com/previews/Eiu6S1Tz</link>
-        <description>Titus</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W9138</guid>
-        <pubDate>Wed, 08 Jan 2020 08:00:00 GMT</pubDate>
-        <description>Titus - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Eiu6S1Tz-LDq1jMq6.m4a" length="58823356" type="audio/mp4"/>
+        <title>Looking For Our Lord - Titus 2:11-13</title>
+        <link>https://www.joncourson.com/playteaching/S648/teachingaudio</link>
+        <description>Looking For Our Lord - Titus 2:11-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S648</guid>
+        <pubDate>Sun, 29 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Titus 2:11-13 
+event: Sunday Sermon 
+teaching number: S648</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Wzpp3ZzP-LDq1jMq6.m4a" length="40942540" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4150</itunes:duration>
+        <itunes:duration>2888</itunes:duration>
+      </item>
+      <item>
+        <title>Titus 2-3</title>
+        <link>https://www.joncourson.com/playteaching/W717/teachingaudio</link>
+        <description>Titus 2-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W717</guid>
+        <pubDate>Wed, 01 Nov 1995 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Titus 2-3 
+event: Verse by Verse Bible Study 
+teaching number: W717</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/38JUkcwx-LDq1jMq6.m4a" length="57444887" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4053</itunes:duration>
       </item>
   </channel>
   </rss>

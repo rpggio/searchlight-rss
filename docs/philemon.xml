@@ -3,11 +3,15 @@
    <channel>
     <title>Philemon with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/philemon</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Wed, 15 Jan 2020 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Nov 1995 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/philemon.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Philemon with Jon Courson</title>
@@ -28,16 +32,34 @@
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
 
       <item>
-        <title>Philemon</title>
-        <link>https://cdn.jwplayer.com/previews/fVgOKkG7</link>
-        <description>Philemon</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W9139</guid>
-        <pubDate>Wed, 15 Jan 2020 08:00:00 GMT</pubDate>
-        <description>Philemon - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/fVgOKkG7-LDq1jMq6.m4a" length="42186885" type="audio/mp4"/>
+        <title>Paul The Peacemaker - Philemon 17-18</title>
+        <link>https://www.joncourson.com/playteaching/S649/teachingaudio</link>
+        <description>Paul The Peacemaker - Philemon 17-18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S649</guid>
+        <pubDate>Sun, 05 Nov 1995 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Philemon 17-18 
+event: Sunday Sermon 
+teaching number: S649</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EamdRJFO-LDq1jMq6.m4a" length="44041905" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2976</itunes:duration>
+        <itunes:duration>3107</itunes:duration>
+      </item>
+      <item>
+        <title>Philemon</title>
+        <link>https://www.joncourson.com/playteaching/W718/teachingaudio</link>
+        <description>Philemon</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W718</guid>
+        <pubDate>Wed, 08 Nov 1995 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Philemon 
+event: Verse by Verse Bible Study 
+teaching number: W718</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/clRRtVXt-LDq1jMq6.m4a" length="55071546" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3885</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -3,11 +3,15 @@
    <channel>
     <title>Haggai with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/haggai</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Wed, 12 Apr 1989 07:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/haggai.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Haggai with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>Now Is The Time - Haggai 2:4</title>
-        <link>https://cdn.jwplayer.com/previews/qBwtTeXI</link>
+        <link>https://www.joncourson.com/playteaching/S425/teachingaudio</link>
         <description>Now Is The Time - Haggai 2:4</description> 
         <guid isPermaLink="false">joncourson-searchlight-S425</guid>
         <pubDate>Sun, 09 Apr 1989 07:00:00 GMT</pubDate>
-        <description>Haggai 2:4 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Haggai 2:4 
+event: Sunday Sermon 
+teaching number: S425</description>
         <enclosure url="https://cdn.jwplayer.com/videos/qBwtTeXI-LDq1jMq6.m4a" length="41252205" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>Haggai</title>
-        <link>https://cdn.jwplayer.com/previews/PCvUfyE6</link>
+        <link>https://www.joncourson.com/playteaching/W462/teachingaudio</link>
         <description>Haggai</description> 
         <guid isPermaLink="false">joncourson-searchlight-W462</guid>
         <pubDate>Wed, 12 Apr 1989 07:00:00 GMT</pubDate>
-        <description>Haggai - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Haggai 
+event: Verse by Verse Bible Study 
+teaching number: W462</description>
         <enclosure url="https://cdn.jwplayer.com/videos/PCvUfyE6-LDq1jMq6.m4a" length="54408909" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>

@@ -3,11 +3,15 @@
    <channel>
     <title>Esther with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/esther</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Wed, 04 Jun 2014 07:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Wed, 21 May 1986 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/esther.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Esther with Jon Courson</title>
@@ -28,40 +32,19 @@
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
 
       <item>
-        <title>Esther 1-2</title>
-        <link>https://cdn.jwplayer.com/previews/hKh3qVx4</link>
-        <description>Esther 1-2</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7121</guid>
-        <pubDate>Wed, 21 May 2014 07:00:00 GMT</pubDate>
-        <description>Esther 1-2 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/hKh3qVx4-LDq1jMq6.m4a" length="52462907" type="audio/mp4"/>
+        <title>Esther 1-10</title>
+        <link>https://www.joncourson.com/playteaching/W343/teachingaudio</link>
+        <description>Esther 1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W343</guid>
+        <pubDate>Wed, 21 May 1986 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Esther 1-10 
+event: Verse by Verse Bible Study 
+teaching number: W343</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oG0PVnpk-LDq1jMq6.m4a" length="63342606" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3701</itunes:duration>
-      </item>
-      <item>
-        <title>Esther 3-4</title>
-        <link>https://cdn.jwplayer.com/previews/iWlDvKCN</link>
-        <description>Esther 3-4</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7122</guid>
-        <pubDate>Wed, 28 May 2014 07:00:00 GMT</pubDate>
-        <description>Esther 3-4 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/iWlDvKCN-LDq1jMq6.m4a" length="48404576" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3415</itunes:duration>
-      </item>
-      <item>
-        <title>Esther 5-10</title>
-        <link>https://cdn.jwplayer.com/previews/kd1mWrxf</link>
-        <description>Esther 5-10</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7123</guid>
-        <pubDate>Wed, 04 Jun 2014 07:00:00 GMT</pubDate>
-        <description>Esther 5-10 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/kd1mWrxf-LDq1jMq6.m4a" length="57810213" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4079</itunes:duration>
+        <itunes:duration>4469</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -3,11 +3,15 @@
    <channel>
     <title>Hosea with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/hosea</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Wed, 28 Dec 1988 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/hosea.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Hosea with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>Hosea 1-5</title>
-        <link>https://cdn.jwplayer.com/previews/oTHUWNvW</link>
+        <link>https://www.joncourson.com/playteaching/W446/teachingaudio</link>
         <description>Hosea 1-5</description> 
         <guid isPermaLink="false">joncourson-searchlight-W446</guid>
         <pubDate>Wed, 14 Dec 1988 08:00:00 GMT</pubDate>
-        <description>Hosea 1-5 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 1-5 
+event: Verse by Verse Bible Study 
+teaching number: W446</description>
         <enclosure url="https://cdn.jwplayer.com/videos/oTHUWNvW-LDq1jMq6.m4a" length="51120628" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>The Rest Of The Story - Hosea 12:4</title>
-        <link>https://cdn.jwplayer.com/previews/94JXc2wx</link>
+        <link>https://www.joncourson.com/playteaching/S412/teachingaudio</link>
         <description>The Rest Of The Story - Hosea 12:4</description> 
         <guid isPermaLink="false">joncourson-searchlight-S412</guid>
         <pubDate>Sun, 18 Dec 1988 08:00:00 GMT</pubDate>
-        <description>Hosea 12:4 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 12:4 
+event: Sunday Sermon 
+teaching number: S412</description>
         <enclosure url="https://cdn.jwplayer.com/videos/94JXc2wx-LDq1jMq6.m4a" length="54408853" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -53,11 +63,14 @@
       </item>
       <item>
         <title>Hosea 6-10</title>
-        <link>https://cdn.jwplayer.com/previews/LjbVt1Ag</link>
+        <link>https://www.joncourson.com/playteaching/W447/teachingaudio</link>
         <description>Hosea 6-10</description> 
         <guid isPermaLink="false">joncourson-searchlight-W447</guid>
         <pubDate>Wed, 21 Dec 1988 08:00:00 GMT</pubDate>
-        <description>Hosea 6-10 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 6-10 
+event: Verse by Verse Bible Study 
+teaching number: W447</description>
         <enclosure url="https://cdn.jwplayer.com/videos/LjbVt1Ag-LDq1jMq6.m4a" length="53699912" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -65,11 +78,14 @@
       </item>
       <item>
         <title>Hosea 11-14</title>
-        <link>https://cdn.jwplayer.com/previews/P1aMrfEp</link>
+        <link>https://www.joncourson.com/playteaching/W448/teachingaudio</link>
         <description>Hosea 11-14</description> 
         <guid isPermaLink="false">joncourson-searchlight-W448</guid>
         <pubDate>Wed, 28 Dec 1988 08:00:00 GMT</pubDate>
-        <description>Hosea 11-14 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 11-14 
+event: Verse by Verse Bible Study 
+teaching number: W448</description>
         <enclosure url="https://cdn.jwplayer.com/videos/P1aMrfEp-LDq1jMq6.m4a" length="54421445" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>

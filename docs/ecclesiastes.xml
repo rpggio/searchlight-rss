@@ -3,11 +3,15 @@
    <channel>
     <title>Ecclesiastes with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/ecclesiastes</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Wed, 24 Feb 2016 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 1987 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/ecclesiastes.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Ecclesiastes with Jon Courson</title>
@@ -28,52 +32,109 @@
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
 
       <item>
-        <title>Ecclesiastes 1-3</title>
-        <link>https://cdn.jwplayer.com/previews/XsfMkaOE</link>
-        <description>Ecclesiastes 1-3</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7202</guid>
-        <pubDate>Wed, 03 Feb 2016 08:00:00 GMT</pubDate>
-        <description>Ecclesiastes 1-3 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/XsfMkaOE-LDq1jMq6.m4a" length="53075625" type="audio/mp4"/>
+        <title>Silence - Ecclesiastes 5:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S350/teachingaudio</link>
+        <description>Silence - Ecclesiastes 5:1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S350</guid>
+        <pubDate>Sun, 07 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 5:1-2 
+event: Sunday Sermon 
+teaching number: S350</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fvicDLYm-LDq1jMq6.m4a" length="35287382" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3744</itunes:duration>
+        <itunes:duration>2489</itunes:duration>
       </item>
       <item>
-        <title>Ecclesiastes 4-6</title>
-        <link>https://cdn.jwplayer.com/previews/5CJbr0Sd</link>
-        <description>Ecclesiastes 4-6</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7203</guid>
-        <pubDate>Wed, 10 Feb 2016 08:00:00 GMT</pubDate>
-        <description>Ecclesiastes 4-6 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/5CJbr0Sd-LDq1jMq6.m4a" length="47909801" type="audio/mp4"/>
+        <title>Ecclesiastes 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W384/teachingaudio</link>
+        <description>Ecclesiastes 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W384</guid>
+        <pubDate>Wed, 10 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W384</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gSXW6iio-LDq1jMq6.m4a" length="43966692" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3380</itunes:duration>
+        <itunes:duration>3102</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 3-6</title>
+        <link>https://www.joncourson.com/playteaching/W385/teachingaudio</link>
+        <description>Ecclesiastes 3-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W385</guid>
+        <pubDate>Wed, 24 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 3-6 
+event: Verse by Verse Bible Study 
+teaching number: W385</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/y9VK2YP7-LDq1jMq6.m4a" length="68106483" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4805</itunes:duration>
+      </item>
+      <item>
+        <title>Happy Deathday To You - Ecclesiastes 7:1</title>
+        <link>https://www.joncourson.com/playteaching/S351/teachingaudio</link>
+        <description>Happy Deathday To You - Ecclesiastes 7:1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S351</guid>
+        <pubDate>Sun, 28 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 7:1 
+event: Sunday Sermon 
+teaching number: S351</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KJRb6PDv-LDq1jMq6.m4a" length="29706461" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2096</itunes:duration>
       </item>
       <item>
         <title>Ecclesiastes 7-9</title>
-        <link>https://cdn.jwplayer.com/previews/lFQ5JTpM</link>
+        <link>https://www.joncourson.com/playteaching/W386/teachingaudio</link>
         <description>Ecclesiastes 7-9</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7204</guid>
-        <pubDate>Wed, 17 Feb 2016 08:00:00 GMT</pubDate>
-        <description>Ecclesiastes 7-9 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/lFQ5JTpM-LDq1jMq6.m4a" length="48542512" type="audio/mp4"/>
+        <guid isPermaLink="false">joncourson-searchlight-W386</guid>
+        <pubDate>Wed, 01 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 7-9 
+event: Verse by Verse Bible Study 
+teaching number: W386</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QDhn4g1z-LDq1jMq6.m4a" length="61323357" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3425</itunes:duration>
+        <itunes:duration>4326</itunes:duration>
+      </item>
+      <item>
+        <title>On Getting Older - Ecclesiastes 12:1-7</title>
+        <link>https://www.joncourson.com/playteaching/S352/teachingaudio</link>
+        <description>On Getting Older - Ecclesiastes 12:1-7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S352</guid>
+        <pubDate>Sun, 05 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 12:1-7 
+event: Sunday Sermon 
+teaching number: S352</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/l6jzQ0bt-LDq1jMq6.m4a" length="37317322" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2633</itunes:duration>
       </item>
       <item>
         <title>Ecclesiastes 10-12</title>
-        <link>https://cdn.jwplayer.com/previews/cNzkPsVA</link>
+        <link>https://www.joncourson.com/playteaching/W387/teachingaudio</link>
         <description>Ecclesiastes 10-12</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W7205</guid>
-        <pubDate>Wed, 24 Feb 2016 08:00:00 GMT</pubDate>
-        <description>Ecclesiastes 10-12 - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/cNzkPsVA-LDq1jMq6.m4a" length="59603985" type="audio/mp4"/>
+        <guid isPermaLink="false">joncourson-searchlight-W387</guid>
+        <pubDate>Wed, 08 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 10-12 
+event: Verse by Verse Bible Study 
+teaching number: W387</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/j0stx1r0-LDq1jMq6.m4a" length="65500575" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4205</itunes:duration>
+        <itunes:duration>4621</itunes:duration>
       </item>
   </channel>
   </rss>

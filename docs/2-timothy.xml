@@ -3,11 +3,15 @@
    <channel>
     <title>2 Timothy with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/2-timothy</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Wed, 18 Dec 2019 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Sun, 09 May 1993 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-timothy.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Timothy with Jon Courson</title>
@@ -28,16 +32,109 @@
     <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
 
       <item>
-        <title>2 Timothy</title>
-        <link>https://cdn.jwplayer.com/previews/BgVDZBrJ</link>
-        <description>2 Timothy</description> 
-        <guid isPermaLink="false">joncourson-searchlight-W9137</guid>
-        <pubDate>Wed, 18 Dec 2019 08:00:00 GMT</pubDate>
-        <description>2 Timothy - Verse by Verse Bible Study</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/BgVDZBrJ-LDq1jMq6.m4a" length="61204562" type="audio/mp4"/>
+        <title>2 Timothy 1</title>
+        <link>https://www.joncourson.com/playteaching/W713/teachingaudio</link>
+        <description>2 Timothy 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W713</guid>
+        <pubDate>Wed, 04 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 1 
+event: Verse by Verse Bible Study 
+teaching number: W713</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bRrhsKqV-LDq1jMq6.m4a" length="60649354" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4318</itunes:duration>
+        <itunes:duration>4279</itunes:duration>
+      </item>
+      <item>
+        <title>Rightly Dividing The Word - 2 Timothy 2:15</title>
+        <link>https://www.joncourson.com/playteaching/S647/teachingaudio</link>
+        <description>Rightly Dividing The Word - 2 Timothy 2:15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S647</guid>
+        <pubDate>Sun, 08 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 2:15 
+event: Sunday Sermon 
+teaching number: S647</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4SKmDUO2-LDq1jMq6.m4a" length="42838726" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3022</itunes:duration>
+      </item>
+      <item>
+        <title>2 Timothy 2</title>
+        <link>https://www.joncourson.com/playteaching/W714/teachingaudio</link>
+        <description>2 Timothy 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W714</guid>
+        <pubDate>Wed, 11 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 2 
+event: Verse by Verse Bible Study 
+teaching number: W714</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nk80MbvR-LDq1jMq6.m4a" length="60995583" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4303</itunes:duration>
+      </item>
+      <item>
+        <title>2 Timothy 3-4</title>
+        <link>https://www.joncourson.com/playteaching/W715/teachingaudio</link>
+        <description>2 Timothy 3-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W715</guid>
+        <pubDate>Wed, 18 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W715</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Z4ky6Wlz-LDq1jMq6.m4a" length="66761766" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4710</itunes:duration>
+      </item>
+      <item>
+        <title>Nevertheless</title>
+        <link>https://www.joncourson.com/playteaching/T388/teachingaudio</link>
+        <description>Nevertheless</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T388</guid>
+        <pubDate>Sun, 25 Jan 2004 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Nevertheless 
+event: 2 Timothy 2:15-19 
+teaching number: T388</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bygCV3MA-LDq1jMq6.m4a" length="51429460" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3628</itunes:duration>
+      </item>
+      <item>
+        <title>Eyes On The Prize</title>
+        <link>https://www.joncourson.com/playteaching/T373/teachingaudio</link>
+        <description>Eyes On The Prize</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T373</guid>
+        <pubDate>Thu, 25 Oct 2001 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Eyes On The Prize 
+event: 2 Timothy 4:6-10 
+teaching number: T373</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8Hb2ENO3-LDq1jMq6.m4a" length="45587175" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3216</itunes:duration>
+      </item>
+      <item>
+        <title>Faith Of Our Mothers - Mother's Day 1993</title>
+        <link>https://www.joncourson.com/playteaching/T227/teachingaudio</link>
+        <description>Faith Of Our Mothers - Mother's Day 1993</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T227</guid>
+        <pubDate>Sun, 09 May 1993 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Mother's Day 1993 
+event: 2 Timothy 1:4-5 
+teaching number: T227</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ii4M3p7J-LDq1jMq6.m4a" length="43728515" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3085</itunes:duration>
       </item>
   </channel>
   </rss>

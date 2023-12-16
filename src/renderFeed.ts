@@ -1,23 +1,10 @@
 
-import * as fs from 'fs';
-import { TeachingFeed } from '../types';
-import { bibleBooks, fileNameSlug } from '../lib/bible';
+import { TeachingFeed } from './types';
 
-const bookGroupings = [
-  { from: 'genesis', to: 'deuteronomy' },
-  { from: 'joshua', to: 'esther' },
-  { from: 'job', to: 'songofsolomon' },
-  { from: 'psalms', to: 'proverbs' },
-  { from: 'isaiah', to: 'malachi' },
-  { from: 'matthew', to: 'acts' },
-  { from: 'romans', to: 'revelation'}
-]
-
-function generateRss(feed: TeachingFeed): string {
+export function renderFeed(feed: TeachingFeed): string {
   let rssItems = '';
   
   feed.teachings.forEach(teaching => {
-
     if (!teaching.media?.source) {
       return
     }
@@ -27,14 +14,25 @@ function generateRss(feed: TeachingFeed): string {
       return
     }
 
+    const description = `
+series: ${teaching.series} 
+passage: ${teaching.passage || 'Bible Passage'} 
+event: ${teaching.event || 'Event'} 
+teaching number: ${teaching.teachingNumber}
+  `.trim()
+
+   const link = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio` 
+
+  // <link>${teaching.media.link}</link>
+
     rssItems += `
       <item>
         <title>${teaching.title || 'Untitled Teaching'}</title>
-        <link>${teaching.media.link}</link>
+        <link>${link}</link>
         <description>${teaching.title}</description> 
         <guid isPermaLink="false">joncourson-searchlight-${teaching.teachingNumber}</guid>
         <pubDate>${new Date(teaching.date).toUTCString()}</pubDate>
-        <description>${teaching.passage || 'Bible Passage'} - ${teaching.event || 'Event'}</description>
+        <description>${description}</description>
         <enclosure url="${teaching.media.source.file}" length="${teaching.media.source.filesize}" type="${teaching.media.source.type}"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -53,7 +51,11 @@ function generateRss(feed: TeachingFeed): string {
    <channel>
     <title>${feedTitle}</title>
     <link>${teachingLink}</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
@@ -80,15 +82,3 @@ ${rssItems}
   </channel>
   </rss>`;
 }
-
-function main() {
-  for(const book of bibleBooks) {
-    console.log(book)
-    const slug = fileNameSlug(book)
-    const feed = JSON.parse(fs.readFileSync(`docs/${slug}.json`, 'utf8')) as TeachingFeed;
-    const rss = generateRss(feed);
-    fs.writeFileSync(`docs/${slug}.xml`, rss);
-  }
-}
-
-main()

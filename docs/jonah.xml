@@ -3,11 +3,15 @@
    <channel>
     <title>Jonah with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/jonah</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Wed, 22 Feb 1989 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/jonah.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Jonah with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>Jonah 1-2</title>
-        <link>https://cdn.jwplayer.com/previews/vjm7KYtz</link>
+        <link>https://www.joncourson.com/playteaching/W454/teachingaudio</link>
         <description>Jonah 1-2</description> 
         <guid isPermaLink="false">joncourson-searchlight-W454</guid>
         <pubDate>Wed, 08 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Jonah 1-2 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W454</description>
         <enclosure url="https://cdn.jwplayer.com/videos/vjm7KYtz-LDq1jMq6.m4a" length="50632874" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>Preparing And Repairing - Jonah 4</title>
-        <link>https://cdn.jwplayer.com/previews/sfpJQS7q</link>
+        <link>https://www.joncourson.com/playteaching/S418/teachingaudio</link>
         <description>Preparing And Repairing - Jonah 4</description> 
         <guid isPermaLink="false">joncourson-searchlight-S418</guid>
         <pubDate>Sun, 12 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Jonah 4 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 4 
+event: Sunday Sermon 
+teaching number: S418</description>
         <enclosure url="https://cdn.jwplayer.com/videos/sfpJQS7q-LDq1jMq6.m4a" length="34235017" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -53,11 +63,14 @@
       </item>
       <item>
         <title>A Whale Of A Sign - Jonah 1:17</title>
-        <link>https://cdn.jwplayer.com/previews/pexmK0ZO</link>
+        <link>https://www.joncourson.com/playteaching/S419/teachingaudio</link>
         <description>A Whale Of A Sign - Jonah 1:17</description> 
         <guid isPermaLink="false">joncourson-searchlight-S419</guid>
         <pubDate>Sun, 19 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Jonah 1:17 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 1:17 
+event: Sunday Sermon 
+teaching number: S419</description>
         <enclosure url="https://cdn.jwplayer.com/videos/pexmK0ZO-LDq1jMq6.m4a" length="47170915" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -65,11 +78,14 @@
       </item>
       <item>
         <title>Jonah 3-4</title>
-        <link>https://cdn.jwplayer.com/previews/5JLvbWBG</link>
+        <link>https://www.joncourson.com/playteaching/W455/teachingaudio</link>
         <description>Jonah 3-4</description> 
         <guid isPermaLink="false">joncourson-searchlight-W455</guid>
         <pubDate>Wed, 22 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Jonah 3-4 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W455</description>
         <enclosure url="https://cdn.jwplayer.com/videos/5JLvbWBG-LDq1jMq6.m4a" length="53486137" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>

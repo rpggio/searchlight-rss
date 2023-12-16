@@ -3,11 +3,15 @@
    <channel>
     <title>Micah with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/micah</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Aug 1983 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/micah.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Micah with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>What The Lord Requires - Micah 6:6-8</title>
-        <link>https://cdn.jwplayer.com/previews/m6qZwLeb</link>
+        <link>https://www.joncourson.com/playteaching/S420/teachingaudio</link>
         <description>What The Lord Requires - Micah 6:6-8</description> 
         <guid isPermaLink="false">joncourson-searchlight-S420</guid>
         <pubDate>Sun, 26 Feb 1989 08:00:00 GMT</pubDate>
-        <description>Micah 6:6-8 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 6:6-8 
+event: Sunday Sermon 
+teaching number: S420</description>
         <enclosure url="https://cdn.jwplayer.com/videos/m6qZwLeb-LDq1jMq6.m4a" length="42111755" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>Micah 1-3</title>
-        <link>https://cdn.jwplayer.com/previews/9rC4zMiq</link>
+        <link>https://www.joncourson.com/playteaching/W456/teachingaudio</link>
         <description>Micah 1-3</description> 
         <guid isPermaLink="false">joncourson-searchlight-W456</guid>
         <pubDate>Wed, 01 Mar 1989 08:00:00 GMT</pubDate>
-        <description>Micah 1-3 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W456</description>
         <enclosure url="https://cdn.jwplayer.com/videos/9rC4zMiq-LDq1jMq6.m4a" length="44954514" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -53,11 +63,14 @@
       </item>
       <item>
         <title>Our Vision: Reviewed And Renewed - Micah 4:1-2</title>
-        <link>https://cdn.jwplayer.com/previews/wSPp7PtF</link>
+        <link>https://www.joncourson.com/playteaching/S421/teachingaudio</link>
         <description>Our Vision: Reviewed And Renewed - Micah 4:1-2</description> 
         <guid isPermaLink="false">joncourson-searchlight-S421</guid>
         <pubDate>Sun, 05 Mar 1989 08:00:00 GMT</pubDate>
-        <description>Micah 4:1-2 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4:1-2 
+event: Sunday Sermon 
+teaching number: S421</description>
         <enclosure url="https://cdn.jwplayer.com/videos/wSPp7PtF-LDq1jMq6.m4a" length="57331331" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -65,11 +78,14 @@
       </item>
       <item>
         <title>Micah 4-6</title>
-        <link>https://cdn.jwplayer.com/previews/r3qLwUVe</link>
+        <link>https://www.joncourson.com/playteaching/W457/teachingaudio</link>
         <description>Micah 4-6</description> 
         <guid isPermaLink="false">joncourson-searchlight-W457</guid>
         <pubDate>Wed, 08 Mar 1989 08:00:00 GMT</pubDate>
-        <description>Micah 4-6 - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4-6 
+event: Verse by Verse Bible Study 
+teaching number: W457</description>
         <enclosure url="https://cdn.jwplayer.com/videos/r3qLwUVe-LDq1jMq6.m4a" length="55337769" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -77,15 +93,48 @@
       </item>
       <item>
         <title>None Like Him... None But Him - Micah 7</title>
-        <link>https://cdn.jwplayer.com/previews/qXcy2k4h</link>
+        <link>https://www.joncourson.com/playteaching/S422/teachingaudio</link>
         <description>None Like Him... None But Him - Micah 7</description> 
         <guid isPermaLink="false">joncourson-searchlight-S422</guid>
         <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
-        <description>Micah 7 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 7 
+event: Sunday Sermon 
+teaching number: S422</description>
         <enclosure url="https://cdn.jwplayer.com/videos/qXcy2k4h-LDq1jMq6.m4a" length="46275408" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3265</itunes:duration>
+      </item>
+      <item>
+        <title>Oh Little Town Of Bethlehem</title>
+        <link>https://www.joncourson.com/playteaching/T157/teachingaudio</link>
+        <description>Oh Little Town Of Bethlehem</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T157</guid>
+        <pubDate>Sun, 20 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Oh Little Town Of Bethlehem 
+event: Micah 5:2 
+teaching number: T157</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/foGWjgTP-LDq1jMq6.m4a" length="28730869" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2027</itunes:duration>
+      </item>
+      <item>
+        <title>Our Fellowship's Foundation And Future</title>
+        <link>https://www.joncourson.com/playteaching/T090/teachingaudio</link>
+        <description>Our Fellowship's Foundation And Future</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T090</guid>
+        <pubDate>Sun, 14 Aug 1983 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Our Fellowship's Foundation And Future 
+event: Micah 4:1-2 
+teaching number: T090</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UPfKgQLI-LDq1jMq6.m4a" length="57980815" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4091</itunes:duration>
       </item>
   </channel>
   </rss>

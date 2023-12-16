@@ -3,11 +3,15 @@
    <channel>
     <title>2 John with Jon Courson</title>
     <link>https://www.joncourson.com/teachings/2-john</link>
-    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>Wed, 23 Oct 1996 07:00:00 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 21:43:41 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-john.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 John with Jon Courson</title>
@@ -29,11 +33,14 @@
 
       <item>
         <title>Children Walking In Truth - 2 John 4</title>
-        <link>https://cdn.jwplayer.com/previews/E4Kvdv6o</link>
+        <link>https://www.joncourson.com/playteaching/S684/teachingaudio</link>
         <description>Children Walking In Truth - 2 John 4</description> 
         <guid isPermaLink="false">joncourson-searchlight-S684</guid>
         <pubDate>Sun, 13 Oct 1996 07:00:00 GMT</pubDate>
-        <description>2 John 4 - Sunday Sermon</description>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 John 4 
+event: Sunday Sermon 
+teaching number: S684</description>
         <enclosure url="https://cdn.jwplayer.com/videos/E4Kvdv6o-LDq1jMq6.m4a" length="58304304" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -41,11 +48,14 @@
       </item>
       <item>
         <title>2 John and 3 John</title>
-        <link>https://cdn.jwplayer.com/previews/mI04ySbl</link>
+        <link>https://www.joncourson.com/playteaching/W756/teachingaudio</link>
         <description>2 John and 3 John</description> 
         <guid isPermaLink="false">joncourson-searchlight-W756</guid>
         <pubDate>Wed, 23 Oct 1996 07:00:00 GMT</pubDate>
-        <description>2 John and 3 John - Verse by Verse Bible Study</description>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 John and 3 John 
+event: Verse by Verse Bible Study 
+teaching number: W756</description>
         <enclosure url="https://cdn.jwplayer.com/videos/mI04ySbl-LDq1jMq6.m4a" length="67811010" type="audio/mp4"/>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
