@@ -24,6 +24,16 @@ export function * allTeachings(): Iterable<Teaching & { book: string }> {
    }
 }
 
+export function * earlySeriesTeachings() {
+   for (const feed of allFeeds()) {
+      feed.teachings = feed.teachings.filter(t =>
+         t.series === 'Thru-The-Bible Studies'
+         || (t.series === 'Miscellaneous Bible Studies' && new Date(t.date) < new Date('2004-12-31'))
+      )
+      yield feed
+   }
+}
+
 export function fileNameSlug(book: string) {
    return book.toLowerCase().replace(/ /g, '-')
 }
