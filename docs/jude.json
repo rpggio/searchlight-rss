@@ -1,0 +1,43 @@
+{
+   "title": "Jude",
+   "teachings": [
+      {
+         "date": "10-27-96",
+         "title": "God Is Able - Jude 24",
+         "passage": "Jude 24",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S686",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3ycuYJLC",
+            "duration": 3125,
+            "pubdate": 1481154735,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3ycuYJLC-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 44293472
+            }
+         }
+      },
+      {
+         "date": "10-30-96",
+         "title": "Jude",
+         "passage": "Jude",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W757",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/qox56ij4",
+            "duration": 4464,
+            "pubdate": 1481157456,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/qox56ij4-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 63275662
+            }
+         }
+      }
+   ]
+}

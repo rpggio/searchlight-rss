@@ -1,0 +1,43 @@
+{
+   "title": "Titus",
+   "teachings": [
+      {
+         "date": "01-05-20",
+         "title": "20/20 Vision",
+         "passage": "20/20 Vision",
+         "event": "Prophecy Update: January 5, 2020",
+         "teachingNumber": "S9050",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/RegIb30d",
+            "duration": 3715,
+            "pubdate": 1578260377,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/RegIb30d-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 52658088
+            }
+         }
+      },
+      {
+         "date": "01-08-20",
+         "title": "Titus",
+         "passage": "Titus",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W9138",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Eiu6S1Tz",
+            "duration": 4150,
+            "pubdate": 1578545214,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Eiu6S1Tz-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58823356
+            }
+         }
+      }
+   ]
+}

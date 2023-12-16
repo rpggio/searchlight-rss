@@ -1,0 +1,43 @@
+{
+   "title": "Haggai",
+   "teachings": [
+      {
+         "date": "04-09-89",
+         "title": "Now Is The Time - Haggai 2:4",
+         "passage": "Haggai 2:4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S425",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/qBwtTeXI",
+            "duration": 2910,
+            "pubdate": 1481154346,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/qBwtTeXI-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 41252205
+            }
+         }
+      },
+      {
+         "date": "04-12-89",
+         "title": "Haggai",
+         "passage": "Haggai",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W462",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/PCvUfyE6",
+            "duration": 3839,
+            "pubdate": 1481156393,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/PCvUfyE6-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 54408909
+            }
+         }
+      }
+   ]
+}

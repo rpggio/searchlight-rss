@@ -1,6 +1,17 @@
 
 import * as fs from 'fs';
 import { TeachingFeed } from '../types';
+import { bibleBooks, fileNameSlug } from '../lib/bible';
+
+const bookGroupings = [
+  { from: 'genesis', to: 'deuteronomy' },
+  { from: 'joshua', to: 'esther' },
+  { from: 'job', to: 'songofsolomon' },
+  { from: 'psalms', to: 'proverbs' },
+  { from: 'isaiah', to: 'malachi' },
+  { from: 'matthew', to: 'acts' },
+  { from: 'romans', to: 'revelation'}
+]
 
 function generateRss(feed: TeachingFeed): string {
   let rssItems = '';
@@ -71,11 +82,13 @@ ${rssItems}
 }
 
 function main() {
-  const book = 'Judges'
-  const bookSlug = book.toLowerCase().replace(/ /g, '-');
-  const feed = JSON.parse(fs.readFileSync(`docs/${bookSlug}.json`, 'utf8')) as TeachingFeed;
-  const rss = generateRss(feed);
-  fs.writeFileSync(`docs/${bookSlug}.xml`, rss);
+  for(const book of bibleBooks) {
+    console.log(book)
+    const slug = fileNameSlug(book)
+    const feed = JSON.parse(fs.readFileSync(`docs/${slug}.json`, 'utf8')) as TeachingFeed;
+    const rss = generateRss(feed);
+    fs.writeFileSync(`docs/${slug}.xml`, rss);
+  }
 }
 
 main()

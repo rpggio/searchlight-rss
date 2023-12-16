@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Nahum with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/nahum</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 15 Mar 1989 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/nahum.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Nahum with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/nahum</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Nahum</title>
+        <link>https://cdn.jwplayer.com/previews/K8P2wj4X</link>
+        <description>Nahum</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W458</guid>
+        <pubDate>Wed, 15 Mar 1989 08:00:00 GMT</pubDate>
+        <description>Nahum - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K8P2wj4X-LDq1jMq6.m4a" length="66412139" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4685</itunes:duration>
+      </item>
+  </channel>
+  </rss>

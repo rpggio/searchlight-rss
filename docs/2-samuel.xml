@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>2 Samuel with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/2-samuel</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 14 Jul 2002 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/2-samuel.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>2 Samuel with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/2-samuel</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Abner: From Fighting To Following - 2 Samuel 2-3</title>
+        <link>https://cdn.jwplayer.com/previews/w19UHah4</link>
+        <description>Abner: From Fighting To Following - 2 Samuel 2-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S272</guid>
+        <pubDate>Sun, 24 Mar 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 2-3 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/w19UHah4-LDq1jMq6.m4a" length="33360772" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2353</itunes:duration>
+      </item>
+      <item>
+        <title>Bringing In The Glory Of God - 2 Samuel 6</title>
+        <link>https://cdn.jwplayer.com/previews/Kaa7acRj</link>
+        <description>Bringing In The Glory Of God - 2 Samuel 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S273</guid>
+        <pubDate>Sun, 31 Mar 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 6 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Kaa7acRj-LDq1jMq6.m4a" length="40812489" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2879</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 1-4</title>
+        <link>https://cdn.jwplayer.com/previews/f8kpMyua</link>
+        <description>2 Samuel 1-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W297</guid>
+        <pubDate>Wed, 03 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 1-4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/f8kpMyua-LDq1jMq6.m4a" length="52903056" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3732</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 5-8</title>
+        <link>https://cdn.jwplayer.com/previews/em9s6nnV</link>
+        <description>2 Samuel 5-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W298</guid>
+        <pubDate>Wed, 10 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 5-8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/em9s6nnV-LDq1jMq6.m4a" length="58044516" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4095</itunes:duration>
+      </item>
+      <item>
+        <title>Come To The King's Table - 2 Samuel 9</title>
+        <link>https://cdn.jwplayer.com/previews/UXffWDnh</link>
+        <description>Come To The King's Table - 2 Samuel 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S274</guid>
+        <pubDate>Sun, 14 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 9 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UXffWDnh-LDq1jMq6.m4a" length="34330036" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2422</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 9-12</title>
+        <link>https://cdn.jwplayer.com/previews/8QjO754p</link>
+        <description>2 Samuel 9-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W299</guid>
+        <pubDate>Wed, 17 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 9-12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8QjO754p-LDq1jMq6.m4a" length="62379184" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4401</itunes:duration>
+      </item>
+      <item>
+        <title>A Long Look At Lust - 2 Samuel 13</title>
+        <link>https://cdn.jwplayer.com/previews/nim4WAM0</link>
+        <description>A Long Look At Lust - 2 Samuel 13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S275</guid>
+        <pubDate>Sun, 21 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nim4WAM0-LDq1jMq6.m4a" length="42524602" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3000</itunes:duration>
+      </item>
+      <item>
+        <title>Putting Up With Put Downs - 2 Samuel 16:5-14</title>
+        <link>https://cdn.jwplayer.com/previews/OQRBaYdn</link>
+        <description>Putting Up With Put Downs - 2 Samuel 16:5-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S276</guid>
+        <pubDate>Sun, 28 Apr 1985 08:00:00 GMT</pubDate>
+        <description>2 Samuel 16:5-14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OQRBaYdn-LDq1jMq6.m4a" length="50098342" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3534</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 13-15</title>
+        <link>https://cdn.jwplayer.com/previews/8rlUgYSj</link>
+        <description>2 Samuel 13-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W300</guid>
+        <pubDate>Wed, 01 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 13-15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8rlUgYSj-LDq1jMq6.m4a" length="46560019" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3285</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 15-18</title>
+        <link>https://cdn.jwplayer.com/previews/udBAvVmZ</link>
+        <description>2 Samuel 15-18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W301</guid>
+        <pubDate>Wed, 08 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 15-18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/udBAvVmZ-LDq1jMq6.m4a" length="57834431" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4080</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 18-19</title>
+        <link>https://cdn.jwplayer.com/previews/XHIUptyo</link>
+        <description>2 Samuel 18-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W302</guid>
+        <pubDate>Wed, 15 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 18-19 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XHIUptyo-LDq1jMq6.m4a" length="44606470" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3147</itunes:duration>
+      </item>
+      <item>
+        <title>Dry Times - 2 Samuel 21:1-14</title>
+        <link>https://cdn.jwplayer.com/previews/ipjwQKLa</link>
+        <description>Dry Times - 2 Samuel 21:1-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S277</guid>
+        <pubDate>Sun, 19 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 21:1-14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ipjwQKLa-LDq1jMq6.m4a" length="32975539" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2326</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 20-23</title>
+        <link>https://cdn.jwplayer.com/previews/yD9zCE7g</link>
+        <description>2 Samuel 20-23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W303</guid>
+        <pubDate>Wed, 22 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 20-23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yD9zCE7g-LDq1jMq6.m4a" length="56240020" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3968</itunes:duration>
+      </item>
+      <item>
+        <title>Paying The Full Price - 2 Samuel 24</title>
+        <link>https://cdn.jwplayer.com/previews/yyVYlSqn</link>
+        <description>Paying The Full Price - 2 Samuel 24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S278</guid>
+        <pubDate>Sun, 26 May 1985 07:00:00 GMT</pubDate>
+        <description>2 Samuel 24 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yyVYlSqn-LDq1jMq6.m4a" length="30932540" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2182</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 1</title>
+        <link>https://cdn.jwplayer.com/previews/qsMVgkgT</link>
+        <description>2 Samuel 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3178</guid>
+        <pubDate>Wed, 24 Apr 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 1 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qsMVgkgT-LDq1jMq6.m4a" length="48439536" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3417</itunes:duration>
+      </item>
+      <item>
+        <title>Shimmying Up The Shaft - 2 Samuel 5:4-10</title>
+        <link>https://cdn.jwplayer.com/previews/IFqRNQio</link>
+        <description>Shimmying Up The Shaft - 2 Samuel 5:4-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3146</guid>
+        <pubDate>Sun, 28 Apr 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 5:4-10 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IFqRNQio-LDq1jMq6.m4a" length="39047017" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2755</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 2-3</title>
+        <link>https://cdn.jwplayer.com/previews/M3XpafL4</link>
+        <description>2 Samuel 2-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3179</guid>
+        <pubDate>Wed, 01 May 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 2-3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/M3XpafL4-LDq1jMq6.m4a" length="47995363" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3386</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 3-5</title>
+        <link>https://cdn.jwplayer.com/previews/iOYgEyQI</link>
+        <description>2 Samuel 3-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3180</guid>
+        <pubDate>Wed, 08 May 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 3-5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/iOYgEyQI-LDq1jMq6.m4a" length="54530205" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3847</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 5</title>
+        <link>https://cdn.jwplayer.com/previews/Q2MktLob</link>
+        <description>2 Samuel 5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3181</guid>
+        <pubDate>Wed, 15 May 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Q2MktLob-LDq1jMq6.m4a" length="51662437" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3645</itunes:duration>
+      </item>
+      <item>
+        <title>Stepping Into His Glory - 2 Samuel 6</title>
+        <link>https://cdn.jwplayer.com/previews/gKeirEfJ</link>
+        <description>Stepping Into His Glory - 2 Samuel 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3147</guid>
+        <pubDate>Sun, 19 May 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 6 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gKeirEfJ-LDq1jMq6.m4a" length="37784835" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2666</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 7</title>
+        <link>https://cdn.jwplayer.com/previews/T6IOPuXj</link>
+        <description>2 Samuel 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3182</guid>
+        <pubDate>Wed, 29 May 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/T6IOPuXj-LDq1jMq6.m4a" length="39955821" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2819</itunes:duration>
+      </item>
+      <item>
+        <title>Been Dropped? - 2 Samuel 9</title>
+        <link>https://cdn.jwplayer.com/previews/s2dysBiD</link>
+        <description>Been Dropped? - 2 Samuel 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3148</guid>
+        <pubDate>Sun, 02 Jun 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 9 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/s2dysBiD-LDq1jMq6.m4a" length="36642972" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2585</itunes:duration>
+      </item>
+      <item>
+        <title>A Lesson On Lust - 2 Samuel 13:1-29</title>
+        <link>https://cdn.jwplayer.com/previews/go6ArMrs</link>
+        <description>A Lesson On Lust - 2 Samuel 13:1-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3149</guid>
+        <pubDate>Sun, 09 Jun 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 13:1-29 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/go6ArMrs-LDq1jMq6.m4a" length="52492214" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3703</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 8-9</title>
+        <link>https://cdn.jwplayer.com/previews/1AWhjUOC</link>
+        <description>2 Samuel 8-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3183</guid>
+        <pubDate>Wed, 12 Jun 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 8-9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1AWhjUOC-LDq1jMq6.m4a" length="41706157" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2942</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 10</title>
+        <link>https://cdn.jwplayer.com/previews/17WoYmHL</link>
+        <description>2 Samuel 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3184</guid>
+        <pubDate>Wed, 19 Jun 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/17WoYmHL-LDq1jMq6.m4a" length="48974586" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3455</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 11</title>
+        <link>https://cdn.jwplayer.com/previews/l6dYflO3</link>
+        <description>2 Samuel 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3185</guid>
+        <pubDate>Wed, 26 Jun 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/l6dYflO3-LDq1jMq6.m4a" length="46345032" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3270</itunes:duration>
+      </item>
+      <item>
+        <title>2 Samuel 12:1-14</title>
+        <link>https://cdn.jwplayer.com/previews/cV0E5L6n</link>
+        <description>2 Samuel 12:1-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3186</guid>
+        <pubDate>Wed, 03 Jul 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 12:1-14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cV0E5L6n-LDq1jMq6.m4a" length="46983718" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3315</itunes:duration>
+      </item>
+      <item>
+        <title>Hung Up In Bitterness - 2 Samuel 16-17</title>
+        <link>https://cdn.jwplayer.com/previews/8fnBuOpX</link>
+        <description>Hung Up In Bitterness - 2 Samuel 16-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3150</guid>
+        <pubDate>Sun, 14 Jul 2002 07:00:00 GMT</pubDate>
+        <description>2 Samuel 16-17 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8fnBuOpX-LDq1jMq6.m4a" length="50499869" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3563</itunes:duration>
+      </item>
+  </channel>
+  </rss>

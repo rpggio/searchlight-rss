@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Luke with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/luke</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 06 Dec 2017 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/luke.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Luke with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/luke</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Luke 1:1-25</title>
+        <link>https://cdn.jwplayer.com/previews/6ti6JfDj</link>
+        <description>Luke 1:1-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9001</guid>
+        <pubDate>Sun, 01 Nov 2015 07:00:00 GMT</pubDate>
+        <description>Luke 1:1-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6ti6JfDj-LDq1jMq6.m4a" length="36725189" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2591</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 1:26-38</title>
+        <link>https://cdn.jwplayer.com/previews/vtAQ97PW</link>
+        <description>Luke 1:26-38</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9002</guid>
+        <pubDate>Sun, 08 Nov 2015 08:00:00 GMT</pubDate>
+        <description>Luke 1:26-38 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vtAQ97PW-LDq1jMq6.m4a" length="32271791" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2277</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 1:39-45</title>
+        <link>https://cdn.jwplayer.com/previews/Moi2196N</link>
+        <description>Luke 1:39-45</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9003</guid>
+        <pubDate>Sun, 22 Nov 2015 08:00:00 GMT</pubDate>
+        <description>Luke 1:39-45 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Moi2196N-LDq1jMq6.m4a" length="38990533" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2751</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 1:46 - 2:20</title>
+        <link>https://cdn.jwplayer.com/previews/SeITCi5T</link>
+        <description>Luke 1:46 - 2:20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9004</guid>
+        <pubDate>Sun, 13 Dec 2015 08:00:00 GMT</pubDate>
+        <description>Luke 1:46 - 2:20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SeITCi5T-LDq1jMq6.m4a" length="41994104" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2963</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 2:21-34</title>
+        <link>https://cdn.jwplayer.com/previews/7WQDy7v5</link>
+        <description>Luke 2:21-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9005</guid>
+        <pubDate>Sun, 27 Dec 2015 08:00:00 GMT</pubDate>
+        <description>Luke 2:21-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7WQDy7v5-LDq1jMq6.m4a" length="43526290" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3071</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 2:36-40</title>
+        <link>https://cdn.jwplayer.com/previews/xJB7J4tO</link>
+        <description>Luke 2:36-40</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9006</guid>
+        <pubDate>Sun, 17 Jan 2016 08:00:00 GMT</pubDate>
+        <description>Luke 2:36-40 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xJB7J4tO-LDq1jMq6.m4a" length="39048876" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2755</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 2:41-50</title>
+        <link>https://cdn.jwplayer.com/previews/ijlUO36O</link>
+        <description>Luke 2:41-50</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9007</guid>
+        <pubDate>Sun, 14 Feb 2016 08:00:00 GMT</pubDate>
+        <description>Luke 2:41-50 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ijlUO36O-LDq1jMq6.m4a" length="51242373" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3615</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 2:51 - 3:18</title>
+        <link>https://cdn.jwplayer.com/previews/CrkwZHdF</link>
+        <description>Luke 2:51 - 3:18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9008</guid>
+        <pubDate>Sun, 13 Mar 2016 08:00:00 GMT</pubDate>
+        <description>Luke 2:51 - 3:18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CrkwZHdF-LDq1jMq6.m4a" length="47889633" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3379</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 3:18-22</title>
+        <link>https://cdn.jwplayer.com/previews/QsyWTDbK</link>
+        <description>Luke 3:18-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9009</guid>
+        <pubDate>Sun, 24 Apr 2016 07:00:00 GMT</pubDate>
+        <description>Luke 3:18-22 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QsyWTDbK-LDq1jMq6.m4a" length="53850874" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3799</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 3:23 - 4:14</title>
+        <link>https://cdn.jwplayer.com/previews/xi7W9VbK</link>
+        <description>Luke 3:23 - 4:14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9010</guid>
+        <pubDate>Sun, 05 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Luke 3:23 - 4:14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xi7W9VbK-LDq1jMq6.m4a" length="33379468" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2355</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 4:16-30</title>
+        <link>https://cdn.jwplayer.com/previews/2Y3KUzak</link>
+        <description>Luke 4:16-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9011</guid>
+        <pubDate>Sun, 26 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Luke 4:16-30 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2Y3KUzak-LDq1jMq6.m4a" length="48299943" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3407</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 4:31-44</title>
+        <link>https://cdn.jwplayer.com/previews/jmUB4xb3</link>
+        <description>Luke 4:31-44</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9012</guid>
+        <pubDate>Sun, 10 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Luke 4:31-44 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jmUB4xb3-LDq1jMq6.m4a" length="31225243" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2203</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 5:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/t2h7bnWo</link>
+        <description>Luke 5:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9013</guid>
+        <pubDate>Sun, 31 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Luke 5:1-11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/t2h7bnWo-LDq1jMq6.m4a" length="30841547" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2176</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 5:12-16</title>
+        <link>https://cdn.jwplayer.com/previews/sV2xhQ6Z</link>
+        <description>Luke 5:12-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9014</guid>
+        <pubDate>Sun, 07 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Luke 5:12-16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sV2xhQ6Z-LDq1jMq6.m4a" length="40861539" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2883</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 5:16-26</title>
+        <link>https://cdn.jwplayer.com/previews/oOYYYwfl</link>
+        <description>Luke 5:16-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9015</guid>
+        <pubDate>Sun, 14 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Luke 5:16-26 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oOYYYwfl-LDq1jMq6.m4a" length="37341949" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2634</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 5:27-39</title>
+        <link>https://cdn.jwplayer.com/previews/doqVTkjs</link>
+        <description>Luke 5:27-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9016</guid>
+        <pubDate>Sun, 04 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Luke 5:27-39 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/doqVTkjs-LDq1jMq6.m4a" length="59441663" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4194</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 6:1-19</title>
+        <link>https://cdn.jwplayer.com/previews/D3SFmUUD</link>
+        <description>Luke 6:1-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9017</guid>
+        <pubDate>Sun, 18 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Luke 6:1-19 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/D3SFmUUD-LDq1jMq6.m4a" length="44916922" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3169</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 6:20-49</title>
+        <link>https://cdn.jwplayer.com/previews/IWjFQnlO</link>
+        <description>Luke 6:20-49</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9018</guid>
+        <pubDate>Sun, 09 Oct 2016 07:00:00 GMT</pubDate>
+        <description>Luke 6:20-49 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IWjFQnlO-LDq1jMq6.m4a" length="55577633" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3921</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 7:1-10</title>
+        <link>https://cdn.jwplayer.com/previews/ci8rK51u</link>
+        <description>Luke 7:1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9019</guid>
+        <pubDate>Sun, 06 Nov 2016 07:00:00 GMT</pubDate>
+        <description>Luke 7:1-10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ci8rK51u-LDq1jMq6.m4a" length="27440203" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1936</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 7:11-17</title>
+        <link>https://cdn.jwplayer.com/previews/t9NUbXDi</link>
+        <description>Luke 7:11-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9020</guid>
+        <pubDate>Sun, 04 Dec 2016 08:00:00 GMT</pubDate>
+        <description>Luke 7:11-17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/t9NUbXDi-LDq1jMq6.m4a" length="43809944" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3091</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 7:17-28</title>
+        <link>https://cdn.jwplayer.com/previews/WTxggJ0Y</link>
+        <description>Luke 7:17-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9021</guid>
+        <pubDate>Sun, 15 Jan 2017 08:00:00 GMT</pubDate>
+        <description>Luke 7:17-28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/WTxggJ0Y-LDq1jMq6.m4a" length="30675295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2164</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 7:28-50</title>
+        <link>https://cdn.jwplayer.com/previews/LHVsLzQv</link>
+        <description>Luke 7:28-50</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9022</guid>
+        <pubDate>Sun, 19 Feb 2017 08:00:00 GMT</pubDate>
+        <description>Luke 7:28-50 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LHVsLzQv-LDq1jMq6.m4a" length="62185447" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4387</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 8:1-21</title>
+        <link>https://cdn.jwplayer.com/previews/KaFcTj3t</link>
+        <description>Luke 8:1-21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9023</guid>
+        <pubDate>Sun, 12 Mar 2017 08:00:00 GMT</pubDate>
+        <description>Luke 8:1-21 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KaFcTj3t-LDq1jMq6.m4a" length="44597382" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3146</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 8:22-25</title>
+        <link>https://cdn.jwplayer.com/previews/rGCKozLM</link>
+        <description>Luke 8:22-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9024</guid>
+        <pubDate>Sun, 02 Apr 2017 07:00:00 GMT</pubDate>
+        <description>Luke 8:22-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/rGCKozLM-LDq1jMq6.m4a" length="40014251" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2823</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 8:26-39</title>
+        <link>https://cdn.jwplayer.com/previews/JP7n9cjh</link>
+        <description>Luke 8:26-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9025</guid>
+        <pubDate>Sun, 04 Jun 2017 07:00:00 GMT</pubDate>
+        <description>Luke 8:26-39 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JP7n9cjh-LDq1jMq6.m4a" length="61515742" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4340</itunes:duration>
+      </item>
+      <item>
+        <title>Picture Perfect Families - Luke 8:41-56</title>
+        <link>https://cdn.jwplayer.com/previews/RvDBB0UQ</link>
+        <description>Picture Perfect Families - Luke 8:41-56</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9001</guid>
+        <pubDate>Sun, 09 Jul 2017 07:00:00 GMT</pubDate>
+        <description>Luke 8:41-56 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RvDBB0UQ-LDq1jMq6.m4a" length="51992481" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3668</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 9:1-27</title>
+        <link>https://cdn.jwplayer.com/previews/RJ47jgXz</link>
+        <description>Luke 9:1-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9026</guid>
+        <pubDate>Wed, 19 Jul 2017 07:00:00 GMT</pubDate>
+        <description>Luke 9:1-27 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RJ47jgXz-LDq1jMq6.m4a" length="49755849" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3510</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 9:28-46</title>
+        <link>https://cdn.jwplayer.com/previews/UQYm6xtU</link>
+        <description>Luke 9:28-46</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9027</guid>
+        <pubDate>Wed, 26 Jul 2017 07:00:00 GMT</pubDate>
+        <description>Luke 9:28-46 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UQYm6xtU-LDq1jMq6.m4a" length="55751873" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3933</itunes:duration>
+      </item>
+      <item>
+        <title>Beautifully Simple . . . Simply Beautiful - Luke 11:1-4</title>
+        <link>https://cdn.jwplayer.com/previews/tLe9nFRV</link>
+        <description>Beautifully Simple . . . Simply Beautiful - Luke 11:1-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9002</guid>
+        <pubDate>Sun, 30 Jul 2017 07:00:00 GMT</pubDate>
+        <description>Luke 11:1-4 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tLe9nFRV-LDq1jMq6.m4a" length="42071401" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2968</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 9-10</title>
+        <link>https://cdn.jwplayer.com/previews/mndMU4b9</link>
+        <description>Luke 9-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9028</guid>
+        <pubDate>Wed, 02 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 9-10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mndMU4b9-LDq1jMq6.m4a" length="50802580" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3584</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 10:17-42</title>
+        <link>https://cdn.jwplayer.com/previews/Uv1lqovo</link>
+        <description>Luke 10:17-42</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9029</guid>
+        <pubDate>Wed, 09 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 10:17-42 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Uv1lqovo-LDq1jMq6.m4a" length="49465776" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3490</itunes:duration>
+      </item>
+      <item>
+        <title>Empty Tomb - Full Heart! - Luke 11:29-32</title>
+        <link>https://cdn.jwplayer.com/previews/lwrkd6qM</link>
+        <description>Empty Tomb - Full Heart! - Luke 11:29-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9003</guid>
+        <pubDate>Sun, 13 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 11:29-32 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lwrkd6qM-LDq1jMq6.m4a" length="51917171" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3663</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 11</title>
+        <link>https://cdn.jwplayer.com/previews/sa7U9iAx</link>
+        <description>Luke 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9030</guid>
+        <pubDate>Wed, 16 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sa7U9iAx-LDq1jMq6.m4a" length="61657682" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4350</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 12:1-34</title>
+        <link>https://cdn.jwplayer.com/previews/QMO2pfTX</link>
+        <description>Luke 12:1-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9031</guid>
+        <pubDate>Wed, 23 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 12:1-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QMO2pfTX-LDq1jMq6.m4a" length="57812648" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4079</itunes:duration>
+      </item>
+      <item>
+        <title>Salty Discipleship - Luke 14:15-35</title>
+        <link>https://cdn.jwplayer.com/previews/b2ncDevl</link>
+        <description>Salty Discipleship - Luke 14:15-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9004</guid>
+        <pubDate>Sun, 27 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 14:15-35 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/b2ncDevl-LDq1jMq6.m4a" length="59404395" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4191</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 12-13</title>
+        <link>https://cdn.jwplayer.com/previews/dPGKPr6F</link>
+        <description>Luke 12-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9032</guid>
+        <pubDate>Wed, 30 Aug 2017 07:00:00 GMT</pubDate>
+        <description>Luke 12-13 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dPGKPr6F-LDq1jMq6.m4a" length="49734021" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3509</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 13-14</title>
+        <link>https://cdn.jwplayer.com/previews/QFTtbf32</link>
+        <description>Luke 13-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9033</guid>
+        <pubDate>Wed, 06 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 13-14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QFTtbf32-LDq1jMq6.m4a" length="64202135" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4530</itunes:duration>
+      </item>
+      <item>
+        <title>When The Roll Is Called Out Yonder, I'll Be There - Luke 17:11-19</title>
+        <link>https://cdn.jwplayer.com/previews/RxittMem</link>
+        <description>When The Roll Is Called Out Yonder, I'll Be There - Luke 17:11-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9005</guid>
+        <pubDate>Sun, 10 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 17:11-19 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RxittMem-LDq1jMq6.m4a" length="63062668" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4449</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 15</title>
+        <link>https://cdn.jwplayer.com/previews/PT22qN7C</link>
+        <description>Luke 15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9034</guid>
+        <pubDate>Wed, 13 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PT22qN7C-LDq1jMq6.m4a" length="39776417" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2806</itunes:duration>
+      </item>
+      <item>
+        <title>Unworthy Servants (At Best!) - Luke 17:7-10</title>
+        <link>https://cdn.jwplayer.com/previews/VP9Dr7Vo</link>
+        <description>Unworthy Servants (At Best!) - Luke 17:7-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9006</guid>
+        <pubDate>Sun, 17 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 17:7-10 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VP9Dr7Vo-LDq1jMq6.m4a" length="52742252" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3721</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 16</title>
+        <link>https://cdn.jwplayer.com/previews/kVYsHF6a</link>
+        <description>Luke 16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9035</guid>
+        <pubDate>Wed, 20 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kVYsHF6a-LDq1jMq6.m4a" length="44959557" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3172</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 17</title>
+        <link>https://cdn.jwplayer.com/previews/2uxdEy5Z</link>
+        <description>Luke 17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9036</guid>
+        <pubDate>Wed, 27 Sep 2017 07:00:00 GMT</pubDate>
+        <description>Luke 17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2uxdEy5Z-LDq1jMq6.m4a" length="45174936" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3187</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 18:1-34</title>
+        <link>https://cdn.jwplayer.com/previews/5TUjpU6x</link>
+        <description>Luke 18:1-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9037</guid>
+        <pubDate>Wed, 04 Oct 2017 07:00:00 GMT</pubDate>
+        <description>Luke 18:1-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5TUjpU6x-LDq1jMq6.m4a" length="46394830" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3273</itunes:duration>
+      </item>
+      <item>
+        <title>Dream On - Luke 19:11-27</title>
+        <link>https://cdn.jwplayer.com/previews/38z65Sat</link>
+        <description>Dream On - Luke 19:11-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9007</guid>
+        <pubDate>Sun, 08 Oct 2017 07:00:00 GMT</pubDate>
+        <description>Luke 19:11-27 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/38z65Sat-LDq1jMq6.m4a" length="52906019" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3732</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 18-19</title>
+        <link>https://cdn.jwplayer.com/previews/nxWW66IW</link>
+        <description>Luke 18-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9038</guid>
+        <pubDate>Wed, 11 Oct 2017 07:00:00 GMT</pubDate>
+        <description>Luke 18-19 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nxWW66IW-LDq1jMq6.m4a" length="45931862" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3240</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 20</title>
+        <link>https://cdn.jwplayer.com/previews/oWuWvEdu</link>
+        <description>Luke 20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9039</guid>
+        <pubDate>Wed, 01 Nov 2017 07:00:00 GMT</pubDate>
+        <description>Luke 20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oWuWvEdu-LDq1jMq6.m4a" length="53504613" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3775</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 21</title>
+        <link>https://cdn.jwplayer.com/previews/lyj25d7e</link>
+        <description>Luke 21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9040</guid>
+        <pubDate>Wed, 08 Nov 2017 08:00:00 GMT</pubDate>
+        <description>Luke 21 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lyj25d7e-LDq1jMq6.m4a" length="57242931" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4038</itunes:duration>
+      </item>
+      <item>
+        <title>The Crowd Around The Cross - Luke 23:32-47</title>
+        <link>https://cdn.jwplayer.com/previews/h1p3WsfJ</link>
+        <description>The Crowd Around The Cross - Luke 23:32-47</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9008</guid>
+        <pubDate>Sun, 12 Nov 2017 08:00:00 GMT</pubDate>
+        <description>Luke 23:32-47 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/h1p3WsfJ-LDq1jMq6.m4a" length="49569513" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3497</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 22:1-34</title>
+        <link>https://cdn.jwplayer.com/previews/fSaFMd6W</link>
+        <description>Luke 22:1-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9041</guid>
+        <pubDate>Wed, 15 Nov 2017 08:00:00 GMT</pubDate>
+        <description>Luke 22:1-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fSaFMd6W-LDq1jMq6.m4a" length="44056372" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3108</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 23</title>
+        <link>https://cdn.jwplayer.com/previews/Dv3pfeoh</link>
+        <description>Luke 23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9042</guid>
+        <pubDate>Wed, 29 Nov 2017 08:00:00 GMT</pubDate>
+        <description>Luke 23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Dv3pfeoh-LDq1jMq6.m4a" length="60503854" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4269</itunes:duration>
+      </item>
+      <item>
+        <title>Luke 24</title>
+        <link>https://cdn.jwplayer.com/previews/gm5avnT9</link>
+        <description>Luke 24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9043</guid>
+        <pubDate>Wed, 06 Dec 2017 08:00:00 GMT</pubDate>
+        <description>Luke 24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gm5avnT9-LDq1jMq6.m4a" length="57364497" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4047</itunes:duration>
+      </item>
+  </channel>
+  </rss>

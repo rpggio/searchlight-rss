@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>1 Chronicles with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/1-chronicles</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 11 Sep 2013 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/1-chronicles.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>1 Chronicles with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/1-chronicles</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>1 Chronicles 1-9</title>
+        <link>https://cdn.jwplayer.com/previews/GwJPdqq7</link>
+        <description>1 Chronicles 1-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7090</guid>
+        <pubDate>Wed, 31 Jul 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 1-9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GwJPdqq7-LDq1jMq6.m4a" length="58583967" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4133</itunes:duration>
+      </item>
+      <item>
+        <title>1 Chronicles 10-11</title>
+        <link>https://cdn.jwplayer.com/previews/J9YcPkwz</link>
+        <description>1 Chronicles 10-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7091</guid>
+        <pubDate>Wed, 07 Aug 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 10-11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/J9YcPkwz-LDq1jMq6.m4a" length="53088106" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3745</itunes:duration>
+      </item>
+      <item>
+        <title>1 Chronicles 12-15</title>
+        <link>https://cdn.jwplayer.com/previews/FHoOPPob</link>
+        <description>1 Chronicles 12-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7092</guid>
+        <pubDate>Wed, 14 Aug 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 12-15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FHoOPPob-LDq1jMq6.m4a" length="58732382" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4144</itunes:duration>
+      </item>
+      <item>
+        <title>Don't Count On It - 1 Chronicles 21:8</title>
+        <link>https://cdn.jwplayer.com/previews/dTAujyKU</link>
+        <description>Don't Count On It - 1 Chronicles 21:8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S7055</guid>
+        <pubDate>Sun, 18 Aug 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 21:8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dTAujyKU-LDq1jMq6.m4a" length="36343646" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2564</itunes:duration>
+      </item>
+      <item>
+        <title>1 Chronicles 16-19</title>
+        <link>https://cdn.jwplayer.com/previews/fyeXCyNC</link>
+        <description>1 Chronicles 16-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7093</guid>
+        <pubDate>Wed, 28 Aug 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 16-19 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fyeXCyNC-LDq1jMq6.m4a" length="45402096" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3203</itunes:duration>
+      </item>
+      <item>
+        <title>Unleashing Power - 1 Chronicles 21:18 - 22:1</title>
+        <link>https://cdn.jwplayer.com/previews/SUS2YEvB</link>
+        <description>Unleashing Power - 1 Chronicles 21:18 - 22:1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S7056</guid>
+        <pubDate>Sun, 01 Sep 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 21:18 - 22:1 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SUS2YEvB-LDq1jMq6.m4a" length="44936276" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3170</itunes:duration>
+      </item>
+      <item>
+        <title>1 Chronicles 20-25</title>
+        <link>https://cdn.jwplayer.com/previews/pX0feo6L</link>
+        <description>1 Chronicles 20-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7094</guid>
+        <pubDate>Wed, 04 Sep 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 20-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pX0feo6L-LDq1jMq6.m4a" length="64930933" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4581</itunes:duration>
+      </item>
+      <item>
+        <title>1 Chronicles 26-29</title>
+        <link>https://cdn.jwplayer.com/previews/7hg85EuN</link>
+        <description>1 Chronicles 26-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7095</guid>
+        <pubDate>Wed, 11 Sep 2013 07:00:00 GMT</pubDate>
+        <description>1 Chronicles 26-29 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7hg85EuN-LDq1jMq6.m4a" length="67449522" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4759</itunes:duration>
+      </item>
+  </channel>
+  </rss>

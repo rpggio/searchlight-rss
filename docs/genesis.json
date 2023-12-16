@@ -2,6 +2,101 @@
    "title": "Genesis",
    "teachings": [
       {
+         "date": "09-28-97",
+         "title": "How To Read Your Bible - Genesis 5",
+         "passage": "Genesis 5",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3001",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/mJ0z4d0f",
+            "duration": 2763,
+            "pubdate": 1452726389,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/mJ0z4d0f-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 39172600
+            }
+         }
+      },
+      {
+         "date": "10-01-97",
+         "title": "Genesis 1",
+         "passage": "Genesis 1",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3001",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/fBiGAVVu",
+            "duration": 5074,
+            "pubdate": 1481159287,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/fBiGAVVu-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 71920875
+            }
+         }
+      },
+      {
+         "date": "10-05-97",
+         "title": "A Match Made In Heaven - Genesis 2:18-25",
+         "passage": "Genesis 2:18-25",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3002",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/lDZVt1hC",
+            "duration": 3485,
+            "pubdate": 1456264438,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/lDZVt1hC-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 49397574
+            }
+         }
+      },
+      {
+         "date": "10-08-97",
+         "title": "Genesis 2",
+         "passage": "Genesis 2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3002",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/xGLQexkb",
+            "duration": 5354,
+            "pubdate": 1481159287,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/xGLQexkb-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 75883363
+            }
+         }
+      },
+      {
+         "date": "10-12-97",
+         "title": "He Didn't Say That! - Genesis 3:3",
+         "passage": "Genesis 3:3",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3003",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pDWPHjdk",
+            "duration": 3285,
+            "pubdate": 1456264438,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pDWPHjdk-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46558935
+            }
+         }
+      },
+      {
          "date": "10-19-97",
          "title": "Go FIGure! - Genesis 3:6-10, 24",
          "passage": "Genesis 3:6-10, 24",
@@ -93,6 +188,1260 @@
                "label": "AAC Audio",
                "bitrate": 113376,
                "filesize": 44015005
+            }
+         }
+      },
+      {
+         "date": "11-05-97",
+         "title": "Genesis 5",
+         "passage": "Genesis 5",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3005",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/UPI7FIir",
+            "duration": 4227,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/UPI7FIir-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59911995
+            }
+         }
+      },
+      {
+         "date": "11-09-97",
+         "title": "Get On Board . . . Your Family Will Follow - Genesis 6:3 - 7:1",
+         "passage": "Genesis 6:3 - 7:1",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3007",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/rWmblZRo",
+            "duration": 1952,
+            "pubdate": 1456264438,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/rWmblZRo-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 27677371
+            }
+         }
+      },
+      {
+         "date": "11-12-97",
+         "title": "Genesis 6:1-12",
+         "passage": "Genesis 6:1-12",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3006",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/RGWHda5A",
+            "duration": 4770,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/RGWHda5A-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67603811
+            }
+         }
+      },
+      {
+         "date": "11-19-97",
+         "title": "Genesis 6:13-22",
+         "passage": "Genesis 6:13-22",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3007",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3uQK09oy",
+            "duration": 4072,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3uQK09oy-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57723472
+            }
+         }
+      },
+      {
+         "date": "11-23-97",
+         "title": "Resting On The Resurrection - Genesis 8:4",
+         "passage": "Genesis 8:4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3008",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3TsQoEoF",
+            "duration": 4149,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3TsQoEoF-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58807859
+            }
+         }
+      },
+      {
+         "date": "11-30-97",
+         "title": "Reach Out And Touch The One - Genesis 8:6-9",
+         "passage": "Genesis 8:6-9",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3009",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/b9EPXTOL",
+            "duration": 3632,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/b9EPXTOL-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51477631
+            }
+         }
+      },
+      {
+         "date": "12-03-97",
+         "title": "Genesis 7-8",
+         "passage": "Genesis 7-8",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3008",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/UmthXqGs",
+            "duration": 5369,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/UmthXqGs-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 76105799
+            }
+         }
+      },
+      {
+         "date": "12-07-97",
+         "title": "A Loving Covering - Genesis 9:18-25",
+         "passage": "Genesis 9:18-25",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3010",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/eD75CGys",
+            "duration": 3431,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/eD75CGys-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48637068
+            }
+         }
+      },
+      {
+         "date": "12-10-97",
+         "title": "Genesis 9",
+         "passage": "Genesis 9",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3009",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pYxMwk0R",
+            "duration": 5001,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pYxMwk0R-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 70882666
+            }
+         }
+      },
+      {
+         "date": "12-14-97",
+         "title": "Can't We All Just Get Along? - Genesis 11:1-9",
+         "passage": "Genesis 11:1-9",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3011",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/UoOy4DQv",
+            "duration": 2908,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/UoOy4DQv-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 41228134
+            }
+         }
+      },
+      {
+         "date": "12-17-97",
+         "title": "Genesis 10-11",
+         "passage": "Genesis 10-11",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3010",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/9zrRqJzv",
+            "duration": 5463,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/9zrRqJzv-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 77435951
+            }
+         }
+      },
+      {
+         "date": "01-07-98",
+         "title": "Genesis 12",
+         "passage": "Genesis 12",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3011",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/hVVwuvwr",
+            "duration": 5082,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/hVVwuvwr-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 72036289
+            }
+         }
+      },
+      {
+         "date": "01-11-98",
+         "title": "Blest Be The Tithe That Unbinds - Genesis 14:20",
+         "passage": "Genesis 14:20",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3012",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/58GhNhGQ",
+            "duration": 3262,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/58GhNhGQ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46236332
+            }
+         }
+      },
+      {
+         "date": "01-14-98",
+         "title": "Genesis 13-14",
+         "passage": "Genesis 13-14",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3012",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ozhWgado",
+            "duration": 4007,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ozhWgado-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 56799525
+            }
+         }
+      },
+      {
+         "date": "01-18-98",
+         "title": "Be A Promise Taker - Genesis 15",
+         "passage": "Genesis 15",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3013",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/jJLNQUmY",
+            "duration": 3263,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/jJLNQUmY-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46246431
+            }
+         }
+      },
+      {
+         "date": "01-21-98",
+         "title": "Genesis 15-16",
+         "passage": "Genesis 15-16",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3013",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/NnLyeUZJ",
+            "duration": 4516,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/NnLyeUZJ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 64015481
+            }
+         }
+      },
+      {
+         "date": "01-25-98",
+         "title": "Lord, Bless This Mess? - Genesis 17:15-22",
+         "passage": "Genesis 17:15-22",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3014",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/oJriZsI1",
+            "duration": 2869,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/oJriZsI1-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 40669134
+            }
+         }
+      },
+      {
+         "date": "01-29-98",
+         "title": "Genesis 16-17",
+         "passage": "Genesis 16-17",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3014",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/cum2ZmwG",
+            "duration": 3640,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/cum2ZmwG-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51600494
+            }
+         }
+      },
+      {
+         "date": "02-01-98",
+         "title": "The Righteous Judge - Genesis 18:20-33",
+         "passage": "Genesis 18:20-33",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3015",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/PiuJmaf0",
+            "duration": 3674,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/PiuJmaf0-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 52077163
+            }
+         }
+      },
+      {
+         "date": "02-04-98",
+         "title": "Genesis 17-18",
+         "passage": "Genesis 17-18",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3015",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Ggf1OgX0",
+            "duration": 5222,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Ggf1OgX0-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 74018823
+            }
+         }
+      },
+      {
+         "date": "02-08-98",
+         "title": "A Matter Of Integrity - Genesis 20:1-8",
+         "passage": "Genesis 20:1-8",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3016",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pazP8yVg",
+            "duration": 4885,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pazP8yVg-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 69235132
+            }
+         }
+      },
+      {
+         "date": "02-11-98",
+         "title": "Genesis 19",
+         "passage": "Genesis 19",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3016",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/ye8wcXRc",
+            "duration": 4149,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/ye8wcXRc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58815887
+            }
+         }
+      },
+      {
+         "date": "02-18-98",
+         "title": "Genesis 20",
+         "passage": "Genesis 20",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3017",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/R31wuL86",
+            "duration": 3562,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/R31wuL86-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 50493400
+            }
+         }
+      },
+      {
+         "date": "02-22-98",
+         "title": "Make No Provision For The Flesh - Genesis 21:9-17",
+         "passage": "Genesis 21:9-17",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3017",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/svaUqL0M",
+            "duration": 3159,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/svaUqL0M-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 44782760
+            }
+         }
+      },
+      {
+         "date": "02-25-98",
+         "title": "Genesis 21",
+         "passage": "Genesis 21",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3018",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/g1XCGyqZ",
+            "duration": 4824,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/g1XCGyqZ-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 68369872
+            }
+         }
+      },
+      {
+         "date": "03-01-98",
+         "title": "God's Faithfulness To The Jew, To Me, And To You - Genesis 21:14-21",
+         "passage": "Genesis 21:14-21",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3018",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Yq6UH6zi",
+            "duration": 4087,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Yq6UH6zi-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57936772
+            }
+         }
+      },
+      {
+         "date": "03-04-98",
+         "title": "Genesis 22",
+         "passage": "Genesis 22",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3019",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Nn2PwVm8",
+            "duration": 4512,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Nn2PwVm8-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 63946911
+            }
+         }
+      },
+      {
+         "date": "03-08-98",
+         "title": "A Most Precious Picture - Genesis 22",
+         "passage": "Genesis 22",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3019",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3t8T4YTH",
+            "duration": 3255,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3t8T4YTH-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46137909
+            }
+         }
+      },
+      {
+         "date": "03-11-98",
+         "title": "Genesis 23",
+         "passage": "Genesis 23",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3020",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/xehYZSiK",
+            "duration": 4523,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/xehYZSiK-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 64103186
+            }
+         }
+      },
+      {
+         "date": "03-15-98",
+         "title": "Being Brought To Christ - Genesis 24",
+         "passage": "Genesis 24",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3020",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/RoOU17tu",
+            "duration": 3484,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/RoOU17tu-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 49380806
+            }
+         }
+      },
+      {
+         "date": "03-18-98",
+         "title": "Genesis 24",
+         "passage": "Genesis 24",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3021",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pzB0yhlv",
+            "duration": 4758,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pzB0yhlv-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67438064
+            }
+         }
+      },
+      {
+         "date": "03-22-98",
+         "title": "Somebody Has Got To Die - Genesis 25:7-10",
+         "passage": "Genesis 25:7-10",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3021",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/iQPM6mhb",
+            "duration": 3445,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/iQPM6mhb-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 48834394
+            }
+         }
+      },
+      {
+         "date": "03-29-98",
+         "title": "Thy Kingdom Come! - Genesis 25:1-2",
+         "passage": "Genesis 25:1-2",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3022",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/bRUoiAvo",
+            "duration": 3706,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/bRUoiAvo-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 52535526
+            }
+         }
+      },
+      {
+         "date": "04-01-98",
+         "title": "Genesis 25:1-28",
+         "passage": "Genesis 25:1-28",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3022",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/z60Yph2E",
+            "duration": 4106,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/z60Yph2E-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58204326
+            }
+         }
+      },
+      {
+         "date": "04-08-98",
+         "title": "Genesis 25-26",
+         "passage": "Genesis 25-26",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3023",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/lfZ6bRya",
+            "duration": 4780,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/lfZ6bRya-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67746864
+            }
+         }
+      },
+      {
+         "date": "04-15-98",
+         "title": "Genesis 27",
+         "passage": "Genesis 27",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3024",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/yJINGEBA",
+            "duration": 4147,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/yJINGEBA-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58782650
+            }
+         }
+      },
+      {
+         "date": "04-22-98",
+         "title": "Genesis 27-28",
+         "passage": "Genesis 27-28",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3025",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/K9iTUYUc",
+            "duration": 4570,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/K9iTUYUc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 64774428
+            }
+         }
+      },
+      {
+         "date": "04-26-98",
+         "title": "Give Me Children, Or Else I Die - Genesis 30:1-2",
+         "passage": "Genesis 30:1-2",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3023",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/9A5rEgAV",
+            "duration": 2690,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/9A5rEgAV-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 38126701
+            }
+         }
+      },
+      {
+         "date": "05-06-98",
+         "title": "Genesis 29-30",
+         "passage": "Genesis 29-30",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3026",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/8Bf6YqTP",
+            "duration": 4908,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/8Bf6YqTP-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 69559611
+            }
+         }
+      },
+      {
+         "date": "05-13-98",
+         "title": "Genesis 31",
+         "passage": "Genesis 31",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3027",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/lK59WiYP",
+            "duration": 3768,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/lK59WiYP-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 53404852
+            }
+         }
+      },
+      {
+         "date": "05-17-98",
+         "title": "Find Grace In His Sight . . . Now! - Genesis 33:8-15",
+         "passage": "Genesis 33:8-15",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3024",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/5DGR0Rpc",
+            "duration": 2241,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/5DGR0Rpc-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 31766689
+            }
+         }
+      },
+      {
+         "date": "05-24-98",
+         "title": "Prevailing In Prayer - Genesis 32",
+         "passage": "Genesis 32",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3025",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/zfFMYEuf",
+            "duration": 2760,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/zfFMYEuf-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 39119052
+            }
+         }
+      },
+      {
+         "date": "05-27-98",
+         "title": "Genesis 32",
+         "passage": "Genesis 32",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3028",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/6Kvejm3h",
+            "duration": 4131,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/6Kvejm3h-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58548920
+            }
+         }
+      },
+      {
+         "date": "05-31-98",
+         "title": "Abide In Bethel - Genesis 35:1-19",
+         "passage": "Genesis 35:1-19",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3026",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/6TNOZ7zF",
+            "duration": 2660,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/6TNOZ7zF-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 37701025
+            }
+         }
+      },
+      {
+         "date": "06-03-98",
+         "title": "Genesis 33-34",
+         "passage": "Genesis 33-34",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3029",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/U9oTBMsU",
+            "duration": 4274,
+            "pubdate": 1481159288,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/U9oTBMsU-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 60575788
+            }
+         }
+      },
+      {
+         "date": "06-07-98",
+         "title": "The Folly Of The Flesh - Genesis 36",
+         "passage": "Genesis 36",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3027",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/mNnthnai",
+            "duration": 4357,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/mNnthnai-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 61756239
+            }
+         }
+      },
+      {
+         "date": "06-10-98",
+         "title": "Genesis 35",
+         "passage": "Genesis 35",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3030",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/JEfJr3KI",
+            "duration": 4116,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/JEfJr3KI-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58341312
+            }
+         }
+      },
+      {
+         "date": "06-14-98",
+         "title": "Big Sleeves . . . Big Problems - Genesis 37:2-4",
+         "passage": "Genesis 37:2-4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3028",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Kqvw2nke",
+            "duration": 2629,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Kqvw2nke-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 37265256
+            }
+         }
+      },
+      {
+         "date": "06-17-98",
+         "title": "Genesis 37",
+         "passage": "Genesis 37",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3031",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/TZEFDSFp",
+            "duration": 4088,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/TZEFDSFp-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57939475
+            }
+         }
+      },
+      {
+         "date": "06-24-98",
+         "title": "Genesis 38",
+         "passage": "Genesis 38",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3032",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/mr5yzCbr",
+            "duration": 4218,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/mr5yzCbr-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 59783550
+            }
+         }
+      },
+      {
+         "date": "07-01-98",
+         "title": "Genesis 39",
+         "passage": "Genesis 39",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3033",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/2fUHVUga",
+            "duration": 4077,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/2fUHVUga-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 57795130
+            }
+         }
+      },
+      {
+         "date": "07-05-98",
+         "title": "Y2K: Warehouse Or Storehouse? - Genesis 41",
+         "passage": "Genesis 41",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3029",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/yt2HAHER",
+            "duration": 4434,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/yt2HAHER-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 62852041
+            }
+         }
+      },
+      {
+         "date": "07-08-98",
+         "title": "Genesis 40-41",
+         "passage": "Genesis 40-41",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3034",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/EB6rdDXk",
+            "duration": 5193,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/EB6rdDXk-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 73599735
+            }
+         }
+      },
+      {
+         "date": "07-12-98",
+         "title": "This We Can Know - Genesis 42:36",
+         "passage": "Genesis 42:36",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3030",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/DCNyn4jG",
+            "duration": 2529,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/DCNyn4jG-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 35849861
+            }
+         }
+      },
+      {
+         "date": "07-15-98",
+         "title": "Genesis 42",
+         "passage": "Genesis 42",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3035",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/3KK2ehER",
+            "duration": 3823,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/3KK2ehER-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 54190560
+            }
+         }
+      },
+      {
+         "date": "07-19-98",
+         "title": "The Wagons Are Coming - Genesis 45:26-28",
+         "passage": "Genesis 45:26-28",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3031",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/fIyXUYP6",
+            "duration": 1621,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/fIyXUYP6-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 22976998
+            }
+         }
+      },
+      {
+         "date": "07-22-98",
+         "title": "Genesis 43-44",
+         "passage": "Genesis 43-44",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3036",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/4hHVYDa6",
+            "duration": 4371,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/4hHVYDa6-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 61957936
+            }
+         }
+      },
+      {
+         "date": "08-05-98",
+         "title": "Genesis 45",
+         "passage": "Genesis 45",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3037",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/37HQb5VX",
+            "duration": 3971,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/37HQb5VX-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 56284374
+            }
+         }
+      },
+      {
+         "date": "08-09-98",
+         "title": "Being And Bestowing A Blessing - Genesis 47:7-10",
+         "passage": "Genesis 47:7-10",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3032",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/gRWRHmf3",
+            "duration": 1865,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/gRWRHmf3-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 26439406
+            }
+         }
+      },
+      {
+         "date": "08-12-98",
+         "title": "Genesis 46",
+         "passage": "Genesis 46",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3038",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/zEsktu4c",
+            "duration": 3322,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/zEsktu4c-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 47085294
+            }
+         }
+      },
+      {
+         "date": "08-16-98",
+         "title": "The Secret Of A Satisfied Life - Genesis 49:22",
+         "passage": "Genesis 49:22",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3033",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/PczjUVOA",
+            "duration": 2390,
+            "pubdate": 1456264439,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/PczjUVOA-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 33875872
+            }
+         }
+      },
+      {
+         "date": "08-19-98",
+         "title": "Genesis 47",
+         "passage": "Genesis 47",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3039",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/a0CoLXnj",
+            "duration": 3967,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/a0CoLXnj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 56230498
+            }
+         }
+      },
+      {
+         "date": "08-23-98",
+         "title": "Behold I Die, But . . . - Genesis 48:21-22",
+         "passage": "Genesis 48:21-22",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3034",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/NhoiaPTk",
+            "duration": 3093,
+            "pubdate": 1456264440,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/NhoiaPTk-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 43838997
+            }
+         }
+      },
+      {
+         "date": "08-26-98",
+         "title": "Genesis 48-49",
+         "passage": "Genesis 48-49",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3040",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/QEbNzTR7",
+            "duration": 4111,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/QEbNzTR7-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58277425
+            }
+         }
+      },
+      {
+         "date": "08-30-98",
+         "title": "Don't Shoot Back - Genesis 49:22-24",
+         "passage": "Genesis 49:22-24",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S3035",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/pcXlvGCq",
+            "duration": 3369,
+            "pubdate": 1456264440,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/pcXlvGCq-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 47748082
+            }
+         }
+      },
+      {
+         "date": "09-16-98",
+         "title": "Genesis 49-50",
+         "passage": "Genesis 49-50",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W3041",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/h5JAYSGE",
+            "duration": 4394,
+            "pubdate": 1481159289,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/h5JAYSGE-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 62276338
             }
          }
       }

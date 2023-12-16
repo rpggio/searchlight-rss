@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Isaiah with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/isaiah</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 21 Dec 2016 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/isaiah.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Isaiah with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/isaiah</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Isaiah 1-2</title>
+        <link>https://cdn.jwplayer.com/previews/xEofxH1h</link>
+        <description>Isaiah 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7208</guid>
+        <pubDate>Wed, 16 Mar 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 1-2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xEofxH1h-LDq1jMq6.m4a" length="51303644" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3619</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 3-5</title>
+        <link>https://cdn.jwplayer.com/previews/q0Nfos7I</link>
+        <description>Isaiah 3-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7209</guid>
+        <pubDate>Wed, 23 Mar 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 3-5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/q0Nfos7I-LDq1jMq6.m4a" length="54781857" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3865</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 6</title>
+        <link>https://cdn.jwplayer.com/previews/Ra7Ekqh3</link>
+        <description>Isaiah 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7210</guid>
+        <pubDate>Wed, 30 Mar 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Ra7Ekqh3-LDq1jMq6.m4a" length="38497401" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2716</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 7-8</title>
+        <link>https://cdn.jwplayer.com/previews/U4SwYVe2</link>
+        <description>Isaiah 7-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7211</guid>
+        <pubDate>Wed, 06 Apr 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 7-8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/U4SwYVe2-LDq1jMq6.m4a" length="46587199" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3287</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 9:1 - 10:23</title>
+        <link>https://cdn.jwplayer.com/previews/Ck8kFYZp</link>
+        <description>Isaiah 9:1 - 10:23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7212</guid>
+        <pubDate>Wed, 20 Apr 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 9:1 - 10:23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Ck8kFYZp-LDq1jMq6.m4a" length="55486989" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3915</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 10:24 - 12:6</title>
+        <link>https://cdn.jwplayer.com/previews/jfwexWhO</link>
+        <description>Isaiah 10:24 - 12:6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7213</guid>
+        <pubDate>Wed, 27 Apr 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 10:24 - 12:6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jfwexWhO-LDq1jMq6.m4a" length="54898190" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3873</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 13:1 - 14:12</title>
+        <link>https://cdn.jwplayer.com/previews/bo4sPWDB</link>
+        <description>Isaiah 13:1 - 14:12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7214</guid>
+        <pubDate>Wed, 04 May 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 13:1 - 14:12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bo4sPWDB-LDq1jMq6.m4a" length="55880436" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3942</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 14:9-32</title>
+        <link>https://cdn.jwplayer.com/previews/MNSxuWOe</link>
+        <description>Isaiah 14:9-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7215</guid>
+        <pubDate>Wed, 11 May 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 14:9-32 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MNSxuWOe-LDq1jMq6.m4a" length="59357224" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4188</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 15-16</title>
+        <link>https://cdn.jwplayer.com/previews/2i1tOVEy</link>
+        <description>Isaiah 15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7216</guid>
+        <pubDate>Wed, 18 May 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 15-16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2i1tOVEy-LDq1jMq6.m4a" length="66360188" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4682</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 17-18</title>
+        <link>https://cdn.jwplayer.com/previews/RMiSuqPb</link>
+        <description>Isaiah 17-18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7217</guid>
+        <pubDate>Wed, 25 May 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 17-18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RMiSuqPb-LDq1jMq6.m4a" length="45554544" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3214</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 19-20</title>
+        <link>https://cdn.jwplayer.com/previews/dzpPfLjK</link>
+        <description>Isaiah 19-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7218</guid>
+        <pubDate>Wed, 01 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 19-20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dzpPfLjK-LDq1jMq6.m4a" length="56735083" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4003</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 21-22</title>
+        <link>https://cdn.jwplayer.com/previews/sTnEIrpI</link>
+        <description>Isaiah 21-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7219</guid>
+        <pubDate>Wed, 08 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 21-22 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sTnEIrpI-LDq1jMq6.m4a" length="51286484" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3618</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 23-24</title>
+        <link>https://cdn.jwplayer.com/previews/Ia8B5yjj</link>
+        <description>Isaiah 23-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7220</guid>
+        <pubDate>Wed, 15 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 23-24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Ia8B5yjj-LDq1jMq6.m4a" length="54345324" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3834</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 25-26</title>
+        <link>https://cdn.jwplayer.com/previews/3sREhcXC</link>
+        <description>Isaiah 25-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7221</guid>
+        <pubDate>Wed, 29 Jun 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 25-26 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3sREhcXC-LDq1jMq6.m4a" length="59213838" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4178</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 27-28</title>
+        <link>https://cdn.jwplayer.com/previews/LXwDXgKr</link>
+        <description>Isaiah 27-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7222</guid>
+        <pubDate>Wed, 06 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 27-28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LXwDXgKr-LDq1jMq6.m4a" length="54456943" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3842</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 29-30</title>
+        <link>https://cdn.jwplayer.com/previews/GYmQgsbh</link>
+        <description>Isaiah 29-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7223</guid>
+        <pubDate>Wed, 13 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 29-30 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GYmQgsbh-LDq1jMq6.m4a" length="63792583" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4501</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 31-32</title>
+        <link>https://cdn.jwplayer.com/previews/v8RkapH0</link>
+        <description>Isaiah 31-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7224</guid>
+        <pubDate>Wed, 20 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 31-32 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/v8RkapH0-LDq1jMq6.m4a" length="59881776" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4225</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 33-35</title>
+        <link>https://cdn.jwplayer.com/previews/tutUNJcE</link>
+        <description>Isaiah 33-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7225</guid>
+        <pubDate>Wed, 27 Jul 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 33-35 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tutUNJcE-LDq1jMq6.m4a" length="52360214" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3694</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 36-39</title>
+        <link>https://cdn.jwplayer.com/previews/3FL9C3A1</link>
+        <description>Isaiah 36-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7226</guid>
+        <pubDate>Wed, 03 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 36-39 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3FL9C3A1-LDq1jMq6.m4a" length="57943323" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4088</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 40:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/CmtpnODY</link>
+        <description>Isaiah 40:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7227</guid>
+        <pubDate>Wed, 10 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 40:1-11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CmtpnODY-LDq1jMq6.m4a" length="43511563" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3070</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 40:12-31</title>
+        <link>https://cdn.jwplayer.com/previews/A52c8k67</link>
+        <description>Isaiah 40:12-31</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7228</guid>
+        <pubDate>Wed, 17 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 40:12-31 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/A52c8k67-LDq1jMq6.m4a" length="41756675" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2946</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 41:1 - 42:4</title>
+        <link>https://cdn.jwplayer.com/previews/JpS3q5XF</link>
+        <description>Isaiah 41:1 - 42:4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7229</guid>
+        <pubDate>Wed, 24 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 41:1 - 42:4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JpS3q5XF-LDq1jMq6.m4a" length="51519107" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3635</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 42:5 - 43:7</title>
+        <link>https://cdn.jwplayer.com/previews/F74fZVkg</link>
+        <description>Isaiah 42:5 - 43:7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7230</guid>
+        <pubDate>Wed, 31 Aug 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 42:5 - 43:7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/F74fZVkg-LDq1jMq6.m4a" length="54391079" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3837</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 43:8 - 45:8</title>
+        <link>https://cdn.jwplayer.com/previews/os86uJDR</link>
+        <description>Isaiah 43:8 - 45:8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7231</guid>
+        <pubDate>Wed, 07 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 43:8 - 45:8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/os86uJDR-LDq1jMq6.m4a" length="56834714" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4010</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 45:9 - 47:15</title>
+        <link>https://cdn.jwplayer.com/previews/tHPFZQsA</link>
+        <description>Isaiah 45:9 - 47:15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7232</guid>
+        <pubDate>Wed, 14 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 45:9 - 47:15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tHPFZQsA-LDq1jMq6.m4a" length="47272639" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3335</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 48-50</title>
+        <link>https://cdn.jwplayer.com/previews/fMPGIJtQ</link>
+        <description>Isaiah 48-50</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7233</guid>
+        <pubDate>Wed, 21 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 48-50 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fMPGIJtQ-LDq1jMq6.m4a" length="64798886" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4572</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 51-53</title>
+        <link>https://cdn.jwplayer.com/previews/llmlxTWD</link>
+        <description>Isaiah 51-53</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7234</guid>
+        <pubDate>Wed, 28 Sep 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 51-53 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/llmlxTWD-LDq1jMq6.m4a" length="62652331" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4420</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 54</title>
+        <link>https://cdn.jwplayer.com/previews/lXjNPjx7</link>
+        <description>Isaiah 54</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7235</guid>
+        <pubDate>Wed, 05 Oct 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 54 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lXjNPjx7-LDq1jMq6.m4a" length="43507674" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3069</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 55-57</title>
+        <link>https://cdn.jwplayer.com/previews/Iq6IdPrj</link>
+        <description>Isaiah 55-57</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7236</guid>
+        <pubDate>Wed, 12 Oct 2016 07:00:00 GMT</pubDate>
+        <description>Isaiah 55-57 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Iq6IdPrj-LDq1jMq6.m4a" length="55996661" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3951</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 58</title>
+        <link>https://cdn.jwplayer.com/previews/sQ5L7aUc</link>
+        <description>Isaiah 58</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7237</guid>
+        <pubDate>Wed, 09 Nov 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 58 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sQ5L7aUc-LDq1jMq6.m4a" length="42383463" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2990</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 59</title>
+        <link>https://cdn.jwplayer.com/previews/JVXc5pKy</link>
+        <description>Isaiah 59</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7238</guid>
+        <pubDate>Wed, 16 Nov 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 59 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JVXc5pKy-LDq1jMq6.m4a" length="44627880" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3148</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 60</title>
+        <link>https://cdn.jwplayer.com/previews/VIDtAuWH</link>
+        <description>Isaiah 60</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7239</guid>
+        <pubDate>Wed, 30 Nov 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 60 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VIDtAuWH-LDq1jMq6.m4a" length="52749270" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3721</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 61-62</title>
+        <link>https://cdn.jwplayer.com/previews/m6qWE12h</link>
+        <description>Isaiah 61-62</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7240</guid>
+        <pubDate>Wed, 07 Dec 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 61-62 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/m6qWE12h-LDq1jMq6.m4a" length="51402320" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3626</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 63:1 - 65:16</title>
+        <link>https://cdn.jwplayer.com/previews/viybqj09</link>
+        <description>Isaiah 63:1 - 65:16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7241</guid>
+        <pubDate>Wed, 14 Dec 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 63:1 - 65:16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/viybqj09-LDq1jMq6.m4a" length="59909162" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4227</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 65:17 - 66:24</title>
+        <link>https://cdn.jwplayer.com/previews/P8NrkVu7</link>
+        <description>Isaiah 65:17 - 66:24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7242</guid>
+        <pubDate>Wed, 21 Dec 2016 08:00:00 GMT</pubDate>
+        <description>Isaiah 65:17 - 66:24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/P8NrkVu7-LDq1jMq6.m4a" length="50744277" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3580</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>John with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/john</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 30 May 2018 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/john.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>John with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/john</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>John 1:1-34</title>
+        <link>https://cdn.jwplayer.com/previews/OHQuQrPy</link>
+        <description>John 1:1-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9044</guid>
+        <pubDate>Wed, 13 Dec 2017 08:00:00 GMT</pubDate>
+        <description>John 1:1-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OHQuQrPy-LDq1jMq6.m4a" length="57757643" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4075</itunes:duration>
+      </item>
+      <item>
+        <title>Under The Tree - John 1:35-51</title>
+        <link>https://cdn.jwplayer.com/previews/S9Y8Dcnh</link>
+        <description>Under The Tree - John 1:35-51</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9009</guid>
+        <pubDate>Sun, 17 Dec 2017 08:00:00 GMT</pubDate>
+        <description>John 1:35-51 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/S9Y8Dcnh-LDq1jMq6.m4a" length="54333590" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3833</itunes:duration>
+      </item>
+      <item>
+        <title>John 2</title>
+        <link>https://cdn.jwplayer.com/previews/2SMEo9Ne</link>
+        <description>John 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9045</guid>
+        <pubDate>Wed, 20 Dec 2017 08:00:00 GMT</pubDate>
+        <description>John 2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2SMEo9Ne-LDq1jMq6.m4a" length="47021384" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3317</itunes:duration>
+      </item>
+      <item>
+        <title>John 3</title>
+        <link>https://cdn.jwplayer.com/previews/9Do4OmZf</link>
+        <description>John 3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9046</guid>
+        <pubDate>Wed, 27 Dec 2017 08:00:00 GMT</pubDate>
+        <description>John 3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9Do4OmZf-LDq1jMq6.m4a" length="47861503" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3377</itunes:duration>
+      </item>
+      <item>
+        <title>John 4:1-44</title>
+        <link>https://cdn.jwplayer.com/previews/OJeqTZqp</link>
+        <description>John 4:1-44</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9047</guid>
+        <pubDate>Wed, 03 Jan 2018 08:00:00 GMT</pubDate>
+        <description>John 4:1-44 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OJeqTZqp-LDq1jMq6.m4a" length="59273398" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4182</itunes:duration>
+      </item>
+      <item>
+        <title>Just Trust - John 4:43-54</title>
+        <link>https://cdn.jwplayer.com/previews/7kOIYUMi</link>
+        <description>Just Trust - John 4:43-54</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9010</guid>
+        <pubDate>Sun, 07 Jan 2018 08:00:00 GMT</pubDate>
+        <description>John 4:43-54 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7kOIYUMi-LDq1jMq6.m4a" length="36918626" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2604</itunes:duration>
+      </item>
+      <item>
+        <title>John 5-6</title>
+        <link>https://cdn.jwplayer.com/previews/lKLzJDme</link>
+        <description>John 5-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9048</guid>
+        <pubDate>Wed, 10 Jan 2018 08:00:00 GMT</pubDate>
+        <description>John 5-6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lKLzJDme-LDq1jMq6.m4a" length="56416733" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3980</itunes:duration>
+      </item>
+      <item>
+        <title>John 5 - Revisited</title>
+        <link>https://cdn.jwplayer.com/previews/fxdy1jSh</link>
+        <description>John 5 - Revisited</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9049</guid>
+        <pubDate>Wed, 17 Jan 2018 08:00:00 GMT</pubDate>
+        <description>John 5 - Revisited - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fxdy1jSh-LDq1jMq6.m4a" length="51924413" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3663</itunes:duration>
+      </item>
+      <item>
+        <title>Got Thirst? - John 7:37-39</title>
+        <link>https://cdn.jwplayer.com/previews/dypISFE5</link>
+        <description>Got Thirst? - John 7:37-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9011</guid>
+        <pubDate>Sun, 04 Feb 2018 08:00:00 GMT</pubDate>
+        <description>John 7:37-39 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dypISFE5-LDq1jMq6.m4a" length="47930301" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3381</itunes:duration>
+      </item>
+      <item>
+        <title>John 7</title>
+        <link>https://cdn.jwplayer.com/previews/XlAqC2ge</link>
+        <description>John 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9050</guid>
+        <pubDate>Wed, 07 Feb 2018 08:00:00 GMT</pubDate>
+        <description>John 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XlAqC2ge-LDq1jMq6.m4a" length="58706049" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4142</itunes:duration>
+      </item>
+      <item>
+        <title>John 8</title>
+        <link>https://cdn.jwplayer.com/previews/xMxSziin</link>
+        <description>John 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9051</guid>
+        <pubDate>Wed, 14 Feb 2018 08:00:00 GMT</pubDate>
+        <description>John 8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xMxSziin-LDq1jMq6.m4a" length="58786805" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4147</itunes:duration>
+      </item>
+      <item>
+        <title>Sin No More . . . No More Sin!</title>
+        <link>https://cdn.jwplayer.com/previews/tBPXyVSq</link>
+        <description>Sin No More . . . No More Sin!</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9012</guid>
+        <pubDate>Sun, 18 Feb 2018 08:00:00 GMT</pubDate>
+        <description>Sin No More . . . No More Sin! - Longer Version Of Teaching (First Service)</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tBPXyVSq-LDq1jMq6.m4a" length="56766636" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4005</itunes:duration>
+      </item>
+      <item>
+        <title>Sin No More . . . No More Sin!</title>
+        <link>https://cdn.jwplayer.com/previews/t39gZnYT</link>
+        <description>Sin No More . . . No More Sin!</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9013</guid>
+        <pubDate>Sun, 18 Feb 2018 08:00:00 GMT</pubDate>
+        <description>Sin No More . . . No More Sin! - Abridged Version Of Teaching (Second Service)</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/t39gZnYT-LDq1jMq6.m4a" length="38935662" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2747</itunes:duration>
+      </item>
+      <item>
+        <title>John 9</title>
+        <link>https://cdn.jwplayer.com/previews/hAmS4kOq</link>
+        <description>John 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9052</guid>
+        <pubDate>Wed, 21 Feb 2018 08:00:00 GMT</pubDate>
+        <description>John 9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hAmS4kOq-LDq1jMq6.m4a" length="48959095" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3454</itunes:duration>
+      </item>
+      <item>
+        <title>John 10</title>
+        <link>https://cdn.jwplayer.com/previews/skdUSWMD</link>
+        <description>John 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9053</guid>
+        <pubDate>Wed, 28 Feb 2018 08:00:00 GMT</pubDate>
+        <description>John 10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/skdUSWMD-LDq1jMq6.m4a" length="55742433" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3933</itunes:duration>
+      </item>
+      <item>
+        <title>John 11</title>
+        <link>https://cdn.jwplayer.com/previews/PNRKBWKr</link>
+        <description>John 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9054</guid>
+        <pubDate>Wed, 07 Mar 2018 08:00:00 GMT</pubDate>
+        <description>John 11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PNRKBWKr-LDq1jMq6.m4a" length="56291293" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3971</itunes:duration>
+      </item>
+      <item>
+        <title>Where Christ Is At Home - John 12:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/tacbYyY5</link>
+        <description>Where Christ Is At Home - John 12:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9014</guid>
+        <pubDate>Sun, 11 Mar 2018 08:00:00 GMT</pubDate>
+        <description>John 12:1-11 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tacbYyY5-LDq1jMq6.m4a" length="54519493" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3846</itunes:duration>
+      </item>
+      <item>
+        <title>John 12:1-33</title>
+        <link>https://cdn.jwplayer.com/previews/XftM7vzt</link>
+        <description>John 12:1-33</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9055</guid>
+        <pubDate>Wed, 14 Mar 2018 07:00:00 GMT</pubDate>
+        <description>John 12:1-33 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XftM7vzt-LDq1jMq6.m4a" length="56306765" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3972</itunes:duration>
+      </item>
+      <item>
+        <title>John 12-13</title>
+        <link>https://cdn.jwplayer.com/previews/u5cjWBax</link>
+        <description>John 12-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9056</guid>
+        <pubDate>Wed, 28 Mar 2018 07:00:00 GMT</pubDate>
+        <description>John 12-13 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/u5cjWBax-LDq1jMq6.m4a" length="51789446" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3654</itunes:duration>
+      </item>
+      <item>
+        <title>John 14</title>
+        <link>https://cdn.jwplayer.com/previews/G7eqyxan</link>
+        <description>John 14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9057</guid>
+        <pubDate>Wed, 04 Apr 2018 07:00:00 GMT</pubDate>
+        <description>John 14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G7eqyxan-LDq1jMq6.m4a" length="49735687" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3509</itunes:duration>
+      </item>
+      <item>
+        <title>John 15:1-15</title>
+        <link>https://cdn.jwplayer.com/previews/H3VdCN9W</link>
+        <description>John 15:1-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9058</guid>
+        <pubDate>Wed, 11 Apr 2018 07:00:00 GMT</pubDate>
+        <description>John 15:1-15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/H3VdCN9W-LDq1jMq6.m4a" length="42906661" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3027</itunes:duration>
+      </item>
+      <item>
+        <title>Problems, Pleasures And Pearls - John 16:17-22</title>
+        <link>https://cdn.jwplayer.com/previews/MKrZipnu</link>
+        <description>Problems, Pleasures And Pearls - John 16:17-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9015</guid>
+        <pubDate>Sun, 15 Apr 2018 07:00:00 GMT</pubDate>
+        <description>John 16:17-22 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MKrZipnu-LDq1jMq6.m4a" length="35119871" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2477</itunes:duration>
+      </item>
+      <item>
+        <title>John 15-16</title>
+        <link>https://cdn.jwplayer.com/previews/zpzMgx5j</link>
+        <description>John 15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9059</guid>
+        <pubDate>Wed, 18 Apr 2018 07:00:00 GMT</pubDate>
+        <description>John 15-16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zpzMgx5j-LDq1jMq6.m4a" length="64714733" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4566</itunes:duration>
+      </item>
+      <item>
+        <title>Resorting Unto Jesus</title>
+        <link>https://cdn.jwplayer.com/previews/u2JI9HIl</link>
+        <description>Resorting Unto Jesus</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9016</guid>
+        <pubDate>Sun, 29 Apr 2018 07:00:00 GMT</pubDate>
+        <description>Resorting Unto Jesus - (A New Vision For These Last Days)</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/u2JI9HIl-LDq1jMq6.m4a" length="55080678" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3886</itunes:duration>
+      </item>
+      <item>
+        <title>John 17</title>
+        <link>https://cdn.jwplayer.com/previews/5oTgpWQy</link>
+        <description>John 17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9060</guid>
+        <pubDate>Wed, 02 May 2018 07:00:00 GMT</pubDate>
+        <description>John 17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5oTgpWQy-LDq1jMq6.m4a" length="58176862" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4104</itunes:duration>
+      </item>
+      <item>
+        <title>John 18:1-29</title>
+        <link>https://cdn.jwplayer.com/previews/HpSoYtIN</link>
+        <description>John 18:1-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9061</guid>
+        <pubDate>Wed, 09 May 2018 07:00:00 GMT</pubDate>
+        <description>John 18:1-29 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HpSoYtIN-LDq1jMq6.m4a" length="55478761" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3914</itunes:duration>
+      </item>
+      <item>
+        <title>John 18-19</title>
+        <link>https://cdn.jwplayer.com/previews/SmgmSpML</link>
+        <description>John 18-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9062</guid>
+        <pubDate>Wed, 16 May 2018 07:00:00 GMT</pubDate>
+        <description>John 18-19 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SmgmSpML-LDq1jMq6.m4a" length="67911069" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4791</itunes:duration>
+      </item>
+      <item>
+        <title>No Doubting Thomas! - John 20:19-29</title>
+        <link>https://cdn.jwplayer.com/previews/8XnAoFU0</link>
+        <description>No Doubting Thomas! - John 20:19-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9017</guid>
+        <pubDate>Sun, 20 May 2018 07:00:00 GMT</pubDate>
+        <description>John 20:19-29 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8XnAoFU0-LDq1jMq6.m4a" length="52441030" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3700</itunes:duration>
+      </item>
+      <item>
+        <title>John 19-20</title>
+        <link>https://cdn.jwplayer.com/previews/QylsaTkw</link>
+        <description>John 19-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9063</guid>
+        <pubDate>Wed, 23 May 2018 07:00:00 GMT</pubDate>
+        <description>John 19-20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QylsaTkw-LDq1jMq6.m4a" length="52154813" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3679</itunes:duration>
+      </item>
+      <item>
+        <title>John 21</title>
+        <link>https://cdn.jwplayer.com/previews/saxCzagB</link>
+        <description>John 21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9064</guid>
+        <pubDate>Wed, 30 May 2018 07:00:00 GMT</pubDate>
+        <description>John 21 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/saxCzagB-LDq1jMq6.m4a" length="43428785" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3064</itunes:duration>
+      </item>
+  </channel>
+  </rss>

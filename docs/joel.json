@@ -1,0 +1,62 @@
+{
+   "title": "Joel",
+   "teachings": [
+      {
+         "date": "01-01-89",
+         "title": "Restoring The Year",
+         "passage": "Restoring The Year",
+         "event": "New Year's Day 1989",
+         "teachingNumber": "S413",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/kCvPFZ3G",
+            "duration": 3315,
+            "pubdate": 1481154345,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/kCvPFZ3G-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 46991599
+            }
+         }
+      },
+      {
+         "date": "01-04-89",
+         "title": "Joel 1-2",
+         "passage": "Joel 1-2",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W449",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/5l2D8GtX",
+            "duration": 3888,
+            "pubdate": 1481156393,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/5l2D8GtX-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 55110732
+            }
+         }
+      },
+      {
+         "date": "01-11-89",
+         "title": "Joel 2-3",
+         "passage": "Joel 2-3",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W450",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/Pldali1Z",
+            "duration": 3562,
+            "pubdate": 1481156393,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/Pldali1Z-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 50482623
+            }
+         }
+      }
+   ]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Ecclesiastes with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/ecclesiastes</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 24 Feb 2016 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/ecclesiastes.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Ecclesiastes with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/ecclesiastes</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Ecclesiastes 1-3</title>
+        <link>https://cdn.jwplayer.com/previews/XsfMkaOE</link>
+        <description>Ecclesiastes 1-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7202</guid>
+        <pubDate>Wed, 03 Feb 2016 08:00:00 GMT</pubDate>
+        <description>Ecclesiastes 1-3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XsfMkaOE-LDq1jMq6.m4a" length="53075625" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3744</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 4-6</title>
+        <link>https://cdn.jwplayer.com/previews/5CJbr0Sd</link>
+        <description>Ecclesiastes 4-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7203</guid>
+        <pubDate>Wed, 10 Feb 2016 08:00:00 GMT</pubDate>
+        <description>Ecclesiastes 4-6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5CJbr0Sd-LDq1jMq6.m4a" length="47909801" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3380</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 7-9</title>
+        <link>https://cdn.jwplayer.com/previews/lFQ5JTpM</link>
+        <description>Ecclesiastes 7-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7204</guid>
+        <pubDate>Wed, 17 Feb 2016 08:00:00 GMT</pubDate>
+        <description>Ecclesiastes 7-9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lFQ5JTpM-LDq1jMq6.m4a" length="48542512" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3425</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 10-12</title>
+        <link>https://cdn.jwplayer.com/previews/cNzkPsVA</link>
+        <description>Ecclesiastes 10-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W7205</guid>
+        <pubDate>Wed, 24 Feb 2016 08:00:00 GMT</pubDate>
+        <description>Ecclesiastes 10-12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cNzkPsVA-LDq1jMq6.m4a" length="59603985" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4205</itunes:duration>
+      </item>
+  </channel>
+  </rss>

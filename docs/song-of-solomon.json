@@ -1,0 +1,43 @@
+{
+   "title": "Song of Solomon",
+   "teachings": [
+      {
+         "date": "03-02-16",
+         "title": "Song Of Solomon 1-4",
+         "passage": "Song Of Solomon 1-4",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7206",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/6ZR0aTuj",
+            "duration": 4149,
+            "pubdate": 1481160838,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/6ZR0aTuj-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58803422
+            }
+         }
+      },
+      {
+         "date": "03-09-16",
+         "title": "Song Of Solomon 5-8",
+         "passage": "Song Of Solomon 5-8",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W7207",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/vJfydhT1",
+            "duration": 3668,
+            "pubdate": 1481160838,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/vJfydhT1-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 51985766
+            }
+         }
+      }
+   ]
+}

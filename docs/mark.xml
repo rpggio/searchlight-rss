@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Mark with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/mark</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 12 Sep 1990 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/mark.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Mark with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/mark</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>The Key To Keeping Focused - Mark 1:32-38</title>
+        <link>https://cdn.jwplayer.com/previews/SGKqh9jG</link>
+        <description>The Key To Keeping Focused - Mark 1:32-38</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S464</guid>
+        <pubDate>Sun, 25 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Mark 1:32-38 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SGKqh9jG-LDq1jMq6.m4a" length="45439033" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3206</itunes:duration>
+      </item>
+      <item>
+        <title>Dare To Do...Able To Do - Mark 3:1-7</title>
+        <link>https://cdn.jwplayer.com/previews/ly16fclH</link>
+        <description>Dare To Do...Able To Do - Mark 3:1-7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S465</guid>
+        <pubDate>Sun, 08 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 3:1-7 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ly16fclH-LDq1jMq6.m4a" length="28437047" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2006</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 1</title>
+        <link>https://cdn.jwplayer.com/previews/i5i0sJM1</link>
+        <description>Mark 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W501</guid>
+        <pubDate>Wed, 11 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 1 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/i5i0sJM1-LDq1jMq6.m4a" length="59052665" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4166</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 2</title>
+        <link>https://cdn.jwplayer.com/previews/JOkWxsT8</link>
+        <description>Mark 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W502</guid>
+        <pubDate>Wed, 18 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JOkWxsT8-LDq1jMq6.m4a" length="49769994" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3511</itunes:duration>
+      </item>
+      <item>
+        <title>Priority: People Or Pigs? - Mark 5:1-20</title>
+        <link>https://cdn.jwplayer.com/previews/DXinyjFe</link>
+        <description>Priority: People Or Pigs? - Mark 5:1-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S466</guid>
+        <pubDate>Sun, 22 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 5:1-20 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/DXinyjFe-LDq1jMq6.m4a" length="36254978" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2558</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 3</title>
+        <link>https://cdn.jwplayer.com/previews/4ieEc51H</link>
+        <description>Mark 3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W503</guid>
+        <pubDate>Wed, 25 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4ieEc51H-LDq1jMq6.m4a" length="51305415" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3620</itunes:duration>
+      </item>
+      <item>
+        <title>Misconceptions About Our Master - Mark 6</title>
+        <link>https://cdn.jwplayer.com/previews/l7SZbNtD</link>
+        <description>Misconceptions About Our Master - Mark 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S467</guid>
+        <pubDate>Sun, 29 Apr 1990 07:00:00 GMT</pubDate>
+        <description>Mark 6 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/l7SZbNtD-LDq1jMq6.m4a" length="36098412" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2547</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 4</title>
+        <link>https://cdn.jwplayer.com/previews/SbHYEFbp</link>
+        <description>Mark 4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W504</guid>
+        <pubDate>Wed, 02 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SbHYEFbp-LDq1jMq6.m4a" length="48274642" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3406</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 5</title>
+        <link>https://cdn.jwplayer.com/previews/4osJY69J</link>
+        <description>Mark 5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W505</guid>
+        <pubDate>Wed, 09 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4osJY69J-LDq1jMq6.m4a" length="53768409" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3793</itunes:duration>
+      </item>
+      <item>
+        <title>His Tree-Mendous Touch - Mark 8:22-26</title>
+        <link>https://cdn.jwplayer.com/previews/17yRJAXq</link>
+        <description>His Tree-Mendous Touch - Mark 8:22-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S468</guid>
+        <pubDate>Sun, 13 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 8:22-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/17yRJAXq-LDq1jMq6.m4a" length="48966514" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3455</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 6</title>
+        <link>https://cdn.jwplayer.com/previews/Nc9p5szO</link>
+        <description>Mark 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W506</guid>
+        <pubDate>Wed, 23 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Nc9p5szO-LDq1jMq6.m4a" length="61736684" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4356</itunes:duration>
+      </item>
+      <item>
+        <title>Self Denial Or Denying Self? - Mark 8:34-35</title>
+        <link>https://cdn.jwplayer.com/previews/hTjiRJc8</link>
+        <description>Self Denial Or Denying Self? - Mark 8:34-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S469</guid>
+        <pubDate>Sun, 27 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 8:34-35 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hTjiRJc8-LDq1jMq6.m4a" length="30791594" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2172</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 7</title>
+        <link>https://cdn.jwplayer.com/previews/lchPhfLM</link>
+        <description>Mark 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W507</guid>
+        <pubDate>Wed, 30 May 1990 07:00:00 GMT</pubDate>
+        <description>Mark 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lchPhfLM-LDq1jMq6.m4a" length="36368847" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2566</itunes:duration>
+      </item>
+      <item>
+        <title>Bring Him To Me - Mark 9:14-29</title>
+        <link>https://cdn.jwplayer.com/previews/k4KxdqDq</link>
+        <description>Bring Him To Me - Mark 9:14-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S470</guid>
+        <pubDate>Sun, 03 Jun 1990 07:00:00 GMT</pubDate>
+        <description>Mark 9:14-29 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/k4KxdqDq-LDq1jMq6.m4a" length="36444878" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2571</itunes:duration>
+      </item>
+      <item>
+        <title>The First Shall Be Last - Mark 10:31</title>
+        <link>https://cdn.jwplayer.com/previews/OgJ0oI10</link>
+        <description>The First Shall Be Last - Mark 10:31</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S471</guid>
+        <pubDate>Sun, 10 Jun 1990 07:00:00 GMT</pubDate>
+        <description>Mark 10:31 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OgJ0oI10-LDq1jMq6.m4a" length="24517399" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1729</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 8</title>
+        <link>https://cdn.jwplayer.com/previews/SIXXtYNc</link>
+        <description>Mark 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W508</guid>
+        <pubDate>Wed, 13 Jun 1990 07:00:00 GMT</pubDate>
+        <description>Mark 8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SIXXtYNc-LDq1jMq6.m4a" length="58742391" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4144</itunes:duration>
+      </item>
+      <item>
+        <title>When The Son Stood Still - Mark 10:46-52</title>
+        <link>https://cdn.jwplayer.com/previews/PHuKMhTq</link>
+        <description>When The Son Stood Still - Mark 10:46-52</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S472</guid>
+        <pubDate>Sun, 24 Jun 1990 07:00:00 GMT</pubDate>
+        <description>Mark 10:46-52 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PHuKMhTq-LDq1jMq6.m4a" length="23543297" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1661</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 9</title>
+        <link>https://cdn.jwplayer.com/previews/sVIfBxW8</link>
+        <description>Mark 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W509</guid>
+        <pubDate>Wed, 27 Jun 1990 07:00:00 GMT</pubDate>
+        <description>Mark 9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sVIfBxW8-LDq1jMq6.m4a" length="53114468" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3747</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 10</title>
+        <link>https://cdn.jwplayer.com/previews/XsuR6JHu</link>
+        <description>Mark 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W510</guid>
+        <pubDate>Wed, 11 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XsuR6JHu-LDq1jMq6.m4a" length="60598042" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4275</itunes:duration>
+      </item>
+      <item>
+        <title>New Age: Old Lie - Mark 13 - Part 1</title>
+        <link>https://cdn.jwplayer.com/previews/zmxevjzK</link>
+        <description>New Age: Old Lie - Mark 13 - Part 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S473</guid>
+        <pubDate>Sun, 15 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 13 - Part 1 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zmxevjzK-LDq1jMq6.m4a" length="33885922" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2390</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 11:1-26</title>
+        <link>https://cdn.jwplayer.com/previews/lo26q2Pz</link>
+        <description>Mark 11:1-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W511</guid>
+        <pubDate>Wed, 18 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 11:1-26 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lo26q2Pz-LDq1jMq6.m4a" length="53483318" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3773</itunes:duration>
+      </item>
+      <item>
+        <title>Lo, Here Is Christ? - Mark 13 - Part 2</title>
+        <link>https://cdn.jwplayer.com/previews/izH6WHRM</link>
+        <description>Lo, Here Is Christ? - Mark 13 - Part 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S474</guid>
+        <pubDate>Sun, 22 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 13 - Part 2 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/izH6WHRM-LDq1jMq6.m4a" length="27263604" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1923</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 11-12</title>
+        <link>https://cdn.jwplayer.com/previews/wSiHiecM</link>
+        <description>Mark 11-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W512</guid>
+        <pubDate>Wed, 25 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 11-12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wSiHiecM-LDq1jMq6.m4a" length="61623846" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4348</itunes:duration>
+      </item>
+      <item>
+        <title>World Peace: Fact Or Fiction? - Mark 13 - Part 3</title>
+        <link>https://cdn.jwplayer.com/previews/l02ofhmT</link>
+        <description>World Peace: Fact Or Fiction? - Mark 13 - Part 3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S475</guid>
+        <pubDate>Sun, 29 Jul 1990 07:00:00 GMT</pubDate>
+        <description>Mark 13 - Part 3 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/l02ofhmT-LDq1jMq6.m4a" length="28206195" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1990</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 13</title>
+        <link>https://cdn.jwplayer.com/previews/28IZrvFU</link>
+        <description>Mark 13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W513</guid>
+        <pubDate>Wed, 01 Aug 1990 07:00:00 GMT</pubDate>
+        <description>Mark 13 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/28IZrvFU-LDq1jMq6.m4a" length="67767495" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4781</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 14:1-47</title>
+        <link>https://cdn.jwplayer.com/previews/vwnt38vr</link>
+        <description>Mark 14:1-47</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W514</guid>
+        <pubDate>Wed, 08 Aug 1990 07:00:00 GMT</pubDate>
+        <description>Mark 14:1-47 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vwnt38vr-LDq1jMq6.m4a" length="60845240" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4293</itunes:duration>
+      </item>
+      <item>
+        <title>Christ For All Nations - Mark 15:24</title>
+        <link>https://cdn.jwplayer.com/previews/AOCoXLbA</link>
+        <description>Christ For All Nations - Mark 15:24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S476</guid>
+        <pubDate>Sun, 26 Aug 1990 07:00:00 GMT</pubDate>
+        <description>Mark 15:24 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/AOCoXLbA-LDq1jMq6.m4a" length="33531193" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2365</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 14:46 - 15:34</title>
+        <link>https://cdn.jwplayer.com/previews/E5LIYhu6</link>
+        <description>Mark 14:46 - 15:34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W515</guid>
+        <pubDate>Wed, 29 Aug 1990 07:00:00 GMT</pubDate>
+        <description>Mark 14:46 - 15:34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/E5LIYhu6-LDq1jMq6.m4a" length="61613914" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4347</itunes:duration>
+      </item>
+      <item>
+        <title>Going Forth With Good News - Mark 16:15</title>
+        <link>https://cdn.jwplayer.com/previews/5MamRXCy</link>
+        <description>Going Forth With Good News - Mark 16:15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S477</guid>
+        <pubDate>Sun, 02 Sep 1990 07:00:00 GMT</pubDate>
+        <description>Mark 16:15 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5MamRXCy-LDq1jMq6.m4a" length="37992782" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2680</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 15:35-47</title>
+        <link>https://cdn.jwplayer.com/previews/Tv71MzFo</link>
+        <description>Mark 15:35-47</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W516</guid>
+        <pubDate>Wed, 05 Sep 1990 07:00:00 GMT</pubDate>
+        <description>Mark 15:35-47 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Tv71MzFo-LDq1jMq6.m4a" length="42452522" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2995</itunes:duration>
+      </item>
+      <item>
+        <title>Understanding Baptism - Mark 16:15-16</title>
+        <link>https://cdn.jwplayer.com/previews/y06hvTAf</link>
+        <description>Understanding Baptism - Mark 16:15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S478</guid>
+        <pubDate>Sun, 09 Sep 1990 07:00:00 GMT</pubDate>
+        <description>Mark 16:15-16 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/y06hvTAf-LDq1jMq6.m4a" length="34205672" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2413</itunes:duration>
+      </item>
+      <item>
+        <title>Mark 16</title>
+        <link>https://cdn.jwplayer.com/previews/jHzSuQjh</link>
+        <description>Mark 16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W517</guid>
+        <pubDate>Wed, 12 Sep 1990 07:00:00 GMT</pubDate>
+        <description>Mark 16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jHzSuQjh-LDq1jMq6.m4a" length="47887327" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3378</itunes:duration>
+      </item>
+  </channel>
+  </rss>

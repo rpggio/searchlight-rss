@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Romans with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/romans</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 13 Feb 2019 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/romans.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Romans with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/romans</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>The Romans Road - Romans 1:16</title>
+        <link>https://cdn.jwplayer.com/previews/ETGBuBL5</link>
+        <description>The Romans Road - Romans 1:16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9025</guid>
+        <pubDate>Sun, 25 Nov 2018 08:00:00 GMT</pubDate>
+        <description>Romans 1:16 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ETGBuBL5-LDq1jMq6.m4a" length="45351979" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3199</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 1</title>
+        <link>https://cdn.jwplayer.com/previews/3K4zfBQl</link>
+        <description>Romans 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9086</guid>
+        <pubDate>Wed, 28 Nov 2018 08:00:00 GMT</pubDate>
+        <description>Romans 1 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3K4zfBQl-LDq1jMq6.m4a" length="52566369" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3709</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 2-3</title>
+        <link>https://cdn.jwplayer.com/previews/Nl7LF8kl</link>
+        <description>Romans 2-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9087</guid>
+        <pubDate>Wed, 05 Dec 2018 08:00:00 GMT</pubDate>
+        <description>Romans 2-3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Nl7LF8kl-LDq1jMq6.m4a" length="62412228" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4403</itunes:duration>
+      </item>
+      <item>
+        <title>Perfect Peace - Romans 5:1-5</title>
+        <link>https://cdn.jwplayer.com/previews/fFvJm9rK</link>
+        <description>Perfect Peace - Romans 5:1-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9026</guid>
+        <pubDate>Sun, 09 Dec 2018 08:00:00 GMT</pubDate>
+        <description>Romans 5:1-5 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fFvJm9rK-LDq1jMq6.m4a" length="54508390" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3846</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 4-5</title>
+        <link>https://cdn.jwplayer.com/previews/PvwpS3pi</link>
+        <description>Romans 4-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9088</guid>
+        <pubDate>Wed, 12 Dec 2018 08:00:00 GMT</pubDate>
+        <description>Romans 4-5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PvwpS3pi-LDq1jMq6.m4a" length="54452052" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3842</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 6</title>
+        <link>https://cdn.jwplayer.com/previews/2pDYq78D</link>
+        <description>Romans 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9089</guid>
+        <pubDate>Wed, 19 Dec 2018 08:00:00 GMT</pubDate>
+        <description>Romans 6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2pDYq78D-LDq1jMq6.m4a" length="55130575" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3889</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 7</title>
+        <link>https://cdn.jwplayer.com/previews/9twDJmJy</link>
+        <description>Romans 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9090</guid>
+        <pubDate>Wed, 02 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9twDJmJy-LDq1jMq6.m4a" length="47994148" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3386</itunes:duration>
+      </item>
+      <item>
+        <title>Blunders, Blotches, Bummers . . . And . . . Blessing! - Romans 8:28</title>
+        <link>https://cdn.jwplayer.com/previews/L7dmO2Tq</link>
+        <description>Blunders, Blotches, Bummers . . . And . . . Blessing! - Romans 8:28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9027</guid>
+        <pubDate>Sun, 06 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 8:28 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/L7dmO2Tq-LDq1jMq6.m4a" length="44898570" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3168</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 8</title>
+        <link>https://cdn.jwplayer.com/previews/xsyjCk7z</link>
+        <description>Romans 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9091</guid>
+        <pubDate>Wed, 09 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xsyjCk7z-LDq1jMq6.m4a" length="52588465" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3710</itunes:duration>
+      </item>
+      <item>
+        <title>Rooting Out Bitterness - Romans 9:1-3; 10:1</title>
+        <link>https://cdn.jwplayer.com/previews/4Y4xCtIh</link>
+        <description>Rooting Out Bitterness - Romans 9:1-3; 10:1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9028</guid>
+        <pubDate>Sun, 13 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 9:1-3; 10:1 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4Y4xCtIh-LDq1jMq6.m4a" length="38133280" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2690</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 9-11</title>
+        <link>https://cdn.jwplayer.com/previews/7shIMHTk</link>
+        <description>Romans 9-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9092</guid>
+        <pubDate>Wed, 16 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 9-11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7shIMHTk-LDq1jMq6.m4a" length="66916921" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4721</itunes:duration>
+      </item>
+      <item>
+        <title>Putting On Jesus Christ - Romans 13:11-14</title>
+        <link>https://cdn.jwplayer.com/previews/30Pwp87x</link>
+        <description>Putting On Jesus Christ - Romans 13:11-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9029</guid>
+        <pubDate>Sun, 20 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 13:11-14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/30Pwp87x-LDq1jMq6.m4a" length="34467298" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2431</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 12</title>
+        <link>https://cdn.jwplayer.com/previews/du0hNMrP</link>
+        <description>Romans 12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9093</guid>
+        <pubDate>Wed, 23 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/du0hNMrP-LDq1jMq6.m4a" length="52494667" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3703</itunes:duration>
+      </item>
+      <item>
+        <title>Sovereignty, Authority And Being Stress Free - Romans 13:1-5</title>
+        <link>https://cdn.jwplayer.com/previews/wfL9igyB</link>
+        <description>Sovereignty, Authority And Being Stress Free - Romans 13:1-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9030</guid>
+        <pubDate>Sun, 27 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 13:1-5 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wfL9igyB-LDq1jMq6.m4a" length="43838241" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3093</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 13-14</title>
+        <link>https://cdn.jwplayer.com/previews/6FJLWdk0</link>
+        <description>Romans 13-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9094</guid>
+        <pubDate>Wed, 30 Jan 2019 08:00:00 GMT</pubDate>
+        <description>Romans 13-14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6FJLWdk0-LDq1jMq6.m4a" length="59814446" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4220</itunes:duration>
+      </item>
+      <item>
+        <title>Embracing Your Cross - Romans 16:13</title>
+        <link>https://cdn.jwplayer.com/previews/7Je8TjLQ</link>
+        <description>Embracing Your Cross - Romans 16:13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9031</guid>
+        <pubDate>Wed, 06 Feb 2019 08:00:00 GMT</pubDate>
+        <description>Romans 16:13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7Je8TjLQ-LDq1jMq6.m4a" length="52673043" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3716</itunes:duration>
+      </item>
+      <item>
+        <title>Romans 15-16</title>
+        <link>https://cdn.jwplayer.com/previews/4CdjnFQ3</link>
+        <description>Romans 15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9095</guid>
+        <pubDate>Wed, 13 Feb 2019 08:00:00 GMT</pubDate>
+        <description>Romans 15-16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4CdjnFQ3-LDq1jMq6.m4a" length="54248377" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3827</itunes:duration>
+      </item>
+  </channel>
+  </rss>

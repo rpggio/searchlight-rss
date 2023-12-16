@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Matthew with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/matthew</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 21 Mar 1990 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/matthew.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Matthew with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/matthew</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Bedlam In Bethlehem - Matthew 2</title>
+        <link>https://cdn.jwplayer.com/previews/vYrn6Vjz</link>
+        <description>Bedlam In Bethlehem - Matthew 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S435</guid>
+        <pubDate>Sun, 16 Jul 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 2 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vYrn6Vjz-LDq1jMq6.m4a" length="47345581" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3340</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 1</title>
+        <link>https://cdn.jwplayer.com/previews/jU5UKqwS</link>
+        <description>Matthew 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W471</guid>
+        <pubDate>Wed, 19 Jul 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 1 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jU5UKqwS-LDq1jMq6.m4a" length="60185998" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4246</itunes:duration>
+      </item>
+      <item>
+        <title>The Baptism Of Jesus - Matthew 3:13-17</title>
+        <link>https://cdn.jwplayer.com/previews/T2TFZT1j</link>
+        <description>The Baptism Of Jesus - Matthew 3:13-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S436</guid>
+        <pubDate>Sun, 23 Jul 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 3:13-17 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/T2TFZT1j-LDq1jMq6.m4a" length="35606773" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2512</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 2-3</title>
+        <link>https://cdn.jwplayer.com/previews/m0u4BIA5</link>
+        <description>Matthew 2-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W472</guid>
+        <pubDate>Wed, 26 Jul 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 2-3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/m0u4BIA5-LDq1jMq6.m4a" length="63140261" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4455</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 4</title>
+        <link>https://cdn.jwplayer.com/previews/jbyOArdt</link>
+        <description>Matthew 4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W473</guid>
+        <pubDate>Wed, 02 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jbyOArdt-LDq1jMq6.m4a" length="58771342" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4146</itunes:duration>
+      </item>
+      <item>
+        <title>Why One Way? - Matthew 7:13-14</title>
+        <link>https://cdn.jwplayer.com/previews/mABE0D8D</link>
+        <description>Why One Way? - Matthew 7:13-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S437</guid>
+        <pubDate>Sun, 06 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 7:13-14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mABE0D8D-LDq1jMq6.m4a" length="26942793" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1901</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 5:1-20</title>
+        <link>https://cdn.jwplayer.com/previews/OLYgryxz</link>
+        <description>Matthew 5:1-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W474</guid>
+        <pubDate>Wed, 09 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 5:1-20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OLYgryxz-LDq1jMq6.m4a" length="47869614" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3377</itunes:duration>
+      </item>
+      <item>
+        <title>The Perfect Prayer - Matthew 6:9-13</title>
+        <link>https://cdn.jwplayer.com/previews/JV96UBkX</link>
+        <description>The Perfect Prayer - Matthew 6:9-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S438</guid>
+        <pubDate>Sun, 13 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 6:9-13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JV96UBkX-LDq1jMq6.m4a" length="49614993" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3500</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 5:21-48</title>
+        <link>https://cdn.jwplayer.com/previews/skOU5nAs</link>
+        <description>Matthew 5:21-48</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W475</guid>
+        <pubDate>Wed, 16 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 5:21-48 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/skOU5nAs-LDq1jMq6.m4a" length="49919023" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3522</itunes:duration>
+      </item>
+      <item>
+        <title>Sincerely Saved? - Matthew 7:21-23</title>
+        <link>https://cdn.jwplayer.com/previews/HL1t60td</link>
+        <description>Sincerely Saved? - Matthew 7:21-23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S439</guid>
+        <pubDate>Sun, 20 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 7:21-23 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HL1t60td-LDq1jMq6.m4a" length="38924959" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2746</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 6</title>
+        <link>https://cdn.jwplayer.com/previews/zjxwOIEm</link>
+        <description>Matthew 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W476</guid>
+        <pubDate>Wed, 23 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zjxwOIEm-LDq1jMq6.m4a" length="55420899" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3910</itunes:duration>
+      </item>
+      <item>
+        <title>Why Bad Things Happen To Good People - Matthew 7:24-27</title>
+        <link>https://cdn.jwplayer.com/previews/zLFgUifw</link>
+        <description>Why Bad Things Happen To Good People - Matthew 7:24-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S440</guid>
+        <pubDate>Sun, 27 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 7:24-27 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zLFgUifw-LDq1jMq6.m4a" length="32583809" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2299</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 7</title>
+        <link>https://cdn.jwplayer.com/previews/dvNNjtS4</link>
+        <description>Matthew 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W477</guid>
+        <pubDate>Wed, 30 Aug 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dvNNjtS4-LDq1jMq6.m4a" length="65683422" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4634</itunes:duration>
+      </item>
+      <item>
+        <title>God's Final Word - Matthew 8:5-13</title>
+        <link>https://cdn.jwplayer.com/previews/lrfsnGeW</link>
+        <description>God's Final Word - Matthew 8:5-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S441</guid>
+        <pubDate>Sun, 03 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 8:5-13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lrfsnGeW-LDq1jMq6.m4a" length="46016862" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3246</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 8</title>
+        <link>https://cdn.jwplayer.com/previews/thGcjgIh</link>
+        <description>Matthew 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W478</guid>
+        <pubDate>Wed, 06 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/thGcjgIh-LDq1jMq6.m4a" length="56009120" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3951</itunes:duration>
+      </item>
+      <item>
+        <title>Moving Out The Mockers - Matthew 9:18-26</title>
+        <link>https://cdn.jwplayer.com/previews/A8CtRPY9</link>
+        <description>Moving Out The Mockers - Matthew 9:18-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S442</guid>
+        <pubDate>Sun, 10 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 9:18-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/A8CtRPY9-LDq1jMq6.m4a" length="45549560" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3213</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 9</title>
+        <link>https://cdn.jwplayer.com/previews/R25vBruD</link>
+        <description>Matthew 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W479</guid>
+        <pubDate>Wed, 13 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/R25vBruD-LDq1jMq6.m4a" length="59974463" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4231</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 10</title>
+        <link>https://cdn.jwplayer.com/previews/Vz2yErbt</link>
+        <description>Matthew 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W480</guid>
+        <pubDate>Wed, 20 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Vz2yErbt-LDq1jMq6.m4a" length="52291065" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3689</itunes:duration>
+      </item>
+      <item>
+        <title>A Word To The Weary - Matthew 11:28-30</title>
+        <link>https://cdn.jwplayer.com/previews/fCImqmgZ</link>
+        <description>A Word To The Weary - Matthew 11:28-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S444</guid>
+        <pubDate>Sun, 24 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 11:28-30 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fCImqmgZ-LDq1jMq6.m4a" length="39524874" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2788</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 11</title>
+        <link>https://cdn.jwplayer.com/previews/4fy4JBa8</link>
+        <description>Matthew 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W481</guid>
+        <pubDate>Wed, 27 Sep 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4fy4JBa8-LDq1jMq6.m4a" length="55531163" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3918</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 12:1-24</title>
+        <link>https://cdn.jwplayer.com/previews/hiF0sO8U</link>
+        <description>Matthew 12:1-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W482</guid>
+        <pubDate>Wed, 04 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 12:1-24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hiF0sO8U-LDq1jMq6.m4a" length="47502911" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3351</itunes:duration>
+      </item>
+      <item>
+        <title>You Are Treasured! - Matthew 13:44-46</title>
+        <link>https://cdn.jwplayer.com/previews/beGV0F8z</link>
+        <description>You Are Treasured! - Matthew 13:44-46</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S445</guid>
+        <pubDate>Sun, 08 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 13:44-46 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/beGV0F8z-LDq1jMq6.m4a" length="39177694" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2764</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 12:22-50</title>
+        <link>https://cdn.jwplayer.com/previews/UPcGxrVM</link>
+        <description>Matthew 12:22-50</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W483</guid>
+        <pubDate>Wed, 11 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 12:22-50 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UPcGxrVM-LDq1jMq6.m4a" length="53821917" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3797</itunes:duration>
+      </item>
+      <item>
+        <title>Sowing The Seed - Matthew 13:3-9</title>
+        <link>https://cdn.jwplayer.com/previews/tZ1bR8JW</link>
+        <description>Sowing The Seed - Matthew 13:3-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S446</guid>
+        <pubDate>Sun, 15 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 13:3-9 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tZ1bR8JW-LDq1jMq6.m4a" length="37418016" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2640</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 13:1-33</title>
+        <link>https://cdn.jwplayer.com/previews/bMfWY9eV</link>
+        <description>Matthew 13:1-33</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W484</guid>
+        <pubDate>Wed, 18 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 13:1-33 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bMfWY9eV-LDq1jMq6.m4a" length="49176263" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3469</itunes:duration>
+      </item>
+      <item>
+        <title>Unbelief: Its Cause And Cure - Matthew 13:53-58</title>
+        <link>https://cdn.jwplayer.com/previews/RBzpYJvr</link>
+        <description>Unbelief: Its Cause And Cure - Matthew 13:53-58</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S447</guid>
+        <pubDate>Sun, 22 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 13:53-58 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RBzpYJvr-LDq1jMq6.m4a" length="37474095" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2644</itunes:duration>
+      </item>
+      <item>
+        <title>Recognizing Our Redeemer - Matthew 14:22-27</title>
+        <link>https://cdn.jwplayer.com/previews/6W8SQnmI</link>
+        <description>Recognizing Our Redeemer - Matthew 14:22-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S448</guid>
+        <pubDate>Sun, 29 Oct 1989 07:00:00 GMT</pubDate>
+        <description>Matthew 14:22-27 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6W8SQnmI-LDq1jMq6.m4a" length="43790005" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3089</itunes:duration>
+      </item>
+      <item>
+        <title>Effective Worship - Matthew 15:21-28</title>
+        <link>https://cdn.jwplayer.com/previews/pRN0IeUd</link>
+        <description>Effective Worship - Matthew 15:21-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S449</guid>
+        <pubDate>Sun, 05 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 15:21-28 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pRN0IeUd-LDq1jMq6.m4a" length="37091506" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2617</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 13:36 - 14:11</title>
+        <link>https://cdn.jwplayer.com/previews/1vJ4RbKt</link>
+        <description>Matthew 13:36 - 14:11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W485</guid>
+        <pubDate>Wed, 08 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 13:36 - 14:11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1vJ4RbKt-LDq1jMq6.m4a" length="51863886" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3659</itunes:duration>
+      </item>
+      <item>
+        <title>The Key: His Compassion - Matthew 15:32-39</title>
+        <link>https://cdn.jwplayer.com/previews/BtsUJizx</link>
+        <description>The Key: His Compassion - Matthew 15:32-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S450</guid>
+        <pubDate>Sun, 12 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 15:32-39 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/BtsUJizx-LDq1jMq6.m4a" length="38233295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2697</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 14:12-36</title>
+        <link>https://cdn.jwplayer.com/previews/6tlS9B2X</link>
+        <description>Matthew 14:12-36</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W486</guid>
+        <pubDate>Wed, 15 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 14:12-36 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6tlS9B2X-LDq1jMq6.m4a" length="45854255" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3235</itunes:duration>
+      </item>
+      <item>
+        <title>An Admonition On Tradition - Matthew 15:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/eoh4AtPu</link>
+        <description>An Admonition On Tradition - Matthew 15:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S451</guid>
+        <pubDate>Sun, 19 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 15:1-11 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eoh4AtPu-LDq1jMq6.m4a" length="35756794" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2522</itunes:duration>
+      </item>
+      <item>
+        <title>Just Jesus - Matthew 16:13-19</title>
+        <link>https://cdn.jwplayer.com/previews/cT1rYu3l</link>
+        <description>Just Jesus - Matthew 16:13-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S452</guid>
+        <pubDate>Sun, 26 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 16:13-19 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cT1rYu3l-LDq1jMq6.m4a" length="35445734" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2500</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 16</title>
+        <link>https://cdn.jwplayer.com/previews/FTwtH2uN</link>
+        <description>Matthew 16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W487</guid>
+        <pubDate>Wed, 29 Nov 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FTwtH2uN-LDq1jMq6.m4a" length="49446768" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3488</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 17:1-23</title>
+        <link>https://cdn.jwplayer.com/previews/4GAgqCjR</link>
+        <description>Matthew 17:1-23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W488</guid>
+        <pubDate>Wed, 06 Dec 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 17:1-23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4GAgqCjR-LDq1jMq6.m4a" length="58553512" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4131</itunes:duration>
+      </item>
+      <item>
+        <title>The Fisherman Casting His Care - Matthew 17:24-27</title>
+        <link>https://cdn.jwplayer.com/previews/hsHIel8c</link>
+        <description>The Fisherman Casting His Care - Matthew 17:24-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S453</guid>
+        <pubDate>Sun, 10 Dec 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 17:24-27 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hsHIel8c-LDq1jMq6.m4a" length="43144884" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3044</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 18</title>
+        <link>https://cdn.jwplayer.com/previews/IvYVFmqr</link>
+        <description>Matthew 18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W489</guid>
+        <pubDate>Wed, 13 Dec 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IvYVFmqr-LDq1jMq6.m4a" length="54680818" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3858</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 19:1-27</title>
+        <link>https://cdn.jwplayer.com/previews/lDgmpKzj</link>
+        <description>Matthew 19:1-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W490</guid>
+        <pubDate>Wed, 20 Dec 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 19:1-27 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lDgmpKzj-LDq1jMq6.m4a" length="52901807" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3732</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 19-20</title>
+        <link>https://cdn.jwplayer.com/previews/gqNYkMV2</link>
+        <description>Matthew 19-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W491</guid>
+        <pubDate>Wed, 27 Dec 1989 08:00:00 GMT</pubDate>
+        <description>Matthew 19-20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gqNYkMV2-LDq1jMq6.m4a" length="53544793" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3778</itunes:duration>
+      </item>
+      <item>
+        <title>The Fate Of The Figless Tree - Matthew 21:17-19</title>
+        <link>https://cdn.jwplayer.com/previews/DFHKfVms</link>
+        <description>The Fate Of The Figless Tree - Matthew 21:17-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S454</guid>
+        <pubDate>Sun, 07 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 21:17-19 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/DFHKfVms-LDq1jMq6.m4a" length="43089728" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3040</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 21:1 - 22:14</title>
+        <link>https://cdn.jwplayer.com/previews/TydKxD4l</link>
+        <description>Matthew 21:1 - 22:14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W492</guid>
+        <pubDate>Wed, 10 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 21:1 - 22:14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TydKxD4l-LDq1jMq6.m4a" length="57356221" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4046</itunes:duration>
+      </item>
+      <item>
+        <title>The Greatest Commandment - Matthew 22</title>
+        <link>https://cdn.jwplayer.com/previews/ouoWLUJs</link>
+        <description>The Greatest Commandment - Matthew 22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S455</guid>
+        <pubDate>Sun, 14 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 22 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ouoWLUJs-LDq1jMq6.m4a" length="36355116" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2565</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 23</title>
+        <link>https://cdn.jwplayer.com/previews/hVjjwqMd</link>
+        <description>Matthew 23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W493</guid>
+        <pubDate>Wed, 17 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hVjjwqMd-LDq1jMq6.m4a" length="67321654" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4750</itunes:duration>
+      </item>
+      <item>
+        <title>The Final Generation - Matthew 24:32-35</title>
+        <link>https://cdn.jwplayer.com/previews/ABCZk74X</link>
+        <description>The Final Generation - Matthew 24:32-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S456</guid>
+        <pubDate>Sun, 21 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24:32-35 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ABCZk74X-LDq1jMq6.m4a" length="55497352" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3915</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 24:1-21</title>
+        <link>https://cdn.jwplayer.com/previews/4H6PC9dY</link>
+        <description>Matthew 24:1-21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W494</guid>
+        <pubDate>Wed, 24 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24:1-21 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4H6PC9dY-LDq1jMq6.m4a" length="63903704" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4508</itunes:duration>
+      </item>
+      <item>
+        <title>Enduring Through Tribulation - Matthew 24:3-13</title>
+        <link>https://cdn.jwplayer.com/previews/7BeQsAHF</link>
+        <description>Enduring Through Tribulation - Matthew 24:3-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S457</guid>
+        <pubDate>Sun, 28 Jan 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24:3-13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7BeQsAHF-LDq1jMq6.m4a" length="58335109" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4116</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 24:15-36</title>
+        <link>https://cdn.jwplayer.com/previews/uS5CsGMV</link>
+        <description>Matthew 24:15-36</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W495</guid>
+        <pubDate>Wed, 07 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24:15-36 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uS5CsGMV-LDq1jMq6.m4a" length="55058639" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3884</itunes:duration>
+      </item>
+      <item>
+        <title>Being Watchful . . . Wise . . . Warned - Matthew 24:42-51</title>
+        <link>https://cdn.jwplayer.com/previews/nRBrOX0i</link>
+        <description>Being Watchful . . . Wise . . . Warned - Matthew 24:42-51</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S458</guid>
+        <pubDate>Sun, 11 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24:42-51 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nRBrOX0i-LDq1jMq6.m4a" length="37544876" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2649</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 24-25</title>
+        <link>https://cdn.jwplayer.com/previews/HpbfUERc</link>
+        <description>Matthew 24-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W496</guid>
+        <pubDate>Wed, 14 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 24-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HpbfUERc-LDq1jMq6.m4a" length="67810890" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4784</itunes:duration>
+      </item>
+      <item>
+        <title>Open House! - Matthew 27:50-51</title>
+        <link>https://cdn.jwplayer.com/previews/AiEjZHSC</link>
+        <description>Open House! - Matthew 27:50-51</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S459</guid>
+        <pubDate>Sun, 18 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 27:50-51 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/AiEjZHSC-LDq1jMq6.m4a" length="42658978" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3009</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 26:1-30</title>
+        <link>https://cdn.jwplayer.com/previews/CZcpgzxR</link>
+        <description>Matthew 26:1-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W497</guid>
+        <pubDate>Wed, 21 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 26:1-30 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CZcpgzxR-LDq1jMq6.m4a" length="48528017" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3424</itunes:duration>
+      </item>
+      <item>
+        <title>The Pathway To Pain - Matthew 26:75</title>
+        <link>https://cdn.jwplayer.com/previews/uzCzXo2i</link>
+        <description>The Pathway To Pain - Matthew 26:75</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S460</guid>
+        <pubDate>Sun, 25 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 26:75 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uzCzXo2i-LDq1jMq6.m4a" length="39977067" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2820</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 26:31-75</title>
+        <link>https://cdn.jwplayer.com/previews/A4bXzipJ</link>
+        <description>Matthew 26:31-75</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W498</guid>
+        <pubDate>Wed, 28 Feb 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 26:31-75 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/A4bXzipJ-LDq1jMq6.m4a" length="60228458" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4249</itunes:duration>
+      </item>
+      <item>
+        <title>The Government Upon His Shoulders - Matthew 27:31-32</title>
+        <link>https://cdn.jwplayer.com/previews/WjadNLNC</link>
+        <description>The Government Upon His Shoulders - Matthew 27:31-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S461</guid>
+        <pubDate>Sun, 04 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 27:31-32 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/WjadNLNC-LDq1jMq6.m4a" length="36852558" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2600</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 27</title>
+        <link>https://cdn.jwplayer.com/previews/Mj7zRV4y</link>
+        <description>Matthew 27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W499</guid>
+        <pubDate>Wed, 07 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 27 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Mj7zRV4y-LDq1jMq6.m4a" length="66772951" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4711</itunes:duration>
+      </item>
+      <item>
+        <title>Being Used By Being There - Matthew 28:1-8</title>
+        <link>https://cdn.jwplayer.com/previews/Li853Ewh</link>
+        <description>Being Used By Being There - Matthew 28:1-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S462</guid>
+        <pubDate>Sun, 11 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 28:1-8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Li853Ewh-LDq1jMq6.m4a" length="51523354" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3635</itunes:duration>
+      </item>
+      <item>
+        <title>Freedom From Fear - Matthew 28:5-8</title>
+        <link>https://cdn.jwplayer.com/previews/PNVqF013</link>
+        <description>Freedom From Fear - Matthew 28:5-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S463</guid>
+        <pubDate>Sun, 18 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 28:5-8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PNVqF013-LDq1jMq6.m4a" length="35000049" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2469</itunes:duration>
+      </item>
+      <item>
+        <title>Matthew 28</title>
+        <link>https://cdn.jwplayer.com/previews/9SXLjHma</link>
+        <description>Matthew 28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W500</guid>
+        <pubDate>Wed, 21 Mar 1990 08:00:00 GMT</pubDate>
+        <description>Matthew 28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9SXLjHma-LDq1jMq6.m4a" length="48796533" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3443</itunes:duration>
+      </item>
+  </channel>
+  </rss>

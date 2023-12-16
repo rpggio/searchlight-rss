@@ -3,6 +3,7 @@ import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
 import { Teaching, TeachingFeed, TeachingMedia } from '../types'
 import { getMediaItem } from '../lib/jwPlayerApi/getMediaItem'
+import { fileNameSlug } from '../lib/bible'
 
 interface TeachingParseRow {
    date: string
@@ -30,6 +31,7 @@ interface BibleBook {
 }
 
 async function downloadPage(url: string) {
+   await sleep(500)
    return (await axios.get(url)).data
 }
 
@@ -110,7 +112,7 @@ function extractMediaId(text: string): string | null {
    return match ? match[1] : null
 }
 
-async function getBookList(html: string) {
+function getBookList(html: string) {
    const dom = new JSDOM(html)
    const document = dom.window.document
    const bibleBooks: BibleBook[] = []
@@ -133,7 +135,6 @@ async function getTeachingMedia(mediaId: string) {
 
    if (!playItem) return null
 
-
    return {
       // teachingId: playItem.title,
       link: playItem.link,
@@ -149,42 +150,42 @@ function sleep(ms: number) {
 
 async function main() {
 
-   const book = 'Judges'
-   const bookSlug = book.toLowerCase().replace(/ /g, '-')
-
-   const startUrl = `https://www.joncourson.com/teachings/${bookSlug}`
+   const startUrl = `https://www.joncourson.com/teachings/genesis`
    const startContent = await downloadPage(startUrl)
-   // const books = getBookList(startContent)
+   const books = getBookList(startContent)
 
-   const teachings: Teaching[] = (await extractTeachings(startContent))
+   for (const book of books.slice(2)) {
+      console.log(book.name)
 
-   for (const teaching of teachings) {
-      console.log(teaching.teachingNumber, teaching.date, teaching.title, teaching.passage)
+      const bookSlug = fileNameSlug(book.name)
+      const bookPageContent = await downloadPage(book.url)
+      const teachings: Teaching[] = (await extractTeachings(bookPageContent))
 
-      const audioPage = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
-      const audioPageContent = await downloadPage(audioPage)
-      const mediaId = extractMediaId(audioPageContent)
-      if (!mediaId) {
-         console.warn('No media id found for', teaching)
-         continue
+      for (const teaching of teachings) {
+         console.log(teaching.teachingNumber, teaching.date, teaching.title || teaching.passage)
+
+         const audioPage = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
+         const audioPageContent = await downloadPage(audioPage)
+         const mediaId = extractMediaId(audioPageContent)
+         if (!mediaId) {
+            console.warn('No media id found for', teaching)
+            continue
+         }
+
+         const details = await getTeachingMedia(mediaId)
+         if (details) {
+            teaching.media = details
+         }
       }
 
-      const details = await getTeachingMedia(mediaId)
-      if (details) {
-      teaching.media = details
+      const feed: TeachingFeed = {
+         title: book.name,
+         teachings
       }
 
-      await sleep(500)
+      const json = JSON.stringify(feed, null, 3)
+      fs.writeFileSync(`docs/${bookSlug}.json`, json)
    }
-
-   const feed: TeachingFeed = {
-      title: book,
-      teachings
-   }
-
-   const json = JSON.stringify(feed, null, 3)
-   fs.writeFileSync(`docs/${book.toLowerCase().replace(' ', '')}.json`, json)
 }
-
 
 main()

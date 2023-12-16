@@ -1,0 +1,43 @@
+{
+   "title": "2 John",
+   "teachings": [
+      {
+         "date": "10-13-96",
+         "title": "Children Walking In Truth - 2 John 4",
+         "passage": "2 John 4",
+         "event": "Sunday Sermon",
+         "teachingNumber": "S684",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/E4Kvdv6o",
+            "duration": 4113,
+            "pubdate": 1481154735,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/E4Kvdv6o-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 58304304
+            }
+         }
+      },
+      {
+         "date": "10-23-96",
+         "title": "2 John and 3 John",
+         "passage": "2 John and 3 John",
+         "event": "Verse by Verse Bible Study",
+         "teachingNumber": "W756",
+         "media": {
+            "link": "https://cdn.jwplayer.com/previews/mI04ySbl",
+            "duration": 4784,
+            "pubdate": 1481157456,
+            "source": {
+               "file": "https://cdn.jwplayer.com/videos/mI04ySbl-LDq1jMq6.m4a",
+               "type": "audio/mp4",
+               "label": "AAC Audio",
+               "bitrate": 113376,
+               "filesize": 67811010
+            }
+         }
+      }
+   ]
+}

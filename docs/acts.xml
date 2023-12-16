@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Acts with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/acts</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 14 Nov 2018 08:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/acts.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Acts with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/acts</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Acts 1</title>
+        <link>https://cdn.jwplayer.com/previews/LwgFYSZW</link>
+        <description>Acts 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9065</guid>
+        <pubDate>Wed, 06 Jun 2018 07:00:00 GMT</pubDate>
+        <description>Acts 1 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LwgFYSZW-LDq1jMq6.m4a" length="41065364" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2897</itunes:duration>
+      </item>
+      <item>
+        <title>What's In Your Hand? - Acts 3:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/NweQlxBj</link>
+        <description>What's In Your Hand? - Acts 3:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9018</guid>
+        <pubDate>Sun, 10 Jun 2018 07:00:00 GMT</pubDate>
+        <description>Acts 3:1-11 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NweQlxBj-LDq1jMq6.m4a" length="40941646" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2888</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 2</title>
+        <link>https://cdn.jwplayer.com/previews/0hAgnX8p</link>
+        <description>Acts 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9066</guid>
+        <pubDate>Wed, 13 Jun 2018 07:00:00 GMT</pubDate>
+        <description>Acts 2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0hAgnX8p-LDq1jMq6.m4a" length="54469208" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3843</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 2-4</title>
+        <link>https://cdn.jwplayer.com/previews/aVQvkbM7</link>
+        <description>Acts 2-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9067</guid>
+        <pubDate>Wed, 20 Jun 2018 07:00:00 GMT</pubDate>
+        <description>Acts 2-4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/aVQvkbM7-LDq1jMq6.m4a" length="50246106" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3545</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 4-5</title>
+        <link>https://cdn.jwplayer.com/previews/13L4tT4c</link>
+        <description>Acts 4-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9068</guid>
+        <pubDate>Wed, 27 Jun 2018 07:00:00 GMT</pubDate>
+        <description>Acts 4-5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/13L4tT4c-LDq1jMq6.m4a" length="50974303" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3596</itunes:duration>
+      </item>
+      <item>
+        <title>Looking Through Heaven's Lens - Acts 5:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/eFE0Y7Lr</link>
+        <description>Looking Through Heaven's Lens - Acts 5:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9019</guid>
+        <pubDate>Sun, 01 Jul 2018 07:00:00 GMT</pubDate>
+        <description>Acts 5:1-11 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eFE0Y7Lr-LDq1jMq6.m4a" length="40616890" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2865</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 6-7</title>
+        <link>https://cdn.jwplayer.com/previews/lVgUfRvD</link>
+        <description>Acts 6-7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9069</guid>
+        <pubDate>Wed, 11 Jul 2018 07:00:00 GMT</pubDate>
+        <description>Acts 6-7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lVgUfRvD-LDq1jMq6.m4a" length="64290912" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4536</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 8</title>
+        <link>https://cdn.jwplayer.com/previews/dVzhNmeZ</link>
+        <description>Acts 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9070</guid>
+        <pubDate>Wed, 18 Jul 2018 07:00:00 GMT</pubDate>
+        <description>Acts 8 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dVzhNmeZ-LDq1jMq6.m4a" length="48941642" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3453</itunes:duration>
+      </item>
+      <item>
+        <title>Persecuting Jesus? - Acts 9:4</title>
+        <link>https://cdn.jwplayer.com/previews/7Fr6SK69</link>
+        <description>Persecuting Jesus? - Acts 9:4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9020</guid>
+        <pubDate>Sun, 22 Jul 2018 07:00:00 GMT</pubDate>
+        <description>Acts 9:4 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7Fr6SK69-LDq1jMq6.m4a" length="45741637" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3227</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 9</title>
+        <link>https://cdn.jwplayer.com/previews/FHNzYuLv</link>
+        <description>Acts 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9071</guid>
+        <pubDate>Wed, 25 Jul 2018 07:00:00 GMT</pubDate>
+        <description>Acts 9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FHNzYuLv-LDq1jMq6.m4a" length="51975091" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3667</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 10</title>
+        <link>https://cdn.jwplayer.com/previews/I63QqL2q</link>
+        <description>Acts 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9072</guid>
+        <pubDate>Wed, 01 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/I63QqL2q-LDq1jMq6.m4a" length="60550583" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4272</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 11</title>
+        <link>https://cdn.jwplayer.com/previews/laeC8hso</link>
+        <description>Acts 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9073</guid>
+        <pubDate>Wed, 08 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/laeC8hso-LDq1jMq6.m4a" length="45310469" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3197</itunes:duration>
+      </item>
+      <item>
+        <title>Get-Up-And-Go! - Acts 12:1-11</title>
+        <link>https://cdn.jwplayer.com/previews/N6PnYBLI</link>
+        <description>Get-Up-And-Go! - Acts 12:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9021</guid>
+        <pubDate>Sun, 12 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 12:1-11 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/N6PnYBLI-LDq1jMq6.m4a" length="48254860" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3404</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 12</title>
+        <link>https://cdn.jwplayer.com/previews/TIOEqzPt</link>
+        <description>Acts 12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9074</guid>
+        <pubDate>Wed, 15 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TIOEqzPt-LDq1jMq6.m4a" length="62954492" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4441</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 13-14</title>
+        <link>https://cdn.jwplayer.com/previews/Wu3iALhf</link>
+        <description>Acts 13-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9075</guid>
+        <pubDate>Wed, 22 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 13-14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Wu3iALhf-LDq1jMq6.m4a" length="56531135" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3988</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 14-15</title>
+        <link>https://cdn.jwplayer.com/previews/3Kp6P8Em</link>
+        <description>Acts 14-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9076</guid>
+        <pubDate>Wed, 29 Aug 2018 07:00:00 GMT</pubDate>
+        <description>Acts 14-15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3Kp6P8Em-LDq1jMq6.m4a" length="58010728" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4093</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 16</title>
+        <link>https://cdn.jwplayer.com/previews/kuBw58zq</link>
+        <description>Acts 16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9077</guid>
+        <pubDate>Wed, 05 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kuBw58zq-LDq1jMq6.m4a" length="49559947" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3496</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 17</title>
+        <link>https://cdn.jwplayer.com/previews/UKnPL8fj</link>
+        <description>Acts 17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9078</guid>
+        <pubDate>Wed, 12 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UKnPL8fj-LDq1jMq6.m4a" length="47149761" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3326</itunes:duration>
+      </item>
+      <item>
+        <title>What's So Special About This? - Acts 19:11-12</title>
+        <link>https://cdn.jwplayer.com/previews/3CwilRrx</link>
+        <description>What's So Special About This? - Acts 19:11-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9022</guid>
+        <pubDate>Sun, 16 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 19:11-12 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3CwilRrx-LDq1jMq6.m4a" length="27916953" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1969</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 18</title>
+        <link>https://cdn.jwplayer.com/previews/Z5Xlxg3U</link>
+        <description>Acts 18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9079</guid>
+        <pubDate>Wed, 19 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Z5Xlxg3U-LDq1jMq6.m4a" length="38270887" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2700</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 19-20</title>
+        <link>https://cdn.jwplayer.com/previews/rM7fic4R</link>
+        <description>Acts 19-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9080</guid>
+        <pubDate>Wed, 26 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 19-20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/rM7fic4R-LDq1jMq6.m4a" length="54840048" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3869</itunes:duration>
+      </item>
+      <item>
+        <title>First Things First - Acts 20:7</title>
+        <link>https://cdn.jwplayer.com/previews/LtYFJmks</link>
+        <description>First Things First - Acts 20:7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9023</guid>
+        <pubDate>Sun, 30 Sep 2018 07:00:00 GMT</pubDate>
+        <description>Acts 20:7 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LtYFJmks-LDq1jMq6.m4a" length="45164381" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3186</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 20</title>
+        <link>https://cdn.jwplayer.com/previews/PoJZcQrQ</link>
+        <description>Acts 20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9081</guid>
+        <pubDate>Wed, 03 Oct 2018 07:00:00 GMT</pubDate>
+        <description>Acts 20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PoJZcQrQ-LDq1jMq6.m4a" length="57561190" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4061</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 21:1-4</title>
+        <link>https://cdn.jwplayer.com/previews/UyKOUPRz</link>
+        <description>Acts 21:1-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9082</guid>
+        <pubDate>Wed, 10 Oct 2018 07:00:00 GMT</pubDate>
+        <description>Acts 21:1-4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UyKOUPRz-LDq1jMq6.m4a" length="44801106" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3160</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 21:4-24</title>
+        <link>https://cdn.jwplayer.com/previews/OT45HpZd</link>
+        <description>Acts 21:4-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9083</guid>
+        <pubDate>Wed, 17 Oct 2018 07:00:00 GMT</pubDate>
+        <description>Acts 21:4-24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OT45HpZd-LDq1jMq6.m4a" length="53208082" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3754</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 21-26</title>
+        <link>https://cdn.jwplayer.com/previews/IHoykOH1</link>
+        <description>Acts 21-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9084</guid>
+        <pubDate>Wed, 24 Oct 2018 07:00:00 GMT</pubDate>
+        <description>Acts 21-26 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IHoykOH1-LDq1jMq6.m4a" length="54869420" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3871</itunes:duration>
+      </item>
+      <item>
+        <title>All Aboard . . . Stay Aboard! - Acts 27:13-36</title>
+        <link>https://cdn.jwplayer.com/previews/gedR6Ygo</link>
+        <description>All Aboard . . . Stay Aboard! - Acts 27:13-36</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9024</guid>
+        <pubDate>Sun, 28 Oct 2018 07:00:00 GMT</pubDate>
+        <description>Acts 27:13-36 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gedR6Ygo-LDq1jMq6.m4a" length="63187189" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4458</itunes:duration>
+      </item>
+      <item>
+        <title>Acts 27-28</title>
+        <link>https://cdn.jwplayer.com/previews/Xd5dbEgI</link>
+        <description>Acts 27-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9085</guid>
+        <pubDate>Wed, 14 Nov 2018 08:00:00 GMT</pubDate>
+        <description>Acts 27-28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Xd5dbEgI-LDq1jMq6.m4a" length="54776584" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3864</itunes:duration>
+      </item>
+  </channel>
+  </rss>

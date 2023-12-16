@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Galatians with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/galatians</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 07 Aug 2019 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/galatians.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Galatians with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/galatians</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Galatians 1-2</title>
+        <link>https://cdn.jwplayer.com/previews/VHa9guIX</link>
+        <description>Galatians 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9115</guid>
+        <pubDate>Wed, 10 Jul 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 1-2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VHa9guIX-LDq1jMq6.m4a" length="56372546" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3977</itunes:duration>
+      </item>
+      <item>
+        <title>The Trajectory Must Always Be Love - Galatians 3:26-28</title>
+        <link>https://cdn.jwplayer.com/previews/6VDCnmMz</link>
+        <description>The Trajectory Must Always Be Love - Galatians 3:26-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9043</guid>
+        <pubDate>Sun, 14 Jul 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 3:26-28 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6VDCnmMz-LDq1jMq6.m4a" length="49081805" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3463</itunes:duration>
+      </item>
+      <item>
+        <title>Galatians 3</title>
+        <link>https://cdn.jwplayer.com/previews/ldFImIy1</link>
+        <description>Galatians 3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9116</guid>
+        <pubDate>Wed, 17 Jul 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 3 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ldFImIy1-LDq1jMq6.m4a" length="52263338" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3687</itunes:duration>
+      </item>
+      <item>
+        <title>Faith Works By Love - Galatians 5:1-6</title>
+        <link>https://cdn.jwplayer.com/previews/uDbgJ9fP</link>
+        <description>Faith Works By Love - Galatians 5:1-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S9044</guid>
+        <pubDate>Sun, 21 Jul 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 5:1-6 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uDbgJ9fP-LDq1jMq6.m4a" length="41889438" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2955</itunes:duration>
+      </item>
+      <item>
+        <title>Galatians 4-5</title>
+        <link>https://cdn.jwplayer.com/previews/OMRggjl1</link>
+        <description>Galatians 4-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9117</guid>
+        <pubDate>Wed, 31 Jul 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 4-5 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OMRggjl1-LDq1jMq6.m4a" length="53842913" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3799</itunes:duration>
+      </item>
+      <item>
+        <title>Galatians 5-6</title>
+        <link>https://cdn.jwplayer.com/previews/SYSht3fz</link>
+        <description>Galatians 5-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W9118</guid>
+        <pubDate>Wed, 07 Aug 2019 07:00:00 GMT</pubDate>
+        <description>Galatians 5-6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/SYSht3fz-LDq1jMq6.m4a" length="58977911" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4161</itunes:duration>
+      </item>
+  </channel>
+  </rss>

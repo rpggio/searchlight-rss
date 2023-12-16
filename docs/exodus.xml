@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Exodus with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/exodus</link>
+    <description>Thru-The-Bible teachings by Jon Courson</description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 25 Aug 1999 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:47:43 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/exodus.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Exodus with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/exodus</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Burning Bushes - Exodus 3:1-5</title>
+        <link>https://cdn.jwplayer.com/previews/f8C6IIDp</link>
+        <description>Burning Bushes - Exodus 3:1-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3036</guid>
+        <pubDate>Sun, 20 Sep 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 3:1-5 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/f8C6IIDp-LDq1jMq6.m4a" length="38840525" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2740</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 1-2</title>
+        <link>https://cdn.jwplayer.com/previews/vk2AIksw</link>
+        <description>Exodus 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3042</guid>
+        <pubDate>Wed, 23 Sep 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 1-2 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vk2AIksw-LDq1jMq6.m4a" length="54408428" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3838</itunes:duration>
+      </item>
+      <item>
+        <title>I AM . . . Whatever You Need - Exodus 3:11-15</title>
+        <link>https://cdn.jwplayer.com/previews/GabQQdzv</link>
+        <description>I AM . . . Whatever You Need - Exodus 3:11-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3037</guid>
+        <pubDate>Sun, 04 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 3:11-15 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GabQQdzv-LDq1jMq6.m4a" length="50690807" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3576</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 3-4</title>
+        <link>https://cdn.jwplayer.com/previews/XzCN8uUm</link>
+        <description>Exodus 3-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3043</guid>
+        <pubDate>Wed, 07 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 3-4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XzCN8uUm-LDq1jMq6.m4a" length="61670338" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4351</itunes:duration>
+      </item>
+      <item>
+        <title>Family Matters - Exodus 4:20-26</title>
+        <link>https://cdn.jwplayer.com/previews/N6P0FXC1</link>
+        <description>Family Matters - Exodus 4:20-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3038</guid>
+        <pubDate>Sun, 11 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 4:20-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/N6P0FXC1-LDq1jMq6.m4a" length="59487001" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4197</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 4</title>
+        <link>https://cdn.jwplayer.com/previews/PqWhxqlh</link>
+        <description>Exodus 4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3044</guid>
+        <pubDate>Wed, 14 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 4 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PqWhxqlh-LDq1jMq6.m4a" length="55157813" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3891</itunes:duration>
+      </item>
+      <item>
+        <title>HE Will Do It! - Exodus 6:6-8</title>
+        <link>https://cdn.jwplayer.com/previews/ccS27nF4</link>
+        <description>HE Will Do It! - Exodus 6:6-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3039</guid>
+        <pubDate>Sun, 18 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 6:6-8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ccS27nF4-LDq1jMq6.m4a" length="43668367" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3081</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 5-6</title>
+        <link>https://cdn.jwplayer.com/previews/wbuW6CKo</link>
+        <description>Exodus 5-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3045</guid>
+        <pubDate>Wed, 21 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 5-6 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wbuW6CKo-LDq1jMq6.m4a" length="65206461" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4600</itunes:duration>
+      </item>
+      <item>
+        <title>One More Night With The Frogs - Exodus 8:1-10</title>
+        <link>https://cdn.jwplayer.com/previews/TIz0WsMb</link>
+        <description>One More Night With The Frogs - Exodus 8:1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3040</guid>
+        <pubDate>Sun, 25 Oct 1998 07:00:00 GMT</pubDate>
+        <description>Exodus 8:1-10 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TIz0WsMb-LDq1jMq6.m4a" length="46690918" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3294</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 7</title>
+        <link>https://cdn.jwplayer.com/previews/MeukunX6</link>
+        <description>Exodus 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3046</guid>
+        <pubDate>Wed, 28 Oct 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 7 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MeukunX6-LDq1jMq6.m4a" length="61930302" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4369</itunes:duration>
+      </item>
+      <item>
+        <title>No Compromise . . . No Way! - Exodus 8-10</title>
+        <link>https://cdn.jwplayer.com/previews/GJ8KumPR</link>
+        <description>No Compromise . . . No Way! - Exodus 8-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3041</guid>
+        <pubDate>Sun, 01 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 8-10 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GJ8KumPR-LDq1jMq6.m4a" length="35626853" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2513</itunes:duration>
+      </item>
+      <item>
+        <title>Hoof It To Heaven - Exodus 10:24-26</title>
+        <link>https://cdn.jwplayer.com/previews/6aKiMFIr</link>
+        <description>Hoof It To Heaven - Exodus 10:24-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3042</guid>
+        <pubDate>Sun, 08 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 10:24-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6aKiMFIr-LDq1jMq6.m4a" length="29040847" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2049</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 8-9</title>
+        <link>https://cdn.jwplayer.com/previews/vZhdP87G</link>
+        <description>Exodus 8-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3047</guid>
+        <pubDate>Wed, 11 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 8-9 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vZhdP87G-LDq1jMq6.m4a" length="62766330" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4428</itunes:duration>
+      </item>
+      <item>
+        <title>I've Been Redeemed - Exodus 12:21-24</title>
+        <link>https://cdn.jwplayer.com/previews/a0l6Hs02</link>
+        <description>I've Been Redeemed - Exodus 12:21-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3043</guid>
+        <pubDate>Sun, 15 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 12:21-24 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/a0l6Hs02-LDq1jMq6.m4a" length="32044265" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2260</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 10-11</title>
+        <link>https://cdn.jwplayer.com/previews/x5t9jLZW</link>
+        <description>Exodus 10-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3048</guid>
+        <pubDate>Wed, 18 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 10-11 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/x5t9jLZW-LDq1jMq6.m4a" length="68322329" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4820</itunes:duration>
+      </item>
+      <item>
+        <title>"Boning Up" On The Passover - Exodus 12:42-46</title>
+        <link>https://cdn.jwplayer.com/previews/1KVLL8Ao</link>
+        <description>"Boning Up" On The Passover - Exodus 12:42-46</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3044</guid>
+        <pubDate>Sun, 22 Nov 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 12:42-46 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1KVLL8Ao-LDq1jMq6.m4a" length="31668754" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2234</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 12</title>
+        <link>https://cdn.jwplayer.com/previews/epLm97zh</link>
+        <description>Exodus 12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3049</guid>
+        <pubDate>Wed, 02 Dec 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 12 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/epLm97zh-LDq1jMq6.m4a" length="67582726" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4768</itunes:duration>
+      </item>
+      <item>
+        <title>The Leading Of The Lord - Exodus 13:20-22</title>
+        <link>https://cdn.jwplayer.com/previews/Wj5aXrh9</link>
+        <description>The Leading Of The Lord - Exodus 13:20-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3045</guid>
+        <pubDate>Sun, 06 Dec 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 13:20-22 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Wj5aXrh9-LDq1jMq6.m4a" length="32020974" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2259</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 13</title>
+        <link>https://cdn.jwplayer.com/previews/p9fALnhP</link>
+        <description>Exodus 13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3050</guid>
+        <pubDate>Wed, 09 Dec 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 13 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/p9fALnhP-LDq1jMq6.m4a" length="67722782" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4778</itunes:duration>
+      </item>
+      <item>
+        <title>Bitterness: Here Today, Gone To-Marah! - Exodus 15:22-26</title>
+        <link>https://cdn.jwplayer.com/previews/MyM2fGac</link>
+        <description>Bitterness: Here Today, Gone To-Marah! - Exodus 15:22-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3046</guid>
+        <pubDate>Sun, 13 Dec 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 15:22-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MyM2fGac-LDq1jMq6.m4a" length="38665610" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2728</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 14</title>
+        <link>https://cdn.jwplayer.com/previews/yAwmVboF</link>
+        <description>Exodus 14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3051</guid>
+        <pubDate>Wed, 16 Dec 1998 08:00:00 GMT</pubDate>
+        <description>Exodus 14 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yAwmVboF-LDq1jMq6.m4a" length="57889581" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4084</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 15</title>
+        <link>https://cdn.jwplayer.com/previews/Qg1MyXin</link>
+        <description>Exodus 15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3052</guid>
+        <pubDate>Wed, 06 Jan 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Qg1MyXin-LDq1jMq6.m4a" length="66186427" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4670</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 15-16</title>
+        <link>https://cdn.jwplayer.com/previews/wV0RuPJE</link>
+        <description>Exodus 15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3053</guid>
+        <pubDate>Wed, 20 Jan 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 15-16 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wV0RuPJE-LDq1jMq6.m4a" length="62517144" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4411</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 16-17</title>
+        <link>https://cdn.jwplayer.com/previews/LnMc0cEN</link>
+        <description>Exodus 16-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3054</guid>
+        <pubDate>Wed, 27 Jan 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 16-17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LnMc0cEN-LDq1jMq6.m4a" length="69628567" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4912</itunes:duration>
+      </item>
+      <item>
+        <title>The Key To Victory - Exodus 17:8-16</title>
+        <link>https://cdn.jwplayer.com/previews/bsd74Qkp</link>
+        <description>The Key To Victory - Exodus 17:8-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3047</guid>
+        <pubDate>Sun, 31 Jan 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 17:8-16 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bsd74Qkp-LDq1jMq6.m4a" length="47407245" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3345</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 18</title>
+        <link>https://cdn.jwplayer.com/previews/tXs1RHDT</link>
+        <description>Exodus 18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3055</guid>
+        <pubDate>Wed, 03 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 18 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tXs1RHDT-LDq1jMq6.m4a" length="67983317" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4796</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 19:1-15</title>
+        <link>https://cdn.jwplayer.com/previews/ialqmDyK</link>
+        <description>Exodus 19:1-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3056</guid>
+        <pubDate>Wed, 10 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 19:1-15 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ialqmDyK-LDq1jMq6.m4a" length="64884937" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4578</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Introduction - Exodus 20:1-2</title>
+        <link>https://cdn.jwplayer.com/previews/IcWk0ncg</link>
+        <description>Ten Commandments: Introduction - Exodus 20:1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3048</guid>
+        <pubDate>Sun, 14 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:1-2 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IcWk0ncg-LDq1jMq6.m4a" length="38323444" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2704</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 19:16-25</title>
+        <link>https://cdn.jwplayer.com/previews/LelbShnM</link>
+        <description>Exodus 19:16-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3057</guid>
+        <pubDate>Wed, 17 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 19:16-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LelbShnM-LDq1jMq6.m4a" length="65606004" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4629</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: No Other Gods - Exodus 20:3</title>
+        <link>https://cdn.jwplayer.com/previews/6C4QPmlk</link>
+        <description>Ten Commandments: No Other Gods - Exodus 20:3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3049</guid>
+        <pubDate>Sun, 21 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:3 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6C4QPmlk-LDq1jMq6.m4a" length="41538280" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2930</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: No Graven Images - Exodus 20:4-6</title>
+        <link>https://cdn.jwplayer.com/previews/xX38Pacj</link>
+        <description>Ten Commandments: No Graven Images - Exodus 20:4-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3050</guid>
+        <pubDate>Sun, 28 Feb 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:4-6 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xX38Pacj-LDq1jMq6.m4a" length="33526924" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2365</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 20</title>
+        <link>https://cdn.jwplayer.com/previews/EZmq3ZjJ</link>
+        <description>Exodus 20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3058</guid>
+        <pubDate>Wed, 03 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EZmq3ZjJ-LDq1jMq6.m4a" length="58984139" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4161</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Honor His Name - Exodus 20:7</title>
+        <link>https://cdn.jwplayer.com/previews/8MkCrQnn</link>
+        <description>Ten Commandments: Honor His Name - Exodus 20:7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3051</guid>
+        <pubDate>Sun, 07 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:7 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8MkCrQnn-LDq1jMq6.m4a" length="35149857" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2480</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 21:1-25</title>
+        <link>https://cdn.jwplayer.com/previews/ZOaTpWn8</link>
+        <description>Exodus 21:1-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3059</guid>
+        <pubDate>Wed, 10 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 21:1-25 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZOaTpWn8-LDq1jMq6.m4a" length="54115553" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3818</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Remember The Sabbath - Exodus 20:8</title>
+        <link>https://cdn.jwplayer.com/previews/pXPiDZ4H</link>
+        <description>Ten Commandments: Remember The Sabbath - Exodus 20:8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3052</guid>
+        <pubDate>Sun, 14 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:8 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pXPiDZ4H-LDq1jMq6.m4a" length="46447408" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3277</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 21-22</title>
+        <link>https://cdn.jwplayer.com/previews/52VJpWvt</link>
+        <description>Exodus 21-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3060</guid>
+        <pubDate>Wed, 17 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 21-22 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/52VJpWvt-LDq1jMq6.m4a" length="64058295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4519</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Honor Father And Mother - Exodus 20:12</title>
+        <link>https://cdn.jwplayer.com/previews/mDBWowbn</link>
+        <description>Ten Commandments: Honor Father And Mother - Exodus 20:12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3053</guid>
+        <pubDate>Sun, 21 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 20:12 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mDBWowbn-LDq1jMq6.m4a" length="38759548" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2734</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 23</title>
+        <link>https://cdn.jwplayer.com/previews/GLgt56eO</link>
+        <description>Exodus 23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3061</guid>
+        <pubDate>Wed, 24 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 23 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GLgt56eO-LDq1jMq6.m4a" length="62394841" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4402</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 24</title>
+        <link>https://cdn.jwplayer.com/previews/PLLtjeZc</link>
+        <description>Exodus 24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3062</guid>
+        <pubDate>Wed, 31 Mar 1999 08:00:00 GMT</pubDate>
+        <description>Exodus 24 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PLLtjeZc-LDq1jMq6.m4a" length="60494609" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4268</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:1-22</title>
+        <link>https://cdn.jwplayer.com/previews/3usTSLUw</link>
+        <description>Exodus 25:1-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3063</guid>
+        <pubDate>Wed, 07 Apr 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 25:1-22 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3usTSLUw-LDq1jMq6.m4a" length="59750596" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4215</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Murder - Part 1 - Exodus 20:13</title>
+        <link>https://cdn.jwplayer.com/previews/ylxQyasQ</link>
+        <description>Ten Commandments: Do Not Murder - Part 1 - Exodus 20:13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3054</guid>
+        <pubDate>Sun, 18 Apr 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ylxQyasQ-LDq1jMq6.m4a" length="40438025" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2853</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:23-28</title>
+        <link>https://cdn.jwplayer.com/previews/XQTJOYHS</link>
+        <description>Exodus 25:23-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3064</guid>
+        <pubDate>Wed, 21 Apr 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 25:23-28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XQTJOYHS-LDq1jMq6.m4a" length="61839727" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4363</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Murder - Part 2 - Exodus 20:13</title>
+        <link>https://cdn.jwplayer.com/previews/uYT0LmSm</link>
+        <description>Ten Commandments: Do Not Murder - Part 2 - Exodus 20:13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3055</guid>
+        <pubDate>Sun, 25 Apr 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:13 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uYT0LmSm-LDq1jMq6.m4a" length="41903352" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2956</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:31-40</title>
+        <link>https://cdn.jwplayer.com/previews/PxIFjwlc</link>
+        <description>Exodus 25:31-40</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3065</guid>
+        <pubDate>Wed, 28 Apr 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 25:31-40 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PxIFjwlc-LDq1jMq6.m4a" length="58874022" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4154</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Commit Adultery - Exodus 20:14</title>
+        <link>https://cdn.jwplayer.com/previews/pMaJjmgt</link>
+        <description>Ten Commandments: Do Not Commit Adultery - Exodus 20:14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3056</guid>
+        <pubDate>Sun, 02 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pMaJjmgt-LDq1jMq6.m4a" length="49824705" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3515</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 26:1-30</title>
+        <link>https://cdn.jwplayer.com/previews/0TOB2vuM</link>
+        <description>Exodus 26:1-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3066</guid>
+        <pubDate>Wed, 12 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 26:1-30 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0TOB2vuM-LDq1jMq6.m4a" length="64223947" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4531</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Steal - Exodus 20:15</title>
+        <link>https://cdn.jwplayer.com/previews/LfRg2NUA</link>
+        <description>Ten Commandments: Do Not Steal - Exodus 20:15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3057</guid>
+        <pubDate>Sun, 16 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:15 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LfRg2NUA-LDq1jMq6.m4a" length="37628953" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2655</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Bear False Witness - Exodus 20:16</title>
+        <link>https://cdn.jwplayer.com/previews/cQRCRyuE</link>
+        <description>Ten Commandments: Do Not Bear False Witness - Exodus 20:16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3058</guid>
+        <pubDate>Sun, 23 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:16 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cQRCRyuE-LDq1jMq6.m4a" length="25437087" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1794</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 26:31-37</title>
+        <link>https://cdn.jwplayer.com/previews/zTu9F8yd</link>
+        <description>Exodus 26:31-37</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3067</guid>
+        <pubDate>Wed, 26 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 26:31-37 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zTu9F8yd-LDq1jMq6.m4a" length="58652086" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4138</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Covet - Exodus 20:17</title>
+        <link>https://cdn.jwplayer.com/previews/JpwIsiOH</link>
+        <description>Ten Commandments: Do Not Covet - Exodus 20:17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3059</guid>
+        <pubDate>Sun, 30 May 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 20:17 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JpwIsiOH-LDq1jMq6.m4a" length="48073012" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3391</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 27</title>
+        <link>https://cdn.jwplayer.com/previews/KielSve3</link>
+        <description>Exodus 27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3068</guid>
+        <pubDate>Wed, 02 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 27 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KielSve3-LDq1jMq6.m4a" length="63091801" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4451</itunes:duration>
+      </item>
+      <item>
+        <title>Divine Direction - Exodus 28:30</title>
+        <link>https://cdn.jwplayer.com/previews/YFSA7eYr</link>
+        <description>Divine Direction - Exodus 28:30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3060</guid>
+        <pubDate>Sun, 06 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 28:30 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YFSA7eYr-LDq1jMq6.m4a" length="42360295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2988</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28:1-30</title>
+        <link>https://cdn.jwplayer.com/previews/d1SqbuYw</link>
+        <description>Exodus 28:1-30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3069</guid>
+        <pubDate>Wed, 09 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 28:1-30 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/d1SqbuYw-LDq1jMq6.m4a" length="61619213" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4347</itunes:duration>
+      </item>
+      <item>
+        <title>Your Ordination - Exodus 29:4-26</title>
+        <link>https://cdn.jwplayer.com/previews/yek0lC9A</link>
+        <description>Your Ordination - Exodus 29:4-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3061</guid>
+        <pubDate>Sun, 13 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 29:4-26 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yek0lC9A-LDq1jMq6.m4a" length="42271588" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2982</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28</title>
+        <link>https://cdn.jwplayer.com/previews/kMyLmXCQ</link>
+        <description>Exodus 28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3070</guid>
+        <pubDate>Wed, 16 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 28 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kMyLmXCQ-LDq1jMq6.m4a" length="61839266" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4363</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28-29</title>
+        <link>https://cdn.jwplayer.com/previews/J9JJMa0j</link>
+        <description>Exodus 28-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3071</guid>
+        <pubDate>Wed, 23 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 28-29 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/J9JJMa0j-LDq1jMq6.m4a" length="67380364" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4754</itunes:duration>
+      </item>
+      <item>
+        <title>I'm The Idiot, He's The Hero - Exodus 30:17-21</title>
+        <link>https://cdn.jwplayer.com/previews/0DMd8MRN</link>
+        <description>I'm The Idiot, He's The Hero - Exodus 30:17-21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3062</guid>
+        <pubDate>Sun, 27 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 30:17-21 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0DMd8MRN-LDq1jMq6.m4a" length="50541317" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3566</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 30:1-10</title>
+        <link>https://cdn.jwplayer.com/previews/vRr67jCE</link>
+        <description>Exodus 30:1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3072</guid>
+        <pubDate>Wed, 30 Jun 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 30:1-10 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vRr67jCE-LDq1jMq6.m4a" length="46320244" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3268</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 30:11-21</title>
+        <link>https://cdn.jwplayer.com/previews/B31AD8qE</link>
+        <description>Exodus 30:11-21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3073</guid>
+        <pubDate>Wed, 07 Jul 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 30:11-21 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/B31AD8qE-LDq1jMq6.m4a" length="54734409" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3861</itunes:duration>
+      </item>
+      <item>
+        <title>Scent From Above - Exodus 30:34-38</title>
+        <link>https://cdn.jwplayer.com/previews/RN31thLU</link>
+        <description>Scent From Above - Exodus 30:34-38</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3063</guid>
+        <pubDate>Sun, 11 Jul 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 30:34-38 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RN31thLU-LDq1jMq6.m4a" length="24879780" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1755</itunes:duration>
+      </item>
+      <item>
+        <title>Anointing: Its Power And Purpose - Exodus 30:22-33</title>
+        <link>https://cdn.jwplayer.com/previews/J7V24HhP</link>
+        <description>Anointing: Its Power And Purpose - Exodus 30:22-33</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3064</guid>
+        <pubDate>Sun, 18 Jul 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 30:22-33 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/J7V24HhP-LDq1jMq6.m4a" length="50651617" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3573</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 31-32</title>
+        <link>https://cdn.jwplayer.com/previews/HvAEpAjg</link>
+        <description>Exodus 31-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3074</guid>
+        <pubDate>Wed, 04 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 31-32 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HvAEpAjg-LDq1jMq6.m4a" length="65440965" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4617</itunes:duration>
+      </item>
+      <item>
+        <title>Let "Glow" Of Your Issues - Exodus 34:29-35</title>
+        <link>https://cdn.jwplayer.com/previews/TYV8lCwH</link>
+        <description>Let "Glow" Of Your Issues - Exodus 34:29-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3065</guid>
+        <pubDate>Sun, 08 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 34:29-35 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TYV8lCwH-LDq1jMq6.m4a" length="34321155" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2421</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 33:1-17</title>
+        <link>https://cdn.jwplayer.com/previews/jjd44wVz</link>
+        <description>Exodus 33:1-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3075</guid>
+        <pubDate>Wed, 11 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 33:1-17 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jjd44wVz-LDq1jMq6.m4a" length="45300980" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3196</itunes:duration>
+      </item>
+      <item>
+        <title>The Promise Of His Presence - Exodus 33:14</title>
+        <link>https://cdn.jwplayer.com/previews/K3v4IiWG</link>
+        <description>The Promise Of His Presence - Exodus 33:14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3066</guid>
+        <pubDate>Sun, 15 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 33:14 - Sunday Sermon</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K3v4IiWG-LDq1jMq6.m4a" length="43034233" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3036</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 33-34</title>
+        <link>https://cdn.jwplayer.com/previews/9ZoG40PW</link>
+        <description>Exodus 33-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3076</guid>
+        <pubDate>Wed, 18 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 33-34 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9ZoG40PW-LDq1jMq6.m4a" length="45330746" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3198</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 34-40</title>
+        <link>https://cdn.jwplayer.com/previews/TuaPOXcm</link>
+        <description>Exodus 34-40</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3077</guid>
+        <pubDate>Wed, 25 Aug 1999 07:00:00 GMT</pubDate>
+        <description>Exodus 34-40 - Verse by Verse Bible Study</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TuaPOXcm-LDq1jMq6.m4a" length="72148135" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5090</itunes:duration>
+      </item>
+  </channel>
+  </rss>
