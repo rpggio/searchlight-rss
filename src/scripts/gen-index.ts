@@ -16,7 +16,6 @@ function main() {
          display: flex;
          flex-wrap: wrap;
          gap: 1em;
-         
       }
       .book {
          display: flex;
@@ -24,8 +23,9 @@ function main() {
          width: 6em;
          text-decoration: none;
          background-color: #eee;
-         padding: 1em;
+         padding: 0.5em;
          text-align: center;
+         font-size: 3em;
       }
       .book * {
          display: block;
