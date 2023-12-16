@@ -53,6 +53,7 @@ teaching number: ${teaching.teachingNumber}
     <link>${teachingLink}</link>
     <description>
       Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
       https://www.joncourson.com/teachings
       © 2023 - Searchlight
     </description>
