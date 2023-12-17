@@ -67,7 +67,7 @@ export function renderIndex() {
       <p>
       Try clicking 'Podcast link' to see if it opens your podcast player. 
       <br>
-      Otherwise, right-click to copy the link and add the URL to your podcast player.
+      Otherwise, click the icon to copy the link and manually add subscription to your podcast player.
       <br>
       <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">How to manually add RSS feed to your podcast player.</a>
       </p>
