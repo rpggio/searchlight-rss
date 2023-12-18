@@ -68,12 +68,12 @@ Jude
 Revelation
 `.split('\n').map(s => s.trim()).filter(s => s.length > 0)
 
-const bookGroupings = [
-   { from: 'genesis', to: 'deuteronomy' },
-   { from: 'joshua', to: 'esther' },
-   { from: 'job', to: 'songofsolomon' },
-   { from: 'psalms', to: 'proverbs' },
-   { from: 'isaiah', to: 'malachi' },
-   { from: 'matthew', to: 'acts' },
-   { from: 'romans', to: 'revelation' }
+export const bookRanges = [
+   { from: 'Genesis', to: 'Deuteronomy' },
+   { from: 'Joshua', to: 'Esther' },
+   { from: 'Job', to: 'Song of Solomon' },
+   { from: 'Psalms', to: 'Proverbs' },
+   { from: 'Isaiah', to: 'Malachi' },
+   { from: 'Matthew', to: 'Acts' },
+   { from: 'Romans', to: 'Revelation' }
 ]

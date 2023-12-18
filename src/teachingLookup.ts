@@ -1,5 +1,5 @@
 import * as fs from 'fs'
-import { bibleBooks } from "./lib/bible";
+import { bibleBooks, bookRanges } from "./lib/bible";
 import { Teaching, TeachingFeed } from './types';
 
 export function loadFeed(book: string) {
@@ -31,6 +31,27 @@ export function * earlySeriesTeachings() {
          || (t.series === 'Miscellaneous Bible Studies' && new Date(t.date) < new Date('2004-12-31'))
       )
       yield feed
+   }
+}
+
+export function * groupedBookFeeds() {
+   for(const range of bookRanges){
+      const fromIdx = bibleBooks.indexOf(range.from)
+      const toIdx = bibleBooks.indexOf(range.to)
+
+      if (fromIdx === -1 || toIdx === -1 || fromIdx > toIdx) {
+         throw new Error(`Invalid range: ${range.from} ${range.to}`)
+      }
+
+      const teachings: Teaching[] = []
+      for (const book of bibleBooks.slice(fromIdx, toIdx + 1)) {
+         teachings.push(...loadFeed(book).teachings)
+      }
+
+      yield {
+         title: `${range.from} - ${range.to}`,
+         teachings
+      } satisfies TeachingFeed
    }
 }
 
