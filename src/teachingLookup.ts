@@ -24,17 +24,17 @@ export function * allTeachings(): Iterable<Teaching & { book: string }> {
    }
 }
 
+export function isEarlySeries(teaching: Teaching) {
+   return teaching.series === 'Thru-The-Bible Studies'
+   || (teaching.series === 'Miscellaneous Bible Studies' && new Date(teaching.date) < new Date('2004-12-31'))
+}
+
 export function * earlySeriesTeachings() {
    for (const feed of allFeeds()) {
-      feed.teachings = feed.teachings.filter(t =>
-         t.series === 'Thru-The-Bible Studies'
-         || (t.series === 'Miscellaneous Bible Studies' && new Date(t.date) < new Date('2004-12-31'))
-      )
+      feed.teachings = feed.teachings.filter(isEarlySeries)
       yield feed
    }
 }
-
-
 
 export function * groupedBookFeeds() {
    for(const range of bookRanges){
@@ -47,7 +47,7 @@ export function * groupedBookFeeds() {
 
       const teachings: Teaching[] = []
       for (const book of bibleBooks.slice(fromIdx, toIdx + 1)) {
-         teachings.push(...loadFeed(book).teachings)
+         teachings.push(...loadFeed(book).teachings.filter(isEarlySeries))
       }
 
       yield {
