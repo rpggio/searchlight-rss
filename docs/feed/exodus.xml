@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 08 May 1983 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Aug 1999 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/exodus.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Exodus with Jon Courson</title>
@@ -1036,66 +1036,6 @@ teaching number: W3077</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>5090</itunes:duration>
-      </item>
-      <item>
-        <title>No Excuses</title>
-        <link>https://www.joncourson.com/playteaching/T356/teachingaudio</link>
-        <description>No Excuses</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T356</guid>
-        <pubDate>Sun, 01 Oct 2000 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: No Excuses 
-event: Exodus 3-4 
-teaching number: T356</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/B6yaA0ML-LDq1jMq6.m4a" length="42259724" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2981</itunes:duration>
-      </item>
-      <item>
-        <title>Christmas: Its True Tree - Part 2</title>
-        <link>https://www.joncourson.com/playteaching/T190/teachingaudio</link>
-        <description>Christmas: Its True Tree - Part 2</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T190</guid>
-        <pubDate>Sun, 16 Dec 1990 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Christmas: Its True Tree - Part 2 
-event: Exodus 15:20-27 
-teaching number: T190</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/rIse11nb-LDq1jMq6.m4a" length="37706200" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2660</itunes:duration>
-      </item>
-      <item>
-        <title>The Passover Lamb - Good Friday 1989</title>
-        <link>https://www.joncourson.com/playteaching/T169/teachingaudio</link>
-        <description>The Passover Lamb - Good Friday 1989</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T169</guid>
-        <pubDate>Fri, 24 Mar 1989 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Good Friday 1989 
-event: Exodus 12 
-teaching number: T169</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/1sFH83rL-LDq1jMq6.m4a" length="35740316" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2521</itunes:duration>
-      </item>
-      <item>
-        <title>The Eyes Of A Mother</title>
-        <link>https://www.joncourson.com/playteaching/T084/teachingaudio</link>
-        <description>The Eyes Of A Mother</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T084</guid>
-        <pubDate>Sun, 08 May 1983 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Eyes Of A Mother 
-event: Exodus 2:1-10 
-teaching number: T084</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/8xhCzbYJ-LDq1jMq6.m4a" length="33336695" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2352</itunes:duration>
       </item>
   </channel>
   </rss>

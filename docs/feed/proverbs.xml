@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 09 Oct 1983 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 1987 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/proverbs.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Proverbs with Jon Courson</title>
@@ -346,81 +346,6 @@ teaching number: W383</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4824</itunes:duration>
-      </item>
-      <item>
-        <title>Love Story - Part 2</title>
-        <link>https://www.joncourson.com/playteaching/T353/teachingaudio</link>
-        <description>Love Story - Part 2</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T353</guid>
-        <pubDate>Sun, 16 Jul 2000 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Love Story - Part 2 
-event: Proverbs 3:22 
-teaching number: T353</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/gs0zGB77-LDq1jMq6.m4a" length="46595452" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3287</itunes:duration>
-      </item>
-      <item>
-        <title>Love Story - Part 1</title>
-        <link>https://www.joncourson.com/playteaching/T352/teachingaudio</link>
-        <description>Love Story - Part 1</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T352</guid>
-        <pubDate>Sun, 09 Jul 2000 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Love Story - Part 1 
-event: Proverbs 3:27 
-teaching number: T352</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ojQeNfjz-LDq1jMq6.m4a" length="43033045" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3036</itunes:duration>
-      </item>
-      <item>
-        <title>Memories Of Mother - Mother's Day 1999</title>
-        <link>https://www.joncourson.com/playteaching/T338/teachingaudio</link>
-        <description>Memories Of Mother - Mother's Day 1999</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T338</guid>
-        <pubDate>Sun, 09 May 1999 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 1999 
-event: Proverbs 31 
-teaching number: T338</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/otOFELkv-LDq1jMq6.m4a" length="24709177" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1743</itunes:duration>
-      </item>
-      <item>
-        <title>Mothers Day 1997</title>
-        <link>https://www.joncourson.com/playteaching/T299/teachingaudio</link>
-        <description>Mothers Day 1997</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T299</guid>
-        <pubDate>Sun, 11 May 1997 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mothers Day 1997 
-event: Proverbs 31:1-9 
-teaching number: T299</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/8Nj2CT9g-LDq1jMq6.m4a" length="24524484" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1730</itunes:duration>
-      </item>
-      <item>
-        <title>A Provision For Safety</title>
-        <link>https://www.joncourson.com/playteaching/T092/teachingaudio</link>
-        <description>A Provision For Safety</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T092</guid>
-        <pubDate>Sun, 09 Oct 1983 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: A Provision For Safety 
-event: Proverbs 11:14 
-teaching number: T092</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/vCE9n6M4-LDq1jMq6.m4a" length="36181692" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2552</itunes:duration>
       </item>
   </channel>
   </rss>

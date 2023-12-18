@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 16 Sep 1984 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Oct 1996 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/1-john.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>1 John with Jon Courson</title>
@@ -196,36 +196,6 @@ teaching number: W755</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4601</itunes:duration>
-      </item>
-      <item>
-        <title>Recounting Your Election</title>
-        <link>https://www.joncourson.com/playteaching/T360/teachingaudio</link>
-        <description>Recounting Your Election</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T360</guid>
-        <pubDate>Sun, 26 Nov 2000 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Recounting Your Election 
-event: 1 John 5:13 
-teaching number: T360</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ONCAh17j-LDq1jMq6.m4a" length="37301374" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2631</itunes:duration>
-      </item>
-      <item>
-        <title>Growing Up</title>
-        <link>https://www.joncourson.com/playteaching/T107/teachingaudio</link>
-        <description>Growing Up</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T107</guid>
-        <pubDate>Sun, 16 Sep 1984 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Growing Up 
-event: 1 John 2:12-14 
-teaching number: T107</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ZXZqcKMQ-LDq1jMq6.m4a" length="35639401" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2514</itunes:duration>
       </item>
   </channel>
   </rss>

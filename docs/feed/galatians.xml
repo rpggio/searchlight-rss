@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 22 Dec 1985 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Oct 1994 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/galatians.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Galatians with Jon Courson</title>
@@ -256,36 +256,6 @@ teaching number: S622</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3298</itunes:duration>
-      </item>
-      <item>
-        <title>Adoption: The Plan And The Price - Father's Day 1990</title>
-        <link>https://www.joncourson.com/playteaching/T181/teachingaudio</link>
-        <description>Adoption: The Plan And The Price - Father's Day 1990</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T181</guid>
-        <pubDate>Sun, 17 Jun 1990 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Father's Day 1990 
-event: Galatians 4:4-7 
-teaching number: T181</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/up4ZDPmr-LDq1jMq6.m4a" length="32247831" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2275</itunes:duration>
-      </item>
-      <item>
-        <title>A Birth Announcement - The Time</title>
-        <link>https://www.joncourson.com/playteaching/T131/teachingaudio</link>
-        <description>A Birth Announcement - The Time</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T131</guid>
-        <pubDate>Sun, 22 Dec 1985 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: A Birth Announcement - The Time 
-event: Galatians 4:4 
-teaching number: T131</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/EdCq8ymO-LDq1jMq6.m4a" length="38075602" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2686</itunes:duration>
       </item>
   </channel>
   </rss>

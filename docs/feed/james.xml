@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 04 Jul 1993 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Apr 1996 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/james.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>James with Jon Courson</title>
@@ -151,21 +151,6 @@ teaching number: W734</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4523</itunes:duration>
-      </item>
-      <item>
-        <title>God Shed His Grace . . . - Independence Day 1993</title>
-        <link>https://www.joncourson.com/playteaching/T230/teachingaudio</link>
-        <description>God Shed His Grace . . . - Independence Day 1993</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T230</guid>
-        <pubDate>Sun, 04 Jul 1993 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Independence Day 1993 
-event: James 1:16-17 
-teaching number: T230</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Xryy6Bix-LDq1jMq6.m4a" length="36530474" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2577</itunes:duration>
       </item>
   </channel>
   </rss>

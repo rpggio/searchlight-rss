@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 10 Oct 1993 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jun 1994 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-corinthians.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Corinthians with Jon Courson</title>
@@ -406,81 +406,6 @@ teaching number: W666</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3587</itunes:duration>
-      </item>
-      <item>
-        <title>The Great Switcheroo - 2 Corinthians 5:17-21</title>
-        <link>https://www.joncourson.com/playteaching/TC4007/teachingaudio</link>
-        <description>The Great Switcheroo - 2 Corinthians 5:17-21</description> 
-        <guid isPermaLink="false">joncourson-searchlight-TC4007</guid>
-        <pubDate>Tue, 09 Mar 2004 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: 2 Corinthians 5:17-21 
-event: Sunday Sermon 
-teaching number: TC4007</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/8loEX7Qj-LDq1jMq6.m4a" length="36521247" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2576</itunes:duration>
-      </item>
-      <item>
-        <title>It's All Right - Mother's Day 2002</title>
-        <link>https://www.joncourson.com/playteaching/T382/teachingaudio</link>
-        <description>It's All Right - Mother's Day 2002</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T382</guid>
-        <pubDate>Sun, 12 May 2002 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 2002 
-event: 2 Corinthians 4:5-10 
-teaching number: T382</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/3be5R1dS-LDq1jMq6.m4a" length="33835274" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2387</itunes:duration>
-      </item>
-      <item>
-        <title>The Great Switcheroo</title>
-        <link>https://www.joncourson.com/playteaching/T375/teachingaudio</link>
-        <description>The Great Switcheroo</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T375</guid>
-        <pubDate>Sun, 11 Nov 2001 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Great Switcheroo 
-event: 2 Corinthians 5:17-21 
-teaching number: T375</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/pgeBC05L-LDq1jMq6.m4a" length="29283693" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2066</itunes:duration>
-      </item>
-      <item>
-        <title>Delivered From Death! - Easter 1997</title>
-        <link>https://www.joncourson.com/playteaching/T298/teachingaudio</link>
-        <description>Delivered From Death! - Easter 1997</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T298</guid>
-        <pubDate>Sun, 30 Mar 1997 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Easter 1997 
-event: 2 Corinthians 1:8-10 
-teaching number: T298</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/l409kDdX-LDq1jMq6.m4a" length="27566244" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1945</itunes:duration>
-      </item>
-      <item>
-        <title>Pulling Down By Plowing Away</title>
-        <link>https://www.joncourson.com/playteaching/T234/teachingaudio</link>
-        <description>Pulling Down By Plowing Away</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T234</guid>
-        <pubDate>Sun, 10 Oct 1993 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Pulling Down By Plowing Away 
-event: 2 Corinthians 10:4-5 
-teaching number: T234</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/h3FpiobH-LDq1jMq6.m4a" length="42490172" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2998</itunes:duration>
       </item>
   </channel>
   </rss>

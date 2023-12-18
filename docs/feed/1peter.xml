@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 27 Jul 1997 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Jun 1996 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/1-peter.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>1 Peter with Jon Courson</title>
@@ -271,21 +271,6 @@ teaching number: W743</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3355</itunes:duration>
-      </item>
-      <item>
-        <title>Playing Catch</title>
-        <link>https://www.joncourson.com/playteaching/T303/teachingaudio</link>
-        <description>Playing Catch</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T303</guid>
-        <pubDate>Sun, 27 Jul 1997 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Playing Catch 
-event: 1 Peter 5:6-7 
-teaching number: T303</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/tnEB6PIz-LDq1jMq6.m4a" length="33576252" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2369</itunes:duration>
       </item>
   </channel>
   </rss>

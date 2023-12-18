@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Thu, 24 Nov 1988 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Dec 1992 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/acts.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Acts with Jon Courson</title>
@@ -1081,66 +1081,6 @@ teaching number: W610</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4685</itunes:duration>
-      </item>
-      <item>
-        <title>What's Eating You? - Thanksgiving 1997</title>
-        <link>https://www.joncourson.com/playteaching/T314/teachingaudio</link>
-        <description>What's Eating You? - Thanksgiving 1997</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T314</guid>
-        <pubDate>Thu, 27 Nov 1997 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Thanksgiving 1997 
-event: Acts 12 
-teaching number: T314</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/tYMrP4CJ-LDq1jMq6.m4a" length="24870794" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1754</itunes:duration>
-      </item>
-      <item>
-        <title>Thanksgiving 1993</title>
-        <link>https://www.joncourson.com/playteaching/T236/teachingaudio</link>
-        <description>Thanksgiving 1993</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T236</guid>
-        <pubDate>Thu, 25 Nov 1993 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Thanksgiving 1993 
-event: Acts 12:20-23 
-teaching number: T236</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/1A4luZhO-LDq1jMq6.m4a" length="34629516" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2443</itunes:duration>
-      </item>
-      <item>
-        <title>Tested By Fire</title>
-        <link>https://www.joncourson.com/playteaching/T184/teachingaudio</link>
-        <description>Tested By Fire</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T184</guid>
-        <pubDate>Sun, 05 Aug 1990 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Tested By Fire 
-event: Acts 28:1-6 
-teaching number: T184</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/UGcSNK4x-LDq1jMq6.m4a" length="22657026" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1598</itunes:duration>
-      </item>
-      <item>
-        <title>Devoured By Worms - Thanksgiving 1988</title>
-        <link>https://www.joncourson.com/playteaching/T165/teachingaudio</link>
-        <description>Devoured By Worms - Thanksgiving 1988</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T165</guid>
-        <pubDate>Thu, 24 Nov 1988 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Thanksgiving 1988 
-event: Acts 12:20-23 
-teaching number: T165</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/B3VMkSE7-LDq1jMq6.m4a" length="29451232" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2078</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Fri, 13 Jul 1984 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jul 1987 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/song-of-solomon.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Song of Solomon with Jon Courson</title>
@@ -121,21 +121,6 @@ teaching number: W390</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4113</itunes:duration>
-      </item>
-      <item>
-        <title>Let The Wind Blow, Lord!</title>
-        <link>https://www.joncourson.com/playteaching/T105/teachingaudio</link>
-        <description>Let The Wind Blow, Lord!</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T105</guid>
-        <pubDate>Fri, 13 Jul 1984 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Let The Wind Blow, Lord! 
-event: Song of Solomon 4:12-16 
-teaching number: T105</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/KcBptTZO-LDq1jMq6.m4a" length="14590075" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1029</itunes:duration>
       </item>
   </channel>
   </rss>

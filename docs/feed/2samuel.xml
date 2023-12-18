@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 11 Dec 1983 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jul 2002 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-samuel.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Samuel with Jon Courson</title>
@@ -451,96 +451,6 @@ teaching number: S3150</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3563</itunes:duration>
-      </item>
-      <item>
-        <title>Bye Bye Baby</title>
-        <link>https://www.joncourson.com/playteaching/T309/teachingaudio</link>
-        <description>Bye Bye Baby</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T309</guid>
-        <pubDate>Sun, 31 Aug 1997 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Bye Bye Baby 
-event: 2 Samuel 12:13-34 
-teaching number: T309</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/QW4PmCST-LDq1jMq6.m4a" length="39784048" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2807</itunes:duration>
-      </item>
-      <item>
-        <title>Dropped!</title>
-        <link>https://www.joncourson.com/playteaching/T302/teachingaudio</link>
-        <description>Dropped!</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T302</guid>
-        <pubDate>Sun, 06 Jul 1997 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Dropped! 
-event: 2 Samuel 9 
-teaching number: T302</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/DgSjY9rz-LDq1jMq6.m4a" length="34541463" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2437</itunes:duration>
-      </item>
-      <item>
-        <title>Beware Of Bitterness</title>
-        <link>https://www.joncourson.com/playteaching/T232/teachingaudio</link>
-        <description>Beware Of Bitterness</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T232</guid>
-        <pubDate>Sun, 05 Sep 1993 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Beware Of Bitterness 
-event: 2 Samuel 16 
-teaching number: T232</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/XMPMv8GQ-LDq1jMq6.m4a" length="21805350" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1538</itunes:duration>
-      </item>
-      <item>
-        <title>Resisting The Roaring Lion!</title>
-        <link>https://www.joncourson.com/playteaching/T224/teachingaudio</link>
-        <description>Resisting The Roaring Lion!</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T224</guid>
-        <pubDate>Sun, 21 Feb 1993 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Resisting The Roaring Lion! 
-event: 2 Samuel 23:20-22 
-teaching number: T224</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/FDP2SXru-LDq1jMq6.m4a" length="36213258" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2555</itunes:duration>
-      </item>
-      <item>
-        <title>Wise Words From A Wise Woman</title>
-        <link>https://www.joncourson.com/playteaching/T160/teachingaudio</link>
-        <description>Wise Words From A Wise Woman</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T160</guid>
-        <pubDate>Sun, 24 Jan 1988 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Wise Words From A Wise Woman 
-event: 2 Samuel 14:14 
-teaching number: T160</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/SoVZYFxB-LDq1jMq6.m4a" length="32253918" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2275</itunes:duration>
-      </item>
-      <item>
-        <title>In The Pits</title>
-        <link>https://www.joncourson.com/playteaching/T095/teachingaudio</link>
-        <description>In The Pits</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T095</guid>
-        <pubDate>Sun, 11 Dec 1983 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: In The Pits 
-event: 2 Samuel 23:20-23 
-teaching number: T095</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/MZQ3rnRP-LDq1jMq6.m4a" length="33131857" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2337</itunes:duration>
       </item>
   </channel>
   </rss>

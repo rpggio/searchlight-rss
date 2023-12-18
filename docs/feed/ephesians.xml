@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 14 Oct 1984 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Feb 1995 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/ephesians.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Ephesians with Jon Courson</title>
@@ -346,66 +346,6 @@ teaching number: W688</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4317</itunes:duration>
-      </item>
-      <item>
-        <title>The Message In The Mess</title>
-        <link>https://www.joncourson.com/playteaching/T370/teachingaudio</link>
-        <description>The Message In The Mess</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T370</guid>
-        <pubDate>Sun, 15 Jul 2001 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Message In The Mess 
-event: Ephesians 2:1-9 
-teaching number: T370</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/gOPmWK2W-LDq1jMq6.m4a" length="50187638" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3541</itunes:duration>
-      </item>
-      <item>
-        <title>A Birth Announcement - The Weight</title>
-        <link>https://www.joncourson.com/playteaching/T130/teachingaudio</link>
-        <description>A Birth Announcement - The Weight</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T130</guid>
-        <pubDate>Sun, 15 Dec 1985 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: A Birth Announcement - The Weight 
-event: Ephesians 3:17-19 
-teaching number: T130</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/SNACkhRt-LDq1jMq6.m4a" length="34817834" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2456</itunes:duration>
-      </item>
-      <item>
-        <title>Marriage: It's Mystical Meaning</title>
-        <link>https://www.joncourson.com/playteaching/T124/teachingaudio</link>
-        <description>Marriage: It's Mystical Meaning</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T124</guid>
-        <pubDate>Sun, 28 Jul 1985 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Marriage: It's Mystical Meaning 
-event: Ephesians 5:22-33 
-teaching number: T124</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/wWMCyJ8l-LDq1jMq6.m4a" length="35411315" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2498</itunes:duration>
-      </item>
-      <item>
-        <title>A Paradigm For Prayer</title>
-        <link>https://www.joncourson.com/playteaching/T108/teachingaudio</link>
-        <description>A Paradigm For Prayer</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T108</guid>
-        <pubDate>Sun, 14 Oct 1984 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: A Paradigm For Prayer 
-event: Ephesians 3:14-20 
-teaching number: T108</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/311n03s5-LDq1jMq6.m4a" length="37099636" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2617</itunes:duration>
       </item>
   </channel>
   </rss>

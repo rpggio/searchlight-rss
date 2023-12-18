@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sat, 31 Dec 1994 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Aug 1996 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-peter.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Peter with Jon Courson</title>
@@ -226,51 +226,6 @@ teaching number: W749</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3810</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1998/1999 - Part 5 - Satan's Strategy</title>
-        <link>https://www.joncourson.com/playteaching/T334/teachingaudio</link>
-        <description>Prophecy Update 1998/1999 - Part 5 - Satan's Strategy</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T334</guid>
-        <pubDate>Sun, 24 Jan 1999 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Satan's Strategy 
-event: 2 Peter 3:3-8 
-teaching number: T334</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/nduAA8Qk-LDq1jMq6.m4a" length="36786681" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2595</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1998/1999 - Part 4 - God's Calendar</title>
-        <link>https://www.joncourson.com/playteaching/T333/teachingaudio</link>
-        <description>Prophecy Update 1998/1999 - Part 4 - God's Calendar</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T333</guid>
-        <pubDate>Sun, 17 Jan 1999 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: God's Calendar 
-event: 2 Peter 3:3-8 
-teaching number: T333</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/fNq1XtGa-LDq1jMq6.m4a" length="50802446" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3584</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1994/1995 - Part 1</title>
-        <link>https://www.joncourson.com/playteaching/T259/teachingaudio</link>
-        <description>Prophecy Update 1994/1995 - Part 1</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T259</guid>
-        <pubDate>Sat, 31 Dec 1994 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1994/1995 - Part 1 
-event: 2 Peter 3:3-9 
-teaching number: T259</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/4Vqw3cPj-LDq1jMq6.m4a" length="59995787" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4233</itunes:duration>
       </item>
   </channel>
   </rss>

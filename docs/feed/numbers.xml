@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 02 Jan 2000 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2000 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/numbers.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Numbers with Jon Courson</title>
@@ -556,21 +556,6 @@ teaching number: W3110</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>2651</itunes:duration>
-      </item>
-      <item>
-        <title>Achieving Your Destiny</title>
-        <link>https://www.joncourson.com/playteaching/T347/teachingaudio</link>
-        <description>Achieving Your Destiny</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T347</guid>
-        <pubDate>Sun, 02 Jan 2000 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Achieving Your Destiny 
-event: Numbers 13-14 
-teaching number: T347</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/drKT7OfW-LDq1jMq6.m4a" length="54737412" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3862</itunes:duration>
       </item>
   </channel>
   </rss>

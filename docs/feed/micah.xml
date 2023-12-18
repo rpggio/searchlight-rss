@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 14 Aug 1983 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/micah.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Micah with Jon Courson</title>
@@ -106,36 +106,6 @@ teaching number: S422</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3265</itunes:duration>
-      </item>
-      <item>
-        <title>Oh Little Town Of Bethlehem</title>
-        <link>https://www.joncourson.com/playteaching/T157/teachingaudio</link>
-        <description>Oh Little Town Of Bethlehem</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T157</guid>
-        <pubDate>Sun, 20 Dec 1987 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Oh Little Town Of Bethlehem 
-event: Micah 5:2 
-teaching number: T157</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/foGWjgTP-LDq1jMq6.m4a" length="28730869" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2027</itunes:duration>
-      </item>
-      <item>
-        <title>Our Fellowship's Foundation And Future</title>
-        <link>https://www.joncourson.com/playteaching/T090/teachingaudio</link>
-        <description>Our Fellowship's Foundation And Future</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T090</guid>
-        <pubDate>Sun, 14 Aug 1983 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Our Fellowship's Foundation And Future 
-event: Micah 4:1-2 
-teaching number: T090</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/UPfKgQLI-LDq1jMq6.m4a" length="57980815" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4091</itunes:duration>
       </item>
   </channel>
   </rss>

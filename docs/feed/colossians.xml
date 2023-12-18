@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Fri, 24 Dec 1993 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 17 May 1995 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/colossians.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Colossians with Jon Courson</title>
@@ -136,36 +136,6 @@ teaching number: W698</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4184</itunes:duration>
-      </item>
-      <item>
-        <title>What Am I Going To Do?</title>
-        <link>https://www.joncourson.com/playteaching/T374/teachingaudio</link>
-        <description>What Am I Going To Do?</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T374</guid>
-        <pubDate>Sun, 04 Nov 2001 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: What Am I Going To Do? 
-event: Colossians 1:27 
-teaching number: T374</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/FbtoAOUt-LDq1jMq6.m4a" length="30783970" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2172</itunes:duration>
-      </item>
-      <item>
-        <title>Christmas Eve 1993</title>
-        <link>https://www.joncourson.com/playteaching/T238/teachingaudio</link>
-        <description>Christmas Eve 1993</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T238</guid>
-        <pubDate>Fri, 24 Dec 1993 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Christmas Eve 1993 
-event: Colossians 2:6 
-teaching number: T238</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/dK7WKOZj-LDq1jMq6.m4a" length="15201157" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1072</itunes:duration>
       </item>
   </channel>
   </rss>

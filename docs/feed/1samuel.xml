@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 08 Nov 1987 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Sun, 21 Apr 2002 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/1-samuel.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>1 Samuel with Jon Courson</title>
@@ -451,51 +451,6 @@ teaching number: S3145</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>2273</itunes:duration>
-      </item>
-      <item>
-        <title>Mother's Day 1995</title>
-        <link>https://www.joncourson.com/playteaching/T268/teachingaudio</link>
-        <description>Mother's Day 1995</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T268</guid>
-        <pubDate>Sun, 14 May 1995 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 1995 
-event: 1 Samuel 1:1-2 
-teaching number: T268</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/usoMdVzT-LDq1jMq6.m4a" length="31190505" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2200</itunes:duration>
-      </item>
-      <item>
-        <title>Sailing Toward Success</title>
-        <link>https://www.joncourson.com/playteaching/T168/teachingaudio</link>
-        <description>Sailing Toward Success</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T168</guid>
-        <pubDate>Sun, 22 Jan 1989 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Sailing Toward Success 
-event: 1 Samuel 14:1-12 
-teaching number: T168</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Z0ARxFew-LDq1jMq6.m4a" length="45031730" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3177</itunes:duration>
-      </item>
-      <item>
-        <title>The Key Of Unceasing Intercession</title>
-        <link>https://www.joncourson.com/playteaching/T156/teachingaudio</link>
-        <description>The Key Of Unceasing Intercession</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T156</guid>
-        <pubDate>Sun, 08 Nov 1987 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Key Of Unceasing Intercession 
-event: 1 Samuel 12:20-25 
-teaching number: T156</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Pv3xhiBb-LDq1jMq6.m4a" length="32985739" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2327</itunes:duration>
       </item>
   </channel>
   </rss>

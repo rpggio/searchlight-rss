@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 29 Dec 1991 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jun 1988 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/lamentations.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Lamentations with Jon Courson</title>
@@ -91,21 +91,6 @@ teaching number: W424</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4121</itunes:duration>
-      </item>
-      <item>
-        <title>All Things New! - New Year's 1992</title>
-        <link>https://www.joncourson.com/playteaching/T206/teachingaudio</link>
-        <description>All Things New! - New Year's 1992</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T206</guid>
-        <pubDate>Sun, 29 Dec 1991 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: New Year's 1992 
-event: Lamentations 3:22-23 
-teaching number: T206</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/mCA5lpww-LDq1jMq6.m4a" length="35080084" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2475</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 04 Sep 1983 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Oct 1985 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-kings.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Kings with Jon Courson</title>
@@ -271,51 +271,6 @@ teaching number: W320</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4390</itunes:duration>
-      </item>
-      <item>
-        <title>The Cutting Edge</title>
-        <link>https://www.joncourson.com/playteaching/T390/teachingaudio</link>
-        <description>The Cutting Edge</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T390</guid>
-        <pubDate>Sun, 11 Jul 2004 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Cutting Edge 
-event: 2 Kings 6:1-7 
-teaching number: T390</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/zbuEIRDv-LDq1jMq6.m4a" length="48024236" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3388</itunes:duration>
-      </item>
-      <item>
-        <title>Pray For The Peace Of Jerusalem</title>
-        <link>https://www.joncourson.com/playteaching/T323/teachingaudio</link>
-        <description>Pray For The Peace Of Jerusalem</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T323</guid>
-        <pubDate>Sun, 03 May 1998 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Pray For The Peace Of Jerusalem 
-event: 2 Kings 20:1-11 
-teaching number: T323</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/3Um1LRRx-LDq1jMq6.m4a" length="36693433" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2589</itunes:duration>
-      </item>
-      <item>
-        <title>The Cutting Edge</title>
-        <link>https://www.joncourson.com/playteaching/T091/teachingaudio</link>
-        <description>The Cutting Edge</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T091</guid>
-        <pubDate>Sun, 04 Sep 1983 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Cutting Edge 
-event: 2 Kings 6:1-7 
-teaching number: T091</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/230q1dvT-LDq1jMq6.m4a" length="39444584" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2783</itunes:duration>
       </item>
   </channel>
   </rss>

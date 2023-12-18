@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 10 May 1992 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Dec 1988 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/daniel.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Daniel with Jon Courson</title>
@@ -286,66 +286,6 @@ teaching number: W445</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4150</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1998/1999 - Part 2 - Euroland</title>
-        <link>https://www.joncourson.com/playteaching/T331/teachingaudio</link>
-        <description>Prophecy Update 1998/1999 - Part 2 - Euroland</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T331</guid>
-        <pubDate>Sun, 03 Jan 1999 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Euroland 
-event: Daniel 2 
-teaching number: T331</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/emKhSFyj-LDq1jMq6.m4a" length="44279979" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3124</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1994/1995 - Part 7</title>
-        <link>https://www.joncourson.com/playteaching/T265/teachingaudio</link>
-        <description>Prophecy Update 1994/1995 - Part 7</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T265</guid>
-        <pubDate>Sun, 12 Feb 1995 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1994/1995 - Part 7 
-event: Daniel 2:36-45 
-teaching number: T265</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ilvAy2Nt-LDq1jMq6.m4a" length="44190201" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3117</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1993/1994</title>
-        <link>https://www.joncourson.com/playteaching/T239/teachingaudio</link>
-        <description>Prophecy Update 1993/1994</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T239</guid>
-        <pubDate>Fri, 31 Dec 1993 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1993/1994 
-event: Daniel 11 
-teaching number: T239</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/LRSpg6py-LDq1jMq6.m4a" length="40753574" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2875</itunes:duration>
-      </item>
-      <item>
-        <title>Listen To Your Mother - Mother's Day 1992</title>
-        <link>https://www.joncourson.com/playteaching/T211/teachingaudio</link>
-        <description>Listen To Your Mother - Mother's Day 1992</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T211</guid>
-        <pubDate>Sun, 10 May 1992 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 1992 
-event: Daniel 5:1-13 
-teaching number: T211</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/7w6QKjuh-LDq1jMq6.m4a" length="31689435" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2235</itunes:duration>
       </item>
   </channel>
   </rss>

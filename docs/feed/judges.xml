@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 10 Jul 1983 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Oct 2001 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/judges.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Judges with Jon Courson</title>
@@ -376,51 +376,6 @@ teaching number: W3157</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>2601</itunes:duration>
-      </item>
-      <item>
-        <title>Getting The Dirt Out - Judges 3</title>
-        <link>https://www.joncourson.com/playteaching/TC4003/teachingaudio</link>
-        <description>Getting The Dirt Out - Judges 3</description> 
-        <guid isPermaLink="false">joncourson-searchlight-TC4003</guid>
-        <pubDate>Wed, 13 Nov 2002 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Judges 3 
-event: Sunday Sermon 
-teaching number: TC4003</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/u3sMEYaY-LDq1jMq6.m4a" length="46510379" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3281</itunes:duration>
-      </item>
-      <item>
-        <title>Be Godly - Father's Day 1997 - Part 1</title>
-        <link>https://www.joncourson.com/playteaching/T300/teachingaudio</link>
-        <description>Be Godly - Father's Day 1997 - Part 1</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T300</guid>
-        <pubDate>Sun, 15 Jun 1997 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Father's Day 1997 - Part 1 
-event: Judges 11 
-teaching number: T300</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/HjMPi7Nl-LDq1jMq6.m4a" length="38204411" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2695</itunes:duration>
-      </item>
-      <item>
-        <title>The Cost Of Commitment</title>
-        <link>https://www.joncourson.com/playteaching/T088/teachingaudio</link>
-        <description>The Cost Of Commitment</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T088</guid>
-        <pubDate>Sun, 10 Jul 1983 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Cost Of Commitment 
-event: Judges 11:29-40 
-teaching number: T088</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/OxDEFRBA-LDq1jMq6.m4a" length="56918589" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4016</itunes:duration>
       </item>
   </channel>
   </rss>

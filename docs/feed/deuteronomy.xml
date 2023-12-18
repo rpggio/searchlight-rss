@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 17 Jul 1988 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 27 Dec 2000 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/deuteronomy.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Deuteronomy with Jon Courson</title>
@@ -511,96 +511,6 @@ teaching number: W3129</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4176</itunes:duration>
-      </item>
-      <item>
-        <title>Hang Up The Phone</title>
-        <link>https://www.joncourson.com/playteaching/TC4004/teachingaudio</link>
-        <description>Hang Up The Phone</description> 
-        <guid isPermaLink="false">joncourson-searchlight-TC4004</guid>
-        <pubDate>Tue, 31 Dec 2002 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Hang Up The Phone 
-event: New Years Eve 2002/2003 
-teaching number: TC4004</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/HJZVB5g3-LDq1jMq6.m4a" length="16560061" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1168</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1998/1999 - Part 1 - Introduction</title>
-        <link>https://www.joncourson.com/playteaching/T330/teachingaudio</link>
-        <description>Prophecy Update 1998/1999 - Part 1 - Introduction</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T330</guid>
-        <pubDate>Thu, 31 Dec 1998 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Introduction 
-event: Deuteronomy 32:7 
-teaching number: T330</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/P0LHzKM6-LDq1jMq6.m4a" length="66619061" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4700</itunes:duration>
-      </item>
-      <item>
-        <title>Down In The Valley</title>
-        <link>https://www.joncourson.com/playteaching/T291/teachingaudio</link>
-        <description>Down In The Valley</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T291</guid>
-        <pubDate>Sun, 05 Jan 1997 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Down In The Valley 
-event: Deuteronomy 11:10-14 
-teaching number: T291</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/fhEPtqZs-LDq1jMq6.m4a" length="49503660" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3492</itunes:duration>
-      </item>
-      <item>
-        <title>Long Enough On This Mountain - New Year's 1996</title>
-        <link>https://www.joncourson.com/playteaching/T278/teachingaudio</link>
-        <description>Long Enough On This Mountain - New Year's 1996</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T278</guid>
-        <pubDate>Sun, 31 Dec 1995 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: New Year's 1996 
-event: Deuteronomy 1:5-8 
-teaching number: T278</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/1ER2nI3c-LDq1jMq6.m4a" length="51855175" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3658</itunes:duration>
-      </item>
-      <item>
-        <title>Un-Hallows Eve</title>
-        <link>https://www.joncourson.com/playteaching/T235/teachingaudio</link>
-        <description>Un-Hallows Eve</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T235</guid>
-        <pubDate>Wed, 13 Oct 1993 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Un-Hallows Eve 
-event: Deuteronomy 18:9-12 
-teaching number: T235</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/b8I04smY-LDq1jMq6.m4a" length="46138015" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3255</itunes:duration>
-      </item>
-      <item>
-        <title>Fright And Flight</title>
-        <link>https://www.joncourson.com/playteaching/T164/teachingaudio</link>
-        <description>Fright And Flight</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T164</guid>
-        <pubDate>Sun, 17 Jul 1988 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Fright And Flight 
-event: Deuteronomy 32:9-11 
-teaching number: T164</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/z1XLFxsv-LDq1jMq6.m4a" length="29523001" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2083</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Thu, 28 Nov 1991 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Dec 1985 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/1-chronicles.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>1 Chronicles with Jon Courson</title>
@@ -196,36 +196,6 @@ teaching number: W326</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3924</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1998</title>
-        <link>https://www.joncourson.com/playteaching/T318/teachingaudio</link>
-        <description>Prophecy Update 1998</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T318</guid>
-        <pubDate>Wed, 31 Dec 1997 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1998 
-event: 1 Chronicles 12:32 
-teaching number: T318</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/XzXeAi6f-LDq1jMq6.m4a" length="69472164" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4901</itunes:duration>
-      </item>
-      <item>
-        <title>Thanksgiving 1991</title>
-        <link>https://www.joncourson.com/playteaching/T203/teachingaudio</link>
-        <description>Thanksgiving 1991</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T203</guid>
-        <pubDate>Thu, 28 Nov 1991 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Thanksgiving 1991 
-event: 1 Chronicles 13 
-teaching number: T203</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ZErXC9IA-LDq1jMq6.m4a" length="35785737" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2524</itunes:duration>
       </item>
   </channel>
   </rss>

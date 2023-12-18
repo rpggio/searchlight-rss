@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 20 Mar 1994 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Aug 1985 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/1-kings.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>1 Kings with Jon Courson</title>
@@ -241,66 +241,6 @@ teaching number: W312</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4180</itunes:duration>
-      </item>
-      <item>
-        <title>God Vs Allah</title>
-        <link>https://www.joncourson.com/playteaching/T383/teachingaudio</link>
-        <description>God Vs Allah</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T383</guid>
-        <pubDate>Sun, 30 Jun 2002 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: God Vs Allah 
-event: 1 Kings 18:17-39 
-teaching number: T383</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/klSitUR3-LDq1jMq6.m4a" length="40283159" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2842</itunes:duration>
-      </item>
-      <item>
-        <title>Mother's Day Mercy - Mother's Day 2000</title>
-        <link>https://www.joncourson.com/playteaching/T351/teachingaudio</link>
-        <description>Mother's Day Mercy - Mother's Day 2000</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T351</guid>
-        <pubDate>Sun, 14 May 2000 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 2000 
-event: 1 Kings 3:16-28 
-teaching number: T351</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/dA28i0h7-LDq1jMq6.m4a" length="45536806" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3213</itunes:duration>
-      </item>
-      <item>
-        <title>The God Of The Valley</title>
-        <link>https://www.joncourson.com/playteaching/T348/teachingaudio</link>
-        <description>The God Of The Valley</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T348</guid>
-        <pubDate>Sun, 26 Mar 2000 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The God Of The Valley 
-event: 1 Kings 20:28 
-teaching number: T348</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/DozVohwH-LDq1jMq6.m4a" length="50702895" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3577</itunes:duration>
-      </item>
-      <item>
-        <title>Road Kill</title>
-        <link>https://www.joncourson.com/playteaching/T240/teachingaudio</link>
-        <description>Road Kill</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T240</guid>
-        <pubDate>Sun, 20 Mar 1994 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Road Kill 
-event: 1 Kings 12-13 
-teaching number: T240</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/gEdF6vZW-LDq1jMq6.m4a" length="36130651" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2549</itunes:duration>
       </item>
   </channel>
   </rss>

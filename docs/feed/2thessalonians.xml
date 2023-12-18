@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 22 Jan 1995 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Aug 1995 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-thessalonians.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Thessalonians with Jon Courson</title>
@@ -136,36 +136,6 @@ teaching number: W706</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3393</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 2000/2001</title>
-        <link>https://www.joncourson.com/playteaching/T363/teachingaudio</link>
-        <description>Prophecy Update 2000/2001</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T363</guid>
-        <pubDate>Sun, 31 Dec 2000 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 2000/2001 
-event: 2 Thessalonians 2 
-teaching number: T363</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/VVTjEXyh-LDq1jMq6.m4a" length="72418358" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>5109</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1994/1995 - Part 4</title>
-        <link>https://www.joncourson.com/playteaching/T262/teachingaudio</link>
-        <description>Prophecy Update 1994/1995 - Part 4</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T262</guid>
-        <pubDate>Sun, 22 Jan 1995 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1994/1995 - Part 4 
-event: 2 Thessalonians 2:1-7 
-teaching number: T262</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/DHN3Fbwq-LDq1jMq6.m4a" length="48635869" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3431</itunes:duration>
       </item>
   </channel>
   </rss>

@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 19 Jun 1994 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Apr 1986 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-chronicles.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Chronicles with Jon Courson</title>
@@ -256,21 +256,6 @@ teaching number: W337</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3667</itunes:duration>
-      </item>
-      <item>
-        <title>Go To Church!! - Father's Day 1994</title>
-        <link>https://www.joncourson.com/playteaching/T248/teachingaudio</link>
-        <description>Go To Church!! - Father's Day 1994</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T248</guid>
-        <pubDate>Sun, 19 Jun 1994 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Father's Day 1994 
-event: 2 Chronicles 26-28 
-teaching number: T248</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/l3ZB2SSx-LDq1jMq6.m4a" length="35899030" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2532</itunes:duration>
       </item>
   </channel>
   </rss>

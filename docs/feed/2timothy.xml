@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 09 May 1993 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Oct 1995 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/2-timothy.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>2 Timothy with Jon Courson</title>
@@ -91,51 +91,6 @@ teaching number: W715</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4710</itunes:duration>
-      </item>
-      <item>
-        <title>Nevertheless</title>
-        <link>https://www.joncourson.com/playteaching/T388/teachingaudio</link>
-        <description>Nevertheless</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T388</guid>
-        <pubDate>Sun, 25 Jan 2004 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Nevertheless 
-event: 2 Timothy 2:15-19 
-teaching number: T388</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/bygCV3MA-LDq1jMq6.m4a" length="51429460" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3628</itunes:duration>
-      </item>
-      <item>
-        <title>Eyes On The Prize</title>
-        <link>https://www.joncourson.com/playteaching/T373/teachingaudio</link>
-        <description>Eyes On The Prize</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T373</guid>
-        <pubDate>Thu, 25 Oct 2001 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Eyes On The Prize 
-event: 2 Timothy 4:6-10 
-teaching number: T373</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/8Hb2ENO3-LDq1jMq6.m4a" length="45587175" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3216</itunes:duration>
-      </item>
-      <item>
-        <title>Faith Of Our Mothers - Mother's Day 1993</title>
-        <link>https://www.joncourson.com/playteaching/T227/teachingaudio</link>
-        <description>Faith Of Our Mothers - Mother's Day 1993</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T227</guid>
-        <pubDate>Sun, 09 May 1993 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Mother's Day 1993 
-event: 2 Timothy 1:4-5 
-teaching number: T227</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ii4M3p7J-LDq1jMq6.m4a" length="43728515" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3085</itunes:duration>
       </item>
   </channel>
   </rss>

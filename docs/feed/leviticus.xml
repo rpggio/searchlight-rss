@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 19 Apr 1987 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Jan 2000 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/leviticus.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Leviticus with Jon Courson</title>
@@ -436,21 +436,6 @@ teaching number: W3092</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4649</itunes:duration>
-      </item>
-      <item>
-        <title>The Easter Bird</title>
-        <link>https://www.joncourson.com/playteaching/T150/teachingaudio</link>
-        <description>The Easter Bird</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T150</guid>
-        <pubDate>Sun, 19 Apr 1987 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Easter Bird 
-event: Leviticus 14:1-7 - Easter 1987 
-teaching number: T150</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/cdKkuQpK-LDq1jMq6.m4a" length="31360526" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2212</itunes:duration>
       </item>
   </channel>
   </rss>

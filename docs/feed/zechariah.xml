@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 20 Nov 1983 08:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jun 1989 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/zechariah.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Zechariah with Jon Courson</title>
@@ -226,66 +226,6 @@ teaching number: W468</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>3874</itunes:duration>
-      </item>
-      <item>
-        <title>The Battle For Jerusalem - Prophecy Update - 10-04-00</title>
-        <link>https://www.joncourson.com/playteaching/T357/teachingaudio</link>
-        <description>The Battle For Jerusalem - Prophecy Update - 10-04-00</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T357</guid>
-        <pubDate>Wed, 04 Oct 2000 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update - 10-04-00 
-event: Zechariah 12-14 
-teaching number: T357</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/9I4BSBza-LDq1jMq6.m4a" length="61380066" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4330</itunes:duration>
-      </item>
-      <item>
-        <title>Prophecy Update 1996/1997 - Part 3</title>
-        <link>https://www.joncourson.com/playteaching/T293/teachingaudio</link>
-        <description>Prophecy Update 1996/1997 - Part 3</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T293</guid>
-        <pubDate>Sun, 26 Jan 1997 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Prophecy Update 1996/1997 - Part 3 
-event: Zechariah 12 
-teaching number: T293</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Qg8XoBZD-LDq1jMq6.m4a" length="59821660" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>4220</itunes:duration>
-      </item>
-      <item>
-        <title>Israel '96: Bus Ride To Hell</title>
-        <link>https://www.joncourson.com/playteaching/T281/teachingaudio</link>
-        <description>Israel '96: Bus Ride To Hell</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T281</guid>
-        <pubDate>Sun, 24 Mar 1996 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Israel '96: Bus Ride To Hell 
-event: Zechariah 12:1-3 
-teaching number: T281</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/Vfcy3DE3-LDq1jMq6.m4a" length="49701971" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>3506</itunes:duration>
-      </item>
-      <item>
-        <title>Shout Grace!</title>
-        <link>https://www.joncourson.com/playteaching/T093/teachingaudio</link>
-        <description>Shout Grace!</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T093</guid>
-        <pubDate>Sun, 20 Nov 1983 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Shout Grace! 
-event: Zechariah 4:6-9 
-teaching number: T093</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/qJCYOgFG-LDq1jMq6.m4a" length="37551667" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2649</itunes:duration>
       </item>
   </channel>
   </rss>

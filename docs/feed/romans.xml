@@ -11,8 +11,8 @@
     </description>
     <language>en-us</language>
     <copyright>Copyright 2023 Searchlight</copyright>
-    <pubDate>Sun, 18 Jun 1989 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2023 17:57:24 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jul 1993 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 18:15:55 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/romans.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Romans with Jon Courson</title>
@@ -661,66 +661,6 @@ teaching number: W633</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4609</itunes:duration>
-      </item>
-      <item>
-        <title>God's Will Is Cool - Romans 12:1-2</title>
-        <link>https://www.joncourson.com/playteaching/TC4001/teachingaudio</link>
-        <description>God's Will Is Cool - Romans 12:1-2</description> 
-        <guid isPermaLink="false">joncourson-searchlight-TC4001</guid>
-        <pubDate>Sun, 25 Aug 2002 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Romans 12:1-2 
-event: Sunday Sermon 
-teaching number: TC4001</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/8zmBdyM1-LDq1jMq6.m4a" length="30970071" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2185</itunes:duration>
-      </item>
-      <item>
-        <title>As Is - Good Friday 1999</title>
-        <link>https://www.joncourson.com/playteaching/T336/teachingaudio</link>
-        <description>As Is - Good Friday 1999</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T336</guid>
-        <pubDate>Fri, 02 Apr 1999 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Good Friday 1999 
-event: Romans 5:8 
-teaching number: T336</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/oyw0V7Wg-LDq1jMq6.m4a" length="25967133" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1832</itunes:duration>
-      </item>
-      <item>
-        <title>The Romans Road</title>
-        <link>https://www.joncourson.com/playteaching/T223/teachingaudio</link>
-        <description>The Romans Road</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T223</guid>
-        <pubDate>Sun, 03 Jan 1993 08:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: The Romans Road 
-event: Romans 3-10 
-teaching number: T223</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/ZyUbHYFu-LDq1jMq6.m4a" length="40669514" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>2869</itunes:duration>
-      </item>
-      <item>
-        <title>The True Test Of Sonship - Father's Day 1989</title>
-        <link>https://www.joncourson.com/playteaching/T171/teachingaudio</link>
-        <description>The True Test Of Sonship - Father's Day 1989</description> 
-        <guid isPermaLink="false">joncourson-searchlight-T171</guid>
-        <pubDate>Sun, 18 Jun 1989 07:00:00 GMT</pubDate>
-        <description>series: Miscellaneous Bible Studies 
-passage: Father's Day 1989 
-event: Romans 8:15-16 
-teaching number: T171</description>
-        <enclosure url="https://cdn.jwplayer.com/videos/BbiHM9K8-LDq1jMq6.m4a" length="24725004" type="audio/mp4"/>
-        <itunes:author>Jon Courson</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:duration>1744</itunes:duration>
       </item>
   </channel>
   </rss>

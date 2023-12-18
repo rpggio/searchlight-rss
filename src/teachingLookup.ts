@@ -4,7 +4,9 @@ import { Teaching, TeachingFeed } from './types';
 
 export function loadFeed(book: string) {
    const slug = bookFileNameSlug(book)
-   return JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as TeachingFeed;
+   const feed = JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as TeachingFeed;
+   sortByDate(feed.teachings)
+   return feed
 }
 
 export function * allFeeds() {
@@ -26,7 +28,7 @@ export function * allTeachings(): Iterable<Teaching & { book: string }> {
 
 export function isEarlySeries(teaching: Teaching) {
    return teaching.series === 'Thru-The-Bible Studies'
-   || (teaching.series === 'Miscellaneous Bible Studies' && new Date(teaching.date) < new Date('2004-12-31'))
+   // || (teaching.series === 'Miscellaneous Bible Studies' && new Date(teaching.date) < new Date('2004-12-31'))
 }
 
 export function * earlySeriesTeachings() {
@@ -50,11 +52,20 @@ export function * groupedBookFeeds() {
          teachings.push(...loadFeed(book).teachings.filter(isEarlySeries))
       }
 
+      sortByDate(teachings)
+
       yield {
          title: `${range.from} - ${range.to}`,
          teachings
       } satisfies TeachingFeed
    }
+}
+
+export function sortByDate(teachings: Teaching[]) {
+   return teachings.sort((a, b) => {
+      return new Date(a.date).getTime() - new Date(b.date).getTime()
+   })
+
 }
 
 export function bookRangeFileNameSlug(range: BookRange) {
