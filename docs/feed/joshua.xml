@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Joshua with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/joshua</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 29 Dec 1996 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/joshua.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Joshua with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/joshua</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Meditation: The Key To Prosperity - Joshua 1:8</title>
+        <link>https://www.joncourson.com/playteaching/S3109/teachingaudio</link>
+        <description>Meditation: The Key To Prosperity - Joshua 1:8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3109</guid>
+        <pubDate>Sun, 31 Dec 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 1:8 
+event: Sunday Sermon 
+teaching number: S3109</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pvzhug7z-LDq1jMq6.m4a" length="36401169" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2568</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 1</title>
+        <link>https://www.joncourson.com/playteaching/W3130/teachingaudio</link>
+        <description>Joshua 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3130</guid>
+        <pubDate>Wed, 03 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 1 
+event: Verse by Verse Bible Study 
+teaching number: W3130</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KpvfssRr-LDq1jMq6.m4a" length="55602783" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3923</itunes:duration>
+      </item>
+      <item>
+        <title>The Purpose For The Power - Joshua 2:1-11</title>
+        <link>https://www.joncourson.com/playteaching/S3110/teachingaudio</link>
+        <description>The Purpose For The Power - Joshua 2:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3110</guid>
+        <pubDate>Sun, 07 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 2:1-11 
+event: Sunday Sermon 
+teaching number: S3110</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Iq2vdrJB-LDq1jMq6.m4a" length="53180232" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3752</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 2</title>
+        <link>https://www.joncourson.com/playteaching/W3131/teachingaudio</link>
+        <description>Joshua 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3131</guid>
+        <pubDate>Wed, 10 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 2 
+event: Verse by Verse Bible Study 
+teaching number: W3131</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K8bVY1ao-LDq1jMq6.m4a" length="46527402" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3282</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 3</title>
+        <link>https://www.joncourson.com/playteaching/W3132/teachingaudio</link>
+        <description>Joshua 3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3132</guid>
+        <pubDate>Wed, 17 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 3 
+event: Verse by Verse Bible Study 
+teaching number: W3132</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/y6Wv9LFD-LDq1jMq6.m4a" length="57085261" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4027</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 4</title>
+        <link>https://www.joncourson.com/playteaching/W3133/teachingaudio</link>
+        <description>Joshua 4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3133</guid>
+        <pubDate>Wed, 24 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 4 
+event: Verse by Verse Bible Study 
+teaching number: W3133</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/o1fVtD47-LDq1jMq6.m4a" length="53170093" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3751</itunes:duration>
+      </item>
+      <item>
+        <title>The Wall Will Fall! - Joshua 5:13 - 6:5</title>
+        <link>https://www.joncourson.com/playteaching/S3111/teachingaudio</link>
+        <description>The Wall Will Fall! - Joshua 5:13 - 6:5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3111</guid>
+        <pubDate>Sun, 04 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 5:13 - 6:5 
+event: Sunday Sermon 
+teaching number: S3111</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8LcVtCtj-LDq1jMq6.m4a" length="35436822" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2500</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 5:1-9</title>
+        <link>https://www.joncourson.com/playteaching/W3134/teachingaudio</link>
+        <description>Joshua 5:1-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3134</guid>
+        <pubDate>Wed, 07 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 5:1-9 
+event: Verse by Verse Bible Study 
+teaching number: W3134</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HHCtPdmO-LDq1jMq6.m4a" length="51895639" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3661</itunes:duration>
+      </item>
+      <item>
+        <title>The Lord Of Liberty - Joshua 5:13 - 6:5</title>
+        <link>https://www.joncourson.com/playteaching/S3112/teachingaudio</link>
+        <description>The Lord Of Liberty - Joshua 5:13 - 6:5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3112</guid>
+        <pubDate>Sun, 11 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 5:13 - 6:5 
+event: Sunday Sermon 
+teaching number: S3112</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eJ5SqDMp-LDq1jMq6.m4a" length="38746661" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2733</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 5-6</title>
+        <link>https://www.joncourson.com/playteaching/W3135/teachingaudio</link>
+        <description>Joshua 5-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3135</guid>
+        <pubDate>Wed, 14 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 5-6 
+event: Verse by Verse Bible Study 
+teaching number: W3135</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eaWGdRjg-LDq1jMq6.m4a" length="42580933" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3004</itunes:duration>
+      </item>
+      <item>
+        <title>Achan From Sin - Joshua 7:19-26</title>
+        <link>https://www.joncourson.com/playteaching/S3113/teachingaudio</link>
+        <description>Achan From Sin - Joshua 7:19-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3113</guid>
+        <pubDate>Sun, 18 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 7:19-26 
+event: Sunday Sermon 
+teaching number: S3113</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/C4pIdC0l-LDq1jMq6.m4a" length="31180482" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2200</itunes:duration>
+      </item>
+      <item>
+        <title>The Point Is Passion - Joshua 8:18-26</title>
+        <link>https://www.joncourson.com/playteaching/S3114/teachingaudio</link>
+        <description>The Point Is Passion - Joshua 8:18-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3114</guid>
+        <pubDate>Sun, 25 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 8:18-26 
+event: Sunday Sermon 
+teaching number: S3114</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ggHObdmz-LDq1jMq6.m4a" length="39335988" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2775</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 7</title>
+        <link>https://www.joncourson.com/playteaching/W3136/teachingaudio</link>
+        <description>Joshua 7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3136</guid>
+        <pubDate>Wed, 28 Feb 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 7 
+event: Verse by Verse Bible Study 
+teaching number: W3136</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zMrxK9PZ-LDq1jMq6.m4a" length="59092976" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4169</itunes:duration>
+      </item>
+      <item>
+        <title>Fresh Bread And New Wine - Joshua 9</title>
+        <link>https://www.joncourson.com/playteaching/S3115/teachingaudio</link>
+        <description>Fresh Bread And New Wine - Joshua 9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3115</guid>
+        <pubDate>Sun, 04 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 9 
+event: Sunday Sermon 
+teaching number: S3115</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kuv7Hced-LDq1jMq6.m4a" length="42687572" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3011</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 8</title>
+        <link>https://www.joncourson.com/playteaching/W3137/teachingaudio</link>
+        <description>Joshua 8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3137</guid>
+        <pubDate>Wed, 07 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 8 
+event: Verse by Verse Bible Study 
+teaching number: W3137</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/D8JvQLcs-LDq1jMq6.m4a" length="53137871" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3749</itunes:duration>
+      </item>
+      <item>
+        <title>Speak To The Son - Joshua 10:12-14</title>
+        <link>https://www.joncourson.com/playteaching/S3116/teachingaudio</link>
+        <description>Speak To The Son - Joshua 10:12-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3116</guid>
+        <pubDate>Sun, 11 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 10:12-14 
+event: Sunday Sermon 
+teaching number: S3116</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wQr3Mvtp-LDq1jMq6.m4a" length="38840014" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2740</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 10</title>
+        <link>https://www.joncourson.com/playteaching/W3138/teachingaudio</link>
+        <description>Joshua 10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3138</guid>
+        <pubDate>Wed, 14 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 10 
+event: Verse by Verse Bible Study 
+teaching number: W3138</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bpy6ZEw8-LDq1jMq6.m4a" length="41218462" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2908</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 10:12-14</title>
+        <link>https://www.joncourson.com/playteaching/W3139/teachingaudio</link>
+        <description>Joshua 10:12-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3139</guid>
+        <pubDate>Wed, 21 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 10:12-14 
+event: Verse by Verse Bible Study 
+teaching number: W3139</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/grxv17fS-LDq1jMq6.m4a" length="44714990" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3155</itunes:duration>
+      </item>
+      <item>
+        <title>Wonder Bread! - Joshua 14:6-15</title>
+        <link>https://www.joncourson.com/playteaching/S3117/teachingaudio</link>
+        <description>Wonder Bread! - Joshua 14:6-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3117</guid>
+        <pubDate>Sun, 25 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 14:6-15 
+event: Sunday Sermon 
+teaching number: S3117</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OupsM1UA-LDq1jMq6.m4a" length="32585733" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2299</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 11</title>
+        <link>https://www.joncourson.com/playteaching/W3140/teachingaudio</link>
+        <description>Joshua 11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3140</guid>
+        <pubDate>Wed, 28 Mar 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 11 
+event: Verse by Verse Bible Study 
+teaching number: W3140</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jlyeXBph-LDq1jMq6.m4a" length="45004279" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3175</itunes:duration>
+      </item>
+      <item>
+        <title>Take Your Position - Joshua 11:23/13:1</title>
+        <link>https://www.joncourson.com/playteaching/S3118/teachingaudio</link>
+        <description>Take Your Position - Joshua 11:23/13:1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3118</guid>
+        <pubDate>Sun, 01 Apr 2001 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 11:23/13:1 
+event: Sunday Sermon 
+teaching number: S3118</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gRy02Y3u-LDq1jMq6.m4a" length="39836698" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2810</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 11-16</title>
+        <link>https://www.joncourson.com/playteaching/W3141/teachingaudio</link>
+        <description>Joshua 11-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3141</guid>
+        <pubDate>Wed, 11 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 11-16 
+event: Verse by Verse Bible Study 
+teaching number: W3141</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IInDfEg6-LDq1jMq6.m4a" length="56218034" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3966</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 17-18</title>
+        <link>https://www.joncourson.com/playteaching/W3142/teachingaudio</link>
+        <description>Joshua 17-18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3142</guid>
+        <pubDate>Wed, 18 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 17-18 
+event: Verse by Verse Bible Study 
+teaching number: W3142</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mu6bw1jG-LDq1jMq6.m4a" length="53916634" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3804</itunes:duration>
+      </item>
+      <item>
+        <title>It ALL Came To Pass - Joshua 21:43-45</title>
+        <link>https://www.joncourson.com/playteaching/S3119/teachingaudio</link>
+        <description>It ALL Came To Pass - Joshua 21:43-45</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3119</guid>
+        <pubDate>Sun, 22 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 21:43-45 
+event: Sunday Sermon 
+teaching number: S3119</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZYLP67Iz-LDq1jMq6.m4a" length="44781316" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3159</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 18-21</title>
+        <link>https://www.joncourson.com/playteaching/W3143/teachingaudio</link>
+        <description>Joshua 18-21</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3143</guid>
+        <pubDate>Wed, 25 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 18-21 
+event: Verse by Verse Bible Study 
+teaching number: W3143</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CnDrRhEf-LDq1jMq6.m4a" length="47394132" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3344</itunes:duration>
+      </item>
+      <item>
+        <title>Avoiding Altar-cations - Joshua 22</title>
+        <link>https://www.joncourson.com/playteaching/S3120/teachingaudio</link>
+        <description>Avoiding Altar-cations - Joshua 22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3120</guid>
+        <pubDate>Sun, 29 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 22 
+event: Sunday Sermon 
+teaching number: S3120</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QoeZz2wO-LDq1jMq6.m4a" length="46567954" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3285</itunes:duration>
+      </item>
+      <item>
+        <title>As For Me And My House - Joshua 24:14-15</title>
+        <link>https://www.joncourson.com/playteaching/S3121/teachingaudio</link>
+        <description>As For Me And My House - Joshua 24:14-15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3121</guid>
+        <pubDate>Sun, 06 May 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 24:14-15 
+event: Sunday Sermon 
+teaching number: S3121</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ONPFJzg9-LDq1jMq6.m4a" length="49778880" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3512</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 23-24</title>
+        <link>https://www.joncourson.com/playteaching/W3144/teachingaudio</link>
+        <description>Joshua 23-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3144</guid>
+        <pubDate>Wed, 09 May 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 23-24 
+event: Verse by Verse Bible Study 
+teaching number: W3144</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/B1V9wSrg-LDq1jMq6.m4a" length="61892504" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4367</itunes:duration>
+      </item>
+      <item>
+        <title>Joshua 1-24</title>
+        <link>https://www.joncourson.com/playteaching/W3145/teachingaudio</link>
+        <description>Joshua 1-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3145</guid>
+        <pubDate>Wed, 16 May 2001 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joshua 1-24 
+event: Verse by Verse Bible Study 
+teaching number: W3145</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/u78Gy7Xj-LDq1jMq6.m4a" length="52049193" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3672</itunes:duration>
+      </item>
+      <item>
+        <title>The Principle Of Partnering - New Year's 1997</title>
+        <link>https://www.joncourson.com/playteaching/T289/teachingaudio</link>
+        <description>The Principle Of Partnering - New Year's 1997</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T289</guid>
+        <pubDate>Sun, 29 Dec 1996 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: New Year's 1997 
+event: Joshua 1:1-9 
+teaching number: T289</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/42zQAKI2-LDq1jMq6.m4a" length="57314683" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4044</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Isaiah with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/isaiah</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 23 Jun 1985 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/isaiah.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Isaiah with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/isaiah</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>A Glorious Invitation - Isaiah 1:18</title>
+        <link>https://www.joncourson.com/playteaching/S356/teachingaudio</link>
+        <description>A Glorious Invitation - Isaiah 1:18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S356</guid>
+        <pubDate>Sat, 01 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 1:18 
+event: Sunday Sermon 
+teaching number: S356</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KJ4E3ywT-LDq1jMq6.m4a" length="30391237" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2144</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W391/teachingaudio</link>
+        <description>Isaiah 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W391</guid>
+        <pubDate>Wed, 05 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W391</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9sXL89AC-LDq1jMq6.m4a" length="51030605" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3600</itunes:duration>
+      </item>
+      <item>
+        <title>One Nation Under God? - Isaiah 5</title>
+        <link>https://www.joncourson.com/playteaching/S357/teachingaudio</link>
+        <description>One Nation Under God? - Isaiah 5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S357</guid>
+        <pubDate>Sun, 16 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 5 
+event: Sunday Sermon 
+teaching number: S357</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LM5AeJHQ-LDq1jMq6.m4a" length="50606370" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3570</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 3-6</title>
+        <link>https://www.joncourson.com/playteaching/W392/teachingaudio</link>
+        <description>Isaiah 3-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W392</guid>
+        <pubDate>Wed, 19 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 3-6 
+event: Verse by Verse Bible Study 
+teaching number: W392</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/i4CP1jOZ-LDq1jMq6.m4a" length="62961636" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4442</itunes:duration>
+      </item>
+      <item>
+        <title>Immanuel: God With Us - Isaiah 7:1-14</title>
+        <link>https://www.joncourson.com/playteaching/S358/teachingaudio</link>
+        <description>Immanuel: God With Us - Isaiah 7:1-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S358</guid>
+        <pubDate>Sun, 23 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 7:1-14 
+event: Sunday Sermon 
+teaching number: S358</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YJNAJNdg-LDq1jMq6.m4a" length="37325164" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2633</itunes:duration>
+      </item>
+      <item>
+        <title>To The Word! - Isaiah 8:19-20</title>
+        <link>https://www.joncourson.com/playteaching/S359/teachingaudio</link>
+        <description>To The Word! - Isaiah 8:19-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S359</guid>
+        <pubDate>Sun, 30 Aug 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 8:19-20 
+event: Sunday Sermon 
+teaching number: S359</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FEGIz0AB-LDq1jMq6.m4a" length="33254697" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2346</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 7-9</title>
+        <link>https://www.joncourson.com/playteaching/W393/teachingaudio</link>
+        <description>Isaiah 7-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W393</guid>
+        <pubDate>Wed, 02 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 7-9 
+event: Verse by Verse Bible Study 
+teaching number: W393</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/56Qy2baA-LDq1jMq6.m4a" length="59499315" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4198</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 9-10</title>
+        <link>https://www.joncourson.com/playteaching/W394/teachingaudio</link>
+        <description>Isaiah 9-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W394</guid>
+        <pubDate>Wed, 09 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 9-10 
+event: Verse by Verse Bible Study 
+teaching number: W394</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5k1rsaLr-LDq1jMq6.m4a" length="54361965" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3835</itunes:duration>
+      </item>
+      <item>
+        <title>Lucifer - Isaiah 14:12-17</title>
+        <link>https://www.joncourson.com/playteaching/S360/teachingaudio</link>
+        <description>Lucifer - Isaiah 14:12-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S360</guid>
+        <pubDate>Sun, 13 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 14:12-17 
+event: Sunday Sermon 
+teaching number: S360</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dIER4oIc-LDq1jMq6.m4a" length="39176827" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2764</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 11-14</title>
+        <link>https://www.joncourson.com/playteaching/W395/teachingaudio</link>
+        <description>Isaiah 11-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W395</guid>
+        <pubDate>Wed, 16 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 11-14 
+event: Verse by Verse Bible Study 
+teaching number: W395</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pTBiWDsM-LDq1jMq6.m4a" length="62603185" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4417</itunes:duration>
+      </item>
+      <item>
+        <title>The Naked Truth - Isaiah 20</title>
+        <link>https://www.joncourson.com/playteaching/S361/teachingaudio</link>
+        <description>The Naked Truth - Isaiah 20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S361</guid>
+        <pubDate>Sun, 20 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 20 
+event: Sunday Sermon 
+teaching number: S361</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TSzPUMM7-LDq1jMq6.m4a" length="33547621" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2367</itunes:duration>
+      </item>
+      <item>
+        <title>Truly Seeking God - Isaiah 22:1-14</title>
+        <link>https://www.joncourson.com/playteaching/S362/teachingaudio</link>
+        <description>Truly Seeking God - Isaiah 22:1-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S362</guid>
+        <pubDate>Sun, 27 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 22:1-14 
+event: Sunday Sermon 
+teaching number: S362</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LphM9cxa-LDq1jMq6.m4a" length="29308469" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2067</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 15-19</title>
+        <link>https://www.joncourson.com/playteaching/W396/teachingaudio</link>
+        <description>Isaiah 15-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W396</guid>
+        <pubDate>Wed, 30 Sep 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 15-19 
+event: Verse by Verse Bible Study 
+teaching number: W396</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JAZeKS6V-LDq1jMq6.m4a" length="58694817" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4141</itunes:duration>
+      </item>
+      <item>
+        <title>Watching For His Coming - Isaiah 21:11-12</title>
+        <link>https://www.joncourson.com/playteaching/S363/teachingaudio</link>
+        <description>Watching For His Coming - Isaiah 21:11-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S363</guid>
+        <pubDate>Sun, 04 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 21:11-12 
+event: Sunday Sermon 
+teaching number: S363</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/q8V8tYO6-LDq1jMq6.m4a" length="50808919" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3584</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 20-22</title>
+        <link>https://www.joncourson.com/playteaching/W397/teachingaudio</link>
+        <description>Isaiah 20-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W397</guid>
+        <pubDate>Wed, 07 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 20-22 
+event: Verse by Verse Bible Study 
+teaching number: W397</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Oc6oPx7U-LDq1jMq6.m4a" length="54473741" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3843</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 23-25</title>
+        <link>https://www.joncourson.com/playteaching/W398/teachingaudio</link>
+        <description>Isaiah 23-25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W398</guid>
+        <pubDate>Wed, 14 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 23-25 
+event: Verse by Verse Bible Study 
+teaching number: W398</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YII3dhIs-LDq1jMq6.m4a" length="54807661" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3867</itunes:duration>
+      </item>
+      <item>
+        <title>Perfect Peace - Isaiah 26:3</title>
+        <link>https://www.joncourson.com/playteaching/S364/teachingaudio</link>
+        <description>Perfect Peace - Isaiah 26:3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S364</guid>
+        <pubDate>Sun, 18 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 26:3 
+event: Sunday Sermon 
+teaching number: S364</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/rsxQUVyJ-LDq1jMq6.m4a" length="28072942" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1980</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 26-28</title>
+        <link>https://www.joncourson.com/playteaching/W399/teachingaudio</link>
+        <description>Isaiah 26-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W399</guid>
+        <pubDate>Wed, 21 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 26-28 
+event: Verse by Verse Bible Study 
+teaching number: W399</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9BQPc8kP-LDq1jMq6.m4a" length="67738808" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4779</itunes:duration>
+      </item>
+      <item>
+        <title>Who's Waiting On Who? - Isaiah 30:18</title>
+        <link>https://www.joncourson.com/playteaching/S365/teachingaudio</link>
+        <description>Who's Waiting On Who? - Isaiah 30:18</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S365</guid>
+        <pubDate>Sun, 25 Oct 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 30:18 
+event: Sunday Sermon 
+teaching number: S365</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/BC6B9oPm-LDq1jMq6.m4a" length="31666666" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2234</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 28-32</title>
+        <link>https://www.joncourson.com/playteaching/W400/teachingaudio</link>
+        <description>Isaiah 28-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W400</guid>
+        <pubDate>Wed, 28 Oct 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 28-32 
+event: Verse by Verse Bible Study 
+teaching number: W400</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YrWXsBSr-LDq1jMq6.m4a" length="61237431" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4320</itunes:duration>
+      </item>
+      <item>
+        <title>Our God: A Consuming Fire - Isaiah 33:13-16</title>
+        <link>https://www.joncourson.com/playteaching/S366/teachingaudio</link>
+        <description>Our God: A Consuming Fire - Isaiah 33:13-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S366</guid>
+        <pubDate>Sun, 01 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 33:13-16 
+event: Sunday Sermon 
+teaching number: S366</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gAzNNzh6-LDq1jMq6.m4a" length="32622945" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2301</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 33-35</title>
+        <link>https://www.joncourson.com/playteaching/W401/teachingaudio</link>
+        <description>Isaiah 33-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W401</guid>
+        <pubDate>Wed, 04 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 33-35 
+event: Verse by Verse Bible Study 
+teaching number: W401</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/iOcl7XiU-LDq1jMq6.m4a" length="47110038" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3324</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 36-39</title>
+        <link>https://www.joncourson.com/playteaching/W402/teachingaudio</link>
+        <description>Isaiah 36-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W402</guid>
+        <pubDate>Wed, 11 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 36-39 
+event: Verse by Verse Bible Study 
+teaching number: W402</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dZNJIEZu-LDq1jMq6.m4a" length="65699597" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4635</itunes:duration>
+      </item>
+      <item>
+        <title>Jesus, Our Shepherd - Isaiah 40:11</title>
+        <link>https://www.joncourson.com/playteaching/S367/teachingaudio</link>
+        <description>Jesus, Our Shepherd - Isaiah 40:11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S367</guid>
+        <pubDate>Sun, 15 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 40:11 
+event: Sunday Sermon 
+teaching number: S367</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sNnUhb2c-LDq1jMq6.m4a" length="34096206" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2405</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 40</title>
+        <link>https://www.joncourson.com/playteaching/W403/teachingaudio</link>
+        <description>Isaiah 40</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W403</guid>
+        <pubDate>Wed, 18 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 40 
+event: Verse by Verse Bible Study 
+teaching number: W403</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yJ0eFhGd-LDq1jMq6.m4a" length="56547539" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3989</itunes:duration>
+      </item>
+      <item>
+        <title>Beholding Jesus Christ - Isaiah 42:1-4</title>
+        <link>https://www.joncourson.com/playteaching/S368/teachingaudio</link>
+        <description>Beholding Jesus Christ - Isaiah 42:1-4</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S368</guid>
+        <pubDate>Sun, 22 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 42:1-4 
+event: Sunday Sermon 
+teaching number: S368</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/L2kFI5sW-LDq1jMq6.m4a" length="45414037" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3204</itunes:duration>
+      </item>
+      <item>
+        <title>Command Ye Me - Isaiah 45:11</title>
+        <link>https://www.joncourson.com/playteaching/S369/teachingaudio</link>
+        <description>Command Ye Me - Isaiah 45:11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S369</guid>
+        <pubDate>Sun, 29 Nov 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 45:11 
+event: Sunday Sermon 
+teaching number: S369</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8QfdQqxX-LDq1jMq6.m4a" length="24629417" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1737</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 41-43</title>
+        <link>https://www.joncourson.com/playteaching/W404/teachingaudio</link>
+        <description>Isaiah 41-43</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W404</guid>
+        <pubDate>Wed, 02 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 41-43 
+event: Verse by Verse Bible Study 
+teaching number: W404</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/WhqCitDw-LDq1jMq6.m4a" length="58348167" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4117</itunes:duration>
+      </item>
+      <item>
+        <title>The Idiocy Of Idolatry - Isaiah 44:8-20</title>
+        <link>https://www.joncourson.com/playteaching/S370/teachingaudio</link>
+        <description>The Idiocy Of Idolatry - Isaiah 44:8-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S370</guid>
+        <pubDate>Sun, 06 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 44:8-20 
+event: Sunday Sermon 
+teaching number: S370</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tjq4wETa-LDq1jMq6.m4a" length="33729238" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2379</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 44-46</title>
+        <link>https://www.joncourson.com/playteaching/W405/teachingaudio</link>
+        <description>Isaiah 44-46</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W405</guid>
+        <pubDate>Wed, 09 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 44-46 
+event: Verse by Verse Bible Study 
+teaching number: W405</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wtI5vChp-LDq1jMq6.m4a" length="62507098" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4410</itunes:duration>
+      </item>
+      <item>
+        <title>The Shame He Endured - Isaiah 50:4-6</title>
+        <link>https://www.joncourson.com/playteaching/S371/teachingaudio</link>
+        <description>The Shame He Endured - Isaiah 50:4-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S371</guid>
+        <pubDate>Sun, 13 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 50:4-6 
+event: Sunday Sermon 
+teaching number: S371</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nDupUDfq-LDq1jMq6.m4a" length="25088268" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1770</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 47-50</title>
+        <link>https://www.joncourson.com/playteaching/W406/teachingaudio</link>
+        <description>Isaiah 47-50</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W406</guid>
+        <pubDate>Wed, 16 Dec 1987 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 47-50 
+event: Verse by Verse Bible Study 
+teaching number: W406</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OlIgIqPt-LDq1jMq6.m4a" length="49279456" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3477</itunes:duration>
+      </item>
+      <item>
+        <title>Be Strong In Song! - Isaiah 54:1-3</title>
+        <link>https://www.joncourson.com/playteaching/S372/teachingaudio</link>
+        <description>Be Strong In Song! - Isaiah 54:1-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S372</guid>
+        <pubDate>Sun, 03 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 54:1-3 
+event: Sunday Sermon 
+teaching number: S372</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GToZYRhi-LDq1jMq6.m4a" length="36122581" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2548</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 51-52</title>
+        <link>https://www.joncourson.com/playteaching/W407/teachingaudio</link>
+        <description>Isaiah 51-52</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W407</guid>
+        <pubDate>Wed, 06 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 51-52 
+event: Verse by Verse Bible Study 
+teaching number: W407</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9OV4pBGE-LDq1jMq6.m4a" length="52279739" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3688</itunes:duration>
+      </item>
+      <item>
+        <title>A Sweeter Song - Isaiah 53</title>
+        <link>https://www.joncourson.com/playteaching/S373/teachingaudio</link>
+        <description>A Sweeter Song - Isaiah 53</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S373</guid>
+        <pubDate>Sun, 10 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 53 
+event: Sunday Sermon 
+teaching number: S373</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ulVHyZYC-LDq1jMq6.m4a" length="55086549" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3886</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 54-56</title>
+        <link>https://www.joncourson.com/playteaching/W408/teachingaudio</link>
+        <description>Isaiah 54-56</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W408</guid>
+        <pubDate>Wed, 13 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 54-56 
+event: Verse by Verse Bible Study 
+teaching number: W408</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/euD68hdg-LDq1jMq6.m4a" length="57178373" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4034</itunes:duration>
+      </item>
+      <item>
+        <title>Prayer That Fails To Fly - Isaiah 59:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S374/teachingaudio</link>
+        <description>Prayer That Fails To Fly - Isaiah 59:1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S374</guid>
+        <pubDate>Sun, 17 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 59:1-2 
+event: Sunday Sermon 
+teaching number: S374</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/WiI9lIEZ-LDq1jMq6.m4a" length="42080388" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2969</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 56-59</title>
+        <link>https://www.joncourson.com/playteaching/W409/teachingaudio</link>
+        <description>Isaiah 56-59</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W409</guid>
+        <pubDate>Wed, 20 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 56-59 
+event: Verse by Verse Bible Study 
+teaching number: W409</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Z2EgA8jK-LDq1jMq6.m4a" length="65072847" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4591</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 60-65</title>
+        <link>https://www.joncourson.com/playteaching/W410/teachingaudio</link>
+        <description>Isaiah 60-65</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W410</guid>
+        <pubDate>Wed, 27 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 60-65 
+event: Verse by Verse Bible Study 
+teaching number: W410</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/aZe3qBF8-LDq1jMq6.m4a" length="65832788" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4645</itunes:duration>
+      </item>
+      <item>
+        <title>Hell Is For Real - Isaiah 66:22-24</title>
+        <link>https://www.joncourson.com/playteaching/S375/teachingaudio</link>
+        <description>Hell Is For Real - Isaiah 66:22-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S375</guid>
+        <pubDate>Sun, 31 Jan 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 66:22-24 
+event: Sunday Sermon 
+teaching number: S375</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vaUMqpG4-LDq1jMq6.m4a" length="54958296" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3877</itunes:duration>
+      </item>
+      <item>
+        <title>Isaiah 65-66</title>
+        <link>https://www.joncourson.com/playteaching/W411/teachingaudio</link>
+        <description>Isaiah 65-66</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W411</guid>
+        <pubDate>Wed, 03 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Isaiah 65-66 
+event: Verse by Verse Bible Study 
+teaching number: W411</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hAncIfOj-LDq1jMq6.m4a" length="66909976" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4721</itunes:duration>
+      </item>
+      <item>
+        <title>Rejecting Rejection</title>
+        <link>https://www.joncourson.com/playteaching/T369/teachingaudio</link>
+        <description>Rejecting Rejection</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T369</guid>
+        <pubDate>Sun, 24 Jun 2001 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Rejecting Rejection 
+event: Isaiah 53:3 
+teaching number: T369</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8yZuJ8iN-LDq1jMq6.m4a" length="49328703" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3480</itunes:duration>
+      </item>
+      <item>
+        <title>Good Friday 2001</title>
+        <link>https://www.joncourson.com/playteaching/T366/teachingaudio</link>
+        <description>Good Friday 2001</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T366</guid>
+        <pubDate>Fri, 13 Apr 2001 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Good Friday 2001 
+event: Isaiah 53 
+teaching number: T366</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Ndu4igQl-LDq1jMq6.m4a" length="25176458" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1776</itunes:duration>
+      </item>
+      <item>
+        <title>Uzziah's Gotta Die!</title>
+        <link>https://www.joncourson.com/playteaching/T364/teachingaudio</link>
+        <description>Uzziah's Gotta Die!</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T364</guid>
+        <pubDate>Sun, 28 Jan 2001 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Uzziah's Gotta Die! 
+event: Isaiah 6:1-8 
+teaching number: T364</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G5LYmQIy-LDq1jMq6.m4a" length="35877362" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2531</itunes:duration>
+      </item>
+      <item>
+        <title>The Mother-Heart Of Father-God - Mother's Day 1998</title>
+        <link>https://www.joncourson.com/playteaching/T324/teachingaudio</link>
+        <description>The Mother-Heart Of Father-God - Mother's Day 1998</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T324</guid>
+        <pubDate>Sun, 10 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Mother's Day 1998 
+event: Isaiah 66:12 
+teaching number: T324</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5mFf63Re-LDq1jMq6.m4a" length="34842253" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2458</itunes:duration>
+      </item>
+      <item>
+        <title>Prophecy Update 1996/1997 - Part 1</title>
+        <link>https://www.joncourson.com/playteaching/T290/teachingaudio</link>
+        <description>Prophecy Update 1996/1997 - Part 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T290</guid>
+        <pubDate>Tue, 31 Dec 1996 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Prophecy Update 1996/1997 - Part 1 
+event: Isaiah 44:28 
+teaching number: T290</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TDHYords-LDq1jMq6.m4a" length="56880548" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4013</itunes:duration>
+      </item>
+      <item>
+        <title>Where Are The Intercessors?</title>
+        <link>https://www.joncourson.com/playteaching/T272/teachingaudio</link>
+        <description>Where Are The Intercessors?</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T272</guid>
+        <pubDate>Sun, 01 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Where Are The Intercessors? 
+event: Isaiah 59 
+teaching number: T272</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hrk9ptVO-LDq1jMq6.m4a" length="40412346" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2851</itunes:duration>
+      </item>
+      <item>
+        <title>Good Friday  1994</title>
+        <link>https://www.joncourson.com/playteaching/T242/teachingaudio</link>
+        <description>Good Friday  1994</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T242</guid>
+        <pubDate>Fri, 01 Apr 1994 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Good Friday  1994 
+event: Isaiah 51:22 
+teaching number: T242</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ubqSIG1p-LDq1jMq6.m4a" length="22607180" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1595</itunes:duration>
+      </item>
+      <item>
+        <title>White Christmas - Christmas Eve 1988</title>
+        <link>https://www.joncourson.com/playteaching/T166/teachingaudio</link>
+        <description>White Christmas - Christmas Eve 1988</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T166</guid>
+        <pubDate>Sat, 24 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Christmas Eve 1988 
+event: Isaiah 1:18 
+teaching number: T166</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TdRwwiQR-LDq1jMq6.m4a" length="20188208" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1424</itunes:duration>
+      </item>
+      <item>
+        <title>The Motherhood Of God</title>
+        <link>https://www.joncourson.com/playteaching/T139/teachingaudio</link>
+        <description>The Motherhood Of God</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T139</guid>
+        <pubDate>Sun, 11 May 1986 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: The Motherhood Of God 
+event: Isaiah 66:12 
+teaching number: T139</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/onSS5oHs-LDq1jMq6.m4a" length="31506986" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2223</itunes:duration>
+      </item>
+      <item>
+        <title>Comfort In Confusing Times</title>
+        <link>https://www.joncourson.com/playteaching/T123/teachingaudio</link>
+        <description>Comfort In Confusing Times</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T123</guid>
+        <pubDate>Sun, 23 Jun 1985 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Comfort In Confusing Times 
+event: Isaiah 40 
+teaching number: T123</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PJdS8hLq-LDq1jMq6.m4a" length="37118208" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2618</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,10 +1,10 @@
 import * as fs from 'fs'
-import { bibleBooks, bookRanges } from "./lib/bible";
+import { BookRange, bibleBooks, bookRanges } from "./lib/bible";
 import { Teaching, TeachingFeed } from './types';
 
 export function loadFeed(book: string) {
-   const slug = fileNameSlug(book)
-   return JSON.parse(fs.readFileSync(`docs/${slug}.json`, 'utf8')) as TeachingFeed;
+   const slug = bookFileNameSlug(book)
+   return JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as TeachingFeed;
 }
 
 export function * allFeeds() {
@@ -34,6 +34,8 @@ export function * earlySeriesTeachings() {
    }
 }
 
+
+
 export function * groupedBookFeeds() {
    for(const range of bookRanges){
       const fromIdx = bibleBooks.indexOf(range.from)
@@ -55,6 +57,10 @@ export function * groupedBookFeeds() {
    }
 }
 
-export function fileNameSlug(book: string) {
-   return book.toLowerCase().replace(/ /g, '-')
+export function bookRangeFileNameSlug(range: BookRange) {
+   return `${bookFileNameSlug(range.from)}-${bookFileNameSlug(range.to)}`
+}
+
+export function bookFileNameSlug(book: string) {
+   return book.toLowerCase().replace(/ /g, '')
 }

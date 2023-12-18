@@ -68,7 +68,11 @@ Jude
 Revelation
 `.split('\n').map(s => s.trim()).filter(s => s.length > 0)
 
-export const bookRanges = [
+export type BibleBook = typeof bibleBooks[number]
+
+export type BookRange = { from: BibleBook, to: BibleBook }
+
+export const bookRanges: BookRange[] = [
    { from: 'Genesis', to: 'Deuteronomy' },
    { from: 'Joshua', to: 'Esther' },
    { from: 'Job', to: 'Song of Solomon' },

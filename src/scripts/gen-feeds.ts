@@ -1,15 +1,15 @@
 import * as fs from 'fs';
 import { renderFeed } from "../renderFeed";
-import { earlySeriesTeachings, fileNameSlug, groupedBookFeeds } from "../teachingLookup";
+import { earlySeriesTeachings, bookFileNameSlug, groupedBookFeeds } from "../teachingLookup";
 
 for (const feed of earlySeriesTeachings()) {
-   const slug = fileNameSlug(feed.title)
+   const slug = bookFileNameSlug(feed.title)
    const rss = renderFeed(feed);
-   fs.writeFileSync(`docs/${slug}.xml`, rss);
+   fs.writeFileSync(`docs/feed/${slug}.xml`, rss);
 }
 
 for(const feed of groupedBookFeeds()) {
    const slug = feed.title.toLowerCase().replace(/ /g, '')
    const rss = renderFeed(feed);
-   fs.writeFileSync(`docs/${slug}.xml`, rss);
+   fs.writeFileSync(`docs/feed/${slug}.xml`, rss);
 }

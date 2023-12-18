@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Numbers with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/numbers</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 02 Jan 2000 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/numbers.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Numbers with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/numbers</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Encamped In The Cross - Numbers 2</title>
+        <link>https://www.joncourson.com/playteaching/S3079/teachingaudio</link>
+        <description>Encamped In The Cross - Numbers 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3079</guid>
+        <pubDate>Sun, 30 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 2 
+event: Sunday Sermon 
+teaching number: S3079</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8a10R8XR-LDq1jMq6.m4a" length="57568961" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4061</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W3093/teachingaudio</link>
+        <description>Numbers 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3093</guid>
+        <pubDate>Wed, 02 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W3093</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/THeHEMml-LDq1jMq6.m4a" length="54849048" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3870</itunes:duration>
+      </item>
+      <item>
+        <title>Caring Enough To Confront - Numbers 3:5-12</title>
+        <link>https://www.joncourson.com/playteaching/S3080/teachingaudio</link>
+        <description>Caring Enough To Confront - Numbers 3:5-12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3080</guid>
+        <pubDate>Sun, 06 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 3:5-12 
+event: Sunday Sermon 
+teaching number: S3080</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YGPRt6sL-LDq1jMq6.m4a" length="50376844" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3554</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 3-5</title>
+        <link>https://www.joncourson.com/playteaching/W3094/teachingaudio</link>
+        <description>Numbers 3-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3094</guid>
+        <pubDate>Wed, 09 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 3-5 
+event: Verse by Verse Bible Study 
+teaching number: W3094</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tiUOeszH-LDq1jMq6.m4a" length="71891591" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5072</itunes:duration>
+      </item>
+      <item>
+        <title>The Lord Bless You - Numbers 6:22-27</title>
+        <link>https://www.joncourson.com/playteaching/S3081/teachingaudio</link>
+        <description>The Lord Bless You - Numbers 6:22-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3081</guid>
+        <pubDate>Sun, 13 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 6:22-27 
+event: Sunday Sermon 
+teaching number: S3081</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NB6C9Sej-LDq1jMq6.m4a" length="28172610" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1987</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 6</title>
+        <link>https://www.joncourson.com/playteaching/W3095/teachingaudio</link>
+        <description>Numbers 6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3095</guid>
+        <pubDate>Wed, 16 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 6 
+event: Verse by Verse Bible Study 
+teaching number: W3095</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GFeiiR9M-LDq1jMq6.m4a" length="55989311" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3950</itunes:duration>
+      </item>
+      <item>
+        <title>It's Not Fair . . . Or Is It? - Numbers 7:1-9</title>
+        <link>https://www.joncourson.com/playteaching/S3082/teachingaudio</link>
+        <description>It's Not Fair . . . Or Is It? - Numbers 7:1-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3082</guid>
+        <pubDate>Sun, 20 Feb 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 7:1-9 
+event: Sunday Sermon 
+teaching number: S3082</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zirzFJM9-LDq1jMq6.m4a" length="36683493" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2588</itunes:duration>
+      </item>
+      <item>
+        <title>The Trumpet Is Going To Sound - Numbers 10:1-10</title>
+        <link>https://www.joncourson.com/playteaching/S3083/teachingaudio</link>
+        <description>The Trumpet Is Going To Sound - Numbers 10:1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3083</guid>
+        <pubDate>Sun, 05 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 10:1-10 
+event: Sunday Sermon 
+teaching number: S3083</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dERQ676Y-LDq1jMq6.m4a" length="46200102" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3259</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 7-9</title>
+        <link>https://www.joncourson.com/playteaching/W3096/teachingaudio</link>
+        <description>Numbers 7-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3096</guid>
+        <pubDate>Wed, 08 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 7-9 
+event: Verse by Verse Bible Study 
+teaching number: W3096</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ocBhMCYY-LDq1jMq6.m4a" length="66951870" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4724</itunes:duration>
+      </item>
+      <item>
+        <title>You Gotta Come - Numbers 10:29-32</title>
+        <link>https://www.joncourson.com/playteaching/S3084/teachingaudio</link>
+        <description>You Gotta Come - Numbers 10:29-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3084</guid>
+        <pubDate>Sun, 12 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 10:29-32 
+event: Sunday Sermon 
+teaching number: S3084</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/iZEFIEIb-LDq1jMq6.m4a" length="42448534" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2995</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 10-11</title>
+        <link>https://www.joncourson.com/playteaching/W3097/teachingaudio</link>
+        <description>Numbers 10-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3097</guid>
+        <pubDate>Wed, 15 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 10-11 
+event: Verse by Verse Bible Study 
+teaching number: W3097</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0QOLaXJa-LDq1jMq6.m4a" length="65534245" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4624</itunes:duration>
+      </item>
+      <item>
+        <title>Miriam, Aaron And The Green-Eyed Monster - Numbers 12</title>
+        <link>https://www.joncourson.com/playteaching/S3085/teachingaudio</link>
+        <description>Miriam, Aaron And The Green-Eyed Monster - Numbers 12</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3085</guid>
+        <pubDate>Sun, 19 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 12 
+event: Sunday Sermon 
+teaching number: S3085</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OZBwi5yp-LDq1jMq6.m4a" length="50218824" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3543</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 12-14</title>
+        <link>https://www.joncourson.com/playteaching/W3098/teachingaudio</link>
+        <description>Numbers 12-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3098</guid>
+        <pubDate>Wed, 29 Mar 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 12-14 
+event: Verse by Verse Bible Study 
+teaching number: W3098</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/igGapV5I-LDq1jMq6.m4a" length="75124126" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5300</itunes:duration>
+      </item>
+      <item>
+        <title>Stick With Grace - Numbers 15:32-36</title>
+        <link>https://www.joncourson.com/playteaching/S3086/teachingaudio</link>
+        <description>Stick With Grace - Numbers 15:32-36</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3086</guid>
+        <pubDate>Sun, 02 Apr 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 15:32-36 
+event: Sunday Sermon 
+teaching number: S3086</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Dbecms8S-LDq1jMq6.m4a" length="50897611" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3591</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 15</title>
+        <link>https://www.joncourson.com/playteaching/W3099/teachingaudio</link>
+        <description>Numbers 15</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3099</guid>
+        <pubDate>Wed, 05 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 15 
+event: Verse by Verse Bible Study 
+teaching number: W3099</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YHwZ25w0-LDq1jMq6.m4a" length="63093879" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4451</itunes:duration>
+      </item>
+      <item>
+        <title>God's Measuring Rod - Numbers 17:1-11</title>
+        <link>https://www.joncourson.com/playteaching/S3087/teachingaudio</link>
+        <description>God's Measuring Rod - Numbers 17:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3087</guid>
+        <pubDate>Sun, 09 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 17:1-11 
+event: Sunday Sermon 
+teaching number: S3087</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZfEhSzHE-LDq1jMq6.m4a" length="49272039" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3476</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 16</title>
+        <link>https://www.joncourson.com/playteaching/W3100/teachingaudio</link>
+        <description>Numbers 16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3100</guid>
+        <pubDate>Wed, 12 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 16 
+event: Verse by Verse Bible Study 
+teaching number: W3100</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5rWnSCVD-LDq1jMq6.m4a" length="52411756" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3698</itunes:duration>
+      </item>
+      <item>
+        <title>Church Is Killing Me! - Numbers 17:12-13</title>
+        <link>https://www.joncourson.com/playteaching/S3088/teachingaudio</link>
+        <description>Church Is Killing Me! - Numbers 17:12-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3088</guid>
+        <pubDate>Sun, 16 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 17:12-13 
+event: Sunday Sermon 
+teaching number: S3088</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lw12hKNM-LDq1jMq6.m4a" length="30149167" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2127</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 18:1-7</title>
+        <link>https://www.joncourson.com/playteaching/W3101/teachingaudio</link>
+        <description>Numbers 18:1-7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3101</guid>
+        <pubDate>Wed, 26 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 18:1-7 
+event: Verse by Verse Bible Study 
+teaching number: W3101</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fz1cupny-LDq1jMq6.m4a" length="61979644" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4373</itunes:duration>
+      </item>
+      <item>
+        <title>Moses' Mega Mistake - Numbers 20:1-13</title>
+        <link>https://www.joncourson.com/playteaching/S3089/teachingaudio</link>
+        <description>Moses' Mega Mistake - Numbers 20:1-13</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3089</guid>
+        <pubDate>Sun, 30 Apr 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 20:1-13 
+event: Sunday Sermon 
+teaching number: S3089</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/miRR3TCo-LDq1jMq6.m4a" length="43015691" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3035</itunes:duration>
+      </item>
+      <item>
+        <title>Have A Nice Day - Numbers 20:7-11</title>
+        <link>https://www.joncourson.com/playteaching/S3090/teachingaudio</link>
+        <description>Have A Nice Day - Numbers 20:7-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3090</guid>
+        <pubDate>Sun, 07 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 20:7-11 
+event: Sunday Sermon 
+teaching number: S3090</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VK5lZhaW-LDq1jMq6.m4a" length="43668391" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3081</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 18-19</title>
+        <link>https://www.joncourson.com/playteaching/W3102/teachingaudio</link>
+        <description>Numbers 18-19</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3102</guid>
+        <pubDate>Wed, 10 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 18-19 
+event: Verse by Verse Bible Study 
+teaching number: W3102</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bA8Mfva6-LDq1jMq6.m4a" length="60604384" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4276</itunes:duration>
+      </item>
+      <item>
+        <title>"Look Unto Me, And Be Ye Saved" - Numbers 21:5-9</title>
+        <link>https://www.joncourson.com/playteaching/S3091/teachingaudio</link>
+        <description>"Look Unto Me, And Be Ye Saved" - Numbers 21:5-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3091</guid>
+        <pubDate>Sun, 21 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 21:5-9 
+event: Sunday Sermon 
+teaching number: S3091</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7LtGQbs4-LDq1jMq6.m4a" length="35028731" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2471</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 20-24</title>
+        <link>https://www.joncourson.com/playteaching/W3103/teachingaudio</link>
+        <description>Numbers 20-24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3103</guid>
+        <pubDate>Wed, 24 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 20-24 
+event: Verse by Verse Bible Study 
+teaching number: W3103</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NgYlpmiL-LDq1jMq6.m4a" length="57200830" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4035</itunes:duration>
+      </item>
+      <item>
+        <title>Clean Out The Ditch! - Numbers 25</title>
+        <link>https://www.joncourson.com/playteaching/S3092/teachingaudio</link>
+        <description>Clean Out The Ditch! - Numbers 25</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3092</guid>
+        <pubDate>Sun, 28 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 25 
+event: Sunday Sermon 
+teaching number: S3092</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HMtuVk2n-LDq1jMq6.m4a" length="59668132" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4210</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 26-27</title>
+        <link>https://www.joncourson.com/playteaching/W3104/teachingaudio</link>
+        <description>Numbers 26-27</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3104</guid>
+        <pubDate>Wed, 31 May 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 26-27 
+event: Verse by Verse Bible Study 
+teaching number: W3104</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4y48Kl0A-LDq1jMq6.m4a" length="54145594" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3820</itunes:duration>
+      </item>
+      <item>
+        <title>He's Got Us Covered - Numbers 30</title>
+        <link>https://www.joncourson.com/playteaching/S3093/teachingaudio</link>
+        <description>He's Got Us Covered - Numbers 30</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3093</guid>
+        <pubDate>Sun, 04 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 30 
+event: Sunday Sermon 
+teaching number: S3093</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OACIrk12-LDq1jMq6.m4a" length="44694057" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3153</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 27-28</title>
+        <link>https://www.joncourson.com/playteaching/W3105/teachingaudio</link>
+        <description>Numbers 27-28</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3105</guid>
+        <pubDate>Wed, 07 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 27-28 
+event: Verse by Verse Bible Study 
+teaching number: W3105</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/WmXyh1Xi-LDq1jMq6.m4a" length="57720623" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4072</itunes:duration>
+      </item>
+      <item>
+        <title>Pressing In Or Pigging Out - Numbers 32:1-22</title>
+        <link>https://www.joncourson.com/playteaching/S3094/teachingaudio</link>
+        <description>Pressing In Or Pigging Out - Numbers 32:1-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3094</guid>
+        <pubDate>Sun, 11 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 32:1-22 
+event: Sunday Sermon 
+teaching number: S3094</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HYwemthc-LDq1jMq6.m4a" length="53341331" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3763</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 28-29</title>
+        <link>https://www.joncourson.com/playteaching/W3106/teachingaudio</link>
+        <description>Numbers 28-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3106</guid>
+        <pubDate>Wed, 14 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 28-29 
+event: Verse by Verse Bible Study 
+teaching number: W3106</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9CMhiTkR-LDq1jMq6.m4a" length="63228126" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4461</itunes:duration>
+      </item>
+      <item>
+        <title>Our Father's Scrapbook</title>
+        <link>https://www.joncourson.com/playteaching/S3095/teachingaudio</link>
+        <description>Our Father's Scrapbook</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S3095</guid>
+        <pubDate>Sun, 18 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Our Father's Scrapbook 
+event: Father's Day 2000 
+teaching number: S3095</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cpYMkKdB-LDq1jMq6.m4a" length="38257400" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2699</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 30-31</title>
+        <link>https://www.joncourson.com/playteaching/W3107/teachingaudio</link>
+        <description>Numbers 30-31</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3107</guid>
+        <pubDate>Wed, 21 Jun 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 30-31 
+event: Verse by Verse Bible Study 
+teaching number: W3107</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RcqsUMSN-LDq1jMq6.m4a" length="59219372" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4178</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 32-34</title>
+        <link>https://www.joncourson.com/playteaching/W3108/teachingaudio</link>
+        <description>Numbers 32-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3108</guid>
+        <pubDate>Wed, 05 Jul 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 32-34 
+event: Verse by Verse Bible Study 
+teaching number: W3108</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/26db5HHs-LDq1jMq6.m4a" length="58650610" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4138</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 35</title>
+        <link>https://www.joncourson.com/playteaching/W3109/teachingaudio</link>
+        <description>Numbers 35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3109</guid>
+        <pubDate>Wed, 12 Jul 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 35 
+event: Verse by Verse Bible Study 
+teaching number: W3109</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eGYBDieb-LDq1jMq6.m4a" length="50469390" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3561</itunes:duration>
+      </item>
+      <item>
+        <title>Numbers 36</title>
+        <link>https://www.joncourson.com/playteaching/W3110/teachingaudio</link>
+        <description>Numbers 36</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W3110</guid>
+        <pubDate>Wed, 19 Jul 2000 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Numbers 36 
+event: Verse by Verse Bible Study 
+teaching number: W3110</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/DEvBTr7s-LDq1jMq6.m4a" length="37576745" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2651</itunes:duration>
+      </item>
+      <item>
+        <title>Achieving Your Destiny</title>
+        <link>https://www.joncourson.com/playteaching/T347/teachingaudio</link>
+        <description>Achieving Your Destiny</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T347</guid>
+        <pubDate>Sun, 02 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Achieving Your Destiny 
+event: Numbers 13-14 
+teaching number: T347</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/drKT7OfW-LDq1jMq6.m4a" length="54737412" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3862</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Jude with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/jude</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 30 Oct 1996 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/jude.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Jude with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/jude</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>God Is Able - Jude 24</title>
+        <link>https://www.joncourson.com/playteaching/S686/teachingaudio</link>
+        <description>God Is Able - Jude 24</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S686</guid>
+        <pubDate>Sun, 27 Oct 1996 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jude 24 
+event: Sunday Sermon 
+teaching number: S686</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3ycuYJLC-LDq1jMq6.m4a" length="44293472" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3125</itunes:duration>
+      </item>
+      <item>
+        <title>Jude</title>
+        <link>https://www.joncourson.com/playteaching/W757/teachingaudio</link>
+        <description>Jude</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W757</guid>
+        <pubDate>Wed, 30 Oct 1996 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jude 
+event: Verse by Verse Bible Study 
+teaching number: W757</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qox56ij4-LDq1jMq6.m4a" length="63275662" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4464</itunes:duration>
+      </item>
+  </channel>
+  </rss>

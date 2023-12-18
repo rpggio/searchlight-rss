@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Jeremiah with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/jeremiah</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 17 Dec 1989 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/jeremiah.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Jeremiah with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/jeremiah</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Honesty In Ministry - Jeremiah 1:1-10</title>
+        <link>https://www.joncourson.com/playteaching/S376/teachingaudio</link>
+        <description>Honesty In Ministry - Jeremiah 1:1-10</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S376</guid>
+        <pubDate>Sun, 07 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 1:1-10 
+event: Sunday Sermon 
+teaching number: S376</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qsgentaN-LDq1jMq6.m4a" length="32540344" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2295</itunes:duration>
+      </item>
+      <item>
+        <title>Rising Above Rejection - Jeremiah 2</title>
+        <link>https://www.joncourson.com/playteaching/S377/teachingaudio</link>
+        <description>Rising Above Rejection - Jeremiah 2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S377</guid>
+        <pubDate>Sun, 14 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 2 
+event: Sunday Sermon 
+teaching number: S377</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mP6UCsHk-LDq1jMq6.m4a" length="33361586" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2353</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 1-3</title>
+        <link>https://www.joncourson.com/playteaching/W412/teachingaudio</link>
+        <description>Jeremiah 1-3</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W412</guid>
+        <pubDate>Wed, 17 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W412</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Xgk748kt-LDq1jMq6.m4a" length="58025292" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4094</itunes:duration>
+      </item>
+      <item>
+        <title>Trusting In The Temple - Jeremiah 7:1-11</title>
+        <link>https://www.joncourson.com/playteaching/S378/teachingaudio</link>
+        <description>Trusting In The Temple - Jeremiah 7:1-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S378</guid>
+        <pubDate>Sun, 21 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 7:1-11 
+event: Sunday Sermon 
+teaching number: S378</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/aPlrl65A-LDq1jMq6.m4a" length="38923063" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2746</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 4-9</title>
+        <link>https://www.joncourson.com/playteaching/W413/teachingaudio</link>
+        <description>Jeremiah 4-9</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W413</guid>
+        <pubDate>Wed, 24 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 4-9 
+event: Verse by Verse Bible Study 
+teaching number: W413</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/p2z58SD0-LDq1jMq6.m4a" length="67876153" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4789</itunes:duration>
+      </item>
+      <item>
+        <title>Toughening Up! - Jeremiah 12:5</title>
+        <link>https://www.joncourson.com/playteaching/S379/teachingaudio</link>
+        <description>Toughening Up! - Jeremiah 12:5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S379</guid>
+        <pubDate>Sun, 28 Feb 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 12:5 
+event: Sunday Sermon 
+teaching number: S379</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fsfjHUYT-LDq1jMq6.m4a" length="34398999" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2427</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 9-14</title>
+        <link>https://www.joncourson.com/playteaching/W414/teachingaudio</link>
+        <description>Jeremiah 9-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W414</guid>
+        <pubDate>Wed, 02 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 9-14 
+event: Verse by Verse Bible Study 
+teaching number: W414</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8JC7jrU4-LDq1jMq6.m4a" length="67782157" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4782</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 15-16</title>
+        <link>https://www.joncourson.com/playteaching/W415/teachingaudio</link>
+        <description>Jeremiah 15-16</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W415</guid>
+        <pubDate>Wed, 09 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 15-16 
+event: Verse by Verse Bible Study 
+teaching number: W415</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/noUp0tCE-LDq1jMq6.m4a" length="47509415" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3352</itunes:duration>
+      </item>
+      <item>
+        <title>The Potter's House - Jeremiah 18:1-6</title>
+        <link>https://www.joncourson.com/playteaching/S380/teachingaudio</link>
+        <description>The Potter's House - Jeremiah 18:1-6</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S380</guid>
+        <pubDate>Sun, 13 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 18:1-6 
+event: Sunday Sermon 
+teaching number: S380</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FAiH35s3-LDq1jMq6.m4a" length="30819808" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2174</itunes:duration>
+      </item>
+      <item>
+        <title>Jehovah Tsidkenu - Jeremiah 23:5-8</title>
+        <link>https://www.joncourson.com/playteaching/S381/teachingaudio</link>
+        <description>Jehovah Tsidkenu - Jeremiah 23:5-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S381</guid>
+        <pubDate>Sun, 20 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 23:5-8 
+event: Sunday Sermon 
+teaching number: S381</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Jrmxujsh-LDq1jMq6.m4a" length="36495800" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2575</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 17-22</title>
+        <link>https://www.joncourson.com/playteaching/W416/teachingaudio</link>
+        <description>Jeremiah 17-22</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W416</guid>
+        <pubDate>Wed, 23 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 17-22 
+event: Verse by Verse Bible Study 
+teaching number: W416</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/i0ab8OCl-LDq1jMq6.m4a" length="56975735" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4020</itunes:duration>
+      </item>
+      <item>
+        <title>Thinking Of You - Jeremiah 29:11</title>
+        <link>https://www.joncourson.com/playteaching/S382/teachingaudio</link>
+        <description>Thinking Of You - Jeremiah 29:11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S382</guid>
+        <pubDate>Sun, 27 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 29:11 
+event: Sunday Sermon 
+teaching number: S382</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FupCe8gY-LDq1jMq6.m4a" length="47940481" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3382</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 23-26</title>
+        <link>https://www.joncourson.com/playteaching/W417/teachingaudio</link>
+        <description>Jeremiah 23-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W417</guid>
+        <pubDate>Wed, 30 Mar 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 23-26 
+event: Verse by Verse Bible Study 
+teaching number: W417</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GJWyhM1b-LDq1jMq6.m4a" length="61829379" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4362</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 27-31</title>
+        <link>https://www.joncourson.com/playteaching/W418/teachingaudio</link>
+        <description>Jeremiah 27-31</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W418</guid>
+        <pubDate>Wed, 13 Apr 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 27-31 
+event: Verse by Verse Bible Study 
+teaching number: W418</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1Cm7kt2K-LDq1jMq6.m4a" length="56777392" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4006</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 32-35</title>
+        <link>https://www.joncourson.com/playteaching/W419/teachingaudio</link>
+        <description>Jeremiah 32-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W419</guid>
+        <pubDate>Wed, 20 Apr 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 32-35 
+event: Verse by Verse Bible Study 
+teaching number: W419</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0ZCD94hZ-LDq1jMq6.m4a" length="67599312" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4769</itunes:duration>
+      </item>
+      <item>
+        <title>The New Covenant - A New Start - Jeremiah 31:31-34</title>
+        <link>https://www.joncourson.com/playteaching/S385/teachingaudio</link>
+        <description>The New Covenant - A New Start - Jeremiah 31:31-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S385</guid>
+        <pubDate>Sun, 24 Apr 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 31:31-34 
+event: Sunday Sermon 
+teaching number: S385</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LHqPBfwe-LDq1jMq6.m4a" length="59148963" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4173</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 36-39</title>
+        <link>https://www.joncourson.com/playteaching/W420/teachingaudio</link>
+        <description>Jeremiah 36-39</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W420</guid>
+        <pubDate>Wed, 27 Apr 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 36-39 
+event: Verse by Verse Bible Study 
+teaching number: W420</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GPfU8fIU-LDq1jMq6.m4a" length="54669313" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3857</itunes:duration>
+      </item>
+      <item>
+        <title>Mistaken Memories Of Egypt - Jeremiah 43:7</title>
+        <link>https://www.joncourson.com/playteaching/S386/teachingaudio</link>
+        <description>Mistaken Memories Of Egypt - Jeremiah 43:7</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S386</guid>
+        <pubDate>Sun, 01 May 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 43:7 
+event: Sunday Sermon 
+teaching number: S386</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sJ4g43rU-LDq1jMq6.m4a" length="36555015" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2579</itunes:duration>
+      </item>
+      <item>
+        <title>The Pouring Process - Jeremiah 48:11</title>
+        <link>https://www.joncourson.com/playteaching/S387/teachingaudio</link>
+        <description>The Pouring Process - Jeremiah 48:11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S387</guid>
+        <pubDate>Sun, 15 May 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 48:11 
+event: Sunday Sermon 
+teaching number: S387</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0TOwqtfI-LDq1jMq6.m4a" length="36470263" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2573</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 40-45</title>
+        <link>https://www.joncourson.com/playteaching/W421/teachingaudio</link>
+        <description>Jeremiah 40-45</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W421</guid>
+        <pubDate>Wed, 18 May 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 40-45 
+event: Verse by Verse Bible Study 
+teaching number: W421</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VtVlwF68-LDq1jMq6.m4a" length="59843916" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4222</itunes:duration>
+      </item>
+      <item>
+        <title>The Ballad Of Jehoiachin - Jeremiah 52:31-34</title>
+        <link>https://www.joncourson.com/playteaching/S388/teachingaudio</link>
+        <description>The Ballad Of Jehoiachin - Jeremiah 52:31-34</description> 
+        <guid isPermaLink="false">joncourson-searchlight-S388</guid>
+        <pubDate>Sun, 22 May 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 52:31-34 
+event: Sunday Sermon 
+teaching number: S388</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6ILg4pOA-LDq1jMq6.m4a" length="37141292" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2620</itunes:duration>
+      </item>
+      <item>
+        <title>Jeremiah 46-52</title>
+        <link>https://www.joncourson.com/playteaching/W422/teachingaudio</link>
+        <description>Jeremiah 46-52</description> 
+        <guid isPermaLink="false">joncourson-searchlight-W422</guid>
+        <pubDate>Wed, 25 May 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jeremiah 46-52 
+event: Verse by Verse Bible Study 
+teaching number: W422</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kpOq0BIj-LDq1jMq6.m4a" length="66362767" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4682</itunes:duration>
+      </item>
+      <item>
+        <title>Israel Trip Overview 2001</title>
+        <link>https://www.joncourson.com/playteaching/T372/teachingaudio</link>
+        <description>Israel Trip Overview 2001</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T372</guid>
+        <pubDate>Wed, 19 Sep 2001 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Israel Trip Overview 2001 
+event: Jeremiah 31:1-7 
+teaching number: T372</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JDFKA1xn-LDq1jMq6.m4a" length="64952349" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4582</itunes:duration>
+      </item>
+      <item>
+        <title>Prophecy Update: Jerusalem</title>
+        <link>https://www.joncourson.com/playteaching/T354/teachingaudio</link>
+        <description>Prophecy Update: Jerusalem</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T354</guid>
+        <pubDate>Wed, 02 Aug 2000 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Prophecy Update: Jerusalem 
+event: Jeremiah 3:17 
+teaching number: T354</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vvhjht6r-LDq1jMq6.m4a" length="67409414" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4756</itunes:duration>
+      </item>
+      <item>
+        <title>The Comeback Kids</title>
+        <link>https://www.joncourson.com/playteaching/T342/teachingaudio</link>
+        <description>The Comeback Kids</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T342</guid>
+        <pubDate>Sun, 26 Sep 1999 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: The Comeback Kids 
+event: Jeremiah 31:15-17 
+teaching number: T342</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LG950Pih-LDq1jMq6.m4a" length="39682845" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2799</itunes:duration>
+      </item>
+      <item>
+        <title>Rediscovering The Word</title>
+        <link>https://www.joncourson.com/playteaching/T285/teachingaudio</link>
+        <description>Rediscovering The Word</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T285</guid>
+        <pubDate>Sun, 11 Aug 1996 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Rediscovering The Word 
+event: Jeremiah 7 
+teaching number: T285</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pSH9JdyD-LDq1jMq6.m4a" length="42796157" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3019</itunes:duration>
+      </item>
+      <item>
+        <title>Jessica Leigh Courson Memorial Service</title>
+        <link>https://www.joncourson.com/playteaching/T253/teachingaudio</link>
+        <description>Jessica Leigh Courson Memorial Service</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T253</guid>
+        <pubDate>Sat, 19 Nov 1994 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Jessica Leigh Courson Memorial Service 
+event: Jeremiah 29:11 
+teaching number: T253</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3ZA2CrKF-LDq1jMq6.m4a" length="57528712" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4059</itunes:duration>
+      </item>
+      <item>
+        <title>The Real Issue - Election '94</title>
+        <link>https://www.joncourson.com/playteaching/T252/teachingaudio</link>
+        <description>The Real Issue - Election '94</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T252</guid>
+        <pubDate>Sun, 30 Oct 1994 07:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: The Real Issue - Election '94 
+event: Jeremiah 29:4-7 
+teaching number: T252</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/33Fahm9e-LDq1jMq6.m4a" length="42335667" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2987</itunes:duration>
+      </item>
+      <item>
+        <title>Christmas: Its True Tree - Part 1</title>
+        <link>https://www.joncourson.com/playteaching/T189/teachingaudio</link>
+        <description>Christmas: Its True Tree - Part 1</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T189</guid>
+        <pubDate>Sun, 09 Dec 1990 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Christmas: Its True Tree - Part 1 
+event: Jeremiah 10:1-5 
+teaching number: T189</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RPZlbMwE-LDq1jMq6.m4a" length="47858473" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3376</itunes:duration>
+      </item>
+      <item>
+        <title>O Christmas Tree! - Christmas 1989</title>
+        <link>https://www.joncourson.com/playteaching/T174/teachingaudio</link>
+        <description>O Christmas Tree! - Christmas 1989</description> 
+        <guid isPermaLink="false">joncourson-searchlight-T174</guid>
+        <pubDate>Sun, 17 Dec 1989 08:00:00 GMT</pubDate>
+        <description>series: Miscellaneous Bible Studies 
+passage: Christmas 1989 
+event: Jeremiah 10:2-4 
+teaching number: T174</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eSQCnU2t-LDq1jMq6.m4a" length="42377643" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2990</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,18 +1,17 @@
-import { bibleBooks } from "./lib/bible";
-import { fileNameSlug } from "./teachingLookup";
+import { bibleBooks, bookRanges } from "./lib/bible";
+import { bookFileNameSlug, bookRangeFileNameSlug } from "./teachingLookup";
 
 export function renderIndex() {
-   const bookLinks = bibleBooks.map(book => {
-      const slug = fileNameSlug(book)
-      const feedFile = `${slug}.xml`
+   const renderFeedRow = (slug: string, title: string) => {
+      const feedFile = `${slug}.xml`;
 
-      const basePath = 'rpggio.github.io/searchlight-rss'
-      const pcastLink = `pcast://${basePath}/${feedFile}`
-      const rssLink = `https://${basePath}/${feedFile}`
+      const basePath = 'rpggio.github.io/searchlight-rss';
+      const pcastLink = `pcast://${basePath}/feed/${feedFile}`;
+      const rssLink = `https://${basePath}/feed/${feedFile}`;
 
       return `       
       <tr>
-      <td>${book}</td><td>    
+      <td>${title}</td><td>    
       <td class="feed-link">
          <div class="hstack">
          <a class="button" href="${pcastLink}">Podcast link</a>
@@ -26,7 +25,17 @@ export function renderIndex() {
          </div>
       </td>
       </tr>
-      `.trim()
+      `.trim();
+   }
+
+   const groupedBookRows = bookRanges.map(range => {
+      const slug = bookRangeFileNameSlug(range)
+      return renderFeedRow(slug, `${range.from} - ${range.to}`);      
+   })
+
+   const bookRows = bibleBooks.map(book => {
+      const slug = bookFileNameSlug(book)
+      return renderFeedRow(slug, book);
    })
 
    return `<html><head>
@@ -62,7 +71,7 @@ export function renderIndex() {
    </head>
    <body>
       <h1>Searchlight Thru-the-Bible Podcast Feeds</h1>
-      <p>Studies from Mar 1985 to Mar 2003.</p>
+      <p>Jon Courson bible studies from Mar 1985 to Mar 2003. Media provided by <a href="https://www.joncourson.com/">Searchlight</a>.</p>
       <h2>Instructions</h2>
       <p>
       Try clicking 'Podcast link' to see if it opens your podcast player. 
@@ -71,13 +80,25 @@ export function renderIndex() {
       <br>
       <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">How to manually add RSS feed to your podcast player.</a>
       </p>
+
+      <h3>Grouped books</h3>
+
       <div class="books">
        <table>
-${bookLinks.join('\n')}
+${groupedBookRows.join('\n')}
        </table>
       </div>
 
-      <div class="footer">All content copyright Searchlight 2023</div>
+
+      <h3>Individual books</h3>
+
+      <div class="books">
+       <table>
+${bookRows.join('\n')}
+       </table>
+      </div>
+
+      <div class="footer">Podcast media is Copyright Searchlight 2023</div>
    </body>
    </html>`
 }

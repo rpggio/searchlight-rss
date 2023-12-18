@@ -4,7 +4,7 @@ import { Teaching, TeachingFeed, TeachingMedia } from './types'
 import { getMediaItem } from './lib/jwPlayerApi/getMediaItem'
 
 import ky from 'ky'
-import { fileNameSlug } from './teachingLookup'
+import { bookFileNameSlug } from './teachingLookup'
 
 interface TeachingParseRow {
    series: string
@@ -152,7 +152,7 @@ export async function extractTeachings() {
    for (const book of books) {
       console.log('--- ', book.name, ' ---')
 
-      const bookSlug = fileNameSlug(book.name)
+      const bookSlug = bookFileNameSlug(book.name)
       const bookPageContent = await downloadPage(book.url)
       const teachings: Teaching[] = (await extractTeachingsForBook(bookPageContent))
 
@@ -179,6 +179,6 @@ export async function extractTeachings() {
       }
 
       const json = JSON.stringify(feed, null, 3)
-      fs.writeFileSync(`docs/${bookSlug}.json`, json)
+      fs.writeFileSync(`docs/feed/${bookSlug}.json`, json)
    }
 }

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Job with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/job</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 16 Mar 2003 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2023 17:43:36 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/job.xml" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Job with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/job</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp;Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Job 1-2</title>
+        <link>https://www.joncourson.com/playteaching/VSC4014/teachingaudio</link>
+        <description>Job 1-2</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4014</guid>
+        <pubDate>Sun, 08 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 1-2 
+event: Verse by Verse Bible Study 
+teaching number: VSC4014</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZPsno7C8-LDq1jMq6.m4a" length="62519235" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4411</itunes:duration>
+      </item>
+      <item>
+        <title>Job 2-5</title>
+        <link>https://www.joncourson.com/playteaching/VSC4015/teachingaudio</link>
+        <description>Job 2-5</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4015</guid>
+        <pubDate>Sun, 15 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 2-5 
+event: Verse by Verse Bible Study 
+teaching number: VSC4015</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/twByBEEw-LDq1jMq6.m4a" length="65944454" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4652</itunes:duration>
+      </item>
+      <item>
+        <title>Job 6-8</title>
+        <link>https://www.joncourson.com/playteaching/VSC4016/teachingaudio</link>
+        <description>Job 6-8</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4016</guid>
+        <pubDate>Sun, 22 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 6-8 
+event: Verse by Verse Bible Study 
+teaching number: VSC4016</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KFPGh8jD-LDq1jMq6.m4a" length="60172562" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4245</itunes:duration>
+      </item>
+      <item>
+        <title>Job 9-11</title>
+        <link>https://www.joncourson.com/playteaching/VSC4017/teachingaudio</link>
+        <description>Job 9-11</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4017</guid>
+        <pubDate>Sun, 29 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 9-11 
+event: Verse by Verse Bible Study 
+teaching number: VSC4017</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Rjb1druO-LDq1jMq6.m4a" length="61114749" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4312</itunes:duration>
+      </item>
+      <item>
+        <title>Job 12-14</title>
+        <link>https://www.joncourson.com/playteaching/VSC4018/teachingaudio</link>
+        <description>Job 12-14</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4018</guid>
+        <pubDate>Sun, 05 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 12-14 
+event: Verse by Verse Bible Study 
+teaching number: VSC4018</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/I2Wt7we7-LDq1jMq6.m4a" length="61309498" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4325</itunes:duration>
+      </item>
+      <item>
+        <title>Job 15-17</title>
+        <link>https://www.joncourson.com/playteaching/VSC4019/teachingaudio</link>
+        <description>Job 15-17</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4019</guid>
+        <pubDate>Sun, 12 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 15-17 
+event: Verse by Verse Bible Study 
+teaching number: VSC4019</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wMiDX2tm-LDq1jMq6.m4a" length="64620948" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4559</itunes:duration>
+      </item>
+      <item>
+        <title>Job 18-20</title>
+        <link>https://www.joncourson.com/playteaching/VSC4020/teachingaudio</link>
+        <description>Job 18-20</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4020</guid>
+        <pubDate>Sun, 19 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 18-20 
+event: Verse by Verse Bible Study 
+teaching number: VSC4020</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dLtTLNIt-LDq1jMq6.m4a" length="56202232" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3965</itunes:duration>
+      </item>
+      <item>
+        <title>Job 21-23</title>
+        <link>https://www.joncourson.com/playteaching/VSC4021/teachingaudio</link>
+        <description>Job 21-23</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4021</guid>
+        <pubDate>Sun, 26 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 21-23 
+event: Verse by Verse Bible Study 
+teaching number: VSC4021</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tWywK7AA-LDq1jMq6.m4a" length="67655742" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4773</itunes:duration>
+      </item>
+      <item>
+        <title>Job 24-26</title>
+        <link>https://www.joncourson.com/playteaching/VSC4022/teachingaudio</link>
+        <description>Job 24-26</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4022</guid>
+        <pubDate>Sun, 09 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 24-26 
+event: Verse by Verse Bible Study 
+teaching number: VSC4022</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/BThCRGy9-LDq1jMq6.m4a" length="54032795" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3812</itunes:duration>
+      </item>
+      <item>
+        <title>Job 27-29</title>
+        <link>https://www.joncourson.com/playteaching/VSC4023/teachingaudio</link>
+        <description>Job 27-29</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4023</guid>
+        <pubDate>Sun, 16 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 27-29 
+event: Verse by Verse Bible Study 
+teaching number: VSC4023</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3K23qICv-LDq1jMq6.m4a" length="59997905" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4233</itunes:duration>
+      </item>
+      <item>
+        <title>Job 30-32</title>
+        <link>https://www.joncourson.com/playteaching/VSC4024/teachingaudio</link>
+        <description>Job 30-32</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4024</guid>
+        <pubDate>Sun, 23 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 30-32 
+event: Verse by Verse Bible Study 
+teaching number: VSC4024</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nbheFGrp-LDq1jMq6.m4a" length="60265692" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4252</itunes:duration>
+      </item>
+      <item>
+        <title>Job 33-35</title>
+        <link>https://www.joncourson.com/playteaching/VSC4025/teachingaudio</link>
+        <description>Job 33-35</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4025</guid>
+        <pubDate>Sun, 02 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 33-35 
+event: Verse by Verse Bible Study 
+teaching number: VSC4025</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jXCeemSU-LDq1jMq6.m4a" length="67170027" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4739</itunes:duration>
+      </item>
+      <item>
+        <title>Job 36-38</title>
+        <link>https://www.joncourson.com/playteaching/VSC4026/teachingaudio</link>
+        <description>Job 36-38</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4026</guid>
+        <pubDate>Sun, 09 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 36-38 
+event: Verse by Verse Bible Study 
+teaching number: VSC4026</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G8Xi4bxi-LDq1jMq6.m4a" length="70788361" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4994</itunes:duration>
+      </item>
+      <item>
+        <title>Job 39-42</title>
+        <link>https://www.joncourson.com/playteaching/VSC4027/teachingaudio</link>
+        <description>Job 39-42</description> 
+        <guid isPermaLink="false">joncourson-searchlight-VSC4027</guid>
+        <pubDate>Sun, 16 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 39-42 
+event: Verse by Verse Bible Study 
+teaching number: VSC4027</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8ylCxqku-LDq1jMq6.m4a" length="69205504" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4883</itunes:duration>
+      </item>
+  </channel>
+  </rss>
