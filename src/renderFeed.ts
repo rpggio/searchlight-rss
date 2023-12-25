@@ -47,10 +47,12 @@ teaching number: ${teaching.teachingNumber}
   const lastTeaching = feed.teachings[feed.teachings.length - 1]
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
-  // <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.rss" rel="self" type="application/rss+xml"/>    
-
   return `<?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
     <title>${feedTitle}</title>
     <link>${teachingLink}</link>
@@ -64,6 +66,7 @@ teaching number: ${teaching.teachingNumber}
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.rss" rel="self" type="application/rss+xml"/>    
     <image>
       <title>${feedTitle}</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>

@@ -6,7 +6,8 @@ export function renderIndex() {
       const feedFile = `${slug}.rss`;
 
       const basePath = 'rpggio.github.io/searchlight-rss';
-      const podcastLink = `podcast://${basePath}/feed/${feedFile}`;
+      const appleLink = `podcast://${basePath}/feed/${feedFile}`;
+      const androidLink = `pcast://${basePath}/feed/${feedFile}`;
       const rssLink = `https://${basePath}/feed/${feedFile}`;
 
       return `       
@@ -14,14 +15,9 @@ export function renderIndex() {
       <td>${title}</td><td>    
       <td class="feed-link">
          <div class="hstack">
-         <a class="button" href="${podcastLink}">Podcast link</a>
-         <sl-copy-button value="${podcastLink}"></sl-copy-button>
-         </div>
-      </td>
-      <td class="feed-link">
-         <div class="hstack">
-         <a class="button" href="${rssLink}">RSS link</a>
-         <sl-copy-button value="${rssLink}"></sl-copy-button>
+         <a class="button" href="${appleLink}">Apple subscribe</a>
+         <a class="button" href="${androidLink}">Android subscribe</a>
+         <sl-copy-button alt="copy link" value="${rssLink}"></sl-copy-button>
          </div>
       </td>
       </tr>
