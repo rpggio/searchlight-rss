@@ -54,6 +54,7 @@ export function renderIndex() {
       .hstack { 
          display: flex;
          align-items: center;
+         gap: 1em;
       }
       sl-copy-button {
          font-size: 1.5em;
@@ -70,24 +71,19 @@ export function renderIndex() {
       <p>Jon Courson bible studies from Mar 1985 to Mar 2003. Media provided by <a href="https://www.joncourson.com/">Searchlight</a>.</p>
       <h2>Instructions</h2>
       <p>
-      Try clicking 'Podcast link' to see if it opens your podcast player. 
-      <br>
-      Otherwise, click the icon to copy the link and manually add subscription to your podcast player.
-      <br>
-      <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">How to manually add RSS feed to your podcast player.</a>
+         The link for your device (Apple, Android) should automatically open your podcast player and prompt you to add the feed.
+         <br>
+         If not, click the copy button to copy the link and <a target="_blank" href="https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android/">manually add a subscription to your podcast player.</a>
       </p>
 
       <h3>Grouped books</h3>
-
       <div class="books">
        <table>
 ${groupedBookRows.join('\n')}
        </table>
       </div>
 
-
       <h3>Individual books</h3>
-
       <div class="books">
        <table>
 ${bookRows.join('\n')}
