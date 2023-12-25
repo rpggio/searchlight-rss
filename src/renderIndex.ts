@@ -6,7 +6,7 @@ export function renderIndex() {
       const feedFile = `${slug}.rss`;
 
       const basePath = 'rpggio.github.io/searchlight-rss';
-      const pcastLink = `pcast://${basePath}/feed/${feedFile}`;
+      const podcastLink = `podcast://${basePath}/feed/${feedFile}`;
       const rssLink = `https://${basePath}/feed/${feedFile}`;
 
       return `       
@@ -14,8 +14,8 @@ export function renderIndex() {
       <td>${title}</td><td>    
       <td class="feed-link">
          <div class="hstack">
-         <a class="button" href="${pcastLink}">Podcast link</a>
-         <sl-copy-button value="${pcastLink}"></sl-copy-button>
+         <a class="button" href="${podcastLink}">Podcast link</a>
+         <sl-copy-button value="${podcastLink}"></sl-copy-button>
          </div>
       </td>
       <td class="feed-link">
