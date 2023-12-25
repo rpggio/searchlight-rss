@@ -1,5 +1,5 @@
-import { bibleBooks, bookRanges } from "./lib/bible";
-import { bookFileNameSlug, bookRangeFileNameSlug } from "./teachingLookup";
+import { bibleBooks } from "./lib/bible";
+import { bookFileNameSlug, bookRangeFileNameSlug, bookRanges } from "./teachingLookup";
 
 export function renderIndex() {
    const renderFeedRow = (slug: string, title: string) => {
@@ -68,7 +68,7 @@ export function renderIndex() {
    </head>
    <body>
       <h1>Searchlight Thru-the-Bible Podcast Feeds</h1>
-      <p>Jon Courson bible studies from Mar 1985 to Mar 2003. Media provided by <a href="https://www.joncourson.com/">Searchlight</a>.</p>
+      <p>Jon Courson bible studies from Mar 1985 (starting 2 Samuel) to Apr 2002 (ending 1 Samuel). Media provided by <a href="https://www.joncourson.com/">Searchlight</a>.</p>
       <h2>Instructions</h2>
       <p>
          The link for your device (Apple, Android) should automatically open your podcast player and prompt you to add the feed.

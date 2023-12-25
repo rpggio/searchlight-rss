@@ -1,21 +1,37 @@
-import { allTeachings } from "../teachingLookup";
+import { bibleBooks } from "../lib/bible";
+import { allTeachings, groupedBookFeeds, isEarlySeries } from "../teachingLookup";
 
+const datesByBook = new Map<string, string[]>(bibleBooks.map(book => [book, []]))
+const datesBySeries = new Map<string, [Date, Date]>();
 
-const dateRanges = new Map<string, [Date, Date]>();
+const teachings = Array.from(allTeachings()).filter(isEarlySeries)
+for (const teaching of teachings) {
+    const date = new Date(teaching.date!)
 
-for (const teaching of allTeachings()) {
-   const date = new Date(teaching.date!)
-   const rangeEntry = dateRanges.get(teaching.series)
-   if (!rangeEntry) {
-      dateRanges.set(teaching.series, [date, date])
-   } else {
-       const [minDate, maxDate] = rangeEntry
-       if (date < minDate) {
-           dateRanges.set(teaching.series, [date, maxDate])
-       } else if (date > maxDate) {
-           dateRanges.set(teaching.series, [minDate, date])
-       }
-   }
+    datesByBook.get(teaching.book)?.push(date.toISOString().substring(0, 10))
+
+    const groupEntry = datesBySeries.get(teaching.series)
+    if (!groupEntry) {
+        datesBySeries.set(teaching.series, [date, date])
+    } else {
+        const [minDate, maxDate] = groupEntry
+        if (date < minDate) {
+            datesBySeries.set(teaching.series, [date, maxDate])
+        } else if (date > maxDate) {
+            datesBySeries.set(teaching.series, [minDate, date])
+        }
+    }
+}
+for (const dateArray of datesBySeries.entries()) {
+    dateArray.sort()
 }
 
-console.log(dateRanges)
+console.log(datesBySeries)
+console.log(datesByBook)
+
+const groups = groupedBookFeeds(isEarlySeries)
+const teachingCountsByGroup = Array.from(groups).map(group => [group.title, group.teachings.length])
+console.log(teachingCountsByGroup)
+
+// teaching counts by book
+console.log(Array.from(datesByBook.entries()).map(items => [items[0], items[1].length]))

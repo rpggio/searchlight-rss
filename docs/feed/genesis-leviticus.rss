@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Genesis - Leviticus with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Searchlight</copyright>
+    <pubDate>Wed, 26 Jan 2000 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 16:43:41 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/genesis---leviticus.rss" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Genesis - Leviticus with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>How To Read Your Bible - Genesis 5</title>
+        <link>https://www.joncourson.com/playteaching/S3001/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3001</guid>
+        <pubDate>Sun, 28 Sep 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 5 
+event: Sunday Sermon 
+teaching number: S3001</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mJ0z4d0f-LDq1jMq6.m4a" length="39172600" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2763</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 1</title>
+        <link>https://www.joncourson.com/playteaching/W3001/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3001</guid>
+        <pubDate>Wed, 01 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 1 
+event: Verse by Verse Bible Study 
+teaching number: W3001</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fBiGAVVu-LDq1jMq6.m4a" length="71920875" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5074</itunes:duration>
+      </item>
+      <item>
+        <title>A Match Made In Heaven - Genesis 2:18-25</title>
+        <link>https://www.joncourson.com/playteaching/S3002/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3002</guid>
+        <pubDate>Sun, 05 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 2:18-25 
+event: Sunday Sermon 
+teaching number: S3002</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lDZVt1hC-LDq1jMq6.m4a" length="49397574" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3485</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 2</title>
+        <link>https://www.joncourson.com/playteaching/W3002/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3002</guid>
+        <pubDate>Wed, 08 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 2 
+event: Verse by Verse Bible Study 
+teaching number: W3002</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xGLQexkb-LDq1jMq6.m4a" length="75883363" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5354</itunes:duration>
+      </item>
+      <item>
+        <title>He Didn't Say That! - Genesis 3:3</title>
+        <link>https://www.joncourson.com/playteaching/S3003/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3003</guid>
+        <pubDate>Sun, 12 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 3:3 
+event: Sunday Sermon 
+teaching number: S3003</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pDWPHjdk-LDq1jMq6.m4a" length="46558935" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3285</itunes:duration>
+      </item>
+      <item>
+        <title>Go FIGure! - Genesis 3:6-10, 24</title>
+        <link>https://www.joncourson.com/playteaching/S3004/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3004</guid>
+        <pubDate>Sun, 19 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 3:6-10, 24 
+event: Sunday Sermon 
+teaching number: S3004</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cXaG2GhD-LDq1jMq6.m4a" length="39000749" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2751</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 3</title>
+        <link>https://www.joncourson.com/playteaching/W3003/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3003</guid>
+        <pubDate>Wed, 22 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 3 
+event: Verse by Verse Bible Study 
+teaching number: W3003</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bNRroefX-LDq1jMq6.m4a" length="68887962" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4860</itunes:duration>
+      </item>
+      <item>
+        <title>I Am - Not! - Genesis 5:24</title>
+        <link>https://www.joncourson.com/playteaching/S3005/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3005</guid>
+        <pubDate>Sun, 26 Oct 1997 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 5:24 
+event: Sunday Sermon 
+teaching number: S3005</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EA8Ojhze-LDq1jMq6.m4a" length="36793623" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2596</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 4</title>
+        <link>https://www.joncourson.com/playteaching/W3004/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3004</guid>
+        <pubDate>Wed, 29 Oct 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 4 
+event: Verse by Verse Bible Study 
+teaching number: W3004</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/r7QJCtKq-LDq1jMq6.m4a" length="71121879" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5018</itunes:duration>
+      </item>
+      <item>
+        <title>Eyes of Grace - Genesis 6:8</title>
+        <link>https://www.joncourson.com/playteaching/S3006/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3006</guid>
+        <pubDate>Sun, 02 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 6:8 
+event: Sunday Sermon 
+teaching number: S3006</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PYU6MObm-LDq1jMq6.m4a" length="44015005" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3105</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 5</title>
+        <link>https://www.joncourson.com/playteaching/W3005/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3005</guid>
+        <pubDate>Wed, 05 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 5 
+event: Verse by Verse Bible Study 
+teaching number: W3005</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UPI7FIir-LDq1jMq6.m4a" length="59911995" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4227</itunes:duration>
+      </item>
+      <item>
+        <title>Get On Board . . . Your Family Will Follow - Genesis 6:3 - 7:1</title>
+        <link>https://www.joncourson.com/playteaching/S3007/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3007</guid>
+        <pubDate>Sun, 09 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 6:3 - 7:1 
+event: Sunday Sermon 
+teaching number: S3007</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/rWmblZRo-LDq1jMq6.m4a" length="27677371" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1952</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 6:1-12</title>
+        <link>https://www.joncourson.com/playteaching/W3006/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3006</guid>
+        <pubDate>Wed, 12 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 6:1-12 
+event: Verse by Verse Bible Study 
+teaching number: W3006</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RGWHda5A-LDq1jMq6.m4a" length="67603811" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4770</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 6:13-22</title>
+        <link>https://www.joncourson.com/playteaching/W3007/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3007</guid>
+        <pubDate>Wed, 19 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 6:13-22 
+event: Verse by Verse Bible Study 
+teaching number: W3007</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3uQK09oy-LDq1jMq6.m4a" length="57723472" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4072</itunes:duration>
+      </item>
+      <item>
+        <title>Resting On The Resurrection - Genesis 8:4</title>
+        <link>https://www.joncourson.com/playteaching/S3008/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3008</guid>
+        <pubDate>Sun, 23 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 8:4 
+event: Sunday Sermon 
+teaching number: S3008</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3TsQoEoF-LDq1jMq6.m4a" length="58807859" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4149</itunes:duration>
+      </item>
+      <item>
+        <title>Reach Out And Touch The One - Genesis 8:6-9</title>
+        <link>https://www.joncourson.com/playteaching/S3009/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3009</guid>
+        <pubDate>Sun, 30 Nov 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 8:6-9 
+event: Sunday Sermon 
+teaching number: S3009</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/b9EPXTOL-LDq1jMq6.m4a" length="51477631" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3632</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 7-8</title>
+        <link>https://www.joncourson.com/playteaching/W3008/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3008</guid>
+        <pubDate>Wed, 03 Dec 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 7-8 
+event: Verse by Verse Bible Study 
+teaching number: W3008</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UmthXqGs-LDq1jMq6.m4a" length="76105799" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5369</itunes:duration>
+      </item>
+      <item>
+        <title>A Loving Covering - Genesis 9:18-25</title>
+        <link>https://www.joncourson.com/playteaching/S3010/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3010</guid>
+        <pubDate>Sun, 07 Dec 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 9:18-25 
+event: Sunday Sermon 
+teaching number: S3010</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eD75CGys-LDq1jMq6.m4a" length="48637068" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3431</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 9</title>
+        <link>https://www.joncourson.com/playteaching/W3009/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3009</guid>
+        <pubDate>Wed, 10 Dec 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 9 
+event: Verse by Verse Bible Study 
+teaching number: W3009</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pYxMwk0R-LDq1jMq6.m4a" length="70882666" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5001</itunes:duration>
+      </item>
+      <item>
+        <title>Can't We All Just Get Along? - Genesis 11:1-9</title>
+        <link>https://www.joncourson.com/playteaching/S3011/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3011</guid>
+        <pubDate>Sun, 14 Dec 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 11:1-9 
+event: Sunday Sermon 
+teaching number: S3011</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UoOy4DQv-LDq1jMq6.m4a" length="41228134" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2908</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 10-11</title>
+        <link>https://www.joncourson.com/playteaching/W3010/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3010</guid>
+        <pubDate>Wed, 17 Dec 1997 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 10-11 
+event: Verse by Verse Bible Study 
+teaching number: W3010</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9zrRqJzv-LDq1jMq6.m4a" length="77435951" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5463</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 12</title>
+        <link>https://www.joncourson.com/playteaching/W3011/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3011</guid>
+        <pubDate>Wed, 07 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 12 
+event: Verse by Verse Bible Study 
+teaching number: W3011</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hVVwuvwr-LDq1jMq6.m4a" length="72036289" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5082</itunes:duration>
+      </item>
+      <item>
+        <title>Blest Be The Tithe That Unbinds - Genesis 14:20</title>
+        <link>https://www.joncourson.com/playteaching/S3012/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3012</guid>
+        <pubDate>Sun, 11 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 14:20 
+event: Sunday Sermon 
+teaching number: S3012</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/58GhNhGQ-LDq1jMq6.m4a" length="46236332" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3262</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 13-14</title>
+        <link>https://www.joncourson.com/playteaching/W3012/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3012</guid>
+        <pubDate>Wed, 14 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 13-14 
+event: Verse by Verse Bible Study 
+teaching number: W3012</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ozhWgado-LDq1jMq6.m4a" length="56799525" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4007</itunes:duration>
+      </item>
+      <item>
+        <title>Be A Promise Taker - Genesis 15</title>
+        <link>https://www.joncourson.com/playteaching/S3013/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3013</guid>
+        <pubDate>Sun, 18 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 15 
+event: Sunday Sermon 
+teaching number: S3013</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jJLNQUmY-LDq1jMq6.m4a" length="46246431" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3263</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 15-16</title>
+        <link>https://www.joncourson.com/playteaching/W3013/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3013</guid>
+        <pubDate>Wed, 21 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 15-16 
+event: Verse by Verse Bible Study 
+teaching number: W3013</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NnLyeUZJ-LDq1jMq6.m4a" length="64015481" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4516</itunes:duration>
+      </item>
+      <item>
+        <title>Lord, Bless This Mess? - Genesis 17:15-22</title>
+        <link>https://www.joncourson.com/playteaching/S3014/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3014</guid>
+        <pubDate>Sun, 25 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 17:15-22 
+event: Sunday Sermon 
+teaching number: S3014</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oJriZsI1-LDq1jMq6.m4a" length="40669134" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2869</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 16-17</title>
+        <link>https://www.joncourson.com/playteaching/W3014/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3014</guid>
+        <pubDate>Thu, 29 Jan 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 16-17 
+event: Verse by Verse Bible Study 
+teaching number: W3014</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cum2ZmwG-LDq1jMq6.m4a" length="51600494" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3640</itunes:duration>
+      </item>
+      <item>
+        <title>The Righteous Judge - Genesis 18:20-33</title>
+        <link>https://www.joncourson.com/playteaching/S3015/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3015</guid>
+        <pubDate>Sun, 01 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 18:20-33 
+event: Sunday Sermon 
+teaching number: S3015</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PiuJmaf0-LDq1jMq6.m4a" length="52077163" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3674</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 17-18</title>
+        <link>https://www.joncourson.com/playteaching/W3015/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3015</guid>
+        <pubDate>Wed, 04 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 17-18 
+event: Verse by Verse Bible Study 
+teaching number: W3015</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Ggf1OgX0-LDq1jMq6.m4a" length="74018823" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5222</itunes:duration>
+      </item>
+      <item>
+        <title>A Matter Of Integrity - Genesis 20:1-8</title>
+        <link>https://www.joncourson.com/playteaching/S3016/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3016</guid>
+        <pubDate>Sun, 08 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 20:1-8 
+event: Sunday Sermon 
+teaching number: S3016</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pazP8yVg-LDq1jMq6.m4a" length="69235132" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4885</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 19</title>
+        <link>https://www.joncourson.com/playteaching/W3016/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3016</guid>
+        <pubDate>Wed, 11 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 19 
+event: Verse by Verse Bible Study 
+teaching number: W3016</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ye8wcXRc-LDq1jMq6.m4a" length="58815887" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4149</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 20</title>
+        <link>https://www.joncourson.com/playteaching/W3017/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3017</guid>
+        <pubDate>Wed, 18 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 20 
+event: Verse by Verse Bible Study 
+teaching number: W3017</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/R31wuL86-LDq1jMq6.m4a" length="50493400" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3562</itunes:duration>
+      </item>
+      <item>
+        <title>Make No Provision For The Flesh - Genesis 21:9-17</title>
+        <link>https://www.joncourson.com/playteaching/S3017/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3017</guid>
+        <pubDate>Sun, 22 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 21:9-17 
+event: Sunday Sermon 
+teaching number: S3017</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/svaUqL0M-LDq1jMq6.m4a" length="44782760" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3159</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 21</title>
+        <link>https://www.joncourson.com/playteaching/W3018/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3018</guid>
+        <pubDate>Wed, 25 Feb 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 21 
+event: Verse by Verse Bible Study 
+teaching number: W3018</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/g1XCGyqZ-LDq1jMq6.m4a" length="68369872" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4824</itunes:duration>
+      </item>
+      <item>
+        <title>God's Faithfulness To The Jew, To Me, And To You - Genesis 21:14-21</title>
+        <link>https://www.joncourson.com/playteaching/S3018/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3018</guid>
+        <pubDate>Sun, 01 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 21:14-21 
+event: Sunday Sermon 
+teaching number: S3018</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Yq6UH6zi-LDq1jMq6.m4a" length="57936772" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4087</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 22</title>
+        <link>https://www.joncourson.com/playteaching/W3019/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3019</guid>
+        <pubDate>Wed, 04 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 22 
+event: Verse by Verse Bible Study 
+teaching number: W3019</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Nn2PwVm8-LDq1jMq6.m4a" length="63946911" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4512</itunes:duration>
+      </item>
+      <item>
+        <title>A Most Precious Picture - Genesis 22</title>
+        <link>https://www.joncourson.com/playteaching/S3019/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3019</guid>
+        <pubDate>Sun, 08 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 22 
+event: Sunday Sermon 
+teaching number: S3019</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3t8T4YTH-LDq1jMq6.m4a" length="46137909" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3255</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 23</title>
+        <link>https://www.joncourson.com/playteaching/W3020/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3020</guid>
+        <pubDate>Wed, 11 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 23 
+event: Verse by Verse Bible Study 
+teaching number: W3020</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xehYZSiK-LDq1jMq6.m4a" length="64103186" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4523</itunes:duration>
+      </item>
+      <item>
+        <title>Being Brought To Christ - Genesis 24</title>
+        <link>https://www.joncourson.com/playteaching/S3020/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3020</guid>
+        <pubDate>Sun, 15 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 24 
+event: Sunday Sermon 
+teaching number: S3020</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RoOU17tu-LDq1jMq6.m4a" length="49380806" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3484</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 24</title>
+        <link>https://www.joncourson.com/playteaching/W3021/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3021</guid>
+        <pubDate>Wed, 18 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 24 
+event: Verse by Verse Bible Study 
+teaching number: W3021</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pzB0yhlv-LDq1jMq6.m4a" length="67438064" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4758</itunes:duration>
+      </item>
+      <item>
+        <title>Somebody Has Got To Die - Genesis 25:7-10</title>
+        <link>https://www.joncourson.com/playteaching/S3021/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3021</guid>
+        <pubDate>Sun, 22 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 25:7-10 
+event: Sunday Sermon 
+teaching number: S3021</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/iQPM6mhb-LDq1jMq6.m4a" length="48834394" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3445</itunes:duration>
+      </item>
+      <item>
+        <title>Thy Kingdom Come! - Genesis 25:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S3022/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3022</guid>
+        <pubDate>Sun, 29 Mar 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 25:1-2 
+event: Sunday Sermon 
+teaching number: S3022</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bRUoiAvo-LDq1jMq6.m4a" length="52535526" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3706</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 25:1-28</title>
+        <link>https://www.joncourson.com/playteaching/W3022/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3022</guid>
+        <pubDate>Wed, 01 Apr 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 25:1-28 
+event: Verse by Verse Bible Study 
+teaching number: W3022</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/z60Yph2E-LDq1jMq6.m4a" length="58204326" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4106</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 25-26</title>
+        <link>https://www.joncourson.com/playteaching/W3023/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3023</guid>
+        <pubDate>Wed, 08 Apr 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 25-26 
+event: Verse by Verse Bible Study 
+teaching number: W3023</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lfZ6bRya-LDq1jMq6.m4a" length="67746864" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4780</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 27</title>
+        <link>https://www.joncourson.com/playteaching/W3024/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3024</guid>
+        <pubDate>Wed, 15 Apr 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 27 
+event: Verse by Verse Bible Study 
+teaching number: W3024</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yJINGEBA-LDq1jMq6.m4a" length="58782650" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4147</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 27-28</title>
+        <link>https://www.joncourson.com/playteaching/W3025/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3025</guid>
+        <pubDate>Wed, 22 Apr 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 27-28 
+event: Verse by Verse Bible Study 
+teaching number: W3025</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K9iTUYUc-LDq1jMq6.m4a" length="64774428" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4570</itunes:duration>
+      </item>
+      <item>
+        <title>Give Me Children, Or Else I Die - Genesis 30:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S3023/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3023</guid>
+        <pubDate>Sun, 26 Apr 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 30:1-2 
+event: Sunday Sermon 
+teaching number: S3023</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9A5rEgAV-LDq1jMq6.m4a" length="38126701" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2690</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 29-30</title>
+        <link>https://www.joncourson.com/playteaching/W3026/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3026</guid>
+        <pubDate>Wed, 06 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 29-30 
+event: Verse by Verse Bible Study 
+teaching number: W3026</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8Bf6YqTP-LDq1jMq6.m4a" length="69559611" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4908</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 31</title>
+        <link>https://www.joncourson.com/playteaching/W3027/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3027</guid>
+        <pubDate>Wed, 13 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 31 
+event: Verse by Verse Bible Study 
+teaching number: W3027</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lK59WiYP-LDq1jMq6.m4a" length="53404852" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3768</itunes:duration>
+      </item>
+      <item>
+        <title>Find Grace In His Sight . . . Now! - Genesis 33:8-15</title>
+        <link>https://www.joncourson.com/playteaching/S3024/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3024</guid>
+        <pubDate>Sun, 17 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 33:8-15 
+event: Sunday Sermon 
+teaching number: S3024</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5DGR0Rpc-LDq1jMq6.m4a" length="31766689" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2241</itunes:duration>
+      </item>
+      <item>
+        <title>Prevailing In Prayer - Genesis 32</title>
+        <link>https://www.joncourson.com/playteaching/S3025/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3025</guid>
+        <pubDate>Sun, 24 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 32 
+event: Sunday Sermon 
+teaching number: S3025</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zfFMYEuf-LDq1jMq6.m4a" length="39119052" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2760</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 32</title>
+        <link>https://www.joncourson.com/playteaching/W3028/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3028</guid>
+        <pubDate>Wed, 27 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 32 
+event: Verse by Verse Bible Study 
+teaching number: W3028</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6Kvejm3h-LDq1jMq6.m4a" length="58548920" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4131</itunes:duration>
+      </item>
+      <item>
+        <title>Abide In Bethel - Genesis 35:1-19</title>
+        <link>https://www.joncourson.com/playteaching/S3026/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3026</guid>
+        <pubDate>Sun, 31 May 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 35:1-19 
+event: Sunday Sermon 
+teaching number: S3026</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6TNOZ7zF-LDq1jMq6.m4a" length="37701025" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2660</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 33-34</title>
+        <link>https://www.joncourson.com/playteaching/W3029/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3029</guid>
+        <pubDate>Wed, 03 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 33-34 
+event: Verse by Verse Bible Study 
+teaching number: W3029</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/U9oTBMsU-LDq1jMq6.m4a" length="60575788" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4274</itunes:duration>
+      </item>
+      <item>
+        <title>The Folly Of The Flesh - Genesis 36</title>
+        <link>https://www.joncourson.com/playteaching/S3027/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3027</guid>
+        <pubDate>Sun, 07 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 36 
+event: Sunday Sermon 
+teaching number: S3027</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mNnthnai-LDq1jMq6.m4a" length="61756239" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4357</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 35</title>
+        <link>https://www.joncourson.com/playteaching/W3030/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3030</guid>
+        <pubDate>Wed, 10 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 35 
+event: Verse by Verse Bible Study 
+teaching number: W3030</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JEfJr3KI-LDq1jMq6.m4a" length="58341312" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4116</itunes:duration>
+      </item>
+      <item>
+        <title>Big Sleeves . . . Big Problems - Genesis 37:2-4</title>
+        <link>https://www.joncourson.com/playteaching/S3028/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3028</guid>
+        <pubDate>Sun, 14 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 37:2-4 
+event: Sunday Sermon 
+teaching number: S3028</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Kqvw2nke-LDq1jMq6.m4a" length="37265256" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2629</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 37</title>
+        <link>https://www.joncourson.com/playteaching/W3031/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3031</guid>
+        <pubDate>Wed, 17 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 37 
+event: Verse by Verse Bible Study 
+teaching number: W3031</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TZEFDSFp-LDq1jMq6.m4a" length="57939475" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4088</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 38</title>
+        <link>https://www.joncourson.com/playteaching/W3032/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3032</guid>
+        <pubDate>Wed, 24 Jun 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 38 
+event: Verse by Verse Bible Study 
+teaching number: W3032</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mr5yzCbr-LDq1jMq6.m4a" length="59783550" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4218</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 39</title>
+        <link>https://www.joncourson.com/playteaching/W3033/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3033</guid>
+        <pubDate>Wed, 01 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 39 
+event: Verse by Verse Bible Study 
+teaching number: W3033</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/2fUHVUga-LDq1jMq6.m4a" length="57795130" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4077</itunes:duration>
+      </item>
+      <item>
+        <title>Y2K: Warehouse Or Storehouse? - Genesis 41</title>
+        <link>https://www.joncourson.com/playteaching/S3029/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3029</guid>
+        <pubDate>Sun, 05 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 41 
+event: Sunday Sermon 
+teaching number: S3029</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yt2HAHER-LDq1jMq6.m4a" length="62852041" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4434</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 40-41</title>
+        <link>https://www.joncourson.com/playteaching/W3034/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3034</guid>
+        <pubDate>Wed, 08 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 40-41 
+event: Verse by Verse Bible Study 
+teaching number: W3034</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EB6rdDXk-LDq1jMq6.m4a" length="73599735" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5193</itunes:duration>
+      </item>
+      <item>
+        <title>This We Can Know - Genesis 42:36</title>
+        <link>https://www.joncourson.com/playteaching/S3030/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3030</guid>
+        <pubDate>Sun, 12 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 42:36 
+event: Sunday Sermon 
+teaching number: S3030</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/DCNyn4jG-LDq1jMq6.m4a" length="35849861" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2529</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 42</title>
+        <link>https://www.joncourson.com/playteaching/W3035/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3035</guid>
+        <pubDate>Wed, 15 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 42 
+event: Verse by Verse Bible Study 
+teaching number: W3035</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3KK2ehER-LDq1jMq6.m4a" length="54190560" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3823</itunes:duration>
+      </item>
+      <item>
+        <title>The Wagons Are Coming - Genesis 45:26-28</title>
+        <link>https://www.joncourson.com/playteaching/S3031/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3031</guid>
+        <pubDate>Sun, 19 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 45:26-28 
+event: Sunday Sermon 
+teaching number: S3031</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fIyXUYP6-LDq1jMq6.m4a" length="22976998" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1621</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 43-44</title>
+        <link>https://www.joncourson.com/playteaching/W3036/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3036</guid>
+        <pubDate>Wed, 22 Jul 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 43-44 
+event: Verse by Verse Bible Study 
+teaching number: W3036</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4hHVYDa6-LDq1jMq6.m4a" length="61957936" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4371</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 45</title>
+        <link>https://www.joncourson.com/playteaching/W3037/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3037</guid>
+        <pubDate>Wed, 05 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 45 
+event: Verse by Verse Bible Study 
+teaching number: W3037</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/37HQb5VX-LDq1jMq6.m4a" length="56284374" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3971</itunes:duration>
+      </item>
+      <item>
+        <title>Being And Bestowing A Blessing - Genesis 47:7-10</title>
+        <link>https://www.joncourson.com/playteaching/S3032/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3032</guid>
+        <pubDate>Sun, 09 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 47:7-10 
+event: Sunday Sermon 
+teaching number: S3032</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gRWRHmf3-LDq1jMq6.m4a" length="26439406" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1865</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 46</title>
+        <link>https://www.joncourson.com/playteaching/W3038/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3038</guid>
+        <pubDate>Wed, 12 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 46 
+event: Verse by Verse Bible Study 
+teaching number: W3038</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zEsktu4c-LDq1jMq6.m4a" length="47085294" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3322</itunes:duration>
+      </item>
+      <item>
+        <title>The Secret Of A Satisfied Life - Genesis 49:22</title>
+        <link>https://www.joncourson.com/playteaching/S3033/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3033</guid>
+        <pubDate>Sun, 16 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 49:22 
+event: Sunday Sermon 
+teaching number: S3033</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PczjUVOA-LDq1jMq6.m4a" length="33875872" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2390</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 47</title>
+        <link>https://www.joncourson.com/playteaching/W3039/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3039</guid>
+        <pubDate>Wed, 19 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 47 
+event: Verse by Verse Bible Study 
+teaching number: W3039</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/a0CoLXnj-LDq1jMq6.m4a" length="56230498" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3967</itunes:duration>
+      </item>
+      <item>
+        <title>Behold I Die, But . . . - Genesis 48:21-22</title>
+        <link>https://www.joncourson.com/playteaching/S3034/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3034</guid>
+        <pubDate>Sun, 23 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 48:21-22 
+event: Sunday Sermon 
+teaching number: S3034</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NhoiaPTk-LDq1jMq6.m4a" length="43838997" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3093</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 48-49</title>
+        <link>https://www.joncourson.com/playteaching/W3040/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3040</guid>
+        <pubDate>Wed, 26 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 48-49 
+event: Verse by Verse Bible Study 
+teaching number: W3040</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QEbNzTR7-LDq1jMq6.m4a" length="58277425" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4111</itunes:duration>
+      </item>
+      <item>
+        <title>Don't Shoot Back - Genesis 49:22-24</title>
+        <link>https://www.joncourson.com/playteaching/S3035/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3035</guid>
+        <pubDate>Sun, 30 Aug 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 49:22-24 
+event: Sunday Sermon 
+teaching number: S3035</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pcXlvGCq-LDq1jMq6.m4a" length="47748082" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3369</itunes:duration>
+      </item>
+      <item>
+        <title>Genesis 49-50</title>
+        <link>https://www.joncourson.com/playteaching/W3041/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3041</guid>
+        <pubDate>Wed, 16 Sep 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Genesis 49-50 
+event: Verse by Verse Bible Study 
+teaching number: W3041</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/h5JAYSGE-LDq1jMq6.m4a" length="62276338" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4394</itunes:duration>
+      </item>
+      <item>
+        <title>Burning Bushes - Exodus 3:1-5</title>
+        <link>https://www.joncourson.com/playteaching/S3036/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3036</guid>
+        <pubDate>Sun, 20 Sep 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 3:1-5 
+event: Sunday Sermon 
+teaching number: S3036</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/f8C6IIDp-LDq1jMq6.m4a" length="38840525" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2740</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W3042/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3042</guid>
+        <pubDate>Wed, 23 Sep 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W3042</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vk2AIksw-LDq1jMq6.m4a" length="54408428" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3838</itunes:duration>
+      </item>
+      <item>
+        <title>I AM . . . Whatever You Need - Exodus 3:11-15</title>
+        <link>https://www.joncourson.com/playteaching/S3037/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3037</guid>
+        <pubDate>Sun, 04 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 3:11-15 
+event: Sunday Sermon 
+teaching number: S3037</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GabQQdzv-LDq1jMq6.m4a" length="50690807" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3576</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 3-4</title>
+        <link>https://www.joncourson.com/playteaching/W3043/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3043</guid>
+        <pubDate>Wed, 07 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W3043</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XzCN8uUm-LDq1jMq6.m4a" length="61670338" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4351</itunes:duration>
+      </item>
+      <item>
+        <title>Family Matters - Exodus 4:20-26</title>
+        <link>https://www.joncourson.com/playteaching/S3038/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3038</guid>
+        <pubDate>Sun, 11 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 4:20-26 
+event: Sunday Sermon 
+teaching number: S3038</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/N6P0FXC1-LDq1jMq6.m4a" length="59487001" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4197</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 4</title>
+        <link>https://www.joncourson.com/playteaching/W3044/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3044</guid>
+        <pubDate>Wed, 14 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 4 
+event: Verse by Verse Bible Study 
+teaching number: W3044</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PqWhxqlh-LDq1jMq6.m4a" length="55157813" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3891</itunes:duration>
+      </item>
+      <item>
+        <title>HE Will Do It! - Exodus 6:6-8</title>
+        <link>https://www.joncourson.com/playteaching/S3039/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3039</guid>
+        <pubDate>Sun, 18 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 6:6-8 
+event: Sunday Sermon 
+teaching number: S3039</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ccS27nF4-LDq1jMq6.m4a" length="43668367" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3081</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 5-6</title>
+        <link>https://www.joncourson.com/playteaching/W3045/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3045</guid>
+        <pubDate>Wed, 21 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 5-6 
+event: Verse by Verse Bible Study 
+teaching number: W3045</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wbuW6CKo-LDq1jMq6.m4a" length="65206461" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4600</itunes:duration>
+      </item>
+      <item>
+        <title>One More Night With The Frogs - Exodus 8:1-10</title>
+        <link>https://www.joncourson.com/playteaching/S3040/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3040</guid>
+        <pubDate>Sun, 25 Oct 1998 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 8:1-10 
+event: Sunday Sermon 
+teaching number: S3040</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TIz0WsMb-LDq1jMq6.m4a" length="46690918" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3294</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 7</title>
+        <link>https://www.joncourson.com/playteaching/W3046/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3046</guid>
+        <pubDate>Wed, 28 Oct 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 7 
+event: Verse by Verse Bible Study 
+teaching number: W3046</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MeukunX6-LDq1jMq6.m4a" length="61930302" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4369</itunes:duration>
+      </item>
+      <item>
+        <title>No Compromise . . . No Way! - Exodus 8-10</title>
+        <link>https://www.joncourson.com/playteaching/S3041/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3041</guid>
+        <pubDate>Sun, 01 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 8-10 
+event: Sunday Sermon 
+teaching number: S3041</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GJ8KumPR-LDq1jMq6.m4a" length="35626853" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2513</itunes:duration>
+      </item>
+      <item>
+        <title>Hoof It To Heaven - Exodus 10:24-26</title>
+        <link>https://www.joncourson.com/playteaching/S3042/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3042</guid>
+        <pubDate>Sun, 08 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 10:24-26 
+event: Sunday Sermon 
+teaching number: S3042</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6aKiMFIr-LDq1jMq6.m4a" length="29040847" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2049</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 8-9</title>
+        <link>https://www.joncourson.com/playteaching/W3047/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3047</guid>
+        <pubDate>Wed, 11 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 8-9 
+event: Verse by Verse Bible Study 
+teaching number: W3047</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vZhdP87G-LDq1jMq6.m4a" length="62766330" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4428</itunes:duration>
+      </item>
+      <item>
+        <title>I've Been Redeemed - Exodus 12:21-24</title>
+        <link>https://www.joncourson.com/playteaching/S3043/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3043</guid>
+        <pubDate>Sun, 15 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 12:21-24 
+event: Sunday Sermon 
+teaching number: S3043</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/a0l6Hs02-LDq1jMq6.m4a" length="32044265" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2260</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 10-11</title>
+        <link>https://www.joncourson.com/playteaching/W3048/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3048</guid>
+        <pubDate>Wed, 18 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 10-11 
+event: Verse by Verse Bible Study 
+teaching number: W3048</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/x5t9jLZW-LDq1jMq6.m4a" length="68322329" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4820</itunes:duration>
+      </item>
+      <item>
+        <title>"Boning Up" On The Passover - Exodus 12:42-46</title>
+        <link>https://www.joncourson.com/playteaching/S3044/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3044</guid>
+        <pubDate>Sun, 22 Nov 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 12:42-46 
+event: Sunday Sermon 
+teaching number: S3044</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1KVLL8Ao-LDq1jMq6.m4a" length="31668754" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2234</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 12</title>
+        <link>https://www.joncourson.com/playteaching/W3049/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3049</guid>
+        <pubDate>Wed, 02 Dec 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 12 
+event: Verse by Verse Bible Study 
+teaching number: W3049</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/epLm97zh-LDq1jMq6.m4a" length="67582726" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4768</itunes:duration>
+      </item>
+      <item>
+        <title>The Leading Of The Lord - Exodus 13:20-22</title>
+        <link>https://www.joncourson.com/playteaching/S3045/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3045</guid>
+        <pubDate>Sun, 06 Dec 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 13:20-22 
+event: Sunday Sermon 
+teaching number: S3045</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Wj5aXrh9-LDq1jMq6.m4a" length="32020974" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2259</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 13</title>
+        <link>https://www.joncourson.com/playteaching/W3050/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3050</guid>
+        <pubDate>Wed, 09 Dec 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 13 
+event: Verse by Verse Bible Study 
+teaching number: W3050</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/p9fALnhP-LDq1jMq6.m4a" length="67722782" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4778</itunes:duration>
+      </item>
+      <item>
+        <title>Bitterness: Here Today, Gone To-Marah! - Exodus 15:22-26</title>
+        <link>https://www.joncourson.com/playteaching/S3046/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3046</guid>
+        <pubDate>Sun, 13 Dec 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 15:22-26 
+event: Sunday Sermon 
+teaching number: S3046</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MyM2fGac-LDq1jMq6.m4a" length="38665610" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2728</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 14</title>
+        <link>https://www.joncourson.com/playteaching/W3051/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3051</guid>
+        <pubDate>Wed, 16 Dec 1998 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 14 
+event: Verse by Verse Bible Study 
+teaching number: W3051</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yAwmVboF-LDq1jMq6.m4a" length="57889581" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4084</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 15</title>
+        <link>https://www.joncourson.com/playteaching/W3052/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3052</guid>
+        <pubDate>Wed, 06 Jan 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 15 
+event: Verse by Verse Bible Study 
+teaching number: W3052</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Qg1MyXin-LDq1jMq6.m4a" length="66186427" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4670</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 15-16</title>
+        <link>https://www.joncourson.com/playteaching/W3053/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3053</guid>
+        <pubDate>Wed, 20 Jan 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 15-16 
+event: Verse by Verse Bible Study 
+teaching number: W3053</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wV0RuPJE-LDq1jMq6.m4a" length="62517144" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4411</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 16-17</title>
+        <link>https://www.joncourson.com/playteaching/W3054/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3054</guid>
+        <pubDate>Wed, 27 Jan 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 16-17 
+event: Verse by Verse Bible Study 
+teaching number: W3054</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LnMc0cEN-LDq1jMq6.m4a" length="69628567" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4912</itunes:duration>
+      </item>
+      <item>
+        <title>The Key To Victory - Exodus 17:8-16</title>
+        <link>https://www.joncourson.com/playteaching/S3047/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3047</guid>
+        <pubDate>Sun, 31 Jan 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 17:8-16 
+event: Sunday Sermon 
+teaching number: S3047</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bsd74Qkp-LDq1jMq6.m4a" length="47407245" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3345</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 18</title>
+        <link>https://www.joncourson.com/playteaching/W3055/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3055</guid>
+        <pubDate>Wed, 03 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 18 
+event: Verse by Verse Bible Study 
+teaching number: W3055</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tXs1RHDT-LDq1jMq6.m4a" length="67983317" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4796</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 19:1-15</title>
+        <link>https://www.joncourson.com/playteaching/W3056/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3056</guid>
+        <pubDate>Wed, 10 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 19:1-15 
+event: Verse by Verse Bible Study 
+teaching number: W3056</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ialqmDyK-LDq1jMq6.m4a" length="64884937" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4578</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Introduction - Exodus 20:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S3048/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3048</guid>
+        <pubDate>Sun, 14 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:1-2 
+event: Sunday Sermon 
+teaching number: S3048</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/IcWk0ncg-LDq1jMq6.m4a" length="38323444" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2704</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 19:16-25</title>
+        <link>https://www.joncourson.com/playteaching/W3057/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3057</guid>
+        <pubDate>Wed, 17 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 19:16-25 
+event: Verse by Verse Bible Study 
+teaching number: W3057</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LelbShnM-LDq1jMq6.m4a" length="65606004" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4629</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: No Other Gods - Exodus 20:3</title>
+        <link>https://www.joncourson.com/playteaching/S3049/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3049</guid>
+        <pubDate>Sun, 21 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:3 
+event: Sunday Sermon 
+teaching number: S3049</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6C4QPmlk-LDq1jMq6.m4a" length="41538280" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2930</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: No Graven Images - Exodus 20:4-6</title>
+        <link>https://www.joncourson.com/playteaching/S3050/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3050</guid>
+        <pubDate>Sun, 28 Feb 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:4-6 
+event: Sunday Sermon 
+teaching number: S3050</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xX38Pacj-LDq1jMq6.m4a" length="33526924" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2365</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 20</title>
+        <link>https://www.joncourson.com/playteaching/W3058/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3058</guid>
+        <pubDate>Wed, 03 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20 
+event: Verse by Verse Bible Study 
+teaching number: W3058</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EZmq3ZjJ-LDq1jMq6.m4a" length="58984139" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4161</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Honor His Name - Exodus 20:7</title>
+        <link>https://www.joncourson.com/playteaching/S3051/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3051</guid>
+        <pubDate>Sun, 07 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:7 
+event: Sunday Sermon 
+teaching number: S3051</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8MkCrQnn-LDq1jMq6.m4a" length="35149857" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2480</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 21:1-25</title>
+        <link>https://www.joncourson.com/playteaching/W3059/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3059</guid>
+        <pubDate>Wed, 10 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 21:1-25 
+event: Verse by Verse Bible Study 
+teaching number: W3059</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZOaTpWn8-LDq1jMq6.m4a" length="54115553" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3818</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Remember The Sabbath - Exodus 20:8</title>
+        <link>https://www.joncourson.com/playteaching/S3052/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3052</guid>
+        <pubDate>Sun, 14 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:8 
+event: Sunday Sermon 
+teaching number: S3052</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pXPiDZ4H-LDq1jMq6.m4a" length="46447408" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3277</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 21-22</title>
+        <link>https://www.joncourson.com/playteaching/W3060/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3060</guid>
+        <pubDate>Wed, 17 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 21-22 
+event: Verse by Verse Bible Study 
+teaching number: W3060</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/52VJpWvt-LDq1jMq6.m4a" length="64058295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4519</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Honor Father And Mother - Exodus 20:12</title>
+        <link>https://www.joncourson.com/playteaching/S3053/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3053</guid>
+        <pubDate>Sun, 21 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:12 
+event: Sunday Sermon 
+teaching number: S3053</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mDBWowbn-LDq1jMq6.m4a" length="38759548" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2734</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 23</title>
+        <link>https://www.joncourson.com/playteaching/W3061/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3061</guid>
+        <pubDate>Wed, 24 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 23 
+event: Verse by Verse Bible Study 
+teaching number: W3061</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GLgt56eO-LDq1jMq6.m4a" length="62394841" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4402</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 24</title>
+        <link>https://www.joncourson.com/playteaching/W3062/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3062</guid>
+        <pubDate>Wed, 31 Mar 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 24 
+event: Verse by Verse Bible Study 
+teaching number: W3062</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PLLtjeZc-LDq1jMq6.m4a" length="60494609" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4268</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:1-22</title>
+        <link>https://www.joncourson.com/playteaching/W3063/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3063</guid>
+        <pubDate>Wed, 07 Apr 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 25:1-22 
+event: Verse by Verse Bible Study 
+teaching number: W3063</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3usTSLUw-LDq1jMq6.m4a" length="59750596" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4215</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Murder - Part 1 - Exodus 20:13</title>
+        <link>https://www.joncourson.com/playteaching/S3054/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3054</guid>
+        <pubDate>Sun, 18 Apr 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:13 
+event: Sunday Sermon 
+teaching number: S3054</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ylxQyasQ-LDq1jMq6.m4a" length="40438025" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2853</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:23-28</title>
+        <link>https://www.joncourson.com/playteaching/W3064/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3064</guid>
+        <pubDate>Wed, 21 Apr 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 25:23-28 
+event: Verse by Verse Bible Study 
+teaching number: W3064</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/XQTJOYHS-LDq1jMq6.m4a" length="61839727" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4363</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Murder - Part 2 - Exodus 20:13</title>
+        <link>https://www.joncourson.com/playteaching/S3055/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3055</guid>
+        <pubDate>Sun, 25 Apr 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:13 
+event: Sunday Sermon 
+teaching number: S3055</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uYT0LmSm-LDq1jMq6.m4a" length="41903352" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2956</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 25:31-40</title>
+        <link>https://www.joncourson.com/playteaching/W3065/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3065</guid>
+        <pubDate>Wed, 28 Apr 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 25:31-40 
+event: Verse by Verse Bible Study 
+teaching number: W3065</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PxIFjwlc-LDq1jMq6.m4a" length="58874022" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4154</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Commit Adultery - Exodus 20:14</title>
+        <link>https://www.joncourson.com/playteaching/S3056/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3056</guid>
+        <pubDate>Sun, 02 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:14 
+event: Sunday Sermon 
+teaching number: S3056</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pMaJjmgt-LDq1jMq6.m4a" length="49824705" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3515</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 26:1-30</title>
+        <link>https://www.joncourson.com/playteaching/W3066/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3066</guid>
+        <pubDate>Wed, 12 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 26:1-30 
+event: Verse by Verse Bible Study 
+teaching number: W3066</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0TOB2vuM-LDq1jMq6.m4a" length="64223947" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4531</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Steal - Exodus 20:15</title>
+        <link>https://www.joncourson.com/playteaching/S3057/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3057</guid>
+        <pubDate>Sun, 16 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:15 
+event: Sunday Sermon 
+teaching number: S3057</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LfRg2NUA-LDq1jMq6.m4a" length="37628953" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2655</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Bear False Witness - Exodus 20:16</title>
+        <link>https://www.joncourson.com/playteaching/S3058/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3058</guid>
+        <pubDate>Sun, 23 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:16 
+event: Sunday Sermon 
+teaching number: S3058</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cQRCRyuE-LDq1jMq6.m4a" length="25437087" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1794</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 26:31-37</title>
+        <link>https://www.joncourson.com/playteaching/W3067/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3067</guid>
+        <pubDate>Wed, 26 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 26:31-37 
+event: Verse by Verse Bible Study 
+teaching number: W3067</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/zTu9F8yd-LDq1jMq6.m4a" length="58652086" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4138</itunes:duration>
+      </item>
+      <item>
+        <title>Ten Commandments: Do Not Covet - Exodus 20:17</title>
+        <link>https://www.joncourson.com/playteaching/S3059/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3059</guid>
+        <pubDate>Sun, 30 May 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 20:17 
+event: Sunday Sermon 
+teaching number: S3059</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/JpwIsiOH-LDq1jMq6.m4a" length="48073012" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3391</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 27</title>
+        <link>https://www.joncourson.com/playteaching/W3068/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3068</guid>
+        <pubDate>Wed, 02 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 27 
+event: Verse by Verse Bible Study 
+teaching number: W3068</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KielSve3-LDq1jMq6.m4a" length="63091801" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4451</itunes:duration>
+      </item>
+      <item>
+        <title>Divine Direction - Exodus 28:30</title>
+        <link>https://www.joncourson.com/playteaching/S3060/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3060</guid>
+        <pubDate>Sun, 06 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 28:30 
+event: Sunday Sermon 
+teaching number: S3060</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/YFSA7eYr-LDq1jMq6.m4a" length="42360295" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2988</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28:1-30</title>
+        <link>https://www.joncourson.com/playteaching/W3069/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3069</guid>
+        <pubDate>Wed, 09 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 28:1-30 
+event: Verse by Verse Bible Study 
+teaching number: W3069</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/d1SqbuYw-LDq1jMq6.m4a" length="61619213" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4347</itunes:duration>
+      </item>
+      <item>
+        <title>Your Ordination - Exodus 29:4-26</title>
+        <link>https://www.joncourson.com/playteaching/S3061/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3061</guid>
+        <pubDate>Sun, 13 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 29:4-26 
+event: Sunday Sermon 
+teaching number: S3061</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/yek0lC9A-LDq1jMq6.m4a" length="42271588" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2982</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28</title>
+        <link>https://www.joncourson.com/playteaching/W3070/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3070</guid>
+        <pubDate>Wed, 16 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 28 
+event: Verse by Verse Bible Study 
+teaching number: W3070</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kMyLmXCQ-LDq1jMq6.m4a" length="61839266" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4363</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 28-29</title>
+        <link>https://www.joncourson.com/playteaching/W3071/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3071</guid>
+        <pubDate>Wed, 23 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 28-29 
+event: Verse by Verse Bible Study 
+teaching number: W3071</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/J9JJMa0j-LDq1jMq6.m4a" length="67380364" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4754</itunes:duration>
+      </item>
+      <item>
+        <title>I'm The Idiot, He's The Hero - Exodus 30:17-21</title>
+        <link>https://www.joncourson.com/playteaching/S3062/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3062</guid>
+        <pubDate>Sun, 27 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 30:17-21 
+event: Sunday Sermon 
+teaching number: S3062</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/0DMd8MRN-LDq1jMq6.m4a" length="50541317" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3566</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 30:1-10</title>
+        <link>https://www.joncourson.com/playteaching/W3072/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3072</guid>
+        <pubDate>Wed, 30 Jun 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 30:1-10 
+event: Verse by Verse Bible Study 
+teaching number: W3072</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vRr67jCE-LDq1jMq6.m4a" length="46320244" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3268</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 30:11-21</title>
+        <link>https://www.joncourson.com/playteaching/W3073/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3073</guid>
+        <pubDate>Wed, 07 Jul 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 30:11-21 
+event: Verse by Verse Bible Study 
+teaching number: W3073</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/B31AD8qE-LDq1jMq6.m4a" length="54734409" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3861</itunes:duration>
+      </item>
+      <item>
+        <title>Scent From Above - Exodus 30:34-38</title>
+        <link>https://www.joncourson.com/playteaching/S3063/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3063</guid>
+        <pubDate>Sun, 11 Jul 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 30:34-38 
+event: Sunday Sermon 
+teaching number: S3063</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RN31thLU-LDq1jMq6.m4a" length="24879780" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1755</itunes:duration>
+      </item>
+      <item>
+        <title>Anointing: Its Power And Purpose - Exodus 30:22-33</title>
+        <link>https://www.joncourson.com/playteaching/S3064/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3064</guid>
+        <pubDate>Sun, 18 Jul 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 30:22-33 
+event: Sunday Sermon 
+teaching number: S3064</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/J7V24HhP-LDq1jMq6.m4a" length="50651617" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3573</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 31-32</title>
+        <link>https://www.joncourson.com/playteaching/W3074/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3074</guid>
+        <pubDate>Wed, 04 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 31-32 
+event: Verse by Verse Bible Study 
+teaching number: W3074</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HvAEpAjg-LDq1jMq6.m4a" length="65440965" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4617</itunes:duration>
+      </item>
+      <item>
+        <title>Let "Glow" Of Your Issues - Exodus 34:29-35</title>
+        <link>https://www.joncourson.com/playteaching/S3065/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3065</guid>
+        <pubDate>Sun, 08 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 34:29-35 
+event: Sunday Sermon 
+teaching number: S3065</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TYV8lCwH-LDq1jMq6.m4a" length="34321155" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2421</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 33:1-17</title>
+        <link>https://www.joncourson.com/playteaching/W3075/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3075</guid>
+        <pubDate>Wed, 11 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 33:1-17 
+event: Verse by Verse Bible Study 
+teaching number: W3075</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jjd44wVz-LDq1jMq6.m4a" length="45300980" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3196</itunes:duration>
+      </item>
+      <item>
+        <title>The Promise Of His Presence - Exodus 33:14</title>
+        <link>https://www.joncourson.com/playteaching/S3066/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3066</guid>
+        <pubDate>Sun, 15 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 33:14 
+event: Sunday Sermon 
+teaching number: S3066</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K3v4IiWG-LDq1jMq6.m4a" length="43034233" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3036</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 33-34</title>
+        <link>https://www.joncourson.com/playteaching/W3076/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3076</guid>
+        <pubDate>Wed, 18 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 33-34 
+event: Verse by Verse Bible Study 
+teaching number: W3076</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9ZoG40PW-LDq1jMq6.m4a" length="45330746" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3198</itunes:duration>
+      </item>
+      <item>
+        <title>Exodus 34-40</title>
+        <link>https://www.joncourson.com/playteaching/W3077/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3077</guid>
+        <pubDate>Wed, 25 Aug 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Exodus 34-40 
+event: Verse by Verse Bible Study 
+teaching number: W3077</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TuaPOXcm-LDq1jMq6.m4a" length="72148135" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5090</itunes:duration>
+      </item>
+      <item>
+        <title>The Lamb Slain - Leviticus 17:11</title>
+        <link>https://www.joncourson.com/playteaching/S3067/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3067</guid>
+        <pubDate>Sun, 12 Sep 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 17:11 
+event: Sunday Sermon 
+teaching number: S3067</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CLcfhDJp-LDq1jMq6.m4a" length="37702164" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2660</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 1-7</title>
+        <link>https://www.joncourson.com/playteaching/W3078/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3078</guid>
+        <pubDate>Wed, 15 Sep 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 1-7 
+event: Verse by Verse Bible Study 
+teaching number: W3078</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6hdvj0DD-LDq1jMq6.m4a" length="67952713" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4794</itunes:duration>
+      </item>
+      <item>
+        <title>Burnout! - Leviticus 9:23 - 10:2</title>
+        <link>https://www.joncourson.com/playteaching/S3068/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3068</guid>
+        <pubDate>Sun, 19 Sep 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 9:23 - 10:2 
+event: Sunday Sermon 
+teaching number: S3068</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/90FLUiZb-LDq1jMq6.m4a" length="34547491" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2437</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 8-10</title>
+        <link>https://www.joncourson.com/playteaching/W3079/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3079</guid>
+        <pubDate>Wed, 22 Sep 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 8-10 
+event: Verse by Verse Bible Study 
+teaching number: W3079</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/n4Bsile2-LDq1jMq6.m4a" length="70869215" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>5000</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 11</title>
+        <link>https://www.joncourson.com/playteaching/W3080/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3080</guid>
+        <pubDate>Wed, 06 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 11 
+event: Verse by Verse Bible Study 
+teaching number: W3080</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MMHNbS6M-LDq1jMq6.m4a" length="48483176" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3420</itunes:duration>
+      </item>
+      <item>
+        <title>Born In Sin - Leviticus 12</title>
+        <link>https://www.joncourson.com/playteaching/S3069/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3069</guid>
+        <pubDate>Sun, 10 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 12 
+event: Sunday Sermon 
+teaching number: S3069</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QKNx3lrX-LDq1jMq6.m4a" length="55945998" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3947</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 13</title>
+        <link>https://www.joncourson.com/playteaching/W3081/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3081</guid>
+        <pubDate>Wed, 13 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 13 
+event: Verse by Verse Bible Study 
+teaching number: W3081</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ORzxqQ8e-LDq1jMq6.m4a" length="65143339" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4596</itunes:duration>
+      </item>
+      <item>
+        <title>The Resurrection: A Bird's-Eye View - Leviticus 14:1-7</title>
+        <link>https://www.joncourson.com/playteaching/S3070/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3070</guid>
+        <pubDate>Sun, 17 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 14:1-7 
+event: Sunday Sermon 
+teaching number: S3070</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mkLJagDV-LDq1jMq6.m4a" length="46396216" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3273</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 14</title>
+        <link>https://www.joncourson.com/playteaching/W3082/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3082</guid>
+        <pubDate>Wed, 20 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 14 
+event: Verse by Verse Bible Study 
+teaching number: W3082</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/aQA7kf3e-LDq1jMq6.m4a" length="64795933" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4571</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 15</title>
+        <link>https://www.joncourson.com/playteaching/W3083/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3083</guid>
+        <pubDate>Wed, 27 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 15 
+event: Verse by Verse Bible Study 
+teaching number: W3083</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6LdyY8Mu-LDq1jMq6.m4a" length="58378306" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4119</itunes:duration>
+      </item>
+      <item>
+        <title>Come On In - Leviticus 16:29-30</title>
+        <link>https://www.joncourson.com/playteaching/S3071/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3071</guid>
+        <pubDate>Sun, 31 Oct 1999 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 16:29-30 
+event: Sunday Sermon 
+teaching number: S3071</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K9VJwTft-LDq1jMq6.m4a" length="42988569" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3033</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 16-17</title>
+        <link>https://www.joncourson.com/playteaching/W3084/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3084</guid>
+        <pubDate>Wed, 10 Nov 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 16-17 
+event: Verse by Verse Bible Study 
+teaching number: W3084</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/81hZl5zx-LDq1jMq6.m4a" length="60419030" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4263</itunes:duration>
+      </item>
+      <item>
+        <title>A Bloody Controversy - Leviticus 17:10-12</title>
+        <link>https://www.joncourson.com/playteaching/S3072/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3072</guid>
+        <pubDate>Sun, 14 Nov 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 17:10-12 
+event: Sunday Sermon 
+teaching number: S3072</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZmmMPkZr-LDq1jMq6.m4a" length="53657426" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3786</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 18</title>
+        <link>https://www.joncourson.com/playteaching/W3085/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3085</guid>
+        <pubDate>Wed, 17 Nov 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 18 
+event: Verse by Verse Bible Study 
+teaching number: W3085</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/HBL8gtVf-LDq1jMq6.m4a" length="61387503" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4331</itunes:duration>
+      </item>
+      <item>
+        <title>Thanksgiving Dinner - Leviticus 22:29-30</title>
+        <link>https://www.joncourson.com/playteaching/S3073/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3073</guid>
+        <pubDate>Sun, 28 Nov 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 22:29-30 
+event: Sunday Sermon 
+teaching number: S3073</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3uGQcKRW-LDq1jMq6.m4a" length="35385252" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2496</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 19</title>
+        <link>https://www.joncourson.com/playteaching/W3086/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3086</guid>
+        <pubDate>Wed, 01 Dec 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 19 
+event: Verse by Verse Bible Study 
+teaching number: W3086</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/m4w14n7P-LDq1jMq6.m4a" length="55702678" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3930</itunes:duration>
+      </item>
+      <item>
+        <title>God's Solution To Sadness - Leviticus 21:10-12</title>
+        <link>https://www.joncourson.com/playteaching/S3074/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3074</guid>
+        <pubDate>Sun, 05 Dec 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 21:10-12 
+event: Sunday Sermon 
+teaching number: S3074</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Fg5ZLruX-LDq1jMq6.m4a" length="43554461" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3073</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 20-21</title>
+        <link>https://www.joncourson.com/playteaching/W3087/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3087</guid>
+        <pubDate>Wed, 08 Dec 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 20-21 
+event: Verse by Verse Bible Study 
+teaching number: W3087</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qZqNiTtc-LDq1jMq6.m4a" length="61426512" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4334</itunes:duration>
+      </item>
+      <item>
+        <title>Disability Or His Ability - Leviticus 21:16-24</title>
+        <link>https://www.joncourson.com/playteaching/S3075/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3075</guid>
+        <pubDate>Sun, 12 Dec 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 21:16-24 
+event: Sunday Sermon 
+teaching number: S3075</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5hr3Yg2B-LDq1jMq6.m4a" length="42138551" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2973</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 22:1-7</title>
+        <link>https://www.joncourson.com/playteaching/W3088/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3088</guid>
+        <pubDate>Wed, 15 Dec 1999 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 22:1-7 
+event: Verse by Verse Bible Study 
+teaching number: W3088</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/53EyUbm0-LDq1jMq6.m4a" length="53130051" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3748</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 23:1-22</title>
+        <link>https://www.joncourson.com/playteaching/W3089/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3089</guid>
+        <pubDate>Wed, 05 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 23:1-22 
+event: Verse by Verse Bible Study 
+teaching number: W3089</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KIxrLBbY-LDq1jMq6.m4a" length="65187437" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4599</itunes:duration>
+      </item>
+      <item>
+        <title>Responding To Responsibility - Leviticus 24:1-9</title>
+        <link>https://www.joncourson.com/playteaching/S3076/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3076</guid>
+        <pubDate>Sun, 09 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 24:1-9 
+event: Sunday Sermon 
+teaching number: S3076</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uikamSPZ-LDq1jMq6.m4a" length="53626604" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3783</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 23:23-32</title>
+        <link>https://www.joncourson.com/playteaching/W3090/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3090</guid>
+        <pubDate>Wed, 12 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 23:23-32 
+event: Verse by Verse Bible Study 
+teaching number: W3090</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/FcGsXRYp-LDq1jMq6.m4a" length="61760077" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4357</itunes:duration>
+      </item>
+      <item>
+        <title>Put It In Ward And Seek The Lord - Leviticus 24:10-23</title>
+        <link>https://www.joncourson.com/playteaching/S3077/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3077</guid>
+        <pubDate>Sun, 16 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 24:10-23 
+event: Sunday Sermon 
+teaching number: S3077</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ljVApVyh-LDq1jMq6.m4a" length="49328532" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3480</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 23:33-44</title>
+        <link>https://www.joncourson.com/playteaching/W3091/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3091</guid>
+        <pubDate>Wed, 19 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 23:33-44 
+event: Verse by Verse Bible Study 
+teaching number: W3091</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gDQgbzUr-LDq1jMq6.m4a" length="54794898" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3866</itunes:duration>
+      </item>
+      <item>
+        <title>The Jubilee: Being Set Free - Leviticus 25:8-17</title>
+        <link>https://www.joncourson.com/playteaching/S3078/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S3078</guid>
+        <pubDate>Sun, 23 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 25:8-17 
+event: Sunday Sermon 
+teaching number: S3078</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/hS2JIlE9-LDq1jMq6.m4a" length="48014569" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3387</itunes:duration>
+      </item>
+      <item>
+        <title>Leviticus 24-27</title>
+        <link>https://www.joncourson.com/playteaching/W3092/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W3092</guid>
+        <pubDate>Wed, 26 Jan 2000 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Leviticus 24-27 
+event: Verse by Verse Bible Study 
+teaching number: W3092</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lbvcP5GB-LDq1jMq6.m4a" length="65891988" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4649</itunes:duration>
+      </item>
+  </channel>
+  </rss>

@@ -1,6 +1,18 @@
 import * as fs from 'fs'
-import { BookRange, bibleBooks, bookRanges } from "./lib/bible";
 import { Teaching, TeachingFeed } from './types';
+import { BibleBook, bibleBooks } from './lib/bible';
+
+export type BookRange = { from: BibleBook, to: BibleBook }
+
+export const bookRanges: BookRange[] = [
+   { "from": "Genesis", "to": "Leviticus" },
+   { "from": "Numbers", "to": "1 Samuel" },
+   { "from": "2 Samuel", "to": "Song of Solomon" },
+   { "from": "Isaiah", "to": "Malachi" },
+   { "from": "Matthew", "to": "John" },
+   { "from": "Acts", "to": "Galatians" },
+   { "from": "Ephesians", "to": "Revelation" }
+]
 
 export function loadFeed(book: string) {
    const slug = bookFileNameSlug(book)
@@ -41,7 +53,7 @@ export function* earlySeriesTeachings() {
    }
 }
 
-export function* groupedBookFeeds() {
+export function* groupedBookFeeds(filter: (teaching: Teaching) => boolean) {
    for (const range of bookRanges) {
       const fromIdx = bibleBooks.indexOf(range.from)
       const toIdx = bibleBooks.indexOf(range.to)
@@ -53,7 +65,7 @@ export function* groupedBookFeeds() {
       const teachings: Teaching[] = []
       const books = bibleBooks.slice(fromIdx, toIdx + 1)
       for (const book of books) {
-         teachings.push(...loadFeed(book).teachings.filter(isEarlySeries))
+         teachings.push(...loadFeed(book).teachings.filter(filter))
       }
 
       sortByDate(teachings)
