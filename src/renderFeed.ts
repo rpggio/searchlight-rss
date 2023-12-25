@@ -1,4 +1,3 @@
-
 import { TeachingFeed } from './types';
 
 export function renderFeed(feed: TeachingFeed): string {
@@ -22,7 +21,6 @@ teaching number: ${teaching.teachingNumber}
   `.trim()
 
     const link = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
-
     // <link>${teaching.media.link}</link>
 
     rssItems += `
@@ -63,7 +61,7 @@ teaching number: ${teaching.teachingNumber}
       © 2023 - Searchlight
     </description>
     <language>en-us</language>
-    <copyright>Copyright 2023 Searchlight</copyright>
+    <copyright>Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.rss" rel="self" type="application/rss+xml"/>    
