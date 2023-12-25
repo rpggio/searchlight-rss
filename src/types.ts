@@ -11,6 +11,7 @@ export const teachingCsvColumns = [
 
 export interface TeachingFeed {
   title: string,
+  books: string[],
   teachings: Teaching[]
 }
 

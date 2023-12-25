@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Zephaniah with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/zephaniah</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 05 Apr 1989 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>Zephaniah with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/zephaniah</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Zephaniah 1</title>
+        <link>https://www.joncourson.com/playteaching/W460/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W460</guid>
+        <pubDate>Wed, 29 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 1 
+event: Verse by Verse Bible Study 
+teaching number: W460</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Eh41G4XQ-LDq1jMq6.m4a" length="54893086" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3873</itunes:duration>
+      </item>
+      <item>
+        <title>The Language Of The Kingdom - Zephaniah 3:9</title>
+        <link>https://www.joncourson.com/playteaching/S424/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S424</guid>
+        <pubDate>Sun, 02 Apr 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 3:9 
+event: Sunday Sermon 
+teaching number: S424</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G1usvND6-LDq1jMq6.m4a" length="44482287" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3138</itunes:duration>
+      </item>
+      <item>
+        <title>Zephaniah 2-3</title>
+        <link>https://www.joncourson.com/playteaching/W461/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W461</guid>
+        <pubDate>Wed, 05 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 2-3 
+event: Verse by Verse Bible Study 
+teaching number: W461</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EnQZ0lNQ-LDq1jMq6.m4a" length="58034706" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4094</itunes:duration>
+      </item>
+  </channel>
+  </rss>

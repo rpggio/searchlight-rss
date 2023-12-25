@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>2 Timothy with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/2-timothy</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 18 Oct 1995 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>2 Timothy with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/2-timothy</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>2 Timothy 1</title>
+        <link>https://www.joncourson.com/playteaching/W713/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W713</guid>
+        <pubDate>Wed, 04 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 1 
+event: Verse by Verse Bible Study 
+teaching number: W713</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/bRrhsKqV-LDq1jMq6.m4a" length="60649354" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4279</itunes:duration>
+      </item>
+      <item>
+        <title>Rightly Dividing The Word - 2 Timothy 2:15</title>
+        <link>https://www.joncourson.com/playteaching/S647/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S647</guid>
+        <pubDate>Sun, 08 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 2:15 
+event: Sunday Sermon 
+teaching number: S647</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/4SKmDUO2-LDq1jMq6.m4a" length="42838726" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3022</itunes:duration>
+      </item>
+      <item>
+        <title>2 Timothy 2</title>
+        <link>https://www.joncourson.com/playteaching/W714/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W714</guid>
+        <pubDate>Wed, 11 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 2 
+event: Verse by Verse Bible Study 
+teaching number: W714</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nk80MbvR-LDq1jMq6.m4a" length="60995583" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4303</itunes:duration>
+      </item>
+      <item>
+        <title>2 Timothy 3-4</title>
+        <link>https://www.joncourson.com/playteaching/W715/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W715</guid>
+        <pubDate>Wed, 18 Oct 1995 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 Timothy 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W715</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Z4ky6Wlz-LDq1jMq6.m4a" length="66761766" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4710</itunes:duration>
+      </item>
+  </channel>
+  </rss>

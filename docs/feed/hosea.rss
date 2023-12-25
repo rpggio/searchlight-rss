@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Hosea with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/hosea</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 28 Dec 1988 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>Hosea with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/hosea</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Hosea 1-5</title>
+        <link>https://www.joncourson.com/playteaching/W446/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W446</guid>
+        <pubDate>Wed, 14 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 1-5 
+event: Verse by Verse Bible Study 
+teaching number: W446</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oTHUWNvW-LDq1jMq6.m4a" length="51120628" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3607</itunes:duration>
+      </item>
+      <item>
+        <title>The Rest Of The Story - Hosea 12:4</title>
+        <link>https://www.joncourson.com/playteaching/S412/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S412</guid>
+        <pubDate>Sun, 18 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 12:4 
+event: Sunday Sermon 
+teaching number: S412</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/94JXc2wx-LDq1jMq6.m4a" length="54408853" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3839</itunes:duration>
+      </item>
+      <item>
+        <title>Hosea 6-10</title>
+        <link>https://www.joncourson.com/playteaching/W447/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W447</guid>
+        <pubDate>Wed, 21 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 6-10 
+event: Verse by Verse Bible Study 
+teaching number: W447</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LjbVt1Ag-LDq1jMq6.m4a" length="53699912" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3789</itunes:duration>
+      </item>
+      <item>
+        <title>Hosea 11-14</title>
+        <link>https://www.joncourson.com/playteaching/W448/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W448</guid>
+        <pubDate>Wed, 28 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 11-14 
+event: Verse by Verse Bible Study 
+teaching number: W448</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/P1aMrfEp-LDq1jMq6.m4a" length="54421445" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3839</itunes:duration>
+      </item>
+  </channel>
+  </rss>

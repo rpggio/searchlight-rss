@@ -4,21 +4,24 @@ import { Teaching, TeachingFeed } from './types';
 
 export function loadFeed(book: string) {
    const slug = bookFileNameSlug(book)
-   const feed = JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as TeachingFeed;
+   const feed = JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as Omit<TeachingFeed, 'books'>;
    sortByDate(feed.teachings)
-   return feed
+   return {
+      ...feed,
+      books: [book],
+   } satisfies TeachingFeed
 }
 
-export function * allFeeds() {
+export function* allFeeds() {
    for (const book of bibleBooks) {
       yield loadFeed(book)
    }
 }
 
-export function * allTeachings(): Iterable<Teaching & { book: string }> {
+export function* allTeachings(): Iterable<Teaching & { book: string }> {
    for (const feed of allFeeds()) {
       for (const teaching of feed.teachings) {
-         yield { 
+         yield {
             ...teaching,
             book: feed.title,
          }
@@ -31,15 +34,15 @@ export function isEarlySeries(teaching: Teaching) {
    // || (teaching.series === 'Miscellaneous Bible Studies' && new Date(teaching.date) < new Date('2004-12-31'))
 }
 
-export function * earlySeriesTeachings() {
+export function* earlySeriesTeachings() {
    for (const feed of allFeeds()) {
       feed.teachings = feed.teachings.filter(isEarlySeries)
       yield feed
    }
 }
 
-export function * groupedBookFeeds() {
-   for(const range of bookRanges){
+export function* groupedBookFeeds() {
+   for (const range of bookRanges) {
       const fromIdx = bibleBooks.indexOf(range.from)
       const toIdx = bibleBooks.indexOf(range.to)
 
@@ -48,7 +51,8 @@ export function * groupedBookFeeds() {
       }
 
       const teachings: Teaching[] = []
-      for (const book of bibleBooks.slice(fromIdx, toIdx + 1)) {
+      const books = bibleBooks.slice(fromIdx, toIdx + 1)
+      for (const book of books) {
          teachings.push(...loadFeed(book).teachings.filter(isEarlySeries))
       }
 
@@ -56,6 +60,7 @@ export function * groupedBookFeeds() {
 
       yield {
          title: `${range.from} - ${range.to}`,
+         books,
          teachings
       } satisfies TeachingFeed
    }

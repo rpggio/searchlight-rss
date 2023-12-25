@@ -3,7 +3,7 @@ import { bookFileNameSlug, bookRangeFileNameSlug } from "./teachingLookup";
 
 export function renderIndex() {
    const renderFeedRow = (slug: string, title: string) => {
-      const feedFile = `${slug}.xml`;
+      const feedFile = `${slug}.rss`;
 
       const basePath = 'rpggio.github.io/searchlight-rss';
       const pcastLink = `pcast://${basePath}/feed/${feedFile}`;

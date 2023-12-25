@@ -3,7 +3,7 @@ import { TeachingFeed } from './types';
 
 export function renderFeed(feed: TeachingFeed): string {
   let rssItems = '';
-  
+
   feed.teachings.forEach(teaching => {
     if (!teaching.media?.source) {
       return
@@ -21,15 +21,14 @@ event: ${teaching.event || 'Event'}
 teaching number: ${teaching.teachingNumber}
   `.trim()
 
-   const link = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio` 
+    const link = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
 
-  // <link>${teaching.media.link}</link>
+    // <link>${teaching.media.link}</link>
 
     rssItems += `
       <item>
         <title>${teaching.title || 'Untitled Teaching'}</title>
         <link>${link}</link>
-        <description>${teaching.title}</description> 
         <guid isPermaLink="false">joncourson-searchlight-${teaching.teachingNumber}</guid>
         <pubDate>${new Date(teaching.date).toUTCString()}</pubDate>
         <description>${description}</description>
@@ -41,13 +40,17 @@ teaching number: ${teaching.teachingNumber}
   });
 
   const teachingSlug = feed.title.toLowerCase().replace(/ /g, '-');
-  const teachingLink = `https://www.joncourson.com/teachings/${teachingSlug}`
+  const teachingLink = feed.books.length === 1
+    ? `https://www.joncourson.com/teachings/${teachingSlug}`
+    : 'https://www.joncourson.com/teachings'
   const feedTitle = `${feed.title} with Jon Courson`
   const lastTeaching = feed.teachings[feed.teachings.length - 1]
   const pubDate = lastTeaching ? new Date(lastTeaching.date).toUTCString() : null
 
+  // <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.rss" rel="self" type="application/rss+xml"/>    
+
   return `<?xml version="1.0" encoding="UTF-8"?>
-  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
     <title>${feedTitle}</title>
     <link>${teachingLink}</link>
@@ -61,7 +64,6 @@ teaching number: ${teaching.teachingNumber}
     <copyright>Copyright 2023 Searchlight</copyright>
     <pubDate>${pubDate}</pubDate>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-    <atom:link href="https://rpggio.github.io/searchlight-rss/${teachingSlug}.xml" rel="self" type="application/rss+xml"/>    
     <image>
       <title>${feedTitle}</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
@@ -70,7 +72,7 @@ teaching number: ${teaching.teachingNumber}
     <itunes:author>Jon Courson</itunes:author>
     <itunes:type>serial</itunes:type>
     <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
-    <itunes:category text="Religion &amp;Spirituality">
+    <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:owner>
@@ -78,7 +80,7 @@ teaching number: ${teaching.teachingNumber}
       <itunes:email>podcast@joncourson.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:keywords>courson, jon, jon courson, searchlight,jesus, bible, christian, christianity</itunes:keywords>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
 ${rssItems}
   </channel>
   </rss>`;

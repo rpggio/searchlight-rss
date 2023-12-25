@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Amos with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/amos</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 01 Feb 1989 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>Amos with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/amos</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Simply Walking Together - Amos 3:3</title>
+        <link>https://www.joncourson.com/playteaching/S414/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S414</guid>
+        <pubDate>Sun, 08 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 3:3 
+event: Sunday Sermon 
+teaching number: S414</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/d7gzv01W-LDq1jMq6.m4a" length="42065733" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2968</itunes:duration>
+      </item>
+      <item>
+        <title>A Spiritual Famine - Amos 8:11-14</title>
+        <link>https://www.joncourson.com/playteaching/S415/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S415</guid>
+        <pubDate>Sun, 15 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 8:11-14 
+event: Sunday Sermon 
+teaching number: S415</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1MNSyWco-LDq1jMq6.m4a" length="39588913" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2793</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 1-4</title>
+        <link>https://www.joncourson.com/playteaching/W451/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W451</guid>
+        <pubDate>Wed, 18 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 1-4 
+event: Verse by Verse Bible Study 
+teaching number: W451</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cGZDs4z4-LDq1jMq6.m4a" length="62112377" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4382</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 5-7</title>
+        <link>https://www.joncourson.com/playteaching/W452/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W452</guid>
+        <pubDate>Wed, 25 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 5-7 
+event: Verse by Verse Bible Study 
+teaching number: W452</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uUrVRaeg-LDq1jMq6.m4a" length="55019464" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3882</itunes:duration>
+      </item>
+      <item>
+        <title>Israel And The Church - Amos 9:11-15</title>
+        <link>https://www.joncourson.com/playteaching/S416/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S416</guid>
+        <pubDate>Sun, 29 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 9:11-15 
+event: Sunday Sermon 
+teaching number: S416</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GmSLZk3X-LDq1jMq6.m4a" length="66376132" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4683</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 8-9</title>
+        <link>https://www.joncourson.com/playteaching/W453/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W453</guid>
+        <pubDate>Wed, 01 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 8-9 
+event: Verse by Verse Bible Study 
+teaching number: W453</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/N5DBCMNT-LDq1jMq6.m4a" length="53092069" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3746</itunes:duration>
+      </item>
+  </channel>
+  </rss>

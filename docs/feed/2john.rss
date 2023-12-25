@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>2 John with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/2-john</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Wed, 23 Oct 1996 07:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>2 John with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/2-john</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Children Walking In Truth - 2 John 4</title>
+        <link>https://www.joncourson.com/playteaching/S684/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S684</guid>
+        <pubDate>Sun, 13 Oct 1996 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 John 4 
+event: Sunday Sermon 
+teaching number: S684</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/E4Kvdv6o-LDq1jMq6.m4a" length="58304304" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4113</itunes:duration>
+      </item>
+      <item>
+        <title>2 John and 3 John</title>
+        <link>https://www.joncourson.com/playteaching/W756/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W756</guid>
+        <pubDate>Wed, 23 Oct 1996 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: 2 John and 3 John 
+event: Verse by Verse Bible Study 
+teaching number: W756</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/mI04ySbl-LDq1jMq6.m4a" length="67811010" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4784</itunes:duration>
+      </item>
+  </channel>
+  </rss>

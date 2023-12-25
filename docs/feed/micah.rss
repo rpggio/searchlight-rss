@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Micah with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings/micah</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 Searchlight</copyright>
+    <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 15:24:52 GMT</lastBuildDate>
+    <image>
+      <title>Micah with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings/micah</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>What The Lord Requires - Micah 6:6-8</title>
+        <link>https://www.joncourson.com/playteaching/S420/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S420</guid>
+        <pubDate>Sun, 26 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 6:6-8 
+event: Sunday Sermon 
+teaching number: S420</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/m6qZwLeb-LDq1jMq6.m4a" length="42111755" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2971</itunes:duration>
+      </item>
+      <item>
+        <title>Micah 1-3</title>
+        <link>https://www.joncourson.com/playteaching/W456/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W456</guid>
+        <pubDate>Wed, 01 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W456</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9rC4zMiq-LDq1jMq6.m4a" length="44954514" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3171</itunes:duration>
+      </item>
+      <item>
+        <title>Our Vision: Reviewed And Renewed - Micah 4:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S421/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S421</guid>
+        <pubDate>Sun, 05 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4:1-2 
+event: Sunday Sermon 
+teaching number: S421</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wSPp7PtF-LDq1jMq6.m4a" length="57331331" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4045</itunes:duration>
+      </item>
+      <item>
+        <title>Micah 4-6</title>
+        <link>https://www.joncourson.com/playteaching/W457/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W457</guid>
+        <pubDate>Wed, 08 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4-6 
+event: Verse by Verse Bible Study 
+teaching number: W457</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/r3qLwUVe-LDq1jMq6.m4a" length="55337769" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3904</itunes:duration>
+      </item>
+      <item>
+        <title>None Like Him... None But Him - Micah 7</title>
+        <link>https://www.joncourson.com/playteaching/S422/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S422</guid>
+        <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 7 
+event: Sunday Sermon 
+teaching number: S422</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qXcy2k4h-LDq1jMq6.m4a" length="46275408" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3265</itunes:duration>
+      </item>
+  </channel>
+  </rss>
