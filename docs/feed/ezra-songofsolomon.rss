@@ -5,7 +5,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
-    <title>Psalms - Proverbs with Jon Courson</title>
+    <title>Ezra - Song of Solomon with Jon Courson</title>
     <link>https://www.joncourson.com/teachings</link>
     <description>
       Thru-The-Bible teachings by Jon Courson 
@@ -15,11 +15,11 @@
     </description>
     <language>en-us</language>
     <copyright>Searchlight</copyright>
-    <pubDate>Wed, 03 Jun 1987 07:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2023 16:07:26 GMT</lastBuildDate>
-    <atom:link href="https://rpggio.github.io/searchlight-rss/psalms---proverbs.rss" rel="self" type="application/rss+xml"/>    
+    <pubDate>Sun, 16 Mar 2003 08:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2023 18:58:06 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/ezra---song-of-solomon.rss" rel="self" type="application/rss+xml"/>    
     <image>
-      <title>Psalms - Proverbs with Jon Courson</title>
+      <title>Ezra - Song of Solomon with Jon Courson</title>
       <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
       <link>https://www.joncourson.com/teachings</link>
     </image>
@@ -36,6 +36,90 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
 
+      <item>
+        <title>Ezra 1-3</title>
+        <link>https://www.joncourson.com/playteaching/W338/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W338</guid>
+        <pubDate>Wed, 09 Apr 1986 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ezra 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W338</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/z1FI9o6O-LDq1jMq6.m4a" length="51738457" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3650</itunes:duration>
+      </item>
+      <item>
+        <title>Ezra 4-10</title>
+        <link>https://www.joncourson.com/playteaching/W339/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W339</guid>
+        <pubDate>Wed, 16 Apr 1986 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ezra 4-10 
+event: Verse by Verse Bible Study 
+teaching number: W339</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cZXY2ePM-LDq1jMq6.m4a" length="65142674" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4596</itunes:duration>
+      </item>
+      <item>
+        <title>Nehemiah 1-4</title>
+        <link>https://www.joncourson.com/playteaching/W340/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W340</guid>
+        <pubDate>Wed, 23 Apr 1986 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Nehemiah 1-4 
+event: Verse by Verse Bible Study 
+teaching number: W340</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/TTcWJwIo-LDq1jMq6.m4a" length="58789433" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4148</itunes:duration>
+      </item>
+      <item>
+        <title>Nehemiah 5-8</title>
+        <link>https://www.joncourson.com/playteaching/W341/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W341</guid>
+        <pubDate>Wed, 30 Apr 1986 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Nehemiah 5-8 
+event: Verse by Verse Bible Study 
+teaching number: W341</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/D2udO9di-LDq1jMq6.m4a" length="58220600" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4107</itunes:duration>
+      </item>
+      <item>
+        <title>Nehemiah 9-13</title>
+        <link>https://www.joncourson.com/playteaching/W342/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W342</guid>
+        <pubDate>Wed, 07 May 1986 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Nehemiah 9-13 
+event: Verse by Verse Bible Study 
+teaching number: W342</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UWVivgQb-LDq1jMq6.m4a" length="58421101" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4122</itunes:duration>
+      </item>
+      <item>
+        <title>Esther 1-10</title>
+        <link>https://www.joncourson.com/playteaching/W343/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W343</guid>
+        <pubDate>Wed, 21 May 1986 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Esther 1-10 
+event: Verse by Verse Bible Study 
+teaching number: W343</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oG0PVnpk-LDq1jMq6.m4a" length="63342606" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4469</itunes:duration>
+      </item>
       <item>
         <title>Psalms 1-5</title>
         <link>https://www.joncourson.com/playteaching/W347/teachingaudio</link>
@@ -749,6 +833,384 @@ teaching number: W383</description>
         <itunes:author>Jon Courson</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:duration>4824</itunes:duration>
+      </item>
+      <item>
+        <title>Silence - Ecclesiastes 5:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S350/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S350</guid>
+        <pubDate>Sun, 07 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 5:1-2 
+event: Sunday Sermon 
+teaching number: S350</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fvicDLYm-LDq1jMq6.m4a" length="35287382" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2489</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W384/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W384</guid>
+        <pubDate>Wed, 10 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W384</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/gSXW6iio-LDq1jMq6.m4a" length="43966692" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3102</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 3-6</title>
+        <link>https://www.joncourson.com/playteaching/W385/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W385</guid>
+        <pubDate>Wed, 24 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 3-6 
+event: Verse by Verse Bible Study 
+teaching number: W385</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/y9VK2YP7-LDq1jMq6.m4a" length="68106483" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4805</itunes:duration>
+      </item>
+      <item>
+        <title>Happy Deathday To You - Ecclesiastes 7:1</title>
+        <link>https://www.joncourson.com/playteaching/S351/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S351</guid>
+        <pubDate>Sun, 28 Jun 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 7:1 
+event: Sunday Sermon 
+teaching number: S351</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KJRb6PDv-LDq1jMq6.m4a" length="29706461" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2096</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 7-9</title>
+        <link>https://www.joncourson.com/playteaching/W386/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W386</guid>
+        <pubDate>Wed, 01 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 7-9 
+event: Verse by Verse Bible Study 
+teaching number: W386</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QDhn4g1z-LDq1jMq6.m4a" length="61323357" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4326</itunes:duration>
+      </item>
+      <item>
+        <title>On Getting Older - Ecclesiastes 12:1-7</title>
+        <link>https://www.joncourson.com/playteaching/S352/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S352</guid>
+        <pubDate>Sun, 05 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 12:1-7 
+event: Sunday Sermon 
+teaching number: S352</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/l6jzQ0bt-LDq1jMq6.m4a" length="37317322" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2633</itunes:duration>
+      </item>
+      <item>
+        <title>Ecclesiastes 10-12</title>
+        <link>https://www.joncourson.com/playteaching/W387/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W387</guid>
+        <pubDate>Wed, 08 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Ecclesiastes 10-12 
+event: Verse by Verse Bible Study 
+teaching number: W387</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/j0stx1r0-LDq1jMq6.m4a" length="65500575" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4621</itunes:duration>
+      </item>
+      <item>
+        <title>My Life - His Garden - Song of Solomon 4:12 - 5:1</title>
+        <link>https://www.joncourson.com/playteaching/S353/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S353</guid>
+        <pubDate>Sun, 12 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 4:12 - 5:1 
+event: Sunday Sermon 
+teaching number: S353</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/D2NupLvM-LDq1jMq6.m4a" length="27440525" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1936</itunes:duration>
+      </item>
+      <item>
+        <title>Song of Solomon 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W388/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W388</guid>
+        <pubDate>Wed, 15 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W388</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6QkoOCtK-LDq1jMq6.m4a" length="56894689" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4014</itunes:duration>
+      </item>
+      <item>
+        <title>The Glory Of The Church - Song of Solomon 6:10</title>
+        <link>https://www.joncourson.com/playteaching/S354/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S354</guid>
+        <pubDate>Sun, 19 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 6:10 
+event: Sunday Sermon 
+teaching number: S354</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RkPJiSyO-LDq1jMq6.m4a" length="39321421" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2774</itunes:duration>
+      </item>
+      <item>
+        <title>Song of Solomon 2-5</title>
+        <link>https://www.joncourson.com/playteaching/W389/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W389</guid>
+        <pubDate>Wed, 22 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 2-5 
+event: Verse by Verse Bible Study 
+teaching number: W389</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9A7k7l9p-LDq1jMq6.m4a" length="57204835" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4036</itunes:duration>
+      </item>
+      <item>
+        <title>A Loving Look At Our Lovely Lord - Song of Solomon 5:9-16</title>
+        <link>https://www.joncourson.com/playteaching/S355/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S355</guid>
+        <pubDate>Sun, 26 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 5:9-16 
+event: Sunday Sermon 
+teaching number: S355</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GGsJp75e-LDq1jMq6.m4a" length="38015164" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2682</itunes:duration>
+      </item>
+      <item>
+        <title>Song of Solomon 5-8</title>
+        <link>https://www.joncourson.com/playteaching/W390/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W390</guid>
+        <pubDate>Wed, 29 Jul 1987 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Song of Solomon 5-8 
+event: Verse by Verse Bible Study 
+teaching number: W390</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Jup9boxp-LDq1jMq6.m4a" length="58295109" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4113</itunes:duration>
+      </item>
+      <item>
+        <title>Job 1-2</title>
+        <link>https://www.joncourson.com/playteaching/VSC4014/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4014</guid>
+        <pubDate>Sun, 08 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 1-2 
+event: Verse by Verse Bible Study 
+teaching number: VSC4014</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ZPsno7C8-LDq1jMq6.m4a" length="62519235" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4411</itunes:duration>
+      </item>
+      <item>
+        <title>Job 2-5</title>
+        <link>https://www.joncourson.com/playteaching/VSC4015/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4015</guid>
+        <pubDate>Sun, 15 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 2-5 
+event: Verse by Verse Bible Study 
+teaching number: VSC4015</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/twByBEEw-LDq1jMq6.m4a" length="65944454" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4652</itunes:duration>
+      </item>
+      <item>
+        <title>Job 6-8</title>
+        <link>https://www.joncourson.com/playteaching/VSC4016/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4016</guid>
+        <pubDate>Sun, 22 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 6-8 
+event: Verse by Verse Bible Study 
+teaching number: VSC4016</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/KFPGh8jD-LDq1jMq6.m4a" length="60172562" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4245</itunes:duration>
+      </item>
+      <item>
+        <title>Job 9-11</title>
+        <link>https://www.joncourson.com/playteaching/VSC4017/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4017</guid>
+        <pubDate>Sun, 29 Dec 2002 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 9-11 
+event: Verse by Verse Bible Study 
+teaching number: VSC4017</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Rjb1druO-LDq1jMq6.m4a" length="61114749" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4312</itunes:duration>
+      </item>
+      <item>
+        <title>Job 12-14</title>
+        <link>https://www.joncourson.com/playteaching/VSC4018/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4018</guid>
+        <pubDate>Sun, 05 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 12-14 
+event: Verse by Verse Bible Study 
+teaching number: VSC4018</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/I2Wt7we7-LDq1jMq6.m4a" length="61309498" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4325</itunes:duration>
+      </item>
+      <item>
+        <title>Job 15-17</title>
+        <link>https://www.joncourson.com/playteaching/VSC4019/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4019</guid>
+        <pubDate>Sun, 12 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 15-17 
+event: Verse by Verse Bible Study 
+teaching number: VSC4019</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wMiDX2tm-LDq1jMq6.m4a" length="64620948" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4559</itunes:duration>
+      </item>
+      <item>
+        <title>Job 18-20</title>
+        <link>https://www.joncourson.com/playteaching/VSC4020/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4020</guid>
+        <pubDate>Sun, 19 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 18-20 
+event: Verse by Verse Bible Study 
+teaching number: VSC4020</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dLtTLNIt-LDq1jMq6.m4a" length="56202232" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3965</itunes:duration>
+      </item>
+      <item>
+        <title>Job 21-23</title>
+        <link>https://www.joncourson.com/playteaching/VSC4021/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4021</guid>
+        <pubDate>Sun, 26 Jan 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 21-23 
+event: Verse by Verse Bible Study 
+teaching number: VSC4021</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/tWywK7AA-LDq1jMq6.m4a" length="67655742" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4773</itunes:duration>
+      </item>
+      <item>
+        <title>Job 24-26</title>
+        <link>https://www.joncourson.com/playteaching/VSC4022/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4022</guid>
+        <pubDate>Sun, 09 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 24-26 
+event: Verse by Verse Bible Study 
+teaching number: VSC4022</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/BThCRGy9-LDq1jMq6.m4a" length="54032795" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3812</itunes:duration>
+      </item>
+      <item>
+        <title>Job 27-29</title>
+        <link>https://www.joncourson.com/playteaching/VSC4023/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4023</guid>
+        <pubDate>Sun, 16 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 27-29 
+event: Verse by Verse Bible Study 
+teaching number: VSC4023</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/3K23qICv-LDq1jMq6.m4a" length="59997905" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4233</itunes:duration>
+      </item>
+      <item>
+        <title>Job 30-32</title>
+        <link>https://www.joncourson.com/playteaching/VSC4024/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4024</guid>
+        <pubDate>Sun, 23 Feb 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 30-32 
+event: Verse by Verse Bible Study 
+teaching number: VSC4024</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nbheFGrp-LDq1jMq6.m4a" length="60265692" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4252</itunes:duration>
+      </item>
+      <item>
+        <title>Job 33-35</title>
+        <link>https://www.joncourson.com/playteaching/VSC4025/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4025</guid>
+        <pubDate>Sun, 02 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 33-35 
+event: Verse by Verse Bible Study 
+teaching number: VSC4025</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/jXCeemSU-LDq1jMq6.m4a" length="67170027" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4739</itunes:duration>
+      </item>
+      <item>
+        <title>Job 36-38</title>
+        <link>https://www.joncourson.com/playteaching/VSC4026/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4026</guid>
+        <pubDate>Sun, 09 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 36-38 
+event: Verse by Verse Bible Study 
+teaching number: VSC4026</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G8Xi4bxi-LDq1jMq6.m4a" length="70788361" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4994</itunes:duration>
+      </item>
+      <item>
+        <title>Job 39-42</title>
+        <link>https://www.joncourson.com/playteaching/VSC4027/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-VSC4027</guid>
+        <pubDate>Sun, 16 Mar 2003 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Job 39-42 
+event: Verse by Verse Bible Study 
+teaching number: VSC4027</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/8ylCxqku-LDq1jMq6.m4a" length="69205504" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4883</itunes:duration>
       </item>
   </channel>
   </rss>

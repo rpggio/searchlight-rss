@@ -2,16 +2,22 @@ import * as fs from 'fs'
 import { Teaching, TeachingFeed } from './types';
 import { BibleBook, bibleBooks } from './lib/bible';
 
-export type BookRange = { from: BibleBook, to: BibleBook }
+export type BookRange = { from: BibleBook, to: BibleBook, count?: number }
 
 export const bookRanges: BookRange[] = [
-   { "from": "Genesis", "to": "Leviticus" },
-   { "from": "Numbers", "to": "1 Samuel" },
-   { "from": "2 Samuel", "to": "Song of Solomon" },
-   { "from": "Isaiah", "to": "Malachi" },
-   { "from": "Matthew", "to": "John" },
-   { "from": "Acts", "to": "Galatians" },
-   { "from": "Ephesians", "to": "Revelation" }
+   { "from": "Genesis", "to": "Exodus", "count": 143 },
+   { "from": "Leviticus", "to": "Deuteronomy", "count": 94 },
+   { "from": "Joshua", "to": "1 Samuel", "count": 85 },
+   { "from": "2 Samuel", "to": "2 Chronicles", "count": 84 },
+   { "from": "Ezra", "to": "Song of Solomon", "count": 84 },
+   { "from": "Isaiah", "to": "Ezekiel", "count": 92 },
+   { "from": "Daniel", "to": "Malachi", "count": 65 },
+   { "from": "Matthew", "to": "Mark", "count": 90 },
+   { "from": "Luke", "to": "John", "count": 109 },
+   { "from": "Acts", "to": "Romans", "count": 112 },
+   { "from": "1 Corinthians", "to": "Ephesians", "count": 100 },
+   { "from": "Philippians", "to": "James", "count": 82 },
+   { "from": "1 Peter", "to": "Revelation", "count": 96 }
 ]
 
 export function loadFeed(book: string) {

@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+    <title>Daniel - Malachi with Jon Courson</title>
+    <link>https://www.joncourson.com/teachings</link>
+    <description>
+      Thru-The-Bible teachings by Jon Courson 
+      Studies from Mar 1985 to Mar 2003
+      https://www.joncourson.com/teachings
+      © 2023 - Searchlight
+    </description>
+    <language>en-us</language>
+    <copyright>Searchlight</copyright>
+    <pubDate>Wed, 05 Jul 1989 07:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2023 18:58:06 GMT</lastBuildDate>
+    <atom:link href="https://rpggio.github.io/searchlight-rss/daniel---malachi.rss" rel="self" type="application/rss+xml"/>    
+    <image>
+      <title>Daniel - Malachi with Jon Courson</title>
+      <url>https://slpodcast.blob.core.windows.net/podcast/podcastimage144.jpg</url>
+      <link>https://www.joncourson.com/teachings</link>
+    </image>
+    <itunes:author>Jon Courson</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://slpodcast.blob.core.windows.net/podcast/podcastimage.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Searchlight</itunes:name>
+      <itunes:email>podcast@joncourson.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>jon courson, searchlight, applegate, jesus, bible, christian, christianity</itunes:keywords>
+
+      <item>
+        <title>Handling The Heat - Daniel 3:10-26</title>
+        <link>https://www.joncourson.com/playteaching/S404/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S404</guid>
+        <pubDate>Sun, 02 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 3:10-26 
+event: Sunday Sermon 
+teaching number: S404</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VfP5TvzI-LDq1jMq6.m4a" length="46052395" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3249</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 1</title>
+        <link>https://www.joncourson.com/playteaching/W437/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W437</guid>
+        <pubDate>Wed, 05 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 1 
+event: Verse by Verse Bible Study 
+teaching number: W437</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/iSnJJC43-LDq1jMq6.m4a" length="53491113" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3774</itunes:duration>
+      </item>
+      <item>
+        <title>Learning To Listen - Daniel 2:16-19</title>
+        <link>https://www.joncourson.com/playteaching/S405/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S405</guid>
+        <pubDate>Sun, 09 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 2:16-19 
+event: Sunday Sermon 
+teaching number: S405</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/CluIRCN0-LDq1jMq6.m4a" length="41590128" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2934</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 2</title>
+        <link>https://www.joncourson.com/playteaching/W438/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W438</guid>
+        <pubDate>Wed, 12 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 2 
+event: Verse by Verse Bible Study 
+teaching number: W438</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/UYI3SOpi-LDq1jMq6.m4a" length="63117501" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4453</itunes:duration>
+      </item>
+      <item>
+        <title>Seemingly Impossible Salvation - Daniel 4</title>
+        <link>https://www.joncourson.com/playteaching/S406/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S406</guid>
+        <pubDate>Sun, 16 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 4 
+event: Sunday Sermon 
+teaching number: S406</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/VrpOn8nF-LDq1jMq6.m4a" length="38783374" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2736</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 3</title>
+        <link>https://www.joncourson.com/playteaching/W439/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W439</guid>
+        <pubDate>Wed, 19 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 3 
+event: Verse by Verse Bible Study 
+teaching number: W439</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/g5AEpJum-LDq1jMq6.m4a" length="55579205" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3921</itunes:duration>
+      </item>
+      <item>
+        <title>The Finger Of God - Daniel 5</title>
+        <link>https://www.joncourson.com/playteaching/S407/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S407</guid>
+        <pubDate>Sun, 23 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 5 
+event: Sunday Sermon 
+teaching number: S407</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xSbKlL9f-LDq1jMq6.m4a" length="56856414" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4011</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 6</title>
+        <link>https://www.joncourson.com/playteaching/W440/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W440</guid>
+        <pubDate>Wed, 26 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 6 
+event: Verse by Verse Bible Study 
+teaching number: W440</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/RCnedtAX-LDq1jMq6.m4a" length="67579451" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4768</itunes:duration>
+      </item>
+      <item>
+        <title>A Greater Than Alexander - Daniel 8:1-8</title>
+        <link>https://www.joncourson.com/playteaching/S408/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S408</guid>
+        <pubDate>Sun, 30 Oct 1988 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 8:1-8 
+event: Sunday Sermon 
+teaching number: S408</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/u0YkagM0-LDq1jMq6.m4a" length="39436644" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2782</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 7</title>
+        <link>https://www.joncourson.com/playteaching/W441/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W441</guid>
+        <pubDate>Wed, 02 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 7 
+event: Verse by Verse Bible Study 
+teaching number: W441</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lgeyWoO4-LDq1jMq6.m4a" length="55705294" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3930</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 8</title>
+        <link>https://www.joncourson.com/playteaching/W442/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W442</guid>
+        <pubDate>Wed, 09 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 8 
+event: Verse by Verse Bible Study 
+teaching number: W442</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/QTJDYBMc-LDq1jMq6.m4a" length="57399887" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4050</itunes:duration>
+      </item>
+      <item>
+        <title>The Seventy Weeks Of Daniel - Daniel 9:20-27</title>
+        <link>https://www.joncourson.com/playteaching/S409/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S409</guid>
+        <pubDate>Sun, 13 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 9:20-27 
+event: Sunday Sermon 
+teaching number: S409</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LIGWWtHs-LDq1jMq6.m4a" length="56343509" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3975</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 9</title>
+        <link>https://www.joncourson.com/playteaching/W443/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W443</guid>
+        <pubDate>Wed, 16 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 9 
+event: Verse by Verse Bible Study 
+teaching number: W443</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/eNXq0XRS-LDq1jMq6.m4a" length="48551383" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3425</itunes:duration>
+      </item>
+      <item>
+        <title>Strengthened In The Struggle - Daniel 10</title>
+        <link>https://www.joncourson.com/playteaching/S410/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S410</guid>
+        <pubDate>Sun, 20 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 10 
+event: Sunday Sermon 
+teaching number: S410</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/lbgzWnod-LDq1jMq6.m4a" length="53764399" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3793</itunes:duration>
+      </item>
+      <item>
+        <title>Sharing And Shining - Daniel 12:3</title>
+        <link>https://www.joncourson.com/playteaching/S411/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S411</guid>
+        <pubDate>Sun, 27 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 12:3 
+event: Sunday Sermon 
+teaching number: S411</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/OCqMhMdb-LDq1jMq6.m4a" length="44191083" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3118</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 11</title>
+        <link>https://www.joncourson.com/playteaching/W444/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W444</guid>
+        <pubDate>Wed, 30 Nov 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 11 
+event: Verse by Verse Bible Study 
+teaching number: W444</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/7WPXeVtx-LDq1jMq6.m4a" length="64297751" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4536</itunes:duration>
+      </item>
+      <item>
+        <title>Daniel 12</title>
+        <link>https://www.joncourson.com/playteaching/W445/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W445</guid>
+        <pubDate>Wed, 07 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Daniel 12 
+event: Verse by Verse Bible Study 
+teaching number: W445</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dKrmQ3UN-LDq1jMq6.m4a" length="58826776" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4150</itunes:duration>
+      </item>
+      <item>
+        <title>Hosea 1-5</title>
+        <link>https://www.joncourson.com/playteaching/W446/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W446</guid>
+        <pubDate>Wed, 14 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 1-5 
+event: Verse by Verse Bible Study 
+teaching number: W446</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oTHUWNvW-LDq1jMq6.m4a" length="51120628" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3607</itunes:duration>
+      </item>
+      <item>
+        <title>The Rest Of The Story - Hosea 12:4</title>
+        <link>https://www.joncourson.com/playteaching/S412/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S412</guid>
+        <pubDate>Sun, 18 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 12:4 
+event: Sunday Sermon 
+teaching number: S412</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/94JXc2wx-LDq1jMq6.m4a" length="54408853" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3839</itunes:duration>
+      </item>
+      <item>
+        <title>Hosea 6-10</title>
+        <link>https://www.joncourson.com/playteaching/W447/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W447</guid>
+        <pubDate>Wed, 21 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 6-10 
+event: Verse by Verse Bible Study 
+teaching number: W447</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/LjbVt1Ag-LDq1jMq6.m4a" length="53699912" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3789</itunes:duration>
+      </item>
+      <item>
+        <title>Hosea 11-14</title>
+        <link>https://www.joncourson.com/playteaching/W448/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W448</guid>
+        <pubDate>Wed, 28 Dec 1988 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Hosea 11-14 
+event: Verse by Verse Bible Study 
+teaching number: W448</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/P1aMrfEp-LDq1jMq6.m4a" length="54421445" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3839</itunes:duration>
+      </item>
+      <item>
+        <title>Restoring The Year</title>
+        <link>https://www.joncourson.com/playteaching/S413/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S413</guid>
+        <pubDate>Sun, 01 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Restoring The Year 
+event: New Year's Day 1989 
+teaching number: S413</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/kCvPFZ3G-LDq1jMq6.m4a" length="46991599" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3315</itunes:duration>
+      </item>
+      <item>
+        <title>Joel 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W449/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W449</guid>
+        <pubDate>Wed, 04 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joel 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W449</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5l2D8GtX-LDq1jMq6.m4a" length="55110732" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3888</itunes:duration>
+      </item>
+      <item>
+        <title>Simply Walking Together - Amos 3:3</title>
+        <link>https://www.joncourson.com/playteaching/S414/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S414</guid>
+        <pubDate>Sun, 08 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 3:3 
+event: Sunday Sermon 
+teaching number: S414</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/d7gzv01W-LDq1jMq6.m4a" length="42065733" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2968</itunes:duration>
+      </item>
+      <item>
+        <title>Joel 2-3</title>
+        <link>https://www.joncourson.com/playteaching/W450/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W450</guid>
+        <pubDate>Wed, 11 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Joel 2-3 
+event: Verse by Verse Bible Study 
+teaching number: W450</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Pldali1Z-LDq1jMq6.m4a" length="50482623" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3562</itunes:duration>
+      </item>
+      <item>
+        <title>A Spiritual Famine - Amos 8:11-14</title>
+        <link>https://www.joncourson.com/playteaching/S415/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S415</guid>
+        <pubDate>Sun, 15 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 8:11-14 
+event: Sunday Sermon 
+teaching number: S415</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1MNSyWco-LDq1jMq6.m4a" length="39588913" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2793</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 1-4</title>
+        <link>https://www.joncourson.com/playteaching/W451/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W451</guid>
+        <pubDate>Wed, 18 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 1-4 
+event: Verse by Verse Bible Study 
+teaching number: W451</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cGZDs4z4-LDq1jMq6.m4a" length="62112377" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4382</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 5-7</title>
+        <link>https://www.joncourson.com/playteaching/W452/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W452</guid>
+        <pubDate>Wed, 25 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 5-7 
+event: Verse by Verse Bible Study 
+teaching number: W452</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/uUrVRaeg-LDq1jMq6.m4a" length="55019464" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3882</itunes:duration>
+      </item>
+      <item>
+        <title>Israel And The Church - Amos 9:11-15</title>
+        <link>https://www.joncourson.com/playteaching/S416/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S416</guid>
+        <pubDate>Sun, 29 Jan 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 9:11-15 
+event: Sunday Sermon 
+teaching number: S416</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GmSLZk3X-LDq1jMq6.m4a" length="66376132" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4683</itunes:duration>
+      </item>
+      <item>
+        <title>Amos 8-9</title>
+        <link>https://www.joncourson.com/playteaching/W453/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W453</guid>
+        <pubDate>Wed, 01 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Amos 8-9 
+event: Verse by Verse Bible Study 
+teaching number: W453</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/N5DBCMNT-LDq1jMq6.m4a" length="53092069" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3746</itunes:duration>
+      </item>
+      <item>
+        <title>The Poison Of Pride - Obadiah</title>
+        <link>https://www.joncourson.com/playteaching/S417/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S417</guid>
+        <pubDate>Sun, 05 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Obadiah 
+event: Sunday Sermon 
+teaching number: S417</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/GzWzIE1Y-LDq1jMq6.m4a" length="49462624" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3490</itunes:duration>
+      </item>
+      <item>
+        <title>Jonah 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W454/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W454</guid>
+        <pubDate>Wed, 08 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W454</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/vjm7KYtz-LDq1jMq6.m4a" length="50632874" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3572</itunes:duration>
+      </item>
+      <item>
+        <title>Preparing And Repairing - Jonah 4</title>
+        <link>https://www.joncourson.com/playteaching/S418/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S418</guid>
+        <pubDate>Sun, 12 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 4 
+event: Sunday Sermon 
+teaching number: S418</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/sfpJQS7q-LDq1jMq6.m4a" length="34235017" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2415</itunes:duration>
+      </item>
+      <item>
+        <title>A Whale Of A Sign - Jonah 1:17</title>
+        <link>https://www.joncourson.com/playteaching/S419/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S419</guid>
+        <pubDate>Sun, 19 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 1:17 
+event: Sunday Sermon 
+teaching number: S419</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/pexmK0ZO-LDq1jMq6.m4a" length="47170915" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3328</itunes:duration>
+      </item>
+      <item>
+        <title>Jonah 3-4</title>
+        <link>https://www.joncourson.com/playteaching/W455/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W455</guid>
+        <pubDate>Wed, 22 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Jonah 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W455</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/5JLvbWBG-LDq1jMq6.m4a" length="53486137" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3773</itunes:duration>
+      </item>
+      <item>
+        <title>What The Lord Requires - Micah 6:6-8</title>
+        <link>https://www.joncourson.com/playteaching/S420/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S420</guid>
+        <pubDate>Sun, 26 Feb 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 6:6-8 
+event: Sunday Sermon 
+teaching number: S420</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/m6qZwLeb-LDq1jMq6.m4a" length="42111755" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2971</itunes:duration>
+      </item>
+      <item>
+        <title>Micah 1-3</title>
+        <link>https://www.joncourson.com/playteaching/W456/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W456</guid>
+        <pubDate>Wed, 01 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W456</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/9rC4zMiq-LDq1jMq6.m4a" length="44954514" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3171</itunes:duration>
+      </item>
+      <item>
+        <title>Our Vision: Reviewed And Renewed - Micah 4:1-2</title>
+        <link>https://www.joncourson.com/playteaching/S421/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S421</guid>
+        <pubDate>Sun, 05 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4:1-2 
+event: Sunday Sermon 
+teaching number: S421</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/wSPp7PtF-LDq1jMq6.m4a" length="57331331" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4045</itunes:duration>
+      </item>
+      <item>
+        <title>Micah 4-6</title>
+        <link>https://www.joncourson.com/playteaching/W457/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W457</guid>
+        <pubDate>Wed, 08 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 4-6 
+event: Verse by Verse Bible Study 
+teaching number: W457</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/r3qLwUVe-LDq1jMq6.m4a" length="55337769" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3904</itunes:duration>
+      </item>
+      <item>
+        <title>None Like Him... None But Him - Micah 7</title>
+        <link>https://www.joncourson.com/playteaching/S422/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S422</guid>
+        <pubDate>Sun, 12 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Micah 7 
+event: Sunday Sermon 
+teaching number: S422</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qXcy2k4h-LDq1jMq6.m4a" length="46275408" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3265</itunes:duration>
+      </item>
+      <item>
+        <title>Nahum</title>
+        <link>https://www.joncourson.com/playteaching/W458/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W458</guid>
+        <pubDate>Wed, 15 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Nahum 
+event: Verse by Verse Bible Study 
+teaching number: W458</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/K8P2wj4X-LDq1jMq6.m4a" length="66412139" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4685</itunes:duration>
+      </item>
+      <item>
+        <title>Nothing But Faith - Habakkuk 2:4</title>
+        <link>https://www.joncourson.com/playteaching/S423/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S423</guid>
+        <pubDate>Sun, 19 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Habakkuk 2:4 
+event: Sunday Sermon 
+teaching number: S423</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/a7d48gtY-LDq1jMq6.m4a" length="52165090" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3680</itunes:duration>
+      </item>
+      <item>
+        <title>Habakkuk</title>
+        <link>https://www.joncourson.com/playteaching/W459/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W459</guid>
+        <pubDate>Wed, 22 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Habakkuk 
+event: Verse by Verse Bible Study 
+teaching number: W459</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/cE6Tr7Zs-LDq1jMq6.m4a" length="66643523" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4702</itunes:duration>
+      </item>
+      <item>
+        <title>Zephaniah 1</title>
+        <link>https://www.joncourson.com/playteaching/W460/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W460</guid>
+        <pubDate>Wed, 29 Mar 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 1 
+event: Verse by Verse Bible Study 
+teaching number: W460</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Eh41G4XQ-LDq1jMq6.m4a" length="54893086" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3873</itunes:duration>
+      </item>
+      <item>
+        <title>The Language Of The Kingdom - Zephaniah 3:9</title>
+        <link>https://www.joncourson.com/playteaching/S424/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S424</guid>
+        <pubDate>Sun, 02 Apr 1989 08:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 3:9 
+event: Sunday Sermon 
+teaching number: S424</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/G1usvND6-LDq1jMq6.m4a" length="44482287" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3138</itunes:duration>
+      </item>
+      <item>
+        <title>Zephaniah 2-3</title>
+        <link>https://www.joncourson.com/playteaching/W461/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W461</guid>
+        <pubDate>Wed, 05 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zephaniah 2-3 
+event: Verse by Verse Bible Study 
+teaching number: W461</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EnQZ0lNQ-LDq1jMq6.m4a" length="58034706" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4094</itunes:duration>
+      </item>
+      <item>
+        <title>Now Is The Time - Haggai 2:4</title>
+        <link>https://www.joncourson.com/playteaching/S425/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S425</guid>
+        <pubDate>Sun, 09 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Haggai 2:4 
+event: Sunday Sermon 
+teaching number: S425</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/qBwtTeXI-LDq1jMq6.m4a" length="41252205" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2910</itunes:duration>
+      </item>
+      <item>
+        <title>Haggai</title>
+        <link>https://www.joncourson.com/playteaching/W462/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W462</guid>
+        <pubDate>Wed, 12 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Haggai 
+event: Verse by Verse Bible Study 
+teaching number: W462</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/PCvUfyE6-LDq1jMq6.m4a" length="54408909" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3839</itunes:duration>
+      </item>
+      <item>
+        <title>Robed In Righteousness - Zechariah 3:1-4</title>
+        <link>https://www.joncourson.com/playteaching/S426/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S426</guid>
+        <pubDate>Sun, 16 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 3:1-4 
+event: Sunday Sermon 
+teaching number: S426</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/1izPlpGa-LDq1jMq6.m4a" length="41974896" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2961</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 1-3</title>
+        <link>https://www.joncourson.com/playteaching/W463/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W463</guid>
+        <pubDate>Wed, 19 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 1-3 
+event: Verse by Verse Bible Study 
+teaching number: W463</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/ztopU9t4-LDq1jMq6.m4a" length="53479994" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3773</itunes:duration>
+      </item>
+      <item>
+        <title>The Secret Is The Spirit - Zechariah 4</title>
+        <link>https://www.joncourson.com/playteaching/S427/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S427</guid>
+        <pubDate>Sun, 23 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 4 
+event: Sunday Sermon 
+teaching number: S427</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/MVcVoQoB-LDq1jMq6.m4a" length="39431076" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2782</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 5-8</title>
+        <link>https://www.joncourson.com/playteaching/W464/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W464</guid>
+        <pubDate>Wed, 26 Apr 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 5-8 
+event: Verse by Verse Bible Study 
+teaching number: W464</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/F1DVWaOn-LDq1jMq6.m4a" length="60444047" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4264</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 9-10</title>
+        <link>https://www.joncourson.com/playteaching/W465/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W465</guid>
+        <pubDate>Wed, 03 May 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 9-10 
+event: Verse by Verse Bible Study 
+teaching number: W465</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/fSWe8uYL-LDq1jMq6.m4a" length="53030784" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3741</itunes:duration>
+      </item>
+      <item>
+        <title>The Piercing Proof Of His Love - Zechariah 12:9-10</title>
+        <link>https://www.joncourson.com/playteaching/S428/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S428</guid>
+        <pubDate>Sun, 07 May 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 12:9-10 
+event: Sunday Sermon 
+teaching number: S428</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/6UAEIRco-LDq1jMq6.m4a" length="27025823" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1906</itunes:duration>
+      </item>
+      <item>
+        <title>The Potter's Field - Zechariah 11:9-13</title>
+        <link>https://www.joncourson.com/playteaching/S429/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S429</guid>
+        <pubDate>Sun, 21 May 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 11:9-13 
+event: Sunday Sermon 
+teaching number: S429</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/xskgK7N7-LDq1jMq6.m4a" length="42236424" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2980</itunes:duration>
+      </item>
+      <item>
+        <title>Smitten Shepherd . . . Scattered Sheep - Zechariah 13:7</title>
+        <link>https://www.joncourson.com/playteaching/S430/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S430</guid>
+        <pubDate>Sun, 28 May 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 13:7 
+event: Sunday Sermon 
+teaching number: S430</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/NHAM3aB0-LDq1jMq6.m4a" length="37185970" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2623</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 11-12</title>
+        <link>https://www.joncourson.com/playteaching/W466/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W466</guid>
+        <pubDate>Wed, 31 May 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 11-12 
+event: Verse by Verse Bible Study 
+teaching number: W466</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/Uy0H8BY7-LDq1jMq6.m4a" length="58934622" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4158</itunes:duration>
+      </item>
+      <item>
+        <title>Why Worship? - Zechariah 14:16-18</title>
+        <link>https://www.joncourson.com/playteaching/S431/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S431</guid>
+        <pubDate>Sun, 04 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 14:16-18 
+event: Sunday Sermon 
+teaching number: S431</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/g742jgUy-LDq1jMq6.m4a" length="28834116" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2034</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 12-13</title>
+        <link>https://www.joncourson.com/playteaching/W467/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W467</guid>
+        <pubDate>Wed, 07 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 12-13 
+event: Verse by Verse Bible Study 
+teaching number: W467</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/38ZP9TqV-LDq1jMq6.m4a" length="47533575" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3353</itunes:duration>
+      </item>
+      <item>
+        <title>Holiness Unto The Lord - Zechariah 14:20-21</title>
+        <link>https://www.joncourson.com/playteaching/S432/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S432</guid>
+        <pubDate>Sun, 11 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 14:20-21 
+event: Sunday Sermon 
+teaching number: S432</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/oBHPaSJ3-LDq1jMq6.m4a" length="31189538" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2200</itunes:duration>
+      </item>
+      <item>
+        <title>Zechariah 14</title>
+        <link>https://www.joncourson.com/playteaching/W468/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W468</guid>
+        <pubDate>Wed, 14 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Zechariah 14 
+event: Verse by Verse Bible Study 
+teaching number: W468</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/A2yhYKzO-LDq1jMq6.m4a" length="54914076" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3874</itunes:duration>
+      </item>
+      <item>
+        <title>A Marvelous Mystery - Malachi 1:1-5</title>
+        <link>https://www.joncourson.com/playteaching/S433/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S433</guid>
+        <pubDate>Sun, 25 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Malachi 1:1-5 
+event: Sunday Sermon 
+teaching number: S433</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/EYGQKh4M-LDq1jMq6.m4a" length="27307873" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>1926</itunes:duration>
+      </item>
+      <item>
+        <title>Malachi 1-2</title>
+        <link>https://www.joncourson.com/playteaching/W469/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W469</guid>
+        <pubDate>Wed, 28 Jun 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Malachi 1-2 
+event: Verse by Verse Bible Study 
+teaching number: W469</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/dltZRdxX-LDq1jMq6.m4a" length="55540938" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>3918</itunes:duration>
+      </item>
+      <item>
+        <title>God's Amazing Memory - Malachi 3:16</title>
+        <link>https://www.joncourson.com/playteaching/S434/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-S434</guid>
+        <pubDate>Sun, 02 Jul 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Malachi 3:16 
+event: Sunday Sermon 
+teaching number: S434</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/AGni4U8P-LDq1jMq6.m4a" length="37369210" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>2636</itunes:duration>
+      </item>
+      <item>
+        <title>Malachi 3-4</title>
+        <link>https://www.joncourson.com/playteaching/W470/teachingaudio</link>
+        <guid isPermaLink="false">joncourson-searchlight-W470</guid>
+        <pubDate>Wed, 05 Jul 1989 07:00:00 GMT</pubDate>
+        <description>series: Thru-The-Bible Studies 
+passage: Malachi 3-4 
+event: Verse by Verse Bible Study 
+teaching number: W470</description>
+        <enclosure url="https://cdn.jwplayer.com/videos/nH0rQXti-LDq1jMq6.m4a" length="61094248" type="audio/mp4"/>
+        <itunes:author>Jon Courson</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>4310</itunes:duration>
+      </item>
+  </channel>
+  </rss>
