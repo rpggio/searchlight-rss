@@ -1,10 +1,10 @@
 import { bibleBooks } from "../lib/bible";
-import { allTeachings, groupedBookFeeds, isEarlySeries } from "../teachingLookup";
+import { allTeachings, groupedBookFeeds, isEarlySeries } from "../teachingData";
 
 const datesByBook = new Map<string, string[]>(bibleBooks.map(book => [book, []]))
 const datesBySeries = new Map<string, [Date, Date]>();
 
-const teachings = Array.from(allTeachings()).filter(isEarlySeries)
+const teachings = Array.from(allTeachings(true)).filter(isEarlySeries)
 for (const teaching of teachings) {
     const date = new Date(teaching.date!)
 

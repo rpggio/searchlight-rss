@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import { renderFeed } from "../renderFeed";
-import { earlySeriesTeachings, bookFileNameSlug, groupedBookFeeds, isEarlySeries } from "../teachingLookup";
+import { earlySeriesTeachings, bookFileNameSlug, groupedBookFeeds, isEarlySeries } from "../teachingData";
 
 for (const feed of earlySeriesTeachings()) {
    const slug = bookFileNameSlug(feed.title)

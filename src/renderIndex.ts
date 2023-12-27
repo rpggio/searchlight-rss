@@ -1,5 +1,5 @@
 import { bibleBooks } from "./lib/bible";
-import { bookFileNameSlug, bookRangeFileNameSlug, bookRanges } from "./teachingLookup";
+import { bookFileNameSlug, bookRangeFileNameSlug, bookRanges } from "./teachingData";
 
 export function renderIndex() {
    const renderFeedRow = (slug: string, title: string) => {

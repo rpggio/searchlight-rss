@@ -1,10 +1,9 @@
-import * as fs from 'fs'
 import { JSDOM } from 'jsdom'
-import { Teaching, TeachingFeed, TeachingMedia } from './types'
 import { getMediaItem } from './lib/jwPlayerApi/getMediaItem'
+import { Teaching, TeachingFeed, TeachingMedia } from './types'
 
 import ky from 'ky'
-import { bookFileNameSlug } from './teachingLookup'
+import { bookFileNameSlug, saveTeachingFeed } from './teachingData'
 
 interface TeachingParseRow {
    series: string
@@ -175,10 +174,10 @@ export async function extractTeachings() {
 
       const feed: TeachingFeed = {
          title: book.name,
+         books: [book.name],
          teachings
       }
 
-      const json = JSON.stringify(feed, null, 3)
-      fs.writeFileSync(`docs/feed/${bookSlug}.json`, json)
+      saveTeachingFeed(feed)
    }
 }

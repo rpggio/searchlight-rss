@@ -20,24 +20,36 @@ export const bookRanges: BookRange[] = [
    { "from": "1 Peter", "to": "Revelation", "count": 96 }
 ]
 
-export function loadFeed(book: string) {
+export function saveTeachingFeed(feed: TeachingFeed) {
+   if (feed.books.length !== 1) {
+      throw new Error('Feed must have exactly one book')
+   }
+   const book = feed.books[0]
+   const bookSlug = bookFileNameSlug(book)
+   const json = JSON.stringify(feed, null, 3)
+   fs.writeFileSync(`docs/feed/${bookSlug}.json`, json)
+}
+
+export function loadTeachingFeed(book: string, dateSort: boolean) {
    const slug = bookFileNameSlug(book)
    const feed = JSON.parse(fs.readFileSync(`docs/feed/${slug}.json`, 'utf8')) as Omit<TeachingFeed, 'books'>;
-   sortByDate(feed.teachings)
+   if (dateSort){
+      sortByDate(feed.teachings)
+   }
    return {
       ...feed,
       books: [book],
    } satisfies TeachingFeed
 }
 
-export function* allFeeds() {
+export function* allFeeds(dateSort: boolean) {
    for (const book of bibleBooks) {
-      yield loadFeed(book)
+      yield loadTeachingFeed(book, dateSort)
    }
 }
 
-export function* allTeachings(): Iterable<Teaching & { book: string }> {
-   for (const feed of allFeeds()) {
+export function* allTeachings(dateSort: boolean): Iterable<Teaching & { book: string }> {
+   for (const feed of allFeeds(dateSort)) {
       for (const teaching of feed.teachings) {
          yield {
             ...teaching,
@@ -53,7 +65,7 @@ export function isEarlySeries(teaching: Teaching) {
 }
 
 export function* earlySeriesTeachings() {
-   for (const feed of allFeeds()) {
+   for (const feed of allFeeds(true)) {
       feed.teachings = feed.teachings.filter(isEarlySeries)
       yield feed
    }
@@ -71,7 +83,7 @@ export function* groupedBookFeeds(filter: (teaching: Teaching) => boolean) {
       const teachings: Teaching[] = []
       const books = bibleBooks.slice(fromIdx, toIdx + 1)
       for (const book of books) {
-         teachings.push(...loadFeed(book).teachings.filter(filter))
+         teachings.push(...loadTeachingFeed(book, true).teachings.filter(filter))
       }
 
       sortByDate(teachings)
@@ -97,4 +109,8 @@ export function bookRangeFileNameSlug(range: BookRange) {
 
 export function bookFileNameSlug(book: string) {
    return book.toLowerCase().replace(/ /g, '')
+}
+
+export function canonicalTeachingLink(teaching: Teaching){
+   return `https://www.joncourson.com/playteaching/${teaching.teachingNumber}`
 }

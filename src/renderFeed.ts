@@ -20,14 +20,11 @@ event: ${teaching.event || 'Event'}
 teaching number: ${teaching.teachingNumber}
   `.trim()
 
-    const link = `https://www.joncourson.com/playteaching/${teaching.teachingNumber}/teachingaudio`
-    // <link>${teaching.media.link}</link>
-
     rssItems += `
       <item>
         <title>${teaching.title || 'Untitled Teaching'}</title>
-        <link>${link}</link>
-        <guid isPermaLink="false">joncourson-searchlight-${teaching.teachingNumber}</guid>
+        <link>${teaching.link}</link>
+        <guid isPermaLink="false">${teaching.guid}</guid>
         <pubDate>${new Date(teaching.date).toUTCString()}</pubDate>
         <description>${description}</description>
         <enclosure url="${teaching.media.source.file}" length="${teaching.media.source.filesize}" type="${teaching.media.source.type}"/>

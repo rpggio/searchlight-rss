@@ -25,6 +25,8 @@ export interface TeachingMedia {
 export interface Teaching {
   series: string;
   date: string;
+  guid?: string;
+  link?: string;
   title?: string;
   passage?: string;
   event?: string;
