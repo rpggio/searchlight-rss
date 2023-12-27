@@ -16,7 +16,7 @@
     <language>en-us</language>
     <copyright>Searchlight</copyright>
     <pubDate>Wed, 12 Apr 1989 07:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Dec 2023 18:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 00:59:36 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/haggai.rss" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Haggai with Jon Courson</title>
@@ -38,8 +38,8 @@
 
       <item>
         <title>Now Is The Time - Haggai 2:4</title>
-        <link>https://www.joncourson.com/playteaching/S425/teachingaudio</link>
-        <guid isPermaLink="false">joncourson-searchlight-S425</guid>
+        <link>https://www.joncourson.com/playteaching/S425</link>
+        <guid isPermaLink="false">21a1a7f7-ee04-5986-b153-d03d3da86ca1</guid>
         <pubDate>Sun, 09 Apr 1989 07:00:00 GMT</pubDate>
         <description>series: Thru-The-Bible Studies 
 passage: Haggai 2:4 
@@ -52,8 +52,8 @@ teaching number: S425</description>
       </item>
       <item>
         <title>Haggai</title>
-        <link>https://www.joncourson.com/playteaching/W462/teachingaudio</link>
-        <guid isPermaLink="false">joncourson-searchlight-W462</guid>
+        <link>https://www.joncourson.com/playteaching/W462</link>
+        <guid isPermaLink="false">649e433c-4627-5044-9b55-26ef98d3f449</guid>
         <pubDate>Wed, 12 Apr 1989 07:00:00 GMT</pubDate>
         <description>series: Thru-The-Bible Studies 
 passage: Haggai 

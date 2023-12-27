@@ -16,7 +16,7 @@
     <language>en-us</language>
     <copyright>Searchlight</copyright>
     <pubDate>Wed, 16 Apr 1986 08:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 Dec 2023 18:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 00:59:36 GMT</lastBuildDate>
     <atom:link href="https://rpggio.github.io/searchlight-rss/ezra.rss" rel="self" type="application/rss+xml"/>    
     <image>
       <title>Ezra with Jon Courson</title>
@@ -38,8 +38,8 @@
 
       <item>
         <title>Ezra 1-3</title>
-        <link>https://www.joncourson.com/playteaching/W338/teachingaudio</link>
-        <guid isPermaLink="false">joncourson-searchlight-W338</guid>
+        <link>https://www.joncourson.com/playteaching/W338</link>
+        <guid isPermaLink="false">c5bd83f0-07f0-5b86-bae5-76e03436a855</guid>
         <pubDate>Wed, 09 Apr 1986 08:00:00 GMT</pubDate>
         <description>series: Thru-The-Bible Studies 
 passage: Ezra 1-3 
@@ -52,8 +52,8 @@ teaching number: W338</description>
       </item>
       <item>
         <title>Ezra 4-10</title>
-        <link>https://www.joncourson.com/playteaching/W339/teachingaudio</link>
-        <guid isPermaLink="false">joncourson-searchlight-W339</guid>
+        <link>https://www.joncourson.com/playteaching/W339</link>
+        <guid isPermaLink="false">75cf5fa5-e0a4-50aa-80f5-575b632f53b3</guid>
         <pubDate>Wed, 16 Apr 1986 08:00:00 GMT</pubDate>
         <description>series: Thru-The-Bible Studies 
 passage: Ezra 4-10 
