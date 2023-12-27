@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 53075625
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7202",
+         "guid": "72142e57-b9b7-57d7-8f5b-facf0415cebc"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 47909801
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7203",
+         "guid": "3bc53bb2-3f70-54eb-a7ff-fcf6cbcd10fa"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 48542512
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7204",
+         "guid": "8ce6d085-e9d4-51a9-890d-7f62b9e35260"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 59603985
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7205",
+         "guid": "213e0ce1-4a77-5f49-82f9-8201b995cae1"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 35287382
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S350",
+         "guid": "8af0d344-4dda-5c2a-8d45-29789ac2982d"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -119,7 +129,9 @@
                "bitrate": 113376,
                "filesize": 43966692
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W384",
+         "guid": "3fdb86c8-04ad-52a2-8320-cbb53ab06c62"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -139,7 +151,9 @@
                "bitrate": 113376,
                "filesize": 68106483
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W385",
+         "guid": "5bbb1af6-1b11-526b-96eb-0831096120b8"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -159,7 +173,9 @@
                "bitrate": 113376,
                "filesize": 29706461
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S351",
+         "guid": "0bb92635-116a-5f73-8dd1-3385027e1c58"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -179,7 +195,9 @@
                "bitrate": 113376,
                "filesize": 61323357
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W386",
+         "guid": "67d52474-58a4-51f7-817b-f718d0e29335"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -199,7 +217,9 @@
                "bitrate": 113376,
                "filesize": 37317322
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S352",
+         "guid": "4665f7f7-822a-532d-a4d1-ce1723d05fff"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -219,7 +239,12 @@
                "bitrate": 113376,
                "filesize": 65500575
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W387",
+         "guid": "767aa548-edcb-5ba5-ae56-2e0bd2b8c50b"
       }
+   ],
+   "books": [
+      "Ecclesiastes"
    ]
 }

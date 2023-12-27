@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 46887909
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7112",
+         "guid": "7e189c90-eb69-5c47-9543-4cf196ac4e81"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 54799969
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7113",
+         "guid": "5f0d7a3a-490e-53ea-8516-c762e79860d2"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 49465010
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7114",
+         "guid": "29609ca7-b3f0-588b-a48e-c17d581c1cbc"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 55609632
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7115",
+         "guid": "e4f4f764-a84f-5369-bf06-b0fff551b21d"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 58895870
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7116",
+         "guid": "bca35d84-512d-545c-bd89-a91c621ad164"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -119,7 +129,9 @@
                "bitrate": 113376,
                "filesize": 60521606
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7117",
+         "guid": "f8fa169a-bd04-5357-88db-6cce0ccaf554"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -139,7 +151,9 @@
                "bitrate": 113376,
                "filesize": 49761694
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7118",
+         "guid": "fc47f539-7ac3-54f2-a703-6dfc2f2662e7"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -159,7 +173,9 @@
                "bitrate": 113376,
                "filesize": 44186192
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7119",
+         "guid": "2f1bc387-54bc-5382-8c7e-fda7e5d73240"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -179,7 +195,9 @@
                "bitrate": 113376,
                "filesize": 52104202
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7120",
+         "guid": "87a1d7b3-aca5-5e22-bbd6-d6e421a00af6"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -199,7 +217,9 @@
                "bitrate": 113376,
                "filesize": 58789433
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W340",
+         "guid": "c94c1792-a1bf-58ee-8096-a8eb2d553c37"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -219,7 +239,9 @@
                "bitrate": 113376,
                "filesize": 58220600
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W341",
+         "guid": "059ad1a2-1b9f-5f6e-99ce-8dc473593006"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -239,7 +261,12 @@
                "bitrate": 113376,
                "filesize": 58421101
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W342",
+         "guid": "98f68e74-4d99-540a-b507-e3054b382217"
       }
+   ],
+   "books": [
+      "Nehemiah"
    ]
 }

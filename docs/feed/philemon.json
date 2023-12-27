@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 42186885
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W9139",
+         "guid": "e1255a29-9600-5e3a-b581-2eac05029749"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 44041905
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S649",
+         "guid": "e1a6441b-98ff-5cd0-a162-867ae405952e"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,12 @@
                "bitrate": 113376,
                "filesize": 55071546
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W718",
+         "guid": "f4e4d038-d494-52de-bc5e-0ce6a754b042"
       }
+   ],
+   "books": [
+      "Philemon"
    ]
 }

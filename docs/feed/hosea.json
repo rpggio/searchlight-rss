@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 51120628
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W446",
+         "guid": "00ea54a9-09fa-583b-9125-7d521f66bef9"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 54408853
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S412",
+         "guid": "74b3ca0d-c783-509e-9818-774a083acf21"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 53699912
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W447",
+         "guid": "36b55f49-4d8b-5e2e-9329-b8a2770d7c8e"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,12 @@
                "bitrate": 113376,
                "filesize": 54421445
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W448",
+         "guid": "1d0a14f1-dbd2-54f8-8c18-5251cc142023"
       }
+   ],
+   "books": [
+      "Hosea"
    ]
 }

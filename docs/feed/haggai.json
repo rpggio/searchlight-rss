@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 41252205
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S425",
+         "guid": "21a1a7f7-ee04-5986-b153-d03d3da86ca1"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 54408909
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W462",
+         "guid": "649e433c-4627-5044-9b55-26ef98d3f449"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 44837091
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T431",
+         "guid": "9fe20d94-5915-5ba7-8aee-53f4a574804e"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 45968165
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T430",
+         "guid": "71fda1a6-b196-5565-8807-06136a90cbd7"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -99,7 +107,12 @@
                "bitrate": 113376,
                "filesize": 51967854
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T429",
+         "guid": "bdaec0fc-d2f9-54b0-9004-5bb447b58d15"
       }
+   ],
+   "books": [
+      "Haggai"
    ]
 }

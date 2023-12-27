@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 52622269
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7109",
+         "guid": "f38689fc-bc79-5611-8fe3-1c56fec6e9f5"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 60355883
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7110",
+         "guid": "3c074418-854a-5b44-8215-4fe4e0da2c5f"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 67071895
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7111",
+         "guid": "0f11b554-23ee-5bb1-8a88-d35f396c3834"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 51738457
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W338",
+         "guid": "c5bd83f0-07f0-5b86-bae5-76e03436a855"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,12 @@
                "bitrate": 113376,
                "filesize": 65142674
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W339",
+         "guid": "75cf5fa5-e0a4-50aa-80f5-575b632f53b3"
       }
+   ],
+   "books": [
+      "Ezra"
    ]
 }

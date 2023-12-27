@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 48667781
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W9134",
+         "guid": "c6514b0c-b1e3-5dc9-8301-2404e3e15fa0"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 35364930
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S640",
+         "guid": "f353c908-7b56-54fc-bf81-47aa53c2667b"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 52639237
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W703",
+         "guid": "b70f5e53-e34a-56e6-9aad-65a3b757fc21"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 43416462
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S641",
+         "guid": "27e1a3bf-8aee-519b-bbb0-83813e60e9ff"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 51485522
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W704",
+         "guid": "1add2df0-ff5e-5b2c-8e76-12ab00926c7a"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -119,7 +129,9 @@
                "bitrate": 113376,
                "filesize": 55419782
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W705",
+         "guid": "cbccb1b6-62b7-5067-9777-63d3098ca714"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -139,7 +151,9 @@
                "bitrate": 113376,
                "filesize": 64616815
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S642",
+         "guid": "b5cd1775-fb27-5469-979b-cbaa0a37c737"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -159,7 +173,9 @@
                "bitrate": 113376,
                "filesize": 48089877
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W706",
+         "guid": "4d97082a-5384-589e-9c34-e7bfefd632a1"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -179,7 +195,9 @@
                "bitrate": 113376,
                "filesize": 50191878
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T443",
+         "guid": "06a31542-b066-56cb-8cca-7694c070e1c3"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -199,7 +217,9 @@
                "bitrate": 113376,
                "filesize": 72418358
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T363",
+         "guid": "77bc6b67-b9f4-556d-862c-f4407a7f1cc6"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -219,7 +239,12 @@
                "bitrate": 113376,
                "filesize": 48635869
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T262",
+         "guid": "ee20fd52-34ae-5952-aa1c-d47c1a819497"
       }
+   ],
+   "books": [
+      "2 Thessalonians"
    ]
 }

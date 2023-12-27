@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 46991599
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S413",
+         "guid": "5ff1f4db-973a-54ab-b388-b63abd3a2a09"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 55110732
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W449",
+         "guid": "cca6095a-8141-53e1-8fad-977f6cd33ce7"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,12 @@
                "bitrate": 113376,
                "filesize": 50482623
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W450",
+         "guid": "9ebf132c-5a32-5ad2-b114-f6f3b400fdaf"
       }
+   ],
+   "books": [
+      "Joel"
    ]
 }

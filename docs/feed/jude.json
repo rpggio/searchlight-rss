@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 44293472
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S686",
+         "guid": "432d0d19-3e48-5be9-9566-1725fafc47d5"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,12 @@
                "bitrate": 113376,
                "filesize": 63275662
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W757",
+         "guid": "45978d86-e58a-5e33-b565-345bd8529a82"
       }
+   ],
+   "books": [
+      "Jude"
    ]
 }

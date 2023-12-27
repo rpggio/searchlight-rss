@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 42111755
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S420",
+         "guid": "eecf4760-66bb-55fc-be33-bcc1c5d2a025"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 44954514
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W456",
+         "guid": "9cf256f8-df55-5fa4-8ada-25229d8cf8cf"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 57331331
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S421",
+         "guid": "1e6cf6d7-d75d-5149-b7b4-2193d3103f31"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 55337769
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W457",
+         "guid": "b79c3241-eb8e-553d-bc19-58b95af705a2"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 46275408
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S422",
+         "guid": "0aba3786-b71b-534a-916f-2ce36385e2ca"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -119,7 +129,9 @@
                "bitrate": 113376,
                "filesize": 28730869
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T157",
+         "guid": "10f738a0-59f9-5662-8ee9-895eef257265"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -139,7 +151,12 @@
                "bitrate": 113376,
                "filesize": 57980815
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T090",
+         "guid": "59909868-7f9d-5ff8-b2e3-648514c4e561"
       }
+   ],
+   "books": [
+      "Micah"
    ]
 }

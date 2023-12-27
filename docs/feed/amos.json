@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 42065733
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S414",
+         "guid": "fdb1f646-7ee3-5679-bb01-791ebaf4e00d"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 39588913
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S415",
+         "guid": "e524a334-f56d-5c96-8e20-9eb4c7d907e4"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 62112377
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W451",
+         "guid": "9d218907-fd41-5b63-81d4-bba4366a682f"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 55019464
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W452",
+         "guid": "3bd7f847-484f-576a-994a-4f2a4a705250"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 66376132
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S416",
+         "guid": "97391a0d-4dad-5475-8979-feb73bd8f9a2"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -119,7 +129,12 @@
                "bitrate": 113376,
                "filesize": 53092069
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W453",
+         "guid": "95fa679b-6256-5bf8-92e3-abfcb008b402"
       }
+   ],
+   "books": [
+      "Amos"
    ]
 }

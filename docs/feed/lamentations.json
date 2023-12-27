@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 60149108
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7269",
+         "guid": "848f94df-8cf9-5660-8b1f-053529b6be4c"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 40349083
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S389",
+         "guid": "b4bfffaa-dfd2-57dd-b54f-2df4776745d3"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 63310351
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W423",
+         "guid": "2f95c8c6-77c1-51a1-b7f0-1dd767fca333"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 49417305
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S390",
+         "guid": "033291b6-3ba1-57e1-b840-7407667827c9"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 58407118
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W424",
+         "guid": "25ba99b3-a278-5670-b8d8-f3158274486e"
       },
       {
          "series": "Miscellaneous Bible Studies",
@@ -119,7 +129,12 @@
                "bitrate": 113376,
                "filesize": 35080084
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/T206",
+         "guid": "6121688c-7733-5929-b910-8589ee47d0ed"
       }
+   ],
+   "books": [
+      "Lamentations"
    ]
 }

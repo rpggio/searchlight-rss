@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 52462907
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7121",
+         "guid": "28da32a3-da97-5048-8c54-88e8d2596cd2"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 48404576
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7122",
+         "guid": "bfc24439-05a1-5bae-b907-4a0cbaf62b03"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 57810213
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7123",
+         "guid": "3092ab8a-19d8-5461-8b9b-d14b74e2532c"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,12 @@
                "bitrate": 113376,
                "filesize": 63342606
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W343",
+         "guid": "a0fff05e-452d-502b-b7c0-94c58ee44a25"
       }
+   ],
+   "books": [
+      "Esther"
    ]
 }

@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 52165090
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S423",
+         "guid": "b08a5640-1311-5991-815f-cb5c464c57f6"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,12 @@
                "bitrate": 113376,
                "filesize": 66643523
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W459",
+         "guid": "466b525a-2026-5c52-9cbe-40c43c49d93e"
       }
+   ],
+   "books": [
+      "Habakkuk"
    ]
 }

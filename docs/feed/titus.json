@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 52658088
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S9050",
+         "guid": "6c2d2844-107f-55a3-bf98-e239d910e3a7"
       },
       {
          "series": "Latest Thru-The-Bible Studies - 9000 Series",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 58823356
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W9138",
+         "guid": "4a06ef20-2cb0-5f4f-b738-c07aa672fafd"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 61063727
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W716",
+         "guid": "bedcbebd-abb2-557f-84e2-2186de695b79"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 40942540
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S648",
+         "guid": "6c67d308-871c-5c13-a606-0a43a0f01f79"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,12 @@
                "bitrate": 113376,
                "filesize": 57444887
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W717",
+         "guid": "2ec4daae-1ee7-5d0b-a70e-30f0905c646e"
       }
+   ],
+   "books": [
+      "Titus"
    ]
 }

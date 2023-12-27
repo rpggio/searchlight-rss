@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 50632874
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W454",
+         "guid": "e4eb48ed-8cc3-5372-af97-825d6d152c1d"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 34235017
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S418",
+         "guid": "b90b723c-3ec4-504c-94ff-d1a7e702480c"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 47170915
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S419",
+         "guid": "0b367d8c-d638-5b2e-a8fd-eb91cb24909a"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,12 @@
                "bitrate": 113376,
                "filesize": 53486137
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W455",
+         "guid": "3481b645-e2b5-54ce-8608-166b0ad6a772"
       }
+   ],
+   "books": [
+      "Jonah"
    ]
 }

@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 27307873
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S433",
+         "guid": "f1026c34-0f50-59b3-bd66-e5bbb2bfb51a"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 55540938
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W469",
+         "guid": "01c6ac8a-d15d-51bc-9b7b-519f4399628a"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 37369210
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S434",
+         "guid": "39642316-9c46-5233-825a-f2c75ebe537f"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,12 @@
                "bitrate": 113376,
                "filesize": 61094248
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W470",
+         "guid": "204f2f54-0ef3-505a-bafc-591ba1e2fa3b"
       }
+   ],
+   "books": [
+      "Malachi"
    ]
 }

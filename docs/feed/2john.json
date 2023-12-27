@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 58304304
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S684",
+         "guid": "72d45303-f73f-5605-8d3f-d2d35747e45e"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,12 @@
                "bitrate": 113376,
                "filesize": 67811010
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W756",
+         "guid": "ecedb392-398a-5aba-88f7-c780f71c59a0"
       }
+   ],
+   "books": [
+      "2 John"
    ]
 }

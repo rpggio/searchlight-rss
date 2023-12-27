@@ -19,7 +19,9 @@
                "bitrate": 113376,
                "filesize": 41763309
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S3133",
+         "guid": "0e09a8dc-d87a-59fc-a43c-93763f6f6ec8"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -39,7 +41,9 @@
                "bitrate": 113376,
                "filesize": 46929665
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W3158",
+         "guid": "170cfbc3-28b7-52f5-a8a1-15791b65ac8d"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -59,7 +63,9 @@
                "bitrate": 113376,
                "filesize": 38569002
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S3134",
+         "guid": "69be1baf-7ff7-5190-9842-8041c5a9291f"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -79,7 +85,9 @@
                "bitrate": 113376,
                "filesize": 61686761
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W3159",
+         "guid": "9a3b5e45-d504-5081-86c6-185b33274d7c"
       },
       {
          "series": "Thru-The-Bible Studies",
@@ -99,7 +107,9 @@
                "bitrate": 113376,
                "filesize": 67783348
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W3160",
+         "guid": "be46c94c-6dad-5c44-bbb6-ce67478ffa1b"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -119,7 +129,9 @@
                "bitrate": 113376,
                "filesize": 37850367
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S7027",
+         "guid": "811177bd-6d94-5780-907e-9e3c5bef7609"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -139,7 +151,9 @@
                "bitrate": 113376,
                "filesize": 53994012
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/W7051",
+         "guid": "50f2b735-0566-5be2-aa6b-c03a042251b3"
       },
       {
          "series": "Thru-The-Bible Studies - 7000 Series",
@@ -159,7 +173,12 @@
                "bitrate": 113376,
                "filesize": 65535607
             }
-         }
+         },
+         "link": "https://www.joncourson.com/playteaching/S7028",
+         "guid": "4916dd0b-0008-5dea-b000-75da2970971e"
       }
+   ],
+   "books": [
+      "Ruth"
    ]
 }
